@@ -1,0 +1,35 @@
+# Liens « Pour aller plus loin » des lieux du village et du Haut-Razès (build/articles/20-lieux-razes.txt).
+eglise-sainte-marie-madeleine: url https://pop.culture.gouv.fr/notice/merimee/PA00132609 = Notice Mérimée de l'église (monuments historiques) | url https://portail-rennes-le-chateau.com/ = Gazette de Rennes-le-Château : l'actualité de l'église
+presbytere: -
+cimetiere: url https://www.rennes-le-chateau-doc.fr/Villes%20Villages/ville%20rennes%20le%20chateau/images1/Les_pierres_du_cimetiere.pdf = RLCdoc : les pierres du cimetière | url https://www.rennes-le-chateau-doc.fr/Villes%20Villages/ville%20rennes%20le%20chateau/images1/Plainte_Sarda_travaux_cimetiere_1899.pdf = RLCdoc : la plainte de Jean Sarda (1899)
+tombe-de-sauniere: url https://renneslechateau.nl/man/tomb-of-berenger-sauniere = renneslechateau.nl : la tombe de Bérenger Saunière (en anglais)
+villa-bethanie: -
+tour-magdala: url https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/4758/0000/Archaeological-GPR-investigation-at-Rennes-le-Chateau-France/10.1117/12.462201.full = L'étude de géoradar (SPIE, 2002, en anglais)
+belvedere-et-orangerie: -
+jardin-du-calvaire: -
+chateau-des-hautpoul: -
+rennes-le-chateau: wp Rennes-le-Château | en Rennes-le-Château
+couiza: -
+montazels: -
+esperaza: -
+coustaussa: wp Coustaussa | url https://www.rennes-le-chateau-doc.fr/pressetmagazines/ExpressduMidi/Images/Express_du_Midi_Gelis_1897.pdf = RLCdoc : l'affaire Gélis dans L'Express du Midi (1897)
+rennes-les-bains: wp Henri Boudet
+sources-de-rennes-les-bains: -
+fauteuil-du-diable: -
+cromleck-de-rennes-les-bains: ia abbeboudetlavraielangueceltique = Boudet, La Vraie Langue celtique (1886), numérisé | url https://www.renneslechateau.info/wp-content/uploads/pdf/Bulletin_de_la_Societe_etudes_scientifiques_de_Aude_1893.pdf = Bulletin de la SESA, 1893 : la critique de Jourdanne
+chateau-de-blanchefort: wp Bertrand de Blanquefort = Wikipédia : Bertrand de Blanquefort, à ne pas confondre
+pech-cardou: -
+tombeau-des-pontils: url https://renneslechateau.nl/explore/pontils-tomb = renneslechateau.nl : le tombeau des Pontils (en anglais) | wp Les Bergers d'Arcadie
+arques: -
+serres: -
+peyrolles: -
+chateau-du-bezu: -
+bugarach: -
+fontaine-salee: -
+alet-les-bains: -
+notre-dame-de-marceille: -
+quillan: -
+campagne-sur-aude: -
+antugnac: -
+axat: -
+luc-sur-aude: -

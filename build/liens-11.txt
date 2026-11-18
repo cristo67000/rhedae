@@ -1,0 +1,22 @@
+# Liens « Pour aller plus loin » des fiches de build/articles/11-personnages-histoire.txt.
+alaric: -
+dagobert-ii: wp Dagobert II
+sigebert-iv: wp Dossiers secrets d'Henri Lobineau
+blanche-de-castille: -
+marie-madeleine: -
+comte-de-chambord: -
+nicolas-fouquet: -
+jean-salvator-de-habsbourg: -
+guillaume-de-gellone: wp Comté de Razès
+nicolas-poussin: wp Les Bergers d'Arcadie
+david-teniers: -
+emma-calve: wp Emma Calvé
+jules-bois: -
+maurice-leblanc: url https://portail-rennes-le-chateau.com/ = Gazette de Rennes-le-Château
+jules-verne: -
+clovis-lassalle: -
+jules-doinel: -
+eugene-stublein: url https://www.rennes-le-chateau-doc.fr/elements_insolites/images/A_propos_de_pierres_gravees_du_Languedoc.pdf = RLCdoc : à propos de « Pierres gravées du Languedoc »
+otto-rahn: wp Otto Rahn
+francois-mitterrand: -
+roger-patrice-pelat: wp Roger-Patrice Pelat | wp Prieuré de Sion

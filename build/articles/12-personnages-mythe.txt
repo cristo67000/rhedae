@@ -1,0 +1,489 @@
+# Ceux qui ont fait le mythe, ceux qui l'ont prolongé, ceux qui l'ont démonté :
+# les fabricants (1955-2003), les auteurs et chercheurs de trésor, les historiens et enquêteurs.
+# Vingt-huit fiches. Pour les vivants et les morts récents, on s'en tient aux livres, aux thèses,
+# aux actes publics. Quand l'année de naissance n'est pas connue, « an » est l'année du premier
+# livre ou du premier acte daté : elle ne sert qu'à ranger.
+
+@ noel-corbu
+cat: personnages
+groupe: inventeurs
+nom: Noël Corbu
+alias: Corbu, hôtel de la Tour, l'hôtelier de Rennes-le-Château
+dates: 1912 – 1968
+an: 1912
+role: Légataire de Marie Dénarnaud, hôtelier dans le domaine de Saunière, premier narrateur du trésor
+def: Fabricant de pâtes devenu hôtelier dans la villa de l'abbé Saunière, il compose en 1955 le récit du « curé aux milliards », que la presse publie en janvier 1956 : c'est de lui que vient le trésor.
+texte: Noël Corbu naît à Paris le 27 avril 1912 et passe son enfance au Maroc. Marié à Perpignan en 1935, fabricant de pâtes alimentaires, il publie en 1943 un roman policier, *Le Mort cambrioleur* : l'homme qui lancera l'affaire est aussi un romancier. Pendant l'Occupation, il met ses enfants à l'abri à Bugarach. C'est là que l'instituteur lui apprend que [[marie-denarnaud|Marie Dénarnaud]], l'ancienne servante de l'abbé [[berenger-sauniere|Saunière]], cherche un repreneur pour son domaine de [[rennes-le-chateau|Rennes-le-Château]].
+texte: Elle hésite deux ans. Le 22 juillet 1946, par testament, elle institue Noël Corbu et sa femme Henriette légataires universels, à charge pour eux de l'entretenir : c'est un legs, non une vente. Après un séjour au Maroc en 1950, où un projet de raffinerie de sucre échoue, la famille s'installe pour de bon à la [[villa-bethanie|villa Béthanie]]. Marie meurt le 29 janvier 1953. Corbu hérite du domaine et des papiers du curé.
+texte: À Pâques 1955, il ouvre dans la villa et sous le belvédère l'hôtel-restaurant de la Tour. Pour y attirer du monde, il compose un [[recit-de-noel-corbu|récit de quelques pages]], l'enregistre sur bande et le fait entendre à ses clients. Les 12, 13 et 14 janvier 1956, Albert Salamon en tire [[articles-de-la-depeche|trois articles]] dans *La Dépêche du Midi* : le « curé aux milliards » est né. Saunière aurait trouvé en 1892 des parchemins dans un pilier de l'autel, puis le [[tresor-de-blanche-de-castille|trésor de Blanche de Castille]], dix-huit millions et demi de pièces d'or. Corbu parle aussi d'un devis de huit millions de francs que le curé aurait signé le 5 janvier 1917, et rapporte les mots de Marie sur l'or que les gens d'ici fouleraient sans le savoir. Aucune pièce n'appuie le devis ; les mots ne sont connus que par lui. Du voyage à Paris, il dit lui-même n'avoir « aucune confirmation ». Voir [[naissance-du-mythe|1956 : le curé aux milliards]].
+texte: Il fait vivre l'histoire. À l'automne 1956, il fouille lui-même ; en 1958, il reçoit [[robert-charroux|Robert Charroux]] et son club, détecteur en main ; au printemps 1961, il tient le rôle de l'abbé dans une émission de télévision, *La roue tourne*. Le récit, lui, change. En 1962, Corbu laisse tomber la reine Blanche ; en juillet, au micro de France Inter, il accuse le curé d'avoir effacé l'épitaphe de la [[stele-de-la-marquise|marquise de Blanchefort]] — or la pierre était encore lisible en 1905. Le 14 juin de cette année-là, une transcription de son texte est déposée aux Archives de l'Aude.
+texte: En 1964-1965, il vend le domaine à [[henri-buthion|Henri Buthion]] et s'installe à Saint-Félix-Lauragais. Il meurt le 20 mai 1968 dans un accident de voiture et repose au cimetière de Rennes. D'autres se sont déjà emparés de son histoire : Charroux en 1962, dans *[[tresors-du-monde|Trésors du monde]]*, puis [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]], qui mettent une dynastie à la place de son trésor royal.
+texte: Pour [[rene-descadeillas|René Descadeillas]] et pour ceux qui ont repris l'enquête après lui, Corbu est la source unique du trésor. Avant 1956, le village gardait le souvenir d'un curé quêteur et bâtisseur : c'est ce que décrit encore un journaliste belge en 1948, sans y voir de mystère. Une rumeur existait pourtant — un guide de l'Aude la note en passant dès 1936 — et le pays racontait depuis 1832 la légende du [[tresor-du-diable-de-blanchefort|trésor de Blanchefort]], dix-neuf millions et demi gardés par le diable. Corbu lui a donné un récit, un chiffre et un public. Sa fille Claire et son gendre [[corbu-et-captier|Antoine Captier]] publieront, eux, les papiers de l'abbé.
+repere: 27 avril 1912 — Naissance à Paris.
+repere: 1943 — Il publie à Perpignan un roman policier, *Le Mort cambrioleur*.
+repere: 22 juillet 1946 — Marie Dénarnaud teste en faveur des époux Corbu.
+repere: 29 janvier 1953 — Mort de Marie Dénarnaud ; il hérite du domaine et des papiers de Saunière.
+repere: Pâques 1955 — Ouverture de l'hôtel-restaurant de la Tour.
+repere: 12 janvier 1956 — Premier des trois articles de *La Dépêche du Midi*.
+repere: 1958 — Recherches au détecteur avec Robert Charroux et son club.
+repere: avril 1961 — Il joue l'abbé Saunière à la télévision, dans *La roue tourne*.
+repere: 14 juin 1962 — Une transcription de son récit est déposée aux Archives de l'Aude.
+repere: 1965 — Le domaine est passé à Henri Buthion.
+repere: 20 mai 1968 — Mort dans un accident de voiture.
+oeuvres: Le Mort cambrioleur (Perpignan, 1943 ; réédité en 2005)
+voir: marie-denarnaud, recit-de-noel-corbu, articles-de-la-depeche, naissance-du-mythe, tresor-de-blanche-de-castille, robert-charroux, henri-buthion, corbu-et-captier, villa-bethanie, rene-descadeillas
+
+@ pierre-plantard
+cat: personnages
+groupe: inventeurs
+nom: Pierre Plantard
+alias: Pierre Plantard de Saint-Clair, Plantard de Saint-Clair, Chyren, capitaine Way
+dates: 1920 – 2000
+an: 1920
+role: Fondateur du Prieuré de Sion en 1956, auteur des généalogies et des plaquettes déposées à la Bibliothèque nationale de 1964 à 1967
+def: Fondateur en 1956 d'une association nommée Prieuré de Sion, il greffe sur l'histoire de Saunière une dynastie mérovingienne dont il se dit l'héritier, puis reconnaît en 1993, devant un juge, avoir tout inventé.
+texte: Pierre Plantard naît à Paris le 18 mars 1920. Rien ne le rattache au Razès. Dès 1937, il fonde un groupuscule, l'Union française, puis en 1941 la Rénovation nationale française, tous deux antisémites et antimaçonniques ; une lettre à Pétain, que les pièces de police datent du 16 décembre 1940, dénonce un complot « maçonnique et juif ». En 1942, il crée Alpha Galates, pseudo-ordre de chevalerie pétainiste, et son bulletin, *Vaincre*, qui a six numéros. Un rapport de police de 1943 le traite d'« illuminé » ; un autre, le 13 février 1945, prête à Alpha Galates cinquante membres au plus.
+texte: Installé en 1951 à [[annemasse|Annemasse]], où il est dessinateur, il est condamné en décembre 1953 à six mois de prison pour abus de confiance : une lettre du maire de la ville en fait état en 1956. Cette année-là, le 25 juin, il déclare avec trois amis, à la sous-préfecture de Saint-Julien-en-Genevois, une association dont il est le secrétaire général : le [[prieure-de-sion|Prieuré de Sion]]. Les [[statuts-de-1956|statuts]] parlent de chevalerie catholique ; le bulletin, *Circuit*, défend les locataires des HLM d'Annemasse. Le nom vient d'une colline voisine, le mont Sion. L'association cesse de vivre avant la fin de l'année. Elle n'a alors aucun rapport avec Rennes-le-Château.
+texte: À Paris, en 1958, il se pose en animateur d'un « comité de salut public » sous le nom de « capitaine Way », puis se dit voyant sous celui de « Chyren ». Un article de Louis Saurel sur [[dagobert-ii|Dagobert II]], paru en 1960 dans *Les Cahiers de l'histoire*, lui fournit la matière d'une généalogie : le roi assassiné aurait eu un fils, [[sigebert-iv|Sigebert IV]], réfugié à Rhedae, et ce fils une postérité qui mènerait jusqu'à lui. C'est la [[descendance-merovingienne|survivance mérovingienne]]. La même année, il écrit à [[gerard-de-sede|Gérard de Sède]], qui vient de publier un article sur [[gisors|Gisors]], et collabore à son livre de 1962, où le nom du Prieuré reparaît.
+texte: [[rene-descadeillas|Descadeillas]] le signale à [[rennes-les-bains|Rennes-les-Bains]] dès la fin des années cinquante, auprès du vieil abbé [[joseph-courtauly|Courtauly]] ; l'association RLCdoc observe qu'aucune pièce ne le montre occupé de l'affaire avant le livre de [[robert-charroux|Charroux]], en avril 1962. Le 18 janvier 1964, il fait à la Bibliothèque nationale le premier d'une série de dépôts : des plaquettes dactylographiées, signées de noms d'emprunt, qui se citent l'une l'autre — généalogies, relevés de pierres tombales, puis, en 1967, les *[[dossiers-secrets|Dossiers secrets]]* et leur liste de grands maîtres. [[philippe-de-cherisey|Philippe de Chérisey]] fabrique les [[parchemins|parchemins]]. De Sède met le tout en récit : *[[l-or-de-rennes|L'Or de Rennes]]* paraît en 1967, d'après un manuscrit de Plantard. Les deux hommes se brouillent. Voir [[atelier-des-faux|l'atelier des faux]].
+texte: En 1975, il commence à signer « Plantard de Saint-Clair ». En 1978, il préface la réédition du livre de l'abbé [[henri-boudet|Boudet]] et y affirme, sans produire de pièce, que le curé de Rennes-les-Bains finançait Saunière : voir [[boudet-maitre-du-jeu|Boudet, le maître du jeu]]. Il reçoit [[henry-lincoln|Henry Lincoln]] et ses coauteurs ; mais quand *[[l-enigme-sacree|L'Énigme sacrée]]* fait de sa lignée celle du Christ, il s'y refuse : le 18 février 1982, sur France Inter, il déclare n'avoir jamais prétendu descendre de Jésus. En 1984, il annonce sa démission de grand maître.
+texte: Il revient en 1989, renie les *Dossiers secrets*, qu'il attribue à Chérisey, et produit une seconde liste de grands maîtres, qui commence en 1681 à Rennes-le-Château. Il y inscrit [[roger-patrice-pelat|Roger-Patrice Pelat]], ami du président Mitterrand, mort le 7 mars 1989 en pleine affaire Pechiney-Triangle. Ce nom le perd. À l'automne 1993, le juge Thierry Jean-Pierre, qui instruit le volet Pelat de l'affaire, fait perquisitionner chez lui ; on y trouve des liasses de faux qui le proclament « vrai roi de France ». Entendu sous serment, Plantard reconnaît avoir tout inventé, y compris le rôle de Pelat. Il se retire dans le Midi et meurt le 3 février 2000 ; sa mort n'est rendue publique qu'en juin. Voir [[aveux|les aveux]] et [[prieure-a-l-elysee|le prieuré à l'Élysée]].
+repere: 18 mars 1920 — Naissance à Paris.
+repere: 1942 — Il fonde Alpha Galates et son bulletin, *Vaincre*.
+repere: décembre 1953 — Condamné à six mois de prison pour abus de confiance.
+repere: 25 juin 1956 — Déclaration du Prieuré de Sion à la sous-préfecture de Saint-Julien-en-Genevois.
+repere: 1962 — Il collabore aux *Templiers sont parmi nous*, de Gérard de Sède.
+repere: 18 janvier 1964 — Premier dépôt à la Bibliothèque nationale, sous le nom d'Henri Lobineau.
+repere: 1967 — Dépôt des *Dossiers secrets* ; parution de *L'Or de Rennes*.
+repere: 1978 — Il préface la réédition de *La Vraie Langue celtique*.
+repere: 18 février 1982 — Sur France Inter, il récuse la thèse d'une descendance du Christ.
+repere: 1989 — Il renie les *Dossiers secrets* et inscrit Pelat parmi les grands maîtres.
+repere: 1993 — Devant le juge Thierry Jean-Pierre, il reconnaît avoir tout inventé.
+repere: 3 février 2000 — Mort.
+attention: Le Prieuré de Sion de 1956 est une association de la loi de 1901, éteinte en quelques mois. L'ordre « fondé en 1099 » n'apparaît que dans les textes que Plantard dépose ou inspire à partir des années 1960.
+voir: prieure-de-sion, statuts-de-1956, descendance-merovingienne, atelier-des-faux, dossiers-secrets, philippe-de-cherisey, gerard-de-sede, aveux, prieure-a-l-elysee, annemasse
+
+@ philippe-de-cherisey
+cat: personnages
+groupe: inventeurs
+nom: Philippe de Chérisey
+alias: marquis de Chérisey, Amédée, Philippe de Cherisey
+dates: 1923 – 1985
+an: 1923
+role: Comédien et homme de radio, auteur matériel des deux « parchemins de Saunière »
+def: Comédien connu sous le nom d'Amédée, ami de Pierre Plantard, il fabrique dans les années 1960 les deux parchemins publiés en 1967 dans *L'Or de Rennes*, et le reconnaît par écrit à partir de 1974.
+texte: Philippe de Chérisey naît à Paris le 13 février 1923, dans une vieille famille lorraine dont il porte le titre de marquis. Il passe par le cours Simon en 1946 et devient comédien sous le nom d'Amédée : on le voit en 1952 dans *Jeux interdits*, de René Clément, puis dans *Le Plaisir*, d'Ophüls, et dans *Ce sacré Amédée* en 1955. À la radio, il forme à partir de 1953, avec Roland Dubillard, le duo « Grégoire et Amédée », sur Paris Inter.
+texte: Il rencontre [[pierre-plantard|Pierre Plantard]] au début des années 1960. Une lettre du 2 avril 1965 le montre quatre jours dans les Pyrénées avec lui, « pour voir si on peut s'approcher de Marie-Madeleine ». Plantard a une généalogie à faire valoir ; il lui manque des pièces anciennes. Chérisey les lui fournit : les deux [[parchemins|parchemins]] que l'abbé Saunière est censé avoir trouvés dans son église, des passages d'Évangile en lettres onciales où se cachent des messages en français. Leur existence est annoncée dès janvier 1964 dans le titre de la première plaquette déposée à la Bibliothèque nationale ; ils sont reproduits pour la première fois en 1967, dans *[[l-or-de-rennes|L'Or de Rennes]]* de [[gerard-de-sede|Gérard de Sède]].
+texte: Il l'a dit lui-même, plusieurs fois. Le 29 janvier 1974, il écrit à [[pierre-jarnac|Pierre Jarnac]] que les manuscrits ont été « composés en 1965 ». Il le répète en 1975 dans *L'Or de Rennes pour un Napoléon*, puis dans *L'Énigme de Rennes*, déposée le 6 juin 1978, où il assure les avoir d'abord destinés à un feuilleton radiophonique de Francis Blanche, *Signé Furax*. Un dernier texte, *Pierre et papier*, publié après sa mort par [[jean-luc-chaumeil|Jean-Luc Chaumeil]], détaille le chiffre : un alphabet de vingt-cinq lettres, sans W, et la marche du cavalier sur l'échiquier. Sur la date, ses versions varient — 1961 dans un texte, 1965 dans la lettre —, et Plantard parlera à [[henry-lincoln|Henry Lincoln]] des années cinquante. La fabrication se place entre 1961 et 1965 ; l'année exacte n'est pas établie.
+texte: Ses aveux comportent une erreur, que la critique a relevée. Chérisey dit avoir pris l'écriture du petit parchemin dans le dictionnaire d'archéologie chrétienne de dom Cabrol. Le modèle, identifié en 2003, est ailleurs : c'est une page du Codex Bezae, manuscrit du Ve siècle, reproduite en 1895 dans le *Dictionnaire de la Bible* de l'abbé Vigouroux. Le grand parchemin suit, selon [[putnam-et-wood|Putnam et Wood]], une édition de la Vulgate publiée à Oxford à partir de 1889. Et son message caché est l'anagramme exacte de l'épitaphe de la [[stele-de-la-marquise|marquise de Blanchefort]] telle que le [[bulletin-de-la-sesa-1906|bulletin de la Société d'études scientifiques de l'Aude]] l'a imprimée en 1906, fautes de relevé comprises. Deux livres modernes et un bulletin : rien de cela ne peut dater du XVIIIe siècle.
+texte: Chérisey continue d'écrire autour du Prieuré : *Circuit*, texte parodique daté de 1968 et déposé en 1971, une *Lettre ouverte à M. Laurent Dailliez* en 1980, *Court-circuit* en 1983. La critique lui attribue aussi, avec Plantard, *[[le-serpent-rouge|Le Serpent rouge]]* ; et quand Plantard renie en 1989 les *[[dossiers-secrets|Dossiers secrets]]*, c'est à lui qu'il les impute. Les deux hommes s'étaient brouillés vers 1983-1985. Chérisey meurt à Paris le 17 juillet 1985. Les feuilles de sa main et plus de cent lettres échangées avec Plantard et de Sède sont entre les mains de Chaumeil.
+texte: Ceux qui tiennent aux parchemins ont une réponse : Chérisey n'aurait fait que recopier, en les altérant, des originaux disparus. Plantard lui-même l'a soutenu après coup. Mais les lettres produites à l'appui viennent des *Dossiers secrets* et sont des faux reconnus, et personne n'a jamais vu de parchemin : il n'existe que des photographies de feuilles de papier. Voir [[aveux|les aveux]] et [[atelier-des-faux|l'atelier des faux]].
+repere: 13 février 1923 — Naissance à Paris.
+repere: 1952 — Sous le nom d'Amédée, il joue dans *Jeux interdits*.
+repere: 1953 — Début du duo « Grégoire et Amédée », avec Roland Dubillard, à la radio.
+repere: 2 avril 1965 — Une lettre le montre dans les Pyrénées avec Pierre Plantard.
+repere: 1967 — Les deux parchemins sont reproduits dans *L'Or de Rennes*.
+repere: 29 janvier 1974 — Lettre à Pierre Jarnac : il se dit l'auteur des parchemins.
+repere: 6 juin 1978 — Dépôt de *L'Énigme de Rennes*, où il raconte leur fabrication.
+repere: 17 juillet 1985 — Mort à Paris.
+oeuvres: Circuit (daté de 1968, déposé en 1971) ; L'Or de Rennes pour un Napoléon (1975) ; L'Énigme de Rennes (1978) ; Lettre ouverte à M. Laurent Dailliez (1980) ; Court-circuit (avec Paul Rouelle, Liège, 1983) ; L'Affaire Jean-Luc Chaumeil (1984) ; Pierre et papier (posthume)
+voir: parchemins, pierre-plantard, gerard-de-sede, aveux, atelier-des-faux, pierre-jarnac, jean-luc-chaumeil, stele-de-la-marquise, le-serpent-rouge, l-or-de-rennes
+
+@ gerard-de-sede
+cat: personnages
+groupe: inventeurs
+nom: Gérard de Sède
+alias: Géraud-Marie de Sède de Liéoux, de Sède, Gérard de Sede
+dates: 1921 – 2004
+an: 1921
+role: Journaliste et écrivain, auteur de *L'Or de Rennes* (1967), le livre qui fixe la légende
+def: Journaliste venu du surréalisme, il donne en 1967, avec *L'Or de Rennes*, sa forme durable à la légende de Saunière d'après un manuscrit de Pierre Plantard, puis dénonce en 1988 le Prieuré de Sion comme une imposture.
+texte: Gérard de Sède naît à Paris le 5 juin 1921, d'une famille noble du Comminges. Sous l'Occupation, il appartient au groupe surréaliste La Main à plume, publie *L'Incendie habitable* en 1942 et combat dans la Résistance. Il étudie la philosophie, séjourne dans la Yougoslavie de Tito, devient journaliste, puis éleveur de porcs en Normandie. C'est là qu'il emploie Roger Lhomoy, ancien gardien du château de [[gisors|Gisors]], qui dit y avoir vu une crypte pleine de coffres.
+texte: De Sède en tire un article, puis un livre : *Les Templiers sont parmi nous, ou l'énigme de Gisors*, chez Julliard, en avril 1962. Entre les deux, [[pierre-plantard|Pierre Plantard]] lui a écrit ; il fournit au livre des plans et un appendice. Les fouilles que le ministre André Malraux fait ouvrir à Gisors en 1964 ne trouvent rien. Mais les deux hommes ont désormais une manière — un lieu, un secret, des documents qu'apporte l'informateur — et ils vont la transporter dans l'Aude.
+texte: De Sède dit avoir découvert Rennes en août 1962, alerté par Pierre Pons, de *La Dépêche du Midi* ; [[rene-descadeillas|Descadeillas]] ne le voit paraître dans le pays qu'en 1965. *[[l-or-de-rennes|L'Or de Rennes]]* sort chez Julliard en 1967 et, l'année suivante, en poche, sous le titre *Le Trésor maudit de Rennes-le-Château*. Le manuscrit de base vient de Plantard ; de Sède le récrit, et les deux hommes se partagent les droits avant de se brouiller. Le livre reproduit pour la première fois les [[parchemins|parchemins]] fabriqués par [[philippe-de-cherisey|Philippe de Chérisey]]. Il fixe surtout le récit que tout le monde répétera : le voyage à [[saint-sulpice|Saint-Sulpice]], le jeune [[emile-hoffet|Hoffet]], [[emma-calve|Emma Calvé]], le tableau de [[nicolas-poussin|Poussin]], le meurtre de l'abbé [[antoine-gelis|Gélis]] rattaché à l'affaire, l'abbé [[henri-boudet|Boudet]] dans la coulisse, le diable du bénitier baptisé [[asmodee|Asmodée]]. Aucun de ces éléments ne figure dans les papiers de Saunière.
+texte: En 1974, Descadeillas publie *[[mythologie-du-tresor-de-rennes|Mythologie du trésor de Rennes]]*. De Sède réplique l'année suivante par *Le Vrai Dossier de l'énigme de Rennes*, puis refond son livre en 1977 sous le titre *Signé : Rose+Croix*. C'est en lisant le poche qu'[[henry-lincoln|Henry Lincoln]] est entré dans l'affaire ; il raconte que de Sède lui a dit avoir tu le message caché du petit parchemin pour laisser à un lecteur le plaisir de le trouver.
+texte: En 1988, il se retourne. *Rennes-le-Château : le dossier, les impostures, les phantasmes, les hypothèses*, chez Robert Laffont, démolit le [[prieure-de-sion|Prieuré de Sion]] et les faux de Plantard. Il ne renonce pas pour autant à l'idée d'un secret : sa thèse est désormais celle d'un argent venu des [[jean-salvator-de-habsbourg|Habsbourg]], qu'aucune pièce n'appuie. Voir [[reseau-royaliste|l'argent des royalistes]].
+texte: Il meurt dans la nuit du 29 au 30 mai 2004 à Désertines, dans l'Allier, et il est inhumé à Liéoux. Le 3 février 2005, son fils Arnaud déclare à la télévision britannique que son père et Plantard avaient inventé le Prieuré de toutes pièces. Les lettres échangées entre Plantard, Chérisey et de Sède, que détient [[jean-luc-chaumeil|Jean-Luc Chaumeil]], décrivent le montage. Voir [[atelier-des-faux|l'atelier des faux]].
+repere: 5 juin 1921 — Naissance à Paris.
+repere: 1942 — *L'Incendie habitable*, au sein du groupe surréaliste La Main à plume.
+repere: avril 1962 — *Les Templiers sont parmi nous*, avec un appendice de Pierre Plantard.
+repere: août 1962 — Première enquête à Rennes-le-Château, selon ses dires.
+repere: 1964 — Fouilles officielles à Gisors, sans résultat.
+repere: 1967 — *L'Or de Rennes*, chez Julliard.
+repere: 1968 — Édition de poche, sous le titre *Le Trésor maudit de Rennes-le-Château*.
+repere: 1975 — *Le Vrai Dossier de l'énigme de Rennes*, réponse à René Descadeillas.
+repere: 1977 — *Signé : Rose+Croix*, refonte de *L'Or de Rennes*.
+repere: 1988 — *Rennes-le-Château : le dossier, les impostures, les phantasmes, les hypothèses*.
+repere: 30 mai 2004 — Mort à Désertines (Allier).
+oeuvres: Les Templiers sont parmi nous, ou l'énigme de Gisors (Julliard, 1962) ; Le Trésor cathare (1966) ; L'Or de Rennes (Julliard, 1967 ; J'ai lu, 1968, sous le titre Le Trésor maudit de Rennes-le-Château) ; La Race fabuleuse (1973) ; Le Secret des cathares (1974) ; Le Vrai Dossier de l'énigme de Rennes (1975) ; Signé : Rose+Croix (Plon, 1977) ; Rennes-le-Château : le dossier, les impostures, les phantasmes, les hypothèses (Robert Laffont, 1988)
+voir: l-or-de-rennes, pierre-plantard, philippe-de-cherisey, gisors, parchemins, atelier-des-faux, rene-descadeillas, henry-lincoln, noel-corbu, realisme-fantastique
+
+@ robert-charroux
+cat: personnages
+groupe: inventeurs
+nom: Robert Charroux
+alias: Robert Grugeau, Charroux, Club international des chercheurs de trésors
+dates: 1909 – 1978
+an: 1909
+role: Journaliste et écrivain, fondateur du Club international des chercheurs de trésors
+def: Fondateur d'un club de chercheurs de trésors, il vient à Rennes-le-Château en 1958 avec un détecteur et donne en 1962, dans *Trésors du monde*, sa première diffusion nationale au récit de Noël Corbu.
+texte: Robert Charroux est le nom de plume de Robert Grugeau, né à Payroux le 7 avril 1909 et mort à Charroux le 24 juin 1978. Employé des PTT, puis journaliste, il fonde le Club international des chercheurs de trésors — en 1951 ou en 1956, les notices divergent. Les détecteurs de métaux sortent alors des surplus militaires, et la chasse au trésor devient un loisir et un sujet de presse : voir [[chasseurs-de-tresors|la France des chasseurs de trésors]].
+texte: En 1958, il monte à Rennes avec son club et un détecteur. [[noel-corbu|Noël Corbu]], qui tient l'hôtel de la Tour, l'accueille et cherche avec lui. Le 18 octobre, *Le Limouxin* relate une mise en scène publicitaire ; on ne trouve rien. En avril 1962, Charroux consacre quelques pages au curé dans *[[tresors-du-monde|Trésors du monde enterrés, emmurés, engloutis]]*, chez Fayard. C'est la version de Corbu, devis de huit millions compris, et sa première diffusion en librairie dans toute la France. En juillet, il enregistre au village une émission pour France Inter, où Corbu modifie déjà son [[recit-de-noel-corbu|récit]].
+texte: Ces quelques pages comptent plus que leur longueur. L'association RLCdoc observe que rien ne permet d'affirmer que [[pierre-plantard|Pierre Plantard]], [[philippe-de-cherisey|Philippe de Chérisey]] ou [[gerard-de-sede|Gérard de Sède]] se soient occupés de Rennes avant leur parution. L'une des plaquettes déposées ensuite à la Bibliothèque nationale, signée « Antoine l'Ermite » en mai 1966, n'est qu'un démarquage de son chapitre. Voir [[atelier-des-faux|l'atelier des faux]].
+texte: Dès 1963, avec *Histoire inconnue des hommes depuis cent mille ans*, Charroux passe à l'archéologie fantastique, dans le sillage du *Matin des magiciens*. C'est le [[realisme-fantastique|réalisme fantastique]], dont les collections de poche porteront bientôt l'histoire de Saunière à des centaines de milliers de lecteurs.
+repere: 7 avril 1909 — Naissance à Payroux.
+repere: 1958 — Recherches au détecteur à Rennes-le-Château, avec Noël Corbu.
+repere: avril 1962 — *Trésors du monde*, chez Fayard.
+repere: 30 juillet 1962 — France Inter diffuse l'émission enregistrée au village.
+repere: 24 juin 1978 — Mort à Charroux.
+oeuvres: Trésors du monde enterrés, emmurés, engloutis (Fayard, 1962) ; Histoire inconnue des hommes depuis cent mille ans (1963)
+voir: noel-corbu, tresors-du-monde, chasseurs-de-tresors, recit-de-noel-corbu, realisme-fantastique, fouilles, atelier-des-faux, gerard-de-sede
+
+@ henry-lincoln
+cat: personnages
+groupe: inventeurs
+nom: Henry Lincoln
+alias: Henry Soskin, Lincoln
+dates: 1930 – 2022
+an: 1930
+role: Scénariste britannique, auteur des films de la BBC sur Rennes-le-Château, coauteur de *L'Énigme sacrée*
+def: Scénariste de télévision, il fait passer l'affaire en Angleterre par trois films de la BBC (1972, 1974, 1979), cosigne en 1982 *L'Énigme sacrée*, puis se consacre à la géométrie du paysage.
+texte: Henry Soskin, dit Henry Lincoln, naît à Londres le 12 février 1930. Acteur, puis scénariste — il écrit pour la série *Doctor Who* en 1967 et 1968 —, il lit en 1969, pendant des vacances dans les Cévennes, un livre de poche : *Le Trésor maudit de Rennes-le-Château*, l'édition J'ai lu de *[[l-or-de-rennes|L'Or de Rennes]]*. Il raconte y avoir repéré seul, dans la reproduction du petit [[parchemins|parchemin]], les lettres surélevées qui forment un message en français. [[gerard-de-sede|Gérard de Sède]] lui aurait répondu qu'il l'avait tu pour laisser ce plaisir à un lecteur. Le récit n'a d'autre garant que Lincoln ; un auteur de l'association RLCdoc suppose que de Sède lui a simplement donné la solution.
+texte: Il en fait de la télévision. Pour la série *Chronicle*, de BBC 2, il signe [[films-de-la-bbc|trois films]] : *The Lost Treasure of Jerusalem… ?* en 1972, *The Priest, the Painter and the Devil* en 1974, *The Shadow of the Templars* en 1979. Le premier reprend le [[tresor-des-wisigoths|trésor des Wisigoths]]. Le deuxième popularise le rapprochement entre le [[tombeau-des-pontils|tombeau des Pontils]] et *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]* de Poussin, et trace un pentacle dans le tableau. Le troisième mène aux [[tresor-des-templiers|Templiers]]. C'est [[vague-anglaise|la vague anglaise]] : un public qui ne lit pas le français reçoit l'affaire toute faite.
+texte: À la fin des années 1970, il rencontre à Paris [[pierre-plantard|Pierre Plantard]], qui lui dit que les parchemins sont des faux de [[philippe-de-cherisey|Philippe de Chérisey]] — avant de se reprendre : ce seraient des copies de bons originaux. Lincoln le rapporte lui-même dans ses livres. Avec [[baigent-et-leigh|Michael Baigent et Richard Leigh]], il publie en janvier 1982 *The Holy Blood and the Holy Grail*, en français *[[l-enigme-sacree|L'Énigme sacrée]]* : le secret de Rennes serait une [[lignee-de-jesus|descendance de Jésus et de Marie-Madeleine]], protégée par le [[prieure-de-sion|Prieuré de Sion]]. Sur celui-ci, le livre n'a d'autre source que les *[[dossiers-secrets|Dossiers secrets]]* et les entretiens avec Plantard, lequel récuse la thèse à la radio un mois plus tard. Les trois auteurs donnent une suite en 1986, *The Messianic Legacy*.
+texte: Lincoln poursuit seul dans une autre direction. *The Holy Place*, en 1991, puis *Key to the Sacred Pattern* soutiennent que les sommets et les églises des environs dessinent un pentagone et des alignements mesurables en milles anglais : c'est la [[geometrie-sacree|géométrie sacrée]]. [[putnam-et-wood|Putnam et Wood]] objectent que le pentagone est irrégulier, les tolérances larges, et les points choisis après coup parmi des centaines de repères possibles.
+texte: La BBC elle-même revient sur ses films le 17 septembre 1996, dans *[[history-of-a-mystery|The History of a Mystery]]*, qui démonte le Prieuré. Lincoln ne prend pas part au procès que ses deux coauteurs intentent en 2006 à l'éditeur de [[dan-brown|Dan Brown]]. Il se retire à [[rennes-les-bains|Rennes-les-Bains]], où il meurt en février 2022 — le 22 ou le 23, selon les sources. D'après [[christian-doumergue|Christian Doumergue]], il avait exprimé des regrets devant l'afflux que son livre avait provoqué dans le pays.
+repere: 12 février 1930 — Naissance à Londres.
+repere: 1969 — Il lit *Le Trésor maudit de Rennes-le-Château* pendant des vacances dans les Cévennes.
+repere: 1972 — *The Lost Treasure of Jerusalem… ?*, premier film pour la BBC.
+repere: 30 octobre 1974 — *The Priest, the Painter and the Devil*.
+repere: 27 novembre 1979 — *The Shadow of the Templars*.
+repere: janvier 1982 — *The Holy Blood and the Holy Grail*, avec Michael Baigent et Richard Leigh.
+repere: 1986 — *The Messianic Legacy*.
+repere: 1991 — *The Holy Place*.
+repere: février 2022 — Mort à Rennes-les-Bains.
+oeuvres: The Lost Treasure of Jerusalem… ? (BBC, 1972) ; The Priest, the Painter and the Devil (BBC, 1974) ; The Shadow of the Templars (BBC, 1979) ; The Holy Blood and the Holy Grail (1982 ; L'Énigme sacrée, Pygmalion, 1983) ; The Messianic Legacy (1986) ; The Holy Place (1991) ; Key to the Sacred Pattern (1997 ou 2002 selon les notices)
+voir: films-de-la-bbc, l-enigme-sacree, vague-anglaise, baigent-et-leigh, geometrie-sacree, secret-de-poussin, tombeau-des-pontils, gerard-de-sede, pierre-plantard, history-of-a-mystery
+
+@ baigent-et-leigh
+cat: personnages
+groupe: inventeurs
+nom: Michael Baigent et Richard Leigh
+alias: Michael Baigent, Richard Leigh, Baigent, Leigh, Leigh Teabing
+an: 1982
+role: Coauteurs, avec Henry Lincoln, de *L'Énigme sacrée* (1982) ; plaignants contre l'éditeur de Dan Brown en 2006
+def: Coauteurs avec Henry Lincoln de *L'Énigme sacrée* (1982), qui fait du secret de Rennes une descendance de Jésus, ils perdent en 2006 à Londres le procès en contrefaçon intenté à l'éditeur du *Da Vinci Code*.
+texte: Les noms de Michael Baigent et de Richard Leigh sont attachés à un livre, écrit avec [[henry-lincoln|Henry Lincoln]] : *The Holy Blood and the Holy Grail*, paru à Londres chez Jonathan Cape en janvier 1982 et traduit l'année suivante chez Pygmalion sous le titre *[[l-enigme-sacree|L'Énigme sacrée]]*.
+texte: Le livre part de l'histoire de Saunière et la mène ailleurs. Jésus et [[marie-madeleine|Marie-Madeleine]] auraient eu une descendance, passée en Gaule et unie aux rois mérovingiens ; le « Saint Graal » serait un « sang réal » ; le [[prieure-de-sion|Prieuré de Sion]] veillerait sur cette lignée. Sur le Prieuré, les auteurs n'ont qu'une source : les *[[dossiers-secrets|Dossiers secrets]]* déposés à la Bibliothèque nationale et leurs entretiens avec [[pierre-plantard|Pierre Plantard]]. Celui-ci, le 18 février 1982, déclare sur France Inter n'avoir jamais prétendu descendre du Christ. Voir [[lignee-de-jesus|la lignée de Jésus]].
+texte: Les historiens rangent l'ouvrage parmi les pseudo-histoires du Graal — la plus notoire, écrit le médiéviste Richard Barber en 2005. En France, [[pierre-jarnac|Pierre Jarnac]] le juge très sévèrement. Le livre n'en porte pas moins l'affaire bien au-delà de l'Angleterre, et les trois auteurs lui donnent une suite en 1986, *The Messianic Legacy*.
+texte: En 2003, [[dan-brown|Dan Brown]] reprend la thèse dans un roman, *[[da-vinci-code|Da Vinci Code]]*, où l'érudit se nomme Leigh Teabing : le nom de l'un, l'anagramme de l'autre. Baigent et Leigh attaquent son éditeur, Random House, pour contrefaçon devant la Haute Cour de Londres ; Lincoln ne se joint pas à eux. Le 7 avril 2006, le juge Peter Smith les déboute : on ne peut à la fois présenter une thèse comme de l'histoire et en revendiquer la propriété comme d'une fiction.
+repere: janvier 1982 — *The Holy Blood and the Holy Grail*, chez Jonathan Cape.
+repere: 1983 — Traduction française, *L'Énigme sacrée*, chez Pygmalion.
+repere: 1986 — *The Messianic Legacy*.
+repere: 7 avril 2006 — La Haute Cour de Londres rejette leur plainte contre Random House.
+voir: l-enigme-sacree, henry-lincoln, lignee-de-jesus, prieure-de-sion, dossiers-secrets, dan-brown, da-vinci-code, vague-anglaise, effet-da-vinci-code
+
+@ dan-brown
+cat: personnages
+groupe: inventeurs
+nom: Dan Brown
+alias: auteur du Da Vinci Code, Jacques Saunière, Bézu Fache, Leigh Teabing
+dates: né en 1964
+an: 1964
+role: Romancier américain, auteur du *Da Vinci Code* (2003)
+def: Romancier américain dont le *Da Vinci Code* (2003) ne se passe pas à Rennes-le-Château mais en reprend les noms et, à travers *L'Énigme sacrée*, les faux du Prieuré de Sion.
+texte: Dan Brown naît le 22 juin 1964 à Exeter, dans le New Hampshire. Son roman *[[da-vinci-code|The Da Vinci Code]]* paraît chez Doubleday le 18 mars 2003 ; il est traduit en français, porté à l'écran par Ron Howard, et vendu à des dizaines de millions d'exemplaires.
+texte: L'action ne passe pas par [[rennes-le-chateau|Rennes-le-Château]], mais les noms en viennent. Le conservateur du Louvre assassiné au premier chapitre s'appelle Jacques Saunière, comme [[berenger-sauniere|le curé]] ; le policier, Bézu Fache, comme le [[chateau-du-bezu|château du Bézu]] ; l'érudit, Leigh Teabing — le nom de Richard Leigh et l'anagramme de celui de Michael Baigent, les [[baigent-et-leigh|coauteurs]] de *[[l-enigme-sacree|L'Énigme sacrée]]*. C'est à ce livre de 1982 que le roman doit sa thèse : la [[lignee-de-jesus|descendance de Jésus et de Marie-Madeleine]], gardée par une société secrète.
+texte: Le roman s'ouvre sur une page intitulée « Les faits ». Le [[prieure-de-sion|Prieuré de Sion]] y est donné pour une société fondée en 1099, et les *[[dossiers-secrets|Dossiers secrets]]* pour des parchemins découverts à la Bibliothèque nationale en 1975. Ce sont, pris au pied de la lettre, les faux déposés entre 1964 et 1967 par [[pierre-plantard|Pierre Plantard]], qui les avait reniés dix ans plus tôt devant un juge. La « Rose Ligne » qui traverse [[saint-sulpice|Saint-Sulpice]] est une invention du romancier : le gnomon de l'église n'est pas sur le [[meridien-de-paris|méridien de Paris]], et la paroisse a dû afficher un démenti.
+texte: En 2006, Baigent et Leigh attaquent son éditeur pour contrefaçon ; la justice anglaise les déboute le 7 avril. Le livre change l'échelle de l'affaire : on visite sur ses traces le Louvre, Saint-Sulpice, la chapelle de [[rosslyn|Rosslyn]] et Rennes. Les enquêtes de démystification se multiplient — [[jean-jacques-bedu|Jean-Jacques Bedu]] publie en 2005 *Les Sources secrètes du Da Vinci Code* — et entretiennent à leur tour la notoriété du mystère. Voir [[effet-da-vinci-code|l'effet Da Vinci Code]].
+repere: 22 juin 1964 — Naissance à Exeter (New Hampshire).
+repere: 18 mars 2003 — Parution de *The Da Vinci Code*.
+repere: 7 avril 2006 — La justice anglaise déboute Baigent et Leigh, qui accusaient son éditeur de contrefaçon.
+voir: da-vinci-code, effet-da-vinci-code, l-enigme-sacree, baigent-et-leigh, prieure-de-sion, dossiers-secrets, lignee-de-jesus, saint-sulpice, rosslyn
+
+@ andre-douzet
+cat: personnages
+groupe: auteurs
+nom: André Douzet
+alias: Douzet, Société Périllos
+an: 1995
+role: Chercheur, propriétaire jusqu'en 2002 de la « maquette de Saunière », promoteur de la piste de Périllos
+def: Chercheur qui présente en 1995 une maquette de plâtre que Saunière aurait commandée peu avant sa mort, et qui y lit le paysage de Périllos, en Roussillon, avec un tombeau du Christ.
+texte: André Douzet fait connaître en 1995 un objet qu'il dit avoir recueilli en 1991 dans une fonderie désaffectée de la région d'Aix-en-Provence, démolie depuis : un relief de plâtre dans un cadre de bois, sorte de carte d'état-major en volume. Selon lui, [[berenger-sauniere|Bérenger Saunière]] l'aurait commandé pour léguer un dernier message. C'est la [[maquette-de-sauniere|« maquette de Saunière »]], qu'il décrit dans *Lumières nouvelles sur Rennes-le-Château* (1995), puis dans un livre paru en anglais en 2001, *Saunière's Model and the Secret of Rennes-le-Château*.
+texte: Les inscriptions du relief nomment le Golgotha, le jardin de Gethsémani, le tombeau du Christ et celui de Joseph d'Arimathie : à première lecture, Jérusalem. Douzet y reconnaît au contraire un paysage réel, celui de [[perillos|Périllos]], hameau abandonné de la commune d'Opoul, dans les Pyrénées-Orientales, où se trouveraient les deux tombeaux. Avec la Société Périllos, qu'il préside, il fait de cette [[piste-de-perillos|piste]] une variante roussillonnaise du [[tombeau-du-christ|tombeau du Christ]]. Il prête aussi à Saunière des séjours à Lyon et une appartenance martiniste, sur des pièces qu'il n'a pas publiées.
+texte: [[patrick-mensior|Patrick Mensior]], qui a examiné l'objet, publie ses objections de 2002 à 2012. La date de la commande a changé : fin 1916 d'abord, quand le curé est mourant et sans ressources, puis janvier 1916. Le [[carnets-de-sauniere|cahier de correspondance]] de 1915-1917, édité par [[pierre-jarnac|Pierre Jarnac]], où Saunière note ses envois et ses commandes, ne connaît pour ce mois-là qu'une commande passée à Castres. Les lettres échangées avec le fondeur n'ont jamais été montrées en entier ; l'archiviste du diocèse d'Aix ne connaît aucune fonderie d'objets religieux dans le département. Surtout, un relief que Mensior juge identique, cadre compris, est photographié dans un ouvrage de piété de 1975 : il a été modelé à Jérusalem, dans la première moitié du XXe siècle, par un franciscain, pour un musée biblique.
+texte: Douzet n'est plus propriétaire de l'objet depuis le 16 septembre 2002. Sa thèse a trouvé des relais dans le monde anglophone. Mensior lui reconnaît un effet : elle a tiré de l'oubli le village de Périllos.
+oeuvres: Lumières nouvelles sur Rennes-le-Château (1995) ; Nouvelles Lumières sur Rennes-le-Château (Aquarius, 1999) ; Saunière's Model and the Secret of Rennes-le-Château (2001)
+voir: maquette-de-sauniere, perillos, piste-de-perillos, tombeau-du-christ, patrick-mensior, carnets-de-sauniere, pierre-jarnac
+
+@ david-wood
+cat: personnages
+groupe: auteurs
+nom: David Wood
+alias: Genisis, Geneset
+an: 1985
+role: Auteur de *Genisis* (1985) et de *Geneset* (1994), tenant de la géométrie sacrée
+def: Auteur de *Genisis* (1985), qui lit dans la carte des environs de Rennes-le-Château une vaste figure géométrique tracée par les sommets et les églises.
+texte: David Wood publie en 1985 *Genisis*, puis en 1994 *Geneset*. Entre le deuxième film d'[[henry-lincoln|Henry Lincoln]], en 1974, et son *Holy Place*, en 1991, ces livres installent l'idée que le secret de Rennes n'est pas dans une cachette mais sur la carte : sommets, châteaux et églises du pays — Rennes, [[chateau-de-blanchefort|Blanchefort]], le [[chateau-du-bezu|Bézu]] — y dessineraient un pentacle et des alignements voulus, mesurables en milles anglais. C'est la [[geometrie-sacree|géométrie sacrée]].
+texte: Les objections sont celles que [[putnam-et-wood|Putnam et Wood]] opposent à toute cette famille de tracés : des figures irrégulières, des tolérances larges, des points retenus après coup parmi des centaines de repères possibles, aucun test statistique.
+attention: Ne pas le confondre avec John Edwin Wood, coauteur avec Bill Putnam de *[[a-mystery-solved|A Mystery Solved]]*, qui critique précisément ces géométries.
+voir: geometrie-sacree, henry-lincoln, andrews-et-schellenberger, putnam-et-wood, a-mystery-solved
+
+@ andrews-et-schellenberger
+cat: personnages
+groupe: auteurs
+nom: Andrews et Schellenberger
+alias: Richard Andrews, Paul Schellenberger, The Tomb of God
+an: 1996
+role: Auteurs de *The Tomb of God* (1996), qui place le tombeau du Christ au Pech Cardou
+def: Auteurs de *The Tomb of God* (1996), qui tirent des parchemins et de tableaux une géométrie désignant le Pech Cardou comme le tombeau du Christ.
+texte: Richard Andrews et Paul Schellenberger publient en 1996 *The Tomb of God*. Ils appliquent aux [[parchemins|parchemins]] et à des tableaux des tracés géométriques qu'ils reportent sur la carte ; le résultat désigne le [[pech-cardou|Pech Cardou]], la montagne qui domine Serres et Rennes-les-Bains. Là reposerait le corps de Jésus. La devise [[et-in-arcadia-ego|« Et in Arcadia ego »]], augmentée d'un « sum », leur donne par anagramme une phrase latine où ils lisent : « je touche le tombeau de Dieu ».
+texte: La construction part de documents faux, puisque les parchemins sont l'œuvre de [[philippe-de-cherisey|Philippe de Chérisey]]. Elle est démontée à la télévision l'année même, le 17 septembre 1996, dans l'émission de la BBC *[[history-of-a-mystery|The History of a Mystery]]*. Aucune découverte n'a suivi. Voir [[tombeau-du-christ|le tombeau du Christ]] et [[geometrie-sacree|la géométrie sacrée]].
+voir: tombeau-du-christ, pech-cardou, geometrie-sacree, parchemins, history-of-a-mystery, david-wood, et-in-arcadia-ego
+
+@ henri-buthion
+cat: personnages
+groupe: auteurs
+nom: Henri Buthion
+alias: Buthion
+dates: 1924 – 2002
+an: 1924
+role: Acquéreur du domaine de Saunière en 1964-1965, hôtelier et chercheur de trésor
+def: Successeur de Noël Corbu à la tête du domaine de Saunière, qu'il achète en 1964-1965 et exploite en hôtel-restaurant jusque dans les années 1990, tout en cherchant lui-même le trésor.
+texte: Henri Buthion achète en 1964-1965 à [[noel-corbu|Noël Corbu]] le domaine de l'abbé Saunière, avec la [[villa-bethanie|villa Béthanie]] et la [[tour-magdala|tour Magdala]]. Il y poursuit l'hôtel-restaurant ouvert en 1955 et le tient jusque dans les années 1990. Il arrive au moment où l'affaire change d'échelle : l'arrêté municipal qui interdit toutes les [[fouilles|fouilles]] sur la commune est du 28 juillet 1965, et *[[l-or-de-rennes|L'Or de Rennes]]* paraît en 1967.
+texte: Buthion n'est pas seulement l'hôte des chercheurs : il cherche lui-même. Il raconte aussi — en 1985, une cassette intitulée « Henri Buthion raconte Rennes-le-Château » paraît dans la même série que celle de [[gerard-de-sede|Gérard de Sède]]. La commune devient propriétaire du domaine en 2000 ; il meurt en 2002. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].
+voir: noel-corbu, villa-bethanie, tour-magdala, fouilles, chasseurs-de-tresors, rennes-aujourd-hui
+
+@ jacques-cholet
+cat: personnages
+groupe: auteurs
+nom: Jacques Cholet
+alias: Cholet, rapport Cholet
+an: 1959
+role: Ingénieur parisien, autorisé en 1959 à fouiller l'église de Rennes-le-Château
+def: Ingénieur parisien que le conseil municipal autorise le 31 mai 1959 à fouiller l'église ; il y creuse pendant des années sans rien trouver et rend son rapport en 1967.
+texte: Le 31 mai 1959, le conseil municipal de Rennes-le-Château autorise Jacques Cholet, ingénieur venu de Paris, à fouiller l'[[eglise-sainte-marie-madeleine|église]], cimetière exclu. C'est trois ans après les articles de *La Dépêche* et la campagne des chercheurs de Carcassonne, qui n'avaient trouvé qu'un [[crane-a-l-entaille|crâne]]. Cholet travaille avec Rolland Domergue, son commanditaire, adepte du pendule, des radiesthésistes et une voyante. Il creuse sous l'autel, sous la chaire, dans la sacristie, où il dégage une amorce d'escalier, puis ouvre dans le roc une tranchée de dix-huit mètres.
+texte: Son rapport, daté du 25 avril 1967, répète le même mot : « J'ai fouillé sous et derrière l'autel, rien. Dans l'axe et devant l'autel, rien. » L'entrée du [[crypte-des-seigneurs|caveau des seigneurs]], que les registres placent « auprès du balustre », n'a pas été retrouvée ; l'association RLCdoc en conclut qu'on n'a pas cherché au bon endroit. Entre-temps, le 28 juillet 1965, la commune a interdit toutes les [[fouilles|fouilles]] sur son territoire.
+voir: fouilles, eglise-sainte-marie-madeleine, crypte-des-seigneurs, crane-a-l-entaille, noel-corbu, chasseurs-de-tresors
+
+@ deodat-roche
+cat: personnages
+groupe: auteurs
+nom: Déodat Roché
+alias: Déodat Roche, Cahiers d'études cathares, Maison Déodat Roché
+dates: 1877 – 1978
+an: 1877
+role: Magistrat, maire d'Arques, fondateur des *Cahiers d'études cathares*
+def: Magistrat né à Arques, à dix kilomètres de Rennes-le-Château, il consacre sa vie à un catharisme réinventé, qu'il tient pour une gnose universelle ; aucun lien documenté ne le rattache à Saunière.
+texte: Déodat Roché naît le 13 décembre 1877 à [[arques|Arques]], dans une famille de notaires et de médecins du lieu. Avocat à Limoux, puis magistrat à Carcassonne et à Castelnaudary, il préside le tribunal de Béziers. Il est maire d'Arques à partir de 1925 et conseiller général de l'Aude. En 1943, le régime de Vichy le révoque, comme franc-maçon et pour son « spiritualisme » ; il refusera sa réintégration. Il meurt en 1978, centenaire.
+texte: Son œuvre est ailleurs. Il est évêque de l'Église gnostique fondée par [[jules-doinel|Jules Doinel]] — lequel fut archiviste de l'Aude de 1896 à 1902 —, puis le propagateur en France de l'anthroposophie de Rudolf Steiner. De *Gnose antique et pensée moderne* au *Catharisme* (1937), il soutient que les cathares ne sont pas une simple dissidence médiévale mais le maillon occidental d'une sagesse venue d'Orient, et que [[montsegur|Montségur]] fut le château du Graal. À la fin des années 1940, il fonde les *Cahiers d'études cathares*, puis, en 1950, la Société du souvenir et des études cathares.
+texte: Les historiens du catharisme ne l'ont pas suivi. René Nelli, d'abord son compagnon, rompt avec lui et fonde en 1981 un centre d'études dont la charte écarte les publications ésotériques ; Anne Brenon rappelle que les « châteaux cathares » sont pour la plupart des forteresses royales rebâties après la [[croisade-des-albigeois|croisade]]. C'est pourtant sa lecture qui a nourri, avec les livres d'[[otto-rahn|Otto Rahn]], le Midi imaginaire où cathares, Templiers et gardiens du Graal ne font qu'un : le terrain du [[tresor-des-cathares|trésor des cathares]].
+texte: Avec l'affaire de Rennes, le lien est de voisinage. Roché a trente-neuf ans à la mort de [[berenger-sauniere|Saunière]] ; rien ne montre qu'ils se soient connus. Une notice veut que son père soit intervenu quand le terrain des Pontils fut affecté à une sépulture — le futur [[tombeau-des-pontils|tombeau des Pontils]] ; le fait n'est pas vérifié. Sa maison natale, à Arques, abrite aujourd'hui une exposition sur le catharisme.
+oeuvres: Gnose antique et pensée moderne (1904-1906) ; Le Catharisme (1937) ; Études manichéennes et cathares (1952) ; Survivance et immortalité de l'âme (1955) ; Le Graal pyrénéen
+voir: arques, jules-doinel, montsegur, tresor-des-cathares, otto-rahn, croisade-des-albigeois, tombeau-des-pontils, occultisme-fin-de-siecle
+
+@ roger-rene-dagobert
+cat: personnages
+groupe: auteurs
+nom: Roger-René Dagobert
+alias: Roger René Dagobert, général Dagobert, Luc-Siméon Dagobert
+an: 1980
+role: Architecte nantais, défenseur d'une piste liée aux mines et aux archives du général Dagobert
+def: Architecte nantais, descendant du général Dagobert, il défend depuis les années 1980 l'idée que le secret de Rennes tient aux mines des Corbières et à des archives maçonniques liées à son ancêtre.
+texte: Roger-René Dagobert, architecte à Nantes, descend du général Luc-Siméon Dagobert (1736-1794), que son mariage dans la famille Pailhoux de Cascastel avait intéressé aux mines des Corbières. À partir des années 1980, il défend une piste qui lui est propre : le secret de l'abbé Saunière tiendrait à ces exploitations et à des archives maçonniques passées par le général. Sa biographie est mal documentée.
+texte: Le décor, lui, est exact. Le pays a connu de vraies exploitations — jais, cuivre, plomb argentifère — autour de [[chateau-de-blanchefort|Blanchefort]] et du [[pech-cardou|Cardou]]. Mais les comptes de [[berenger-sauniere|Saunière]] ne portent la trace d'aucun revenu de ce genre, et l'idée d'une ressource exploitée en secret reste gratuite. Voir [[mines-d-or-du-razes|les mines d'or du Razès]].
+attention: Ne pas confondre le général Dagobert (1736-1794) avec le roi [[dagobert-ii|Dagobert II]], assassiné en 679, sur qui repose la légende mérovingienne de Rennes.
+voir: mines-d-or-du-razes, chateau-de-blanchefort, pech-cardou, dagobert-ii
+
+@ guy-tarade
+cat: personnages
+groupe: auteurs
+nom: Guy Tarade
+alias: Tarade, CEREIC
+dates: né en 1930
+an: 1930
+role: Auteur d'ufologie et d'ésotérisme, figure du réalisme fantastique
+def: Auteur d'ufologie et d'ésotérisme né en 1930 ; il appartient au milieu éditorial qui a porté l'affaire de Rennes, sans en être un acteur direct.
+texte: Guy Tarade naît le 25 avril 1930 en région parisienne. Il fonde le CEREIC, Centre d'études et de recherche sur les éléments inconnus de civilisation, et se fait connaître en 1969 par l'émission *Les Dossiers de l'écran*. Ses sujets sont ceux du [[realisme-fantastique|réalisme fantastique]] : ovnis, « anciens astronautes », Atlantide, géographie sacrée, Templiers, alchimie. Il appartient au monde des collections de poche qui diffusent au même moment [[robert-charroux|Robert Charroux]] et [[gerard-de-sede|Gérard de Sède]].
+texte: Son lien avec le dossier est indirect. Avec Christophe Villa-Mélé, il signe en 2004 *Arcane 10, ou les secrets initiatiques de Rouletabille et Arsène Lupin*, qui lit les romans populaires comme des textes à clef : c'est la démarche de ceux qui cherchent Rennes chez [[maurice-leblanc|Maurice Leblanc]]. Voir [[romanciers-inities|les romanciers initiés]].
+voir: realisme-fantastique, romanciers-inities, robert-charroux, maurice-leblanc, gerard-de-sede
+
+@ rene-descadeillas
+cat: personnages
+groupe: critiques
+nom: René Descadeillas
+alias: Descadeillas
+dates: 1909 – 1986
+an: 1909
+role: Journaliste, puis conservateur de la bibliothèque municipale de Carcassonne ; premier historien de l'affaire
+def: Conservateur de la bibliothèque de Carcassonne, il prend part dès 1956 à l'enquête sur le prétendu trésor et publie en 1974 la première histoire documentée de l'abbé Saunière.
+texte: René Descadeillas naît en 1909. Journaliste, puis conservateur de la bibliothèque municipale de [[carcassonne|Carcassonne]], il est aussi président de la Société des arts et des sciences de la ville. En janvier 1956, *La Dépêche du Midi* publie le récit de [[noel-corbu|Noël Corbu]] ; en novembre, la question est posée en séance de la société, qui ouvre une enquête. Descadeillas y prend part. Les recherches sur place commencent en mars 1957 et se closent en 1958 : aucun indice d'un trésor.
+texte: Il ne s'en tient pas là et remonte aux seigneurs du lieu. Sa thèse, *Rennes et ses derniers seigneurs, 1730-1820*, paraît à Toulouse, chez Privat, en 1964. On y lit ce que les archives disent des [[famille-d-hautpoul|Hautpoul]] : une maison ruinée dès le milieu du XVIIIe siècle ; la [[marie-de-negre-d-ables|marquise de Blanchefort]] veuve et endettée, en procès avec ses filles, contrainte de vendre des seigneuries ; sa fille Élisabeth morte au château en 1820 sans que le décès soit transcrit, une créance de dix mille francs étant en jeu. Le livre paraît l'année même où commencent les dépôts à la Bibliothèque nationale. Il retire d'avance sa vraisemblance au [[magot-de-l-abbe-bigou|magot]] que la légende prête à cette famille : Descadeillas n'admet, au plus, qu'un petit dépôt caché à la Révolution.
+texte: Dix ans plus tard, il donne dans les mémoires de la société *[[mythologie-du-tresor-de-rennes|Mythologie du trésor de Rennes. Histoire véritable de l'abbé Saunière]]*. Il a eu accès au [[dossier-du-proces|dossier de l'officialité]], le tribunal de l'évêque. Il y trouve les interdictions répétées de solliciter des messes hors du diocèse, les comptes que le curé ne peut justifier, les sentences. Sa conclusion tient en deux propositions : il n'existe aucune trace d'un trésor constitué et caché à Rennes ; les agissements de [[berenger-sauniere|Saunière]] sont ceux d'un quêteur et d'un [[trafic-de-messes|trafiquant d'honoraires de messes]].
+texte: Le livre défait aussi, pièce à pièce, le récit de 1967. Le jeune [[emile-hoffet|Hoffet]], qui aurait déchiffré les parchemins à Saint-Sulpice, a dix-huit ans en 1891 et fait son noviciat chez les oblats, aux Pays-Bas. La [[stele-de-la-marquise|stèle]] que le curé aurait effacée n'a disparu, d'après une note qu'il cite, qu'en 1906. Quant au personnage qui fréquente Rennes-les-Bains dès la fin des années cinquante et s'attache au vieil abbé [[joseph-courtauly|Courtauly]], Descadeillas le décrit sans le nommer : c'est [[pierre-plantard|Pierre Plantard]]. Corbu, enfin, est pour lui la source unique du trésor.
+texte: [[gerard-de-sede|Gérard de Sède]] répond dès 1975 par *Le Vrai Dossier de l'énigme de Rennes*. Il relève une erreur : Descadeillas le fait arriver dans le pays en 1965, alors qu'il y enquêtait, dit-il, depuis août 1962. L'association RLCdoc note de son côté que le portrait de Plantard est fait de seconde main. Sur le fond — les comptes, le procès, l'absence de trésor —, ceux qui sont revenus aux pièces après lui, de l'abbé [[bruno-de-monts|Bruno de Monts]] à [[jean-jacques-bedu|Jean-Jacques Bedu]], ont confirmé ses conclusions. Il meurt en 1986 ; son livre est réédité en 1988 et en 1991.
+repere: 1909 — Naissance.
+repere: novembre 1956 — La Société des arts et des sciences de Carcassonne ouvre son enquête sur le trésor.
+repere: 1958 — Fin de l'enquête : aucun indice.
+repere: 1964 — *Rennes et ses derniers seigneurs, 1730-1820*.
+repere: 1974 — *Mythologie du trésor de Rennes*.
+repere: 1975 — Gérard de Sède lui répond dans *Le Vrai Dossier de l'énigme de Rennes*.
+repere: 1986 — Mort.
+repere: 1991 — Réédition de la *Mythologie* chez Collot.
+oeuvres: Rennes et ses derniers seigneurs, 1730-1820 (Privat, 1964) ; Mythologie du trésor de Rennes. Histoire véritable de l'abbé Saunière, curé de Rennes-le-Château (Mémoires de la Société des arts et des sciences de Carcassonne, 1974 ; rééd. Savary, 1988 ; Collot, 1991)
+voir: mythologie-du-tresor-de-rennes, trafic-de-messes, dossier-du-proces, famille-d-hautpoul, marie-de-negre-d-ables, noel-corbu, gerard-de-sede, bruno-de-monts, jean-jacques-bedu, carcassonne
+
+@ jean-jacques-bedu
+cat: personnages
+groupe: critiques
+nom: Jean-Jacques Bedu
+alias: Bedu
+an: 1990
+role: Auteur de *Rennes-le-Château, autopsie d'un mythe* (1990), la démonstration comptable du trafic de messes
+def: Auteur en 1990 de *Rennes-le-Château, autopsie d'un mythe*, il reprend les carnets et les comptes de Saunière et montre, chiffres en main, que les messes suffisent à expliquer ses ressources.
+texte: Jean-Jacques Bedu publie en 1990, chez Loubatières, *[[autopsie-d-un-mythe|Rennes-le-Château, autopsie d'un mythe]]*, réédité en 2003. [[rene-descadeillas|Descadeillas]] avait établi le [[trafic-de-messes|trafic de messes]] par le dossier du procès ; Bedu le fait par les chiffres, d'après les [[carnets-de-sauniere|carnets]] que le curé tenait lui-même.
+texte: Le calcul part de peu. En 1892, [[berenger-sauniere|Saunière]] note 747 messes pour 955 francs, des [[honoraires-de-messes|honoraires]] d'un franc ou deux qu'il acquitte déjà avec des mois de retard. Puis les carnets enflent. Bedu estime à cent mille environ les intentions reçues de 1893 à 1915 : plus qu'un prêtre n'en dirait en deux siècles. En regard, il reprend les dépenses. Les « milliards » de [[noel-corbu|Noël Corbu]] et de ses successeurs reposent, montre-t-il, sur des devis imaginaires et sur des conversions fautives.
+texte: Il reprend aussi le récit. Corbu place en 1892 la découverte des parchemins dans l'autel : or les travaux de l'église ont commencé en 1886. La scène du confesseur épouvanté au chevet du mourant, sur laquelle s'appuie l'idée d'un [[chantage-au-vatican|secret qui ferait chanter l'Église]], n'a aucune source. Bedu ne ferme pas toutes les portes : il admet que le curé ait pu tirer un appoint des [[pillage-des-tombes|tombes fouillées]]. Mais les recettes documentées couvrent les dépenses documentées ; il n'y a pas de trou qu'un trésor viendrait combler.
+texte: En 2005, au plus fort de la vague soulevée par [[dan-brown|Dan Brown]], il publie *Les Sources secrètes du Da Vinci Code*. Il est de ceux qui tiennent le [[prieure-de-sion|Prieuré de Sion]] pour un canular établi.
+oeuvres: Rennes-le-Château, autopsie d'un mythe (Loubatières, 1990 ; rééd. 2003) ; Les Sources secrètes du Da Vinci Code (2005)
+voir: autopsie-d-un-mythe, trafic-de-messes, carnets-de-sauniere, honoraires-de-messes, rene-descadeillas, octonovo, noel-corbu, pillage-des-tombes
+
+@ pierre-jarnac
+cat: personnages
+groupe: critiques
+nom: Pierre Jarnac
+alias: Michel Vallet, Jarnac
+an: 1974
+role: Auteur et éditeur de sources (pseudonyme de Michel Vallet) ; destinataire de la lettre d'aveu de Chérisey
+def: Sous ce pseudonyme, Michel Vallet publie à partir de 1985 l'histoire et les archives de l'affaire ; c'est à lui que Philippe de Chérisey écrit, le 29 janvier 1974, qu'il a fabriqué les parchemins.
+texte: Pierre Jarnac est le nom de plume de Michel Vallet. Le 29 janvier 1974, [[philippe-de-cherisey|Philippe de Chérisey]] lui écrit que les deux [[parchemins|parchemins]] reproduits dans *[[l-or-de-rennes|L'Or de Rennes]]* sont de sa main, et qu'il les a « composés en 1965 ». C'est le plus ancien aveu écrit que l'on connaisse du faussaire, l'année même où paraît le livre de [[rene-descadeillas|Descadeillas]] ; d'autres suivront en 1975 et en 1978, avec une autre date. Voir [[aveux|les aveux]].
+texte: Jarnac est ensuite un homme de pièces. Son *Histoire du trésor de Rennes-le-Château* paraît en 1985 ; *Les Archives de Rennes-le-Château*, en deux volumes, en 1987 et 1988. Il écrit dans les *Cahiers de Rennes-le-Château*, où l'abbé [[bruno-de-monts|Bruno de Monts]] publie en 1996 son étude des dépenses déclarées en 1911. En 1997, il édite le cahier de correspondance que [[berenger-sauniere|Saunière]] a tenu de mai 1915 à janvier 1917, l'un des derniers de ses [[carnets-de-sauniere|registres]].
+texte: Cette édition sert aussitôt. Quand [[andre-douzet|André Douzet]] soutient que le curé a commandé en 1916 une [[maquette-de-sauniere|maquette]] à un fondeur d'Aix-en-Provence, [[patrick-mensior|Patrick Mensior]] ouvre le cahier : Saunière y note ses envois et ses commandes, et rien n'y concerne Aix.
+texte: Jarnac compte parmi ceux qui ont établi que le [[prieure-de-sion|Prieuré de Sion]] est un canular. Il juge très sévèrement *[[l-enigme-sacree|L'Énigme sacrée]]*, qui n'a sur le Prieuré d'autre source que Plantard.
+oeuvres: Histoire du trésor de Rennes-le-Château (1985 ; rééd. Bélisane, 1998) ; Les Archives de Rennes-le-Château (2 vol., 1987-1988) ; édition du Cahier de correspondances de Bérenger Saunière, 1915-1917 (1997)
+voir: philippe-de-cherisey, aveux, parchemins, carnets-de-sauniere, bruno-de-monts, patrick-mensior, maquette-de-sauniere, rene-descadeillas
+
+@ corbu-et-captier
+cat: personnages
+groupe: critiques
+nom: Claire Corbu et Antoine Captier
+alias: Claire Corbu, Claire Captier, Corbu-Captier, Terre de Rhedae
+an: 1985
+role: La fille de Noël Corbu et son mari, descendant du carillonneur de Saunière ; éditeurs des papiers de l'abbé, fondateurs du musée
+def: La fille de Noël Corbu et son mari, descendant du carillonneur de Saunière, publient en 1985 les papiers de l'abbé conservés dans la famille et ouvrent en 1989 le musée du presbytère.
+texte: Deux familles du dossier se rejoignent en eux. Claire Corbu est la fille de [[noel-corbu|Noël Corbu]], l'hôtelier qui a lancé le trésor en 1956. Son mari descend du carillonneur de Saunière, son homonyme [[antoine-captier|Antoine Captier]], à qui la tradition familiale attribue la découverte d'une [[balustre-et-fiole|fiole dans un balustre]] de l'ancienne chaire.
+texte: Par Noël Corbu, légataire de [[marie-denarnaud|Marie Dénarnaud]], la famille détient ce que l'abbé a laissé : comptes, [[carnets-de-sauniere|carnets]], lettres, copies des pièces du procès. En 1985, ils les publient chez Bélisane sous le titre *[[l-heritage-de-l-abbe-sauniere|L'Héritage de l'abbé Saunière]]*, réédité en 1995 et en 2012. On y lit notamment, en entier, le discours que le curé prononce devant son évêque le 6 juin 1897. La chronologie du [[proces-de-sauniere|procès]] que l'on suit aujourd'hui vient pour une bonne part de ce livre et des travaux de l'abbé [[bruno-de-monts|Bruno de Monts]].
+texte: Leur lecture n'est pas celle des sceptiques. Ils tiennent que le curé a bien découvert « quelque chose », font leur part aux [[dons-et-bienfaiteurs|dons]] légitimistes et à l'hypothèse d'un [[magot-de-l-abbe-bigou|dépôt caché à la Révolution]]. Mais ils n'ont pas adhéré aux fables de [[pierre-plantard|Pierre Plantard]], et la version qu'ils transmettent de la découverte — une fiole, un papier, rien sur son contenu — reste la plus sobre de toutes.
+texte: En mai 1989, avec l'association Terre de Rhedae, ils ouvrent un musée dans le [[presbytere|presbytère]] ; le balustre y est conservé.
+oeuvres: L'Héritage de l'abbé Saunière (Bélisane, 1985 ; rééd. 1995, 2012)
+voir: l-heritage-de-l-abbe-sauniere, noel-corbu, antoine-captier, balustre-et-fiole, carnets-de-sauniere, dossier-du-proces, presbytere, bruno-de-monts
+
+@ bruno-de-monts
+cat: personnages
+groupe: critiques
+nom: Bruno de Monts
+alias: abbé de Monts, abbé Bruno de Monts
+an: 1979
+role: Prêtre et historien de Saunière, auteur de *Bérenger Saunière, curé à Rennes-le-Château 1885-1909*
+def: Prêtre et historien, il a consulté les archives de l'officialité et montré que Saunière avait gonflé devant ses juges le coût de ses constructions.
+texte: L'abbé Bruno de Monts a eu, comme [[rene-descadeillas|René Descadeillas]], le privilège de consulter les archives de l'officialité de Carcassonne. Il signe avec l'abbé Maurice-René Mazières une étude sur Saunière dans les mémoires de la Société des arts et des sciences de Carcassonne (1979-1981), édite en 1984 les instructions que le curé donnait à [[antugnac|Antugnac]] en 1890, puis publie en 1989, chez Bélisane, *Bérenger Saunière, curé à Rennes-le-Château 1885-1909*.
+texte: Son apport le plus net tient en une comparaison. En 1911, [[berenger-sauniere|Saunière]] déclare à ses juges 90 000 francs pour la [[villa-bethanie|villa Béthanie]] et 40 000 pour la [[tour-magdala|tour Magdala]]. De Monts montre en 1996, dans les *Cahiers de Rennes-le-Château*, que ces sommes sont enflées : le curé a grossi ses dépenses pour les faire coïncider avec la liste de dons qu'il présentait. C'est l'une des sources des chiffres démesurés que la légende reprendra. Il tient aussi, avec Mazières, que la nomination de Saunière au petit séminaire de [[narbonne|Narbonne]], en 1886, fut de pure forme. Voir [[dossier-du-proces|le dossier du procès]].
+oeuvres: Bérenger Saunière, curé de Rennes-le-Château (avec Maurice-René Mazières, Mémoires de la Société des arts et des sciences de Carcassonne, 1979-1981) ; édition de Mon enseignement à Antugnac, 1890 (Bélisane, 1984) ; Bérenger Saunière, curé à Rennes-le-Château 1885-1909 (Bélisane, 1989 ; rééd. 2000)
+voir: dossier-du-proces, proces-de-sauniere, trafic-de-messes, rene-descadeillas, corbu-et-captier, pierre-jarnac, antugnac
+
+@ jean-luc-chaumeil
+cat: personnages
+groupe: critiques
+nom: Jean-Luc Chaumeil
+alias: Chaumeil
+an: 1973
+role: Journaliste ; d'abord relais de Pierre Plantard, puis dépositaire et éditeur des pièces qui établissent le canular
+def: Journaliste qui interroge Pierre Plantard dès 1973 et propage d'abord ses thèses, avant de publier les textes et les lettres qui en démontrent la fabrication.
+texte: Jean-Luc Chaumeil entre dans l'affaire en journaliste. En 1973, il publie dans *Le Charivari* un entretien avec [[pierre-plantard|Pierre Plantard]] et des généalogies. La même année, André Bonhomme, président de l'association de 1956, se désolidarise publiquement du [[prieure-de-sion|Prieuré de Sion]].
+texte: Chaumeil est alors du côté du mystère. *Le Trésor du triangle d'or* (1979), *Le Trésor des Templiers* (1984), puis *L'Alphabet solaire* (1985), écrit avec Jacques Rivière, prolongent la légende ; le dernier développe la lecture cryptographique de *[[la-vraie-langue-celtique|La Vraie Langue celtique]]* et fait de l'abbé Boudet le [[boudet-maitre-du-jeu|maître du jeu]]. Mais il approche de près les fabricants. C'est à lui que [[philippe-de-cherisey|Philippe de Chérisey]] dit en 1984 avoir pris le modèle de ses [[parchemins|parchemins]] dans un ouvrage de la Bibliothèque nationale ; la même année, Chérisey écrit *L'Affaire Jean-Luc Chaumeil*.
+texte: Le retournement se fait par les pièces. Chaumeil détient les feuilles originales des parchemins, de la main de Chérisey, et plus de cent lettres échangées entre Plantard, Chérisey et [[gerard-de-sede|Gérard de Sède]], qui décrivent le canular. Il publie *Pierre et papier*, le texte où Chérisey expose son chiffre, puis, en 2006, *Le Testament du Prieuré de Sion*. Il compte désormais parmi ceux qui ont établi la mystification. Voir [[aveux|les aveux]] et [[atelier-des-faux|l'atelier des faux]].
+oeuvres: Le Trésor du triangle d'or (1979) ; Le Trésor des Templiers (Henri Veyrier, 1984) ; L'Alphabet solaire (avec Jacques Rivière, 1985) ; La Table d'Isis (1994) ; Le Testament du Prieuré de Sion (Pégase, 2006)
+voir: pierre-plantard, philippe-de-cherisey, parchemins, aveux, atelier-des-faux, prieure-de-sion, boudet-maitre-du-jeu, gerard-de-sede
+
+@ putnam-et-wood
+cat: personnages
+groupe: critiques
+nom: Bill Putnam et John Edwin Wood
+alias: Bill Putnam, John Edwin Wood, Putnam, A Mystery Solved
+an: 2003
+role: Auteurs de *The Treasure of Rennes-le-Château: A Mystery Solved* (2003), la synthèse critique de référence en anglais
+def: Auteurs en 2003 de *The Treasure of Rennes-le-Château: A Mystery Solved*, la synthèse sceptique de référence en anglais, qui passe au crible les parchemins, le tombeau des Pontils et la géométrie sacrée.
+texte: Bill Putnam et John Edwin Wood publient en 2003, chez Sutton, *[[a-mystery-solved|The Treasure of Rennes-le-Château: A Mystery Solved]]*, révisé en 2005. Pour les lecteurs de *[[l-enigme-sacree|L'Énigme sacrée]]*, c'est, dans leur langue, la mise au point de référence. La méthode est de prendre chaque élément de l'énigme et de chercher d'où il vient.
+texte: Pour les [[parchemins|parchemins]], la réponse est une édition. Le grand suit, selon eux, le texte de la Vulgate établi par Wordsworth et White, publié à Oxford à partir de 1889 : un faux postérieur à l'arrivée de Saunière, et non un écrit de l'abbé Bigou. Pour le [[tombeau-des-pontils|tombeau des Pontils]], c'est une date : le monument que l'on rapproche du tableau de Poussin a été bâti en 1903, deux cent soixante-dix ans après la toile. Pour [[rhedae|Rhedae]], la capitale de trente mille âmes, c'est une échelle : quelques centaines d'habitants.
+texte: Ils appliquent la même règle à la [[geometrie-sacree|géométrie sacrée]] d'[[henry-lincoln|Henry Lincoln]] et de ses émules. Le pentagone des sommets est irrégulier ; les tolérances admises sont larges ; les points sont choisis après coup parmi des centaines de repères ; aucun test statistique n'est proposé. Sur le voyage à [[saint-sulpice|Saint-Sulpice]], ils avancent que le Louvre ne possédait pas tous les tableaux dont le curé aurait acheté des reproductions — argument qui demande encore à être contrôlé. Putnam relève enfin l'absurdité de la thèse de *[[la-vraie-langue-celtique|La Vraie Langue celtique]]* : des chefs gaulois forgeant des noms de lieux dans une langue qui n'existait pas encore.
+texte: Leur conclusion rejoint celle des historiens français : le [[trafic-de-messes|trafic de messes]] explique l'essentiel, les tombes fouillées ont pu fournir un appoint, et le reste a été ajouté après 1956.
+attention: Ne pas confondre John Edwin Wood avec [[david-wood|David Wood]], l'auteur de *Genisis*, l'un des tenants de la géométrie qu'il critique.
+voir: a-mystery-solved, parchemins, tombeau-des-pontils, geometrie-sacree, rhedae, henry-lincoln, trafic-de-messes, histoire-et-pseudo-histoire
+
+@ paul-smith
+cat: personnages
+groupe: critiques
+nom: Paul Smith
+alias: priory-of-sion.com
+an: 1990
+role: Chercheur britannique, éditeur du site priory-of-sion.com
+def: Chercheur britannique qui publie en ligne, depuis les années 1990, les pièces d'archives sur Pierre Plantard et sur les origines du mythe.
+texte: Paul Smith tient depuis les années 1990 le site priory-of-sion.com. Le ton en est militant, mais le site cite ses pièces, et c'est par elles qu'il compte. On y trouve les rapports de police sur [[pierre-plantard|Pierre Plantard]] et sur Alpha Galates, la lettre du maire d'Annemasse qui mentionne en 1956 la condamnation de 1953, et les textes de [[noel-corbu|Noël Corbu]]. Ces documents ramènent le [[prieure-de-sion|Prieuré de Sion]] à ce qu'il fut : une association déclarée en 1956.
+texte: Smith fait aussi connaître en anglais ce que disent les registres de Saunière : d'après le dépouillement de [[octonovo|Laurent Buchholtzer]], il chiffre à 250 000 francs le produit des [[trafic-de-messes|messes]]. Sur l'affaire [[antoine-gelis|Gélis]], il note que la rose gravée sur la tombe, où l'on a voulu voir un signe, est un motif funéraire banal.
+voir: pierre-plantard, prieure-de-sion, noel-corbu, statuts-de-1956, octonovo, trafic-de-messes, histoire-et-pseudo-histoire
+
+@ octonovo
+cat: personnages
+groupe: critiques
+nom: Laurent Buchholtzer, dit Octonovo
+alias: Laurent Buchholtzer, Octonovo, Buchholtzer, octonovo.org
+an: 2008
+role: Chercheur, auteur de *Rennes-le-Château, une affaire paradoxale* (2008)
+def: Chercheur connu sous le nom d'Octonovo, il dépouille systématiquement les registres de correspondance et les comptes de Saunière et en tire, en 2008, le tableau précis de ses recettes et de ses déplacements.
+texte: Laurent Buchholtzer signe ses travaux du nom d'Octonovo. Il est, avec la famille [[corbu-et-captier|Corbu-Captier]], l'un des détenteurs de papiers de Saunière, et il les exploite de façon systématique. Son livre, *Rennes-le-Château, une affaire paradoxale*, paraît en 2008 à L'Œil du Sphinx.
+texte: Sa matière est le registre de correspondance : huit cent vingt pages, de 1896 à 1915, où [[berenger-sauniere|Saunière]] note les lettres reçues et envoyées, avec les sommes. [[rene-descadeillas|Descadeillas]] avait le dossier du procès, [[jean-jacques-bedu|Bedu]] les carnets de messes ; Buchholtzer suit l'argent correspondant par correspondant. On y voit des mandats de un à cinquante francs, des centaines de prêtres, de couvents et de particuliers, des lettres types — aucun versement massif, aucun compte à l'étranger. D'après ce seul registre, le produit du [[trafic-de-messes|trafic de messes]] atteindrait 250 000 francs, le haut de la fourchette admise.
+texte: Le même registre permet une vérification. Buchholtzer dresse la liste des déplacements de l'abbé de 1896 à 1915 : Carcassonne, Narbonne, Limoux, Toulouse, Castres, Villefort, Arles-sur-Tech, Lourdes. Paris n'y figure pas. Le voyage à [[saint-sulpice|Saint-Sulpice]], que la légende place en 1892 ou 1893, est antérieur au registre — ce sont les carnets de ces années-là qui montrent le curé à Rennes, occupé de ses messes ; mais aucun des séjours parisiens que lui prête [[gerard-de-sede|Gérard de Sède]] n'apparaît ensuite. Voir [[carnets-de-sauniere|les carnets et les comptes]].
+texte: Son site, octonovo.org, où l'on lisait des pièces comme l'avertissement de l'évêché paru le 3 février 1911 dans *La Semaine religieuse de Carcassonne*, a longtemps servi de référence. Il ne répond plus en novembre 2026 ; ses pages sont à chercher dans les archives du web.
+oeuvres: Rennes-le-Château, une affaire paradoxale (L'Œil du Sphinx, 2008)
+voir: carnets-de-sauniere, trafic-de-messes, honoraires-de-messes, jean-jacques-bedu, rene-descadeillas, saint-sulpice, piste-occultiste, paul-smith
+
+@ christian-doumergue
+cat: personnages
+groupe: critiques
+nom: Christian Doumergue
+alias: Doumergue
+an: 2000
+role: Auteur de la somme documentaire *L'Affaire de Rennes-le-Château* (2006) ; ouvert à une piste Marie-Madeleine
+def: Auteur depuis 2000 de plusieurs ouvrages documentés sur Saunière, source principale des notices de Wikipédia en français, il reste ouvert à l'idée d'un secret lié à Marie-Madeleine.
+texte: Christian Doumergue publie en 2000, chez Lacour, *Bérenger Saunière, prêtre libre à Rennes-le-Château* — le titre reprend la situation du curé après 1909. Suivent en 2006 les deux volumes de *L'Affaire de Rennes-le-Château*, chez Arqa, puis en 2013 *Le Secret dévoilé*. Les articles de Wikipédia en français tirent de ces livres l'essentiel de leur matière.
+texte: Son apport est d'abord chiffré. Il donne, d'après les livres de comptes, les recettes de [[berenger-sauniere|Saunière]] : 3 438,75 francs en 1895, 915 francs par mois en moyenne de 1895 à 1915. Il documente les [[dons-et-bienfaiteurs|dons]] des premières années et leur filière : le frère du curé, [[alfred-sauniere|Alfred]], rabat des bienfaiteurs liés au Cercle catholique de Narbonne, jusqu'à la brouille du 9 décembre 1897. Pour le don de la [[comtesse-de-chambord|comtesse de Chambord]], il rapproche les trois mille francs d'un devis de réparations de 1879. Il rapporte aussi les regrets d'[[henry-lincoln|Henry Lincoln]] devant l'afflux que son livre a provoqué.
+texte: Sa lecture diffère de celle des sceptiques sur un point : il reste ouvert à une piste [[marie-madeleine|Marie-Madeleine]] et a proposé, parmi les variantes du [[tombeau-du-christ|tombeau du Christ]], celle d'un tombeau de la sainte. Avec Thierry E. Garnier, il a aussi consacré un livre au [[prieure-de-sion|Prieuré de Sion]]. Aucune découverte n'est venue appuyer cette piste ; ses dépouillements, eux, servent également ceux qui ne la suivent pas.
+oeuvres: Bérenger Saunière, prêtre libre à Rennes-le-Château (Lacour, 2000) ; L'Affaire de Rennes-le-Château (2 vol., Arqa, 2006) ; Le Secret dévoilé (L'Opportun, 2013)
+voir: dons-et-bienfaiteurs, reseau-royaliste, alfred-sauniere, comtesse-de-chambord, marie-madeleine, tombeau-du-christ, carnets-de-sauniere, corbu-et-captier
+
+@ paul-saussez
+cat: personnages
+groupe: critiques
+nom: Paul Saussez
+alias: Saussez, La Crypte oubliée, Au tombeau des seigneurs
+an: 2004
+role: Architecte, auteur de *La Crypte oubliée* (2023)
+def: Architecte qui défend depuis 2004 l'hypothèse d'un caveau seigneurial conservé sous le chœur de l'église de Rennes-le-Château, la seule piste souterraine que les textes appuient.
+texte: Paul Saussez est architecte. Il publie en 2004 un CD-Rom, *Au tombeau des seigneurs*, puis en février 2023 un livre, *La Crypte oubliée*. Il y soutient qu'un caveau seigneurial subsiste sous le chœur de l'[[eglise-sainte-marie-madeleine|église]] : c'est la [[crypte-des-seigneurs|crypte des seigneurs]].
+texte: L'hypothèse a pour elle des textes. Le registre paroissial de 1694-1726 mentionne dans l'église un « tombeau des seigneurs », « auprès du balustre » : on y inhume en 1705, encore en 1724. Le caveau est fermé entre 1726 et 1737, puisque les Hautpoul sont ensuite enterrés au cimetière. Et le 21 septembre 1891, pendant la dépose du dallage, [[berenger-sauniere|Saunière]] note dans son [[carnets-de-sauniere|carnet]] la « découverte d'un tombeau ».
+texte: Les mesures ne la démentent pas. La campagne de géoradar menée en 2001 relève, au niveau du chœur et au-delà de trois mètres de profondeur, une anomalie interprétée comme une cavité. Mais personne n'est allé voir : les [[fouilles|fouilles]] de 1956 et celles de [[jacques-cholet|Jacques Cholet]] n'ont pas trouvé l'entrée, l'État a refusé en 2003 la fouille que demandait la mairie, et les démarches reprises de 2011 à 2014 sont restées sans suite. L'hypothèse reste sérieuse, et non vérifiée.
+texte: Saussez suit aussi les chantiers du village. En février 2024, à la fin des travaux du [[jardin-du-calvaire|jardin du calvaire]], il critique une restauration qui n'est pas faite à l'identique : briques neuves, triglyphes omis. Depuis le 16 novembre 2026, l'église est fermée pour une seconde tranche d'investigations, cette fois à l'intérieur ; leurs résultats ne sont pas publiés. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].
+oeuvres: Au tombeau des seigneurs (CD-Rom, 2004) ; La Crypte oubliée (PJS, 2023)
+voir: crypte-des-seigneurs, eglise-sainte-marie-madeleine, fouilles, carnets-de-sauniere, jacques-cholet, jardin-du-calvaire, rennes-aujourd-hui, patrick-mensior
+
+@ patrick-mensior
+cat: personnages
+groupe: critiques
+nom: Patrick Mensior
+alias: Mensior, RLCdoc, Rennes-le-Château-doc, Parle-moi de Rennes-le-Château
+an: 2002
+role: Responsable de l'association RLCdoc et de son site, éditeur de sources sur l'affaire
+def: Responsable de l'association RLCdoc, qui publie en fac-similé les pièces d'époque de l'affaire : presse, registres municipaux, carnets et journal de Saunière.
+texte: Patrick Mensior et l'association RLCdoc publient, sur le site rennes-le-chateau-doc.fr et dans le bulletin *Parle-moi de Rennes-le-Château*, les pièces sur lesquelles l'affaire se juge : la presse d'époque, les plaintes et les délibérations municipales, les carnets de messes et, en 2017, *Le Journal de l'abbé Saunière, 1901-1905*. C'est la meilleure source primaire en ligne. Voir [[carnets-de-sauniere|les carnets et les comptes]].
+texte: Mensior signe lui-même des mises au point. Sur la [[maquette-de-sauniere|maquette]] d'[[andre-douzet|André Douzet]], qu'il a examinée et mesurée, il expose de 2002 à 2012 pourquoi rien ne la rattache à Saunière. Sur les débuts du mythe, il observe qu'aucun document ne montre [[pierre-plantard|Plantard]], Chérisey ou [[gerard-de-sede|de Sède]] occupés de Rennes avant avril 1962. Sur le [[crypte-des-seigneurs|tombeau des seigneurs]], il propose que l'accès, condamné au XVIIIe siècle, se trouve sous la chaire. L'association accueille aussi les travaux d'autres chercheurs : l'étude de Tony Bontempi sur la [[stele-de-la-marquise|stèle de la marquise]], celle de François Lange sur la source des [[parchemins|parchemins]].
+voir: carnets-de-sauniere, maquette-de-sauniere, andre-douzet, crypte-des-seigneurs, stele-de-la-marquise, parchemins, pierre-jarnac, histoire-et-pseudo-histoire

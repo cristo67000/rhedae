@@ -1,0 +1,95 @@
+# Les hypothèses : trente et une pistes pesées une à une — qui l'a lancée, ce qui
+# plaide pour elle, ce qui s'y oppose, ce qu'en retient l'histoire.
+# (Le trafic de messes, seule source établie, est dans 01-coeur.txt.)
+
+# ───────────── D'où venait l'argent ? ─────────────
+
+@ dons-et-bienfaiteurs
+cat: hypotheses
+groupe: argent
+nom: Les dons et les bienfaiteurs
+alias: donateurs de Saunière, liste des donateurs, bienfaiteurs anonymes, troncs, loterie de 1887
+statut: plausible
+def: À côté des messes, Saunière a reçu des dons : quelques-uns sont attestés, d'autres ne sont connus que par la liste qu'il a dressée pour ses juges, sans jamais nommer ceux qui donnaient le plus.
+origine: Saunière lui-même, devant le tribunal de l'évêque : son mémoire en défense du 15 juillet 1910, puis la « liste des donateurs » du 25 mars 1911. La thèse est reprise, papiers de famille à l'appui, par [[corbu-et-captier|Claire Corbu et Antoine Captier]] dans *[[l-heritage-de-l-abbe-sauniere|L'Héritage de l'abbé Saunière]]* (1985), puis par [[christian-doumergue|Christian Doumergue]].
+pour: Deux dons au moins sont sûrs ou tenus pour tels : le maître-autel posé le 27 juillet 1887, offert par Mme Marie Cavailhé, de Coursan (sept cents francs environ), et la somme venue de la [[comtesse-de-chambord|comtesse de Chambord]], que Saunière inscrit pour trois mille francs.
+pour: Son frère [[alfred-sauniere|Alfred]], prêtre, précepteur dans la noblesse et prédicateur « ayant beaucoup de relations », lui rabat des bienfaiteurs : de 30 000 à 55 000 francs selon les décomptes, dont une part liée au Cercle catholique de Narbonne.
+pour: Un curé qui rebâtit son église quête toujours : troncs, loterie paroissiale de 1887, invitation adressée aux donateurs le 15 juin 1890. Rien là que d'ordinaire, et ses [[carnets-de-sauniere|livres de comptes]] en gardent la trace.
+pour: Il a refusé jusqu'au bout de nommer ses donateurs, quitte à être condamné : on peut y voir la parole donnée à des familles qui ne voulaient pas paraître.
+contre: Hors l'autel de Mme Cavailhé et le don Chambord, les montants ne reposent que sur les déclarations de Saunière à ses juges. La commission d'enquête conclut le 4 octobre 1911 que 36 000 francs seulement sont justifiés, le reste tenant à sept postes sans pièces.
+contre: Sa liste annonce 193 150 francs de ressources, et son état de dépenses 193 050 : l'abbé [[bruno-de-monts|Bruno de Monts]] a montré que les dépenses avaient été enflées pour rejoindre les dons.
+contre: Alfred meurt en 1905 : il ne peut plus confirmer. Les deux frères se sont d'ailleurs brouillés en décembre 1897, alors que les plus fortes recettes viennent après.
+contre: Les registres ne montrent aucun versement massif ni aucun compte à l'étranger : des mandats de un à cinquante francs, par centaines.
+verdict: Un complément réel, surtout de 1886 à 1897, impossible à chiffrer. Les dons n'effacent pas le [[trafic-de-messes|trafic de messes]] : ils s'y ajoutent, et les deux ensemble suffisent à payer ce que montrent les factures.
+texte: Quand il arrive à [[rennes-le-chateau|Rennes-le-Château]], en 1885, [[berenger-sauniere|Bérenger Saunière]] n'a que son traitement de neuf cents francs et une église à refaire. Les premiers fonds sont modestes et se laissent suivre : six cents francs de la commune, quatre cents d'un legs de l'abbé Pons, un ancien curé, puis le don de la comtesse de Chambord, veuve du prétendant [[legitimisme|légitimiste]]. Ce dernier est le plus cité et le moins sûr. Saunière l'inscrit pour trois mille francs ; une autre source parle de mille francs en deux versements ; la pièce n'a pas été retrouvée, et la donatrice meurt à Goritz le 25 mars 1886, ce qui suppose un don très précoce ou transmis par un intermédiaire.
+texte: Les années du chantier de l'[[eglise-sainte-marie-madeleine|église]] sont celles où les dons comptent le plus. Une paroissienne de Coursan paie l'autel, une loterie est tirée en 1887, les troncs rapportent, selon le curé, 1 200 francs par an. Alfred, qui a ses entrées chez des familles nobles, fait le reste : une famille de Narbonne aurait donné 25 000 francs à elle seule, d'après les chiffres que reprend Christian Doumergue. Le total que Saunière attribue aux dons de 1885 à 1905 monte à 82 800 francs.
+texte: Tout cela n'est connu que par lui. Cité en 1910 devant l'officialité de [[carcassonne|Carcassonne]], il refuse de livrer des noms. Le 13 mars 1911, il envoie soixante et une factures et dit ne rien garder au-delà de deux ans ; le 25 mars, il produit sa liste : troncs, loterie, dons transmis par Alfred, pensionnaires reçus à la villa, cartes postales, timbres, meubles, apports de la famille [[marie-denarnaud|Dénarnaud]]. Ses juges ne le croient pas, et la sentence du 5 décembre 1911 le condamne pour avoir dissipé des fonds dont il n'était que le dépositaire. Voir [[proces-de-sauniere|le procès]] et [[dossier-du-proces|son dossier]].
+texte: Certaines de ces ressources sont pourtant bien attestées, et elles sont petites : trente-trois modèles de cartes postales du domaine, des commissions sur les produits d'une distillerie à partir de 1906, la vente de timbres, des médailles et des chapelets cédés aux soldats convalescents pendant la guerre. Elles disent un homme qui fait argent de tout, non un homme entretenu par un mécène. Quand la crise viticole de 1907 appauvrit le Midi, ses rentrées chutent aussitôt.
+texte: Ce que les documents laissent ouvert tient en peu de mots : qui étaient les donateurs d'Alfred, et combien ont-ils donné. La légende a rempli ce blanc avec des princes et des archiducs ; voir [[reseau-royaliste|l'argent des royalistes]]. Les comptes, eux, n'ont besoin de personne d'aussi grand.
+voir: trafic-de-messes, reseau-royaliste, alfred-sauniere, comtesse-de-chambord, dossier-du-proces, proces-de-sauniere, carnets-de-sauniere, bruno-de-monts, corbu-et-captier
+
+@ reseau-royaliste
+cat: hypotheses
+groupe: argent
+nom: L'argent des royalistes
+alias: réseau légitimiste, piste Habsbourg, Monsieur Guillaume, argent des Habsbourg, piste monarchiste
+statut: fragile
+def: Saunière aurait été financé par les milieux légitimistes, voire par la maison de Habsbourg, pour services rendus à la cause du roi : son royalisme est certain, le financement ne repose sur aucune pièce.
+origine: Les *[[dossiers-secrets|Dossiers secrets]]* et *[[l-or-de-rennes|L'Or de Rennes]]* de [[gerard-de-sede|Gérard de Sède]], en 1967, font venir à Rennes un archiduc de Habsbourg sous le nom de « Monsieur Guillaume ». De Sède en fait sa thèse personnelle en 1988, dans *Rennes-le-Château : le dossier, les impostures, les phantasmes, les hypothèses*.
+pour: Saunière est un militant : en octobre 1885, il prêche contre les républicains et le ministre des Cultes lui supprime son traitement. En 1899 encore, le sous-préfet de Limoux le note « réactionnaire militant ».
+pour: La [[comtesse-de-chambord|comtesse de Chambord]], veuve du prétendant, figure parmi ses donateurs ; elle est née archiduchesse d'Autriche-Este, ce qui mène aux Habsbourg.
+pour: Son frère [[alfred-sauniere|Alfred]] fréquente la noblesse, et l'Aude compte des notables [[legitimisme|légitimistes]] actifs, autour des cercles catholiques de Narbonne et de Carcassonne.
+contre: De l'archiduc, il n'existe rien : ni lettre, ni mention dans les carnets, ni compte en banque. La « visite de février 1890 » que donnent certaines chronologies est sans source.
+contre: [[jean-salvator-de-habsbourg|Jean-Salvator de Habsbourg]], à qui la légende pense, renonce à ses titres en 1889 sous le nom de Johann Orth et disparaît en mer en 1890 : avant le domaine, avant les grandes recettes.
+contre: Les [[carnets-de-sauniere|registres]] montrent des centaines de petits mandats, aucun versement massif, aucun compte à l'étranger. Un agent payé par une maison régnante ne solliciterait pas des messes à un franc.
+contre: Le [[comte-de-chambord|comte de Chambord]] meurt en 1883, deux ans avant l'arrivée de Saunière à Rennes ; la comtesse meurt en mars 1886. La cause n'a plus de prétendant quand le curé commence à bâtir.
+verdict: Le royalisme du curé est établi et lui a valu quelques dons de familles amies. Le réseau, l'archiduc et le compte secret sont une extrapolation de 1967.
+texte: Il y a dans cette piste un fait et une fable. Le fait : [[berenger-sauniere|Bérenger Saunière]] est un prêtre de combat, dans une [[eglise-et-republique|Église en guerre avec la République]]. Son prône d'octobre 1885, entre les deux tours des législatives, lui coûte sept mois de traitement, et [[mgr-billard|Mgr Billard]] le couvre. Le Midi compte alors bien des curés de cette trempe, qui refuseront en 1892 le ralliement à la République demandé par le pape.
+texte: De ce royalisme sont venus des dons. La comtesse de Chambord soutenait, comme son entourage, les œuvres catholiques et royalistes de province : son nom sur la liste de Saunière n'a rien d'étrange, même si le montant reste discuté. Alfred, précepteur dans des familles nobles, a rabattu vers son frère d'autres générosités. C'est la part plausible de l'histoire, et elle est traitée avec [[dons-et-bienfaiteurs|les dons et les bienfaiteurs]].
+texte: La fable commence en 1967. Les textes déposés par [[pierre-plantard|Pierre Plantard]] à la Bibliothèque nationale, puis le livre de Gérard de Sède, racontent qu'un « archiduc Jean de Habsbourg » serait monté à Rennes et aurait ouvert un compte au curé. Aucun document ne l'appuie. Le personnage auquel on songe a quitté la cour de Vienne en 1889 et s'est perdu en mer l'année suivante.
+texte: Gérard de Sède y est pourtant revenu. En 1988, dans le livre où il démolit le [[prieure-de-sion|prieuré de Sion]] et les faux de son ancien associé, il garde une explication à lui : l'argent des Habsbourg. Il ne produit pas davantage de pièce. La piste a pour elle la couleur politique du curé ; il lui manque le premier franc.
+voir: dons-et-bienfaiteurs, legitimisme, comte-de-chambord, comtesse-de-chambord, jean-salvator-de-habsbourg, alfred-sauniere, eglise-et-republique, gerard-de-sede
+
+@ magot-de-l-abbe-bigou
+cat: hypotheses
+groupe: argent
+nom: Le magot de l'abbé Bigou
+alias: dépôt Bigou, cache de la Révolution, trésor des Hautpoul, dépôt Bigou-Hautpoul
+statut: fragile
+def: Avant de partir en exil sous la Révolution, le curé Antoine Bigou aurait caché dans l'église des objets, de l'argent ou des papiers, que Saunière aurait retrouvés un siècle plus tard.
+origine: La plaquette signée « Madeleine Blancasall », déposée à la Bibliothèque nationale en août 1965, fait la première de Bigou le dépositaire d'un secret ; *[[l-or-de-rennes|L'Or de Rennes]]* (1967) le répète. Sous une forme réduite — quelques objets du culte cachés par un prêtre qui s'exile —, l'idée est envisagée par [[rene-descadeillas|René Descadeillas]] en 1974, puis par [[corbu-et-captier|Claire Corbu et Antoine Captier]].
+pour: Un prêtre réfractaire qui part pour l'Espagne ne peut rien emporter : cacher les vases sacrés, l'argenterie et les papiers de la paroisse est alors un geste courant.
+pour: [[antoine-bigou|Bigou]] était curé depuis 1774 et avait enterré la [[marie-de-negre-d-ables|dernière dame du lieu]] : s'il existait un dépôt de la famille, il était le mieux placé pour le connaître.
+pour: La tradition la plus sobre de la découverte, celle de la famille Captier, parle d'un écrit glissé dans un [[balustre-et-fiole|balustre de bois]] : un papier du XVIIIe siècle, non un trésor, mais qui peut y conduire.
+contre: L'inventaire du 8 octobre 1792 ne signale aucun objet de valeur dans l'église.
+contre: Les [[famille-d-hautpoul|Hautpoul]] de Rennes sont ruinés dès 1753 : la marquise meurt endettée, après avoir vendu deux seigneuries ; sa fille vend le château en 1816.
+contre: Rien n'établit que Bigou ait reçu une confession, composé une épitaphe codée ou caché des [[parchemins|parchemins]] : ces détails paraissent en 1965, dans un texte fabriqué.
+contre: Aucune vente d'objets anciens par Saunière n'a été repérée, et son train de vie suit la courbe des messes, non celle d'une trouvaille.
+verdict: Possible à petite échelle — quelques objets, quelques pièces, un papier —, et invérifiable. Cela n'expliquerait pas les dépenses du curé, que les messes et les dons suffisent à couvrir.
+texte: Antoine Bigou succède en 1774 à son oncle comme curé de [[rennes-le-chateau|Rennes-le-Château]]. Il y est encore quand meurt Marie de Nègre d'Ables, le 17 janvier 1781. Sous la [[revolution-en-razes|Révolution]], il refuse le serment, abandonne ses biens à l'État et passe en Espagne ; il meurt à Collioure le 21 mars 1794, comme l'a montré son acte de décès, retrouvé en 2009. Beaucoup de livres le font encore mourir à Sabadell, en Catalogne : la version est périmée.
+texte: De ce départ est née une idée simple, et qui n'a rien d'absurde. Un curé qui s'en va cache ce qu'il ne veut pas laisser saisir ; un successeur qui démonte l'autel ou la chaire, cent ans après, tombe dessus. C'est ainsi que René Descadeillas, peu suspect de complaisance, admet qu'un petit dépôt ait pu exister. L'association RLCdoc propose une lecture plus économe encore : le papier trouvé en 1887 ou 1891 aurait seulement signalé l'accès au caveau des seigneurs, condamné vers 1730. Voir [[crypte-des-seigneurs|la crypte des seigneurs]].
+texte: La légende a fait de ce curé de village un tout autre personnage. Dans les textes déposés à la Bibliothèque nationale par [[pierre-plantard|Pierre Plantard]], Bigou reçoit de la marquise mourante un secret de famille, grave pour sa tombe une [[stele-de-la-marquise|épitaphe]] à double sens, retourne la [[dalle-des-chevaliers|dalle des Chevaliers]] et cache des parchemins chiffrés. Aucune de ces actions n'est documentée, et le message qu'on lui prête a été composé après 1906.
+texte: Il reste des traditions de village, recueillies après 1956 : une « oule » pleine d'objets brillants aperçue par les ouvriers sous le dallage, un calice ancien donné à l'abbé [[eugene-grassaud|Grassaud]], une famille de bouchers de Quillan qui aurait été payée en bijoux. Aucune n'est vérifiée. Elles disent au moins ce que le pays a cru : une trouvaille de curé, à la mesure d'une église pauvre.
+voir: antoine-bigou, revolution-en-razes, famille-d-hautpoul, marie-de-negre-d-ables, balustre-et-fiole, crypte-des-seigneurs, pillage-des-tombes, parchemins
+
+@ pillage-des-tombes
+cat: hypotheses
+groupe: argent
+nom: Les tombes fouillées
+alias: pillage des tombes, fouilles du cimetière, fouilles nocturnes, bijoux des tombes
+statut: fragile
+def: Saunière aurait tiré de l'argent d'objets et de bijoux pris dans le caveau de l'église et dans les tombes du cimetière, qu'il a bel et bien bouleversé.
+origine: Les [[plaintes-de-1895|plaintes d'habitants]] des 12 et 14 mars 1895 établissent le fait des bouleversements, sans parler de trésor. L'idée d'un profit vient des témoignages recueillis au village après 1956 ; [[jean-jacques-bedu|Jean-Jacques Bedu]] (1990), puis [[putnam-et-wood|Putnam et Wood]] (2003), l'admettent comme un appoint possible.
+pour: Le 21 septembre 1891, Saunière note dans son [[carnets-de-sauniere|carnet]] la « découverte d'un tombeau » ; le chantier s'arrête et reprend le 14 octobre avec d'autres ouvriers.
+pour: En 1895, deux plaintes au préfet l'accusent de déplacer croix, pierres et ossements ; en 1899, un habitant, Jean Sarda, écrit au procureur qu'il fouille « de-ci de-là le champ de repos ».
+pour: Un caveau de seigneurs et de vieilles tombes peuvent contenir monnaies et bijoux. La tradition parle d'une « oule » d'objets brillants, que le curé aurait dits « médailles de Lourdes ».
+contre: Aucune vente d'antiquités ou de métal précieux n'a été retrouvée, ni dans ses comptes ni ailleurs.
+contre: Saunière donne lui-même la raison de ses travaux : un ossuaire, de la place pour de nouvelles sépultures, puis un projet de chapelle. Le 1er juin 1899, le conseil municipal écrit au sous-préfet qu'il approuve ces travaux.
+contre: Les seigneurs du lieu étaient ruinés, et le caveau de l'église n'a plus servi après 1724 : on n'y attend guère de richesses.
+contre: La [[stele-de-la-marquise|stèle de la marquise]], qu'il aurait effacée, est encore lisible en 1905, dix ans après les plaintes.
+verdict: Possible, modeste, non prouvé. Les bouleversements du cimetière sont certains ; qu'ils aient rapporté de l'argent ne l'est pas.
+texte: C'est la seule accusation portée contre Saunière de son vivant par ses propres paroissiens. En mars 1895, après une séance du conseil municipal, deux lettres partent pour la préfecture : le curé remue le [[cimetiere|cimetière]], déplace les croix, dérange les morts. On y lit de la colère pour des tombes de famille, rien sur de l'or. Quatre ans plus tard, Jean Sarda, ancien conseiller, se plaint à son tour ; le maire reconnaît que les faits sont exacts, puis se range, avec son conseil, du côté du curé.
+texte: Ce que faisait Saunière se devine en partie. À l'automne 1894, des tailleurs de pierre travaillent au cimetière, sans doute à l'ossuaire ; le mur est refait en 1897 ; un projet de chapelle occupe l'année 1898, et un caveau est creusé en 1901. Un cimetière de village trop plein se réorganise ainsi, et cela ne va jamais sans heurts.
+texte: Mais il y a le tombeau de 1891. Sous le dallage de l'église, le curé a trouvé une sépulture, probablement l'accès du caveau des Hautpoul ; voir [[crypte-des-seigneurs|la crypte des seigneurs]]. Pour Patrick Mensior, de l'association RLCdoc, les fouilles du cimetière pourraient avoir cherché une autre entrée vers ce caveau, par l'extérieur : des témoins auraient vu le curé prendre des mesures autour de l'église avec une corde à nœuds. C'est une hypothèse, non un fait.
+texte: Qu'il ait ramassé au passage quelques objets est admis comme possible par les critiques eux-mêmes. La légende est allée plus loin : fouilles nocturnes avec [[marie-denarnaud|Marie Dénarnaud]], inscriptions martelées, tombe de la marquise violée. Ces scènes viennent de [[noel-corbu|Noël Corbu]] et de [[gerard-de-sede|Gérard de Sède]] ; les plaintes d'époque n'en disent rien.
+voir: plaintes-de-1895, cimetiere, crypte-des-seigneurs, carnets-de-sauniere, magot-de-l-abbe-bigou, stele-de-la-marquise, dalle-des-chevaliers

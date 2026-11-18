@@ -1,0 +1,138 @@
+# La chronologie du dossier.
+#
+#     = identifiant | Nom de l'époque | Une phrase qui la résume.
+#     date | nature | Le fait, avec ses [[renvois]] et ses *italiques*.
+#
+# La date : « 1885 », « 1885-06 », « 1885-06-01 » ; « ~507 » pour « vers 507 » ;
+# « -120 » avant notre ère ; « 790 = fin du VIIIe siècle » impose le libellé.
+# Les dates se suivent dans l'ordre, époque par époque.
+#
+# La nature dit ce que vaut la date :
+#     atteste    un document d'époque l'établit
+#     discute    le fait est réel mais son sens, sa date ou son ampleur sont discutés
+#     legende    aucun document : une tradition, un récit tardif
+#     fabrique   une invention reconnue : un faux, une mystification
+#
+# Sources : les travaux cités dans les Réglages (« La méthode du dossier »), les
+# pièces publiées par l'association RLCdoc, la presse d'époque.
+
+= avant | Avant l'abbé Saunière | Un oppidum, un nom carolingien, une place forte ruinée, puis un village de seigneurs sans fortune : ce que les textes disent de Rennes avant 1885, et ce que la légende y a ajouté.
+-3800 = vers 4000 av. J.-C. | atteste | Des hommes du Néolithique occupent déjà la colline : c'est un site de hauteur, qui commande la confluence de l'Aude et de la Sals.
+410-08-24 | atteste | Les Wisigoths d'[[alaric|Alaric]] pillent Rome trois jours durant. Leur butin, où la légende mettra le trésor du Temple de Jérusalem, les suit en Gaule : c'est la racine du [[tresor-des-wisigoths|trésor des Wisigoths]].
+507 | atteste | Battus par Clovis à Vouillé, les [[wisigoths-en-septimanie|Wisigoths]] ne gardent en Gaule que la Septimanie, de Narbonne à Carcassonne : le Razès en fait partie.
+~681 | fabrique | [[sigebert-iv|Sigebert IV]], fils de [[dagobert-ii|Dagobert II]], se serait réfugié à [[rhedae|Rhedae]] et y aurait fait souche. Le personnage n'existe dans aucun texte ancien : il sort des [[dossiers-secrets|Dossiers secrets]] déposés à la Bibliothèque nationale en 1967.
+790 = fin du VIIIe siècle | atteste | L'évêque Théodulf d'Orléans, envoyé en mission en Septimanie, nomme *Redae* dans un poème, à côté de Carcassonne : c'est la première mention de [[rhedae|Rhedae]], qui a donné son nom au [[comte-de-razes|Razès]].
+1067 | atteste | La comtesse Ermengarde vend Carcassonne et le Razès au comte de Barcelone, qui les inféode aux Trencavel.
+~1170 | discute | Le roi d'Aragon Alphonse II aurait pris et détruit la place. L'épisode vient de l'érudit Louis Fédié (*[[le-comte-de-razes-fedie|Le Comté de Razès]]*, 1880) ; on le cherche en vain dans les sources.
+1185 | atteste | Un inventaire des Hospitaliers mentionne pour la première fois l'[[eglise-sainte-marie-madeleine|église Sainte-Marie-Madeleine]].
+1209 | atteste | La [[croisade-des-albigeois|croisade contre les Albigeois]] s'abat sur les terres des Trencavel.
+1230 | atteste | Le Razès est donné en fief à [[pierre-de-voisins|Pierre de Voisins]], compagnon de Simon de Montfort.
+1244-03-16 | atteste | Plus de deux cents cathares sont brûlés au pied de [[montsegur|Montségur]]. Quatre d'entre eux s'étaient échappés pendant le siège : de là vient le [[tresor-des-cathares|trésor des cathares]].
+1307-10-13 | atteste | Philippe le Bel fait arrêter les Templiers du royaume. Ceux du Roussillon, qui relèvent alors du roi de Majorque, ne sont pas inquiétés ce jour-là : la légende en tirera le [[tresor-des-templiers|trésor du Bézu]].
+1344 | atteste | Des gentilshommes sont poursuivis pour avoir frappé de la fausse monnaie au [[chateau-du-bezu|château du Bézu]] : l'affaire des [[faux-monnayeurs-du-bezu|faux-monnayeurs]].
+1362 | atteste | Les routiers d'Henri de Trastamare prennent et [[ruine-de-1362|ruinent la place]]. Rennes ne sera plus jamais qu'un village.
+1422 | atteste | Par mariage, la seigneurie passe aux [[famille-d-hautpoul|Hautpoul]], qui la garderont jusqu'à la Révolution.
+1645 | legende | Un berger, Ignace Paris, aurait trouvé de l'or dans un souterrain et serait mort sans livrer son secret. Aucun texte d'époque n'en parle : le récit paraît chez [[noel-corbu|Noël Corbu]].
+1656-04-17 | atteste | De Rome, l'abbé Louis Fouquet écrit à son frère le surintendant qu'il a formé avec [[nicolas-poussin|Poussin]] des projets dont les rois auraient peine à tirer pareil avantage : c'est la [[lettre-de-louis-fouquet|lettre de 1656]].
+1705 | atteste | Le registre paroissial enregistre une inhumation dans le « tombeau des seigneurs », dans l'église, près du balustre : c'est le seul souterrain que les textes attestent, la [[crypte-des-seigneurs|crypte des seigneurs]].
+1774 | atteste | [[antoine-bigou|Antoine Bigou]] succède à son oncle comme curé de Rennes.
+1781-01-17 | atteste | Mort de [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], veuve de François d'Hautpoul, marquise de Blanchefort. Elle est enterrée au cimetière ; sa [[stele-de-la-marquise|stèle]] deviendra l'une des pièces de l'énigme.
+1792 | atteste | Prêtre réfractaire, l'abbé [[antoine-bigou|Bigou]] quitte Rennes pour l'Espagne. Il meurt en 1794. La légende veut qu'il ait caché un dépôt avant de partir : le [[magot-de-l-abbe-bigou|magot de l'abbé Bigou]].
+1832 | atteste | Dans son *[[voyage-a-rennes-les-bains|Voyage à Rennes-les-Bains]]*, Labouïsse-Rochefort rapporte la légende d'un trésor de dix-neuf millions et demi que le diable garde à [[chateau-de-blanchefort|Blanchefort]]. Le pays avait donc son trésor un demi-siècle avant Saunière.
+1851 | atteste | Le village compte 474 habitants. Il n'en aura plus que 241 en 1891 : c'est un [[exode-rural|village qui se vide]].
+1852-04-11 | atteste | Naissance de [[berenger-sauniere|Bérenger Saunière]] à [[montazels|Montazels]], en face de Rennes, de l'autre côté de la vallée.
+1872 | atteste | [[henri-boudet|Henri Boudet]] est nommé curé de [[rennes-les-bains|Rennes-les-Bains]].
+1880 | atteste | Louis Fédié publie *[[le-comte-de-razes-fedie|Le Comté de Razès et le diocèse d'Alet]]* : il y fait de Rennes une capitale wisigothique de trente mille habitants.
+1883-08-24 | atteste | Mort du [[comte-de-chambord|comte de Chambord]], « Henri V » pour les [[legitimisme|légitimistes]].
+
+= sauniere | Le temps de Saunière | De 1885 à 1917 : un curé monarchiste, un chantier de vingt ans, un procès. Presque tout est ici attesté par ses carnets, ses comptes et les archives de l'évêché.
+1885-06-01 | atteste | [[berenger-sauniere|Bérenger Saunière]], trente-trois ans, s'installe à [[rennes-le-chateau|Rennes-le-Château]]. Le presbytère est inhabitable, l'église menace ruine.
+1885-10 | atteste | Entre les deux tours des élections législatives, il prêche contre les républicains. Voir [[eglise-et-republique|l'Église contre la République]].
+1885-12-01 | atteste | Le ministre des Cultes suspend son traitement. Il le retrouve le 1er juillet 1886.
+1886 | discute | La [[comtesse-de-chambord|comtesse de Chambord]] lui aurait donné trois mille francs pour son église. Le chiffre vient de ses propres listes de donateurs ; elle meurt en mars 1886, et la pièce n'a pas été retrouvée.
+1886 | atteste | [[henri-boudet|Henri Boudet]] publie *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]*.
+1887-07-27 | atteste | Un nouveau maître-autel est posé, offert par une paroissienne de Coursan. C'est en démontant l'ancien qu'aurait eu lieu la découverte.
+1887 | legende | Dans un pilier creux de l'autel, le curé aurait trouvé des [[parchemins|parchemins]] codés. Les versions divergent sur la date, le contenant et le contenu ; la plus sobre parle d'une [[balustre-et-fiole|fiole dans un balustre]].
+1889-07-01 | atteste | Première visite de [[mgr-billard|Mgr Billard]], qui note « le pavé à refaire ».
+1891-06-21 | atteste | Clôture d'une mission : une Vierge de Lourdes est posée sur l'ancien [[pilier-sculpte|pilier de l'autel]], retourné et gravé « [[penitence-penitence|Pénitence ! Pénitence !]] » et « Mission 1891 ».
+1891-09-21 | atteste | Saunière note dans son [[carnets-de-sauniere|carnet]] : « Lettre de Granès. Découverte d'un tombeau. Le soir, pluie. » C'est la seule découverte qu'il ait lui-même consignée.
+1892 = mars 1892 | fabrique | Saunière serait monté à Paris faire lire ses parchemins à [[saint-sulpice|Saint-Sulpice]], où le jeune [[emile-hoffet|Émile Hoffet]] l'aurait présenté à [[emma-calve|Emma Calvé]]. Ses carnets, qui notent tous ses déplacements, n'en gardent aucune trace.
+1893-09-06 | atteste | Débordé par les demandes, il écrit dans son carnet de messes « Arrête là » et cesse de pointer les messes une à une. Voir [[trafic-de-messes|le trafic de messes]].
+1895-03-12 | atteste | Deux habitants se plaignent au préfet : le curé bouleverse le [[cimetiere|cimetière]], déplace croix et ossements. Ce sont les [[plaintes-de-1895|plaintes de 1895]].
+1896-11 | atteste | Marché avec la [[maison-giscard|maison Giscard]], de Toulouse, pour le décor de l'église : deux mille cinq cents francs, payables par annuités.
+1897-06-06 | atteste | Jour de la Pentecôte : [[mgr-billard|Mgr Billard]] bénit l'église restaurée, avec son [[asmodee|diable au bénitier]] et son [[chemin-de-croix|chemin de croix]].
+1897-11-01 | atteste | À [[coustaussa|Coustaussa]], l'abbé [[antoine-gelis|Antoine Gélis]] est trouvé assassiné dans son presbytère. Le crime ne sera jamais élucidé.
+1898-12 | atteste | Six parcelles sont achetées au nom de [[marie-denarnaud|Marie Dénarnaud]] : le futur domaine ne sera jamais au nom du curé.
+1899-03 | atteste | Saunière se procure l'annuaire du clergé et démarche par lettres circulaires prêtres, couvents et particuliers.
+1901-05-16 | atteste | L'évêché lui interdit de solliciter des messes. Il promet, et recommence deux semaines plus tard. L'année 1901 est celle de sa plus forte recette : vingt-cinq mille francs.
+1901-06-03 | atteste | Première pierre de la [[villa-bethanie|villa Béthanie]]. Suivent la [[tour-magdala|tour Magdala]], le [[belvedere-et-orangerie|belvédère]] et les jardins, achevés pour l'essentiel en 1906.
+1901-12-03 | atteste | Mort de [[mgr-billard|Mgr Billard]]. Son successeur, [[mgr-de-beausejour|Mgr de Beauséjour]], sera moins patient.
+1903 | atteste | Aux Pontils, près d'Arques, un propriétaire fait bâtir un caveau pour sa famille : le futur [[tombeau-des-pontils|tombeau des Pontils]].
+1905-06-25 | atteste | Les membres de la Société d'études scientifiques de l'Aude visitent Rennes et relèvent l'épitaphe de la marquise : c'est l'[[bulletin-de-la-sesa-1906|excursion de 1905]].
+1905-09-09 | atteste | Mort d'[[alfred-sauniere|Alfred Saunière]], le frère.
+1905-12-09 | atteste | Loi de [[separation-de-1905|Séparation des Églises et de l'État]].
+1909-01-15 | atteste | L'évêché nomme Saunière à [[coustouge|Coustouge]]. Il refuse, offre sa démission et reste au village, où il dit la messe dans la véranda de sa villa.
+1910-05-27 | atteste | Acte d'accusation devant l'officialité de Carcassonne : trafic d'honoraires de messes, désobéissance, dépenses non justifiées. Voir [[proces-de-sauniere|le procès]].
+1910-11-05 | atteste | Seconde sentence : dix jours d'exercices spirituels, et un mois pour produire ses comptes.
+1911-03-25 | atteste | Saunière adresse à ses juges une liste de donateurs : 193 150 francs en vingt ans, selon lui. Voir [[dossier-du-proces|le dossier du procès]].
+1911-12-05 | atteste | Sentence définitive : suspense *a divinis* de trois mois, à prolonger jusqu'à restitution des sommes — donc sans terme.
+1913 | atteste | Le Crédit foncier lui prête six mille francs, le domaine étant estimé à dix-huit mille : le « curé aux milliards » est un homme endetté.
+1915-03-30 | atteste | Mort d'[[henri-boudet|Henri Boudet]] à [[axat|Axat]].
+1917-01-05 | fabrique | Saunière aurait signé un devis de huit millions de francs pour une route, une adduction d'eau et une tour de cinquante mètres. L'affirmation vient de [[noel-corbu|Noël Corbu]] ; aucune pièce ne l'appuie.
+1917-01-17 | atteste | Il est frappé d'un malaise sur la terrasse. La date, fête de saint Antoine ermite, est aussi celle de la mort de la marquise : c'est le [[17-janvier|17 janvier]] de la légende.
+1917-01-22 | atteste | Mort de [[berenger-sauniere|Bérenger Saunière]], à soixante-quatre ans. L'abbé [[jean-riviere|Rivière]], curé d'Espéraza, a levé la censure à son chevet.
+
+= silence | Le silence | De 1917 à 1955 : une servante vieillit dans un domaine invendable. Personne ne parle encore de mystère.
+1917-06-12 | atteste | [[marie-denarnaud|Marie Dénarnaud]] règle le cercueil du curé. La légende, lisant « janvier » pour « juin », dira qu'il avait été commandé avant sa mort.
+1920-03-18 | atteste | Naissance à Paris de [[pierre-plantard|Pierre Plantard]], que rien ne rattache au Razès.
+1936 | atteste | Un guide de l'Aude évoque en passant le curé bâtisseur et la rumeur d'un trésor : c'est la première trace imprimée.
+1946-07-22 | atteste | Par testament, Marie Dénarnaud institue [[noel-corbu|Noël Corbu]] et sa femme légataires universels, à charge pour eux de l'entretenir.
+1948-03-04 | atteste | Un journaliste belge décrit le village et le souvenir d'un curé quêteur et bâtisseur. Il n'y voit aucun mystère.
+1953-01-29 | atteste | Mort de [[marie-denarnaud|Marie Dénarnaud]], à quatre-vingt-quatre ans.
+1953 | legende | Elle aurait promis de confier avant de mourir « un secret qui rendrait riche et puissant », et répété que les gens d'ici marchaient sur de l'or sans le savoir. Ces mots ne sont connus que par Corbu.
+
+= mythe | La fabrique du mythe | De 1955 à 1981 : un hôtelier lance un trésor, un mystificateur y greffe une dynastie, un journaliste en fait un livre. Les dates sont réelles ; ce qu'elles publient est inventé.
+1955 = Pâques 1955 | atteste | [[noel-corbu|Noël Corbu]] ouvre dans la villa l'hôtel-restaurant de la Tour. Pour ses clients, il enregistre sur bande [[recit-de-noel-corbu|l'histoire du curé]].
+1956-01-12 | atteste | *La Dépêche du Midi* publie pendant trois jours [[articles-de-la-depeche|« la fabuleuse découverte du curé aux milliards »]]. Le trésor est celui de [[tresor-de-blanche-de-castille|Blanche de Castille]] : dix-huit millions et demi de pièces d'or. Voir [[naissance-du-mythe|1956]].
+1956-03 | atteste | Des chercheurs de Carcassonne [[fouilles|fouillent l'église]]. Ils ne trouvent qu'un [[crane-a-l-entaille|crâne entaillé]], qui sera daté du XIVe siècle.
+1956-06-25 | atteste | À Saint-Julien-en-Genevois, [[pierre-plantard|Pierre Plantard]] et trois amis déclarent une association, le [[prieure-de-sion|Prieuré de Sion]]. Ses [[statuts-de-1956|statuts]] parlent de logement social à [[annemasse|Annemasse]]. Elle n'a alors aucun rapport avec Rennes.
+1958 | atteste | La Société des arts et des sciences de Carcassonne clôt son enquête : aucun indice d'un trésor.
+1959-05-31 | atteste | Le conseil municipal autorise l'ingénieur [[jacques-cholet|Jacques Cholet]] à fouiller l'église. Il creuse des années, et ne trouve rien.
+1962-04 | atteste | [[robert-charroux|Robert Charroux]] consacre un chapitre de *[[tresors-du-monde|Trésors du monde]]* au récit de Corbu.
+1964-01-18 | fabrique | Premier dépôt à la Bibliothèque nationale, sous le nom d'« Henri Lobineau » : une généalogie des rois mérovingiens « d'après les parchemins de l'abbé Saunière ». C'est le début de [[atelier-des-faux|l'atelier des faux]].
+1965-07-28 | atteste | Un arrêté municipal interdit toutes les fouilles sur le territoire de la commune. Il est toujours en vigueur.
+1966-06-20 | fabrique | Dépôt des *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]*, attribuées à un érudit mort en 1899, [[eugene-stublein|Eugène Stüblein]] : la [[dalle-de-la-marquise|dalle « Et in Arcadia ego »]], parue l'année précédente dans une plaquette signée d'un pseudonyme, y reçoit une provenance.
+1967-03-20 | fabrique | Dépôt du *[[le-serpent-rouge|Serpent rouge]]*, signé de trois hommes qui venaient de se pendre et dont les noms avaient été pris dans les journaux.
+1967-04-27 | fabrique | Dépôt des *[[dossiers-secrets|Dossiers secrets d'Henri Lobineau]]* : la liste des grands maîtres du Prieuré, de 1188 à Jean Cocteau.
+1967 | fabrique | *[[l-or-de-rennes|L'Or de Rennes]]*, de [[gerard-de-sede|Gérard de Sède]], reproduit pour la première fois les deux [[parchemins|parchemins]], qu'a fabriqués [[philippe-de-cherisey|Philippe de Chérisey]].
+1968-05-20 | atteste | Mort de [[noel-corbu|Noël Corbu]] dans un accident de la route. Il avait vendu le domaine à [[henri-buthion|Henri Buthion]].
+1972 | atteste | La BBC diffuse le premier des trois [[films-de-la-bbc|films d'Henry Lincoln]] : l'affaire passe la Manche. Voir [[vague-anglaise|la vague anglaise]].
+1974 | atteste | [[rene-descadeillas|René Descadeillas]] publie *[[mythologie-du-tresor-de-rennes|Mythologie du trésor de Rennes]]* : la première enquête d'historien. La même année, Chérisey reconnaît par lettre être l'auteur des parchemins. Voir [[aveux|les aveux]].
+1981-03-02 | atteste | [[francois-mitterrand|François Mitterrand]], candidat à la présidence, visite le village et monte à la tour Magdala.
+
+= monde | Le mythe mondial | De 1982 à 2006 : la lignée du Christ, les millions de lecteurs, puis les aveux et la contre-enquête.
+1982-01 | fabrique | *[[l-enigme-sacree|The Holy Blood and the Holy Grail]]* : le secret de Rennes serait une [[lignee-de-jesus|descendance de Jésus et de Marie-Madeleine]], gardée par le Prieuré de Sion. Sa seule source sur le Prieuré : les Dossiers secrets.
+1985-07-17 | atteste | Mort de [[philippe-de-cherisey|Philippe de Chérisey]].
+1985 | atteste | [[corbu-et-captier|Claire Corbu et Antoine Captier]] publient les papiers de l'abbé dans *[[l-heritage-de-l-abbe-sauniere|L'Héritage de l'abbé Saunière]]*.
+1988-04-09 | atteste | Excédé par les fouilleurs, le propriétaire fait détruire le [[tombeau-des-pontils|tombeau des Pontils]].
+1989-05 | atteste | Un musée ouvre dans le [[presbytere|presbytère]].
+1990 | atteste | [[jean-jacques-bedu|Jean-Jacques Bedu]] publie *[[autopsie-d-un-mythe|Autopsie d'un mythe]]* : les comptes du curé s'expliquent sans trésor.
+1993-10 | atteste | Ayant cité [[roger-patrice-pelat|Roger-Patrice Pelat]] parmi les grands maîtres du Prieuré, [[pierre-plantard|Plantard]] est entendu par un juge. Il reconnaît sous serment avoir tout inventé. Voir [[prieure-a-l-elysee|le prieuré à l'Élysée]].
+1994-07-26 | atteste | L'église est inscrite au titre des monuments historiques.
+1996-04 | atteste | Le [[asmodee|diable du bénitier]] est décapité, sa tête volée. Elle est refaite.
+1996-09-17 | atteste | La BBC, qui avait lancé l'affaire en Angleterre, la démonte dans *[[history-of-a-mystery|The History of a Mystery]]*.
+2000-02-03 | atteste | Mort de [[pierre-plantard|Pierre Plantard]]. La même année, la commune devient propriétaire du domaine.
+2001 | atteste | Une équipe américaine sonde l'église et la tour au géoradar : une anomalie apparaît sous le chœur, là où les textes placent le caveau des seigneurs.
+2003-03-18 | atteste | Parution de *[[da-vinci-code|The Da Vinci Code]]*. Le conservateur assassiné s'y nomme Jacques Saunière. Voir [[effet-da-vinci-code|l'effet Da Vinci Code]].
+2003-08-20 | atteste | Le maire fait ouvrir le sol de la [[tour-magdala|tour Magdala]] : rien. L'État refuse la fouille demandée dans l'église.
+2004-09-14 | atteste | Le corps de l'abbé est exhumé et placé dans un [[tombe-de-sauniere|sarcophage de béton]], dans le jardin du domaine, pour le soustraire aux fouilleurs. Le cimetière est fermé aux visiteurs.
+2006-04-07 | atteste | À Londres, la justice déboute [[baigent-et-leigh|Baigent et Leigh]], qui accusaient Dan Brown de plagiat : on ne peut présenter une thèse comme de l'histoire et la revendiquer comme une fiction.
+
+= aujourdhui | Depuis 2006 | Un village de quatre-vingt-dix habitants, des dizaines de milliers de visiteurs, une église à sauver.
+2012-12-21 | atteste | Une rumeur fait du [[bugarach|pic de Bugarach]] le seul refuge contre la fin du monde. L'accès au sommet est interdit ; il vient surtout des journalistes. Voir [[bugarach-et-les-ovnis|Bugarach, les ovnis et 2012]].
+2014-05 | atteste | Le [[crane-a-l-entaille|crâne trouvé en 1956]], daté au carbone 14 entre 1281 et 1396, est rendu à la commune.
+2017-04-23 | atteste | Une femme s'attaque à la hache au [[asmodee|diable du bénitier]] et au [[autel-de-marie-madeleine|bas-relief de Marie-Madeleine]]. Tous deux sont restaurés.
+2017-12-30 | atteste | Une fouille clandestine est découverte au pied de l'église : un mètre cube de terre, des fondations mises à nu.
+2022-02 | atteste | Mort d'[[henry-lincoln|Henry Lincoln]] à Rennes-les-Bains, où il s'était retiré.
+2025-09 | atteste | Des carottages sont faits autour de l'église, pour le diagnostic de ses fondations : des sondages de sécurité, non des fouilles.
+2026-11-16 | atteste | L'église ferme au public jusqu'à la fin de l'année, pour une seconde tranche d'investigations, cette fois à l'intérieur. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].

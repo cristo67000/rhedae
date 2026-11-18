@@ -1,0 +1,328 @@
+# Les lieux lointains : la région, du pays cathare à la mer (11 fiches), puis
+# quelques lieux hors de la carte (7 fiches). Pour chacun : ce qu'est le lieu,
+# puis ce qui le rattache à l'affaire — par un document, ou par une légende
+# rendue à son auteur. Coordonnées : Wikidata (P625), sauf Cabrières (OpenStreetMap).
+
+@ carcassonne
+cat: lieux
+groupe: region
+nom: Carcassonne
+alias: évêché de Carcassonne, officialité de Carcassonne, diocèse de Carcassonne, Archives de l'Aude, Société des arts et des sciences de Carcassonne, SASC
+geo: 43.2158, 2.3514
+lieu: Aude, Occitanie
+type: ville
+echelle: region
+def: Chef-lieu de l'Aude et siège de l'évêché dont dépendait Rennes-le-Château : c'est là que Saunière a été formé, jugé et condamné, et là que l'on a, dès 1956, enquêté sur son trésor.
+texte: Carcassonne est à quarante-cinq kilomètres au nord de Rennes, par Limoux. Prise par les croisés en août 1209, au début de la [[croisade-des-albigeois|croisade contre les Albigeois]], elle devient le siège de la sénéchaussée royale à laquelle le Razès est rattaché. Depuis le Concordat, son évêque gouverne tout le département : le diocèse réunit les anciens sièges de Carcassonne, de Narbonne, d'[[diocese-d-alet|Alet]] et de Saint-Papoul. Un curé de la haute vallée de l'Aude dépend donc de Carcassonne pour tout : sa formation, sa nomination, sa discipline.
+texte: [[berenger-sauniere|Bérenger Saunière]] y entre au grand séminaire en 1874. C'est l'évêque [[mgr-billard|Billard]], installé en 1881, qui le nomme à Rennes en 1885, le défend devant le ministre des Cultes et vient deux fois visiter sa paroisse. C'est son successeur, [[mgr-de-beausejour|Mgr de Beauséjour]], qui le mute en 1909 puis le traduit devant l'officialité, le tribunal du diocèse. L'acte d'accusation est du 27 mai 1910 ; trois sentences suivent, la dernière le 5 décembre 1911. Le 3 février 1911, *La Semaine religieuse de Carcassonne* avertit les fidèles que l'ancien curé de Rennes n'est pas autorisé à recevoir des honoraires de messes. Voir [[proces-de-sauniere|le procès]].
+texte: La ville est aussi celle des érudits. L'abbé [[henri-boudet|Boudet]] y fait imprimer en 1886 *[[la-vraie-langue-celtique|La Vraie Langue celtique]]* et entre en 1888, comme membre correspondant, à la Société des arts et des sciences. De 1896 à 1902, les Archives de l'Aude ont pour directeur [[jules-doinel|Jules Doinel]], fondateur de l'Église gnostique, qui meurt à Carcassonne ; rien ne le relie à Saunière.
+texte: Quand *La Dépêche* lance en janvier 1956 le « curé aux milliards », c'est de Carcassonne que vient la première vérification. Une équipe y monte dès le printemps [[fouilles|fouiller l'église]] et n'en rapporte qu'un [[crane-a-l-entaille|crâne entaillé]]. La Société des arts et des sciences ouvre une enquête en novembre 1956 et conclut en 1958 qu'aucun indice n'annonce un trésor. L'un des enquêteurs, [[rene-descadeillas|René Descadeillas]], conservateur de la bibliothèque municipale, publie en 1974 dans les mémoires de la Société sa *[[mythologie-du-tresor-de-rennes|Mythologie du trésor de Rennes]]* : il a eu accès au dossier de l'officialité.
+texte: Les pièces sont toujours là. Les Archives de l'Aude conservent sous forme de microfilm le registre de correspondance de l'abbé, huit cent vingt pages, et la transcription du [[recit-de-noel-corbu|récit de Noël Corbu]], déposée le 14 juin 1962. La légende, elle, ne retient de Carcassonne que les Wisigoths : en 507, leur trésor royal y est mis à l'abri — avant de partir pour Ravenne, non pour Rennes. Voir [[tresor-des-wisigoths|le trésor des Wisigoths]].
+voir-sur-place: La Cité médiévale, restaurée à partir de 1853 par Viollet-le-Duc, domine la ville basse, où se trouvent la cathédrale Saint-Michel — Mgr Billard y est inhumé — et les Archives départementales de l'Aude.
+repere: 507 — Après Vouillé, le trésor royal des Wisigoths est mis à l'abri à Carcassonne.
+repere: août 1209 — Les croisés prennent la ville.
+repere: 1874 — Saunière entre au grand séminaire.
+repere: 1881 — Mgr Billard devient évêque de Carcassonne.
+repere: 1886 — Boudet y fait imprimer *La Vraie Langue celtique*.
+repere: 27 mai 1910 — Acte d'accusation contre Saunière devant l'officialité.
+repere: 5 décembre 1911 — Sentence définitive : suspense *a divinis*.
+repere: 1958 — La Société des arts et des sciences clôt son enquête : aucun indice d'un trésor.
+repere: 14 juin 1962 — La transcription du récit de Corbu est déposée aux Archives de l'Aude.
+repere: 1974 — Descadeillas publie *Mythologie du trésor de Rennes*.
+voir: proces-de-sauniere, mgr-billard, mgr-de-beausejour, rene-descadeillas, dossier-du-proces, carnets-de-sauniere, jules-doinel, narbonne, prouille
+
+@ narbonne
+cat: lieux
+groupe: region
+nom: Narbonne
+alias: petit séminaire de Narbonne, Cercle catholique de Narbonne
+geo: 43.1847, 3.0036
+lieu: Aude, Occitanie
+type: ville
+echelle: region
+def: Ancienne métropole de la Septimanie et ancien archevêché, rattaché au diocèse de Carcassonne ; Saunière y est nommé professeur au petit séminaire en janvier 1886, sans qu'on sache s'il y a vraiment enseigné.
+texte: Narbonne est la grande ville de l'est du département, à une centaine de kilomètres de Rennes par la route. Elle est l'une des cités de la [[wisigoths-en-septimanie|Septimanie wisigothique]], que Pépin le Bref prend en 759. Son archevêché a disparu avec la Révolution : depuis le Concordat, la ville dépend de l'évêque de [[carcassonne|Carcassonne]].
+texte: Le 1er décembre 1885, le ministre des Cultes suspend le traitement de [[berenger-sauniere|Saunière]], coupable d'avoir prêché contre les républicains. L'état de ses services porte alors : nommé professeur au petit séminaire de Narbonne, en janvier 1886. La suite est discutée. Pour Jacques Rivière, il y a enseigné, [[mgr-billard|Mgr Billard]] lui avançant deux cents francs. Pour l'abbé [[bruno-de-monts|Bruno de Monts]], c'est une nomination de pure forme, qui permet de le faire vivre sans le déplacer : il n'a pas quitté sa paroisse. Une étude publiée en 2022 par l'association de [[patrick-mensior|Patrick Mensior]] relève que le « Saunière » inscrit sur la liste des professeurs est son frère [[alfred-sauniere|Alfred]]. Le 1er juillet 1886, le traitement est rétabli et le curé de nouveau nommé à Rennes.
+texte: La ville compte aussi un Cercle catholique, foyer du [[legitimisme|légitimisme]] audois. C'est par lui, selon [[christian-doumergue|Christian Doumergue]], que seraient passés une partie des [[dons-et-bienfaiteurs|dons]] rabattus par Alfred ; ces sommes ne sont connues que par ce que Saunière en a dit à ses juges. Narbonne figure enfin parmi les déplacements que notent ses registres. En juin 1907, elle est le centre de la révolte des vignerons : la crise viticole fait alors chuter les recettes du curé.
+voir-sur-place: La cathédrale Saint-Just-et-Saint-Pasteur et l'ancien palais des archevêques, au centre de la ville.
+voir: berenger-sauniere, alfred-sauniere, mgr-billard, eglise-et-republique, dons-et-bienfaiteurs, legitimisme, carcassonne
+
+@ montsegur
+cat: lieux
+groupe: region
+nom: Montségur
+alias: château de Montségur, pog de Montségur, bûcher de Montségur, champ des brûlés, Munsalvaesche
+geo: 42.8756, 1.8325
+lieu: Ariège, Occitanie
+type: ruine
+echelle: region
+def: Forteresse de l'Ariège où plus de deux cents cathares sont brûlés le 16 mars 1244 ; quatre hommes échappés pendant le siège ont fait naître la légende d'un trésor, que rien ne conduit vers Rennes-le-Château.
+texte: Montségur occupe un piton calcaire de 1 207 mètres, le « pog », à une quarantaine de kilomètres à l'ouest de Rennes. Vers 1204, le seigneur Raymond de Péreille y relève un village fortifié à la demande des cathares ; après la [[croisade-des-albigeois|croisade]], leur Église en fait son refuge. En mai 1242, des hommes de la garnison tuent des inquisiteurs à Avignonet. L'armée royale assiège la place à partir de mai 1243 ; elle capitule en mars 1244. Les défenseurs ont la vie sauve. Plus de deux cents bons hommes et bonnes femmes, qui refusent d'abjurer, sont brûlés au pied de la montagne le 16 mars.
+texte: Le trésor vient des interrogatoires qui suivent. Des témoins déposent devant l'Inquisition que le « trésor » de l'Église cathare a été évacué vers Noël 1243, et que quatre hommes se sont échappés dans la nuit qui précède le bûcher. Les textes ne disent pas ce qu'ils emportaient — de l'argent, semble-t-il, peut-être des livres. Ils disent en revanche où : vers le Sabarthès, en haute Ariège, à l'opposé du Razès.
+texte: Le reste est moderne. L'Allemand [[otto-rahn|Otto Rahn]], qui séjourne en Ariège vers 1930, reconnaît dans Montségur le château du Graal du *Parzival* de Wolfram von Eschenbach et le publie en 1933 ; [[deodat-roche|Déodat Roché]], le néo-cathare d'[[arques|Arques]], en fait autant, et sa société y pose une stèle. Ni l'un ni l'autre ne parle de Rennes, où aucun séjour de Rahn n'est attesté. Le rapprochement est fait après coup : [[gerard-de-sede|Gérard de Sède]] consacre un livre au trésor cathare en 1966, un an avant *[[l-or-de-rennes|L'Or de Rennes]]*, et des auteurs des années 1970 ajoutent un commando allemand venu fouiller en 1944. Voir [[tresor-des-cathares|le trésor des cathares]] et [[or-du-reich|les nazis et le Graal]].
+texte: Les historiens rangent la question hors du dossier : rien ne relie ce qui est sorti de Montségur, quoi que ce fût, au village de Saunière. Les murs que l'on visite ne sont d'ailleurs pas ceux du siège, mais ceux du château rebâti après la conquête par les nouveaux seigneurs, les Lévis.
+voir-sur-place: Les ruines du château rebâti après 1244, au sommet du pog, et, au pied du sentier, la stèle du « champ des brûlés ». Le site est inscrit au patrimoine mondial depuis juillet 2026, avec les autres forteresses royales du Languedoc.
+repere: vers 1204 — Raymond de Péreille relève le village fortifié à la demande des cathares.
+repere: mai 1242 — Des hommes de la garnison tuent des inquisiteurs à Avignonet.
+repere: mai 1243 — L'armée royale met le siège devant la place.
+repere: vers Noël 1243 — Le « trésor » de l'Église cathare est évacué, selon les dépositions.
+repere: 16 mars 1244 — Plus de deux cents cathares sont brûlés au pied de la montagne.
+repere: 1933 — Otto Rahn publie *Croisade contre le Graal*.
+repere: 1966 — Gérard de Sède publie *Le Trésor cathare*.
+attention: Montségur est en Ariège, à quarante kilomètres de Rennes-le-Château : aucun texte ne fait passer par le Razès ni les fugitifs de 1244 ni Otto Rahn.
+voir: tresor-des-cathares, croisade-des-albigeois, otto-rahn, deodat-roche, or-du-reich, queribus, gerard-de-sede
+
+@ puilaurens
+cat: lieux
+groupe: region
+nom: Château de Puilaurens
+alias: Puilaurens, Puylaurens, Mont Ardu, Lapradelle-Puilaurens
+geo: 42.8037, 2.2994
+lieu: Puilaurens, Aude, Occitanie
+type: ruine
+echelle: region
+def: Forteresse du Fenouillèdes, au sud de Rennes-le-Château, fortifiée par Saint Louis face à l'Aragon : l'un des « châteaux cathares » du voisinage, sans lien documenté avec l'affaire.
+texte: Le château couronne le mont Ardu, à 697 mètres, au-dessus de la vallée de la Boulzane. Pendant la [[croisade-des-albigeois|croisade contre les Albigeois]], il sert de refuge : des religieux cathares y sont hébergés dans les années 1240. Au milieu du siècle, il passe au roi. En août 1255, Louis IX ordonne au sénéchal de [[carcassonne|Carcassonne]] de le fortifier contre l'Aragon ; le traité de Corbeil, en 1258, fixe la frontière à ses pieds. Avec [[peyrepertuse|Peyrepertuse]], [[queribus|Quéribus]], Aguilar et Termes, il est l'un des « cinq fils de Carcassonne », qui gardent le royaume jusqu'au traité des Pyrénées.
+texte: Ce que l'on visite est donc, comme dans presque tous les « châteaux cathares », une forteresse royale française bâtie après la défaite des cathares. Aucun document ne relie Puilaurens à Saunière ni à un trésor. Il doit sa place dans les livres sur Rennes au voisinage, et au goût de leurs auteurs pour les alignements de sommets et de ruines : voir [[geometrie-sacree|la géométrie sacrée]].
+voir-sur-place: Une enceinte crénelée et un donjon, au bout d'un sentier en chicanes. Les ruines sont classées depuis 1902 et inscrites au patrimoine mondial depuis juillet 2026.
+voir: peyrepertuse, queribus, montsegur, croisade-des-albigeois, geometrie-sacree, carcassonne
+
+@ peyrepertuse
+cat: lieux
+groupe: region
+nom: Château de Peyrepertuse
+alias: Peyrepertuse, Duilhac-sous-Peyrepertuse, San Jordi, citadelle du vertige
+geo: 42.8708, 2.5554
+lieu: Duilhac-sous-Peyrepertuse, Aude, Occitanie
+type: ruine
+echelle: region
+def: La plus vaste des forteresses des Corbières, soumise au roi de France en 1240 et tenue ensuite face à l'Aragon ; les livres sur Rennes-le-Château l'annexent à leurs cartes, sans document.
+texte: La forteresse s'étire sur une arête calcaire de près de trois cents mètres, à vingt-cinq kilomètres environ à l'est de Rennes. Au début du XIIIe siècle, elle appartient aux seigneurs de Peyrepertuse, vassaux du roi d'Aragon. Guillaume de Peyrepertuse se soumet au roi de France en 1240. Saint Louis fait alors élever au point le plus haut le donjon de San Jordi, que l'on gagne par un escalier taillé dans le roc. Jusqu'au traité des Pyrénées, en 1659, Peyrepertuse garde la frontière, en face des châteaux aragonais du Roussillon — dont celui d'Opoul, au-dessus de [[perillos|Périllos]].
+texte: C'est une forteresse royale, non un sanctuaire [[croisade-des-albigeois|cathare]], et son histoire ne croise nulle part celle de Saunière. Elle entre pourtant dans le décor de l'affaire avec *[[l-enigme-sacree|L'Énigme sacrée]]* et ses suites, qui fondent cathares, Templiers et trésors du Midi en une seule histoire, et avec les tracés qui relient sur la carte les sommets et les ruines du pays : voir [[geometrie-sacree|la géométrie sacrée]].
+voir-sur-place: Deux enceintes étagées sur la crête, l'escalier de Saint Louis et la vue jusqu'à la mer. Le site est inscrit au patrimoine mondial depuis juillet 2026.
+voir: queribus, puilaurens, montsegur, perillos, geometrie-sacree, croisade-des-albigeois
+
+@ queribus
+cat: lieux
+groupe: region
+nom: Château de Quéribus
+alias: Quéribus, Cucugnan, Chabert de Barbaira, dernier château cathare
+geo: 42.8367, 2.6217
+lieu: Cucugnan, Aude, Occitanie
+type: ruine
+echelle: region
+def: Château des Corbières pris par les troupes du roi en 1255, onze ans après Montségur : le dernier refuge armé des cathares, devenu forteresse de la frontière d'Aragon.
+texte: Quéribus tient sur un piton de 728 mètres, d'où l'on voit la mer et les Pyrénées. Après la chute de [[montsegur|Montségur]], des religieux cathares et des chevaliers dépossédés s'y réfugient auprès du seigneur du lieu, Chabert de Barbaira. Le château se rend en 1255 : on date souvent de là la fin de la résistance armée du Languedoc, quarante-six ans après le début de la [[croisade-des-albigeois|croisade]]. Le roi en fait une forteresse de la frontière, avec [[peyrepertuse|Peyrepertuse]] et [[puilaurens|Puilaurens]], et le remanie de fond en comble.
+texte: Sa salle haute, voûtée sur un pilier central, a été lue comme un observatoire du solstice ; l'idée, comme à Montségur, ne repose sur aucun texte. Rien, non plus, ne rattache Quéribus à l'abbé Saunière. Il figure dans le dossier pour ce qu'il clôt : avec lui s'arrête l'histoire des cathares en armes, et la question de ce qu'ils auraient pu cacher. Voir [[tresor-des-cathares|le trésor des cathares]].
+voir-sur-place: Le donjon et sa salle au pilier, au sommet de trois enceintes. Le site est inscrit au patrimoine mondial depuis juillet 2026.
+voir: montsegur, peyrepertuse, puilaurens, tresor-des-cathares, croisade-des-albigeois
+
+@ perillos
+cat: lieux
+groupe: region
+nom: Périllos
+alias: Opoul-Périllos, Perellós, Opoul, château d'Opoul, Salvaterra, Société Périllos
+geo: 42.8972, 2.8469
+lieu: Opoul-Périllos, Pyrénées-Orientales, Occitanie
+type: ruine
+echelle: region
+def: Hameau abandonné des Corbières catalanes, à soixante kilomètres à l'est de Rennes-le-Château, où André Douzet place depuis 1995, d'après une maquette qu'il attribue à Saunière, le tombeau du Christ.
+texte: Périllos, *Perellós* en catalan, est un village en ruine sur un plateau calcaire sans eau, à une dizaine de kilomètres d'Opoul, dans les Pyrénées-Orientales. On n'est plus dans l'Aude ni dans le Razès, mais en Roussillon. Le lieu est cité vers 1100 ; ses seigneurs servent les comtes de Barcelone, puis les rois d'Aragon. En 1246, Jacques Ier d'Aragon fonde au-dessus d'Opoul le château de Salvaterra, qui garde la frontière en face de [[queribus|Quéribus]] et de [[peyrepertuse|Peyrepertuse]] ; pris par les Français en 1639, il est démantelé en 1642.
+texte: Le village n'a jamais atteint cent habitants : quatre-vingt-dix-huit en 1856, huit en 1946, quatre en 1968. La vigne ruinée, la guerre, l'absence d'eau courante et d'électricité l'ont vidé. La commune est réunie à celle d'Opoul le 1er janvier 1972. Les sources divergent sur le départ du dernier habitant : 1970 ou 1978.
+texte: Périllos entre dans l'affaire par un seul auteur, [[andre-douzet|André Douzet]]. En 1995, il présente un relief de plâtre, la [[maquette-de-sauniere|« maquette de Saunière »]], que le curé aurait commandé à la fin de sa vie — fin 1916 dans une première version, janvier 1916 dans une autre. On y lit « tombeau du Christ » et « tombeau de Joseph d'Arimathie ». Douzet soutient que ce paysage n'est pas Jérusalem mais Périllos, et que les deux tombes s'y trouvent ; il dit avoir exploré la première, déjà pillée, et s'être abstenu d'ouvrir la seconde. La Société Périllos, qu'il préside, tient cette route pour la seule qui mène au secret de Rennes. Voir [[piste-de-perillos|la piste de Périllos]].
+texte: Rien ne l'appuie. Les lettres qui prouveraient la commande n'ont jamais été produites en entier. Le [[carnets-de-sauniere|cahier de correspondance]] que Saunière tient de 1915 à 1917 n'en porte pas trace, et il est alors malade et endetté. [[patrick-mensior|Patrick Mensior]], qui a examiné l'objet, y reconnaît un modèle connu : un relief de Jérusalem dû à un franciscain, dont un exemplaire est exposé dans la ville sainte. Sur place, des érudits du pays ont eux-mêmes démenti que la pierre montrée près du village soit un tombeau. Les légendes propres au lieu sont autres, et plus anciennes : un seigneur de Périllos parti en 1397 visiter en Irlande le Purgatoire de saint Patrick, une bête monstrueuse, une grotte qui ouvre sur l'autre monde.
+voir-sur-place: Des maisons effondrées, l'église Saint-Michel, la chapelle Sainte-Barbe ; une association relève les murs depuis 2006. À dix kilomètres, les remparts du château d'Opoul, sur leur plateau.
+repere: vers 1100 — Première mention du lieu.
+repere: 1246 — Jacques Ier d'Aragon fonde le château de Salvaterra, au-dessus d'Opoul.
+repere: 1397 — Ramon de Perellós part pour le Purgatoire de saint Patrick.
+repere: 1642 — Le château d'Opoul est démantelé.
+repere: 1er janvier 1972 — La commune, désertée, est réunie à celle d'Opoul.
+repere: 1995 — André Douzet présente la « maquette de Saunière ».
+repere: 2001 — Parution de son livre *Saunière's Model and the Secret of Rennes-le-Château*.
+attention: Le « tombeau du Christ » de Périllos n'est pas une tradition du pays : c'est la thèse d'un auteur, née en 1995 d'un objet dont la provenance n'a jamais été établie. Ne pas le confondre avec celui que d'autres placent au [[pech-cardou|Pech Cardou]].
+voir: andre-douzet, maquette-de-sauniere, piste-de-perillos, tombeau-du-christ, patrick-mensior, queribus, peyrepertuse
+
+@ le-clat
+cat: lieux
+groupe: region
+nom: Le Clat
+alias: Clat, Asclat, cure du Clat
+geo: 42.7858, 2.1678
+lieu: Aude, Occitanie
+type: village
+echelle: region
+def: Village de montagne du pays de Sault dont Bérenger Saunière est curé de 1882 à 1885 : sa première cure, avant Rennes-le-Château.
+texte: Le Clat est une petite commune du pays de Sault, le haut plateau boisé du sud-ouest de l'Aude, au-dessus de la haute vallée du fleuve. Elle comptait 330 habitants en 1851 ; il en reste une trentaine.
+texte: [[berenger-sauniere|Saunière]] y est nommé le 16 juin 1882. Il a trente ans et sort de trois années de vicariat à [[alet-les-bains|Alet]]. C'est sa première paroisse en titre, et un poste de débutant : un village isolé, loin de tout. Il y reste trois ans, jusqu'à sa nomination à [[rennes-le-chateau|Rennes-le-Château]], le 22 mai 1885. De ce séjour, les sources ne retiennent rien d'autre que ces deux dates. La légende elle-même ne s'y est pas arrêtée : aucun récit ne place au Clat une découverte ou une rencontre. Le curé qui en descend en 1885 est un [[cure-de-campagne|desservant]] sans fortune, payé neuf cents francs par an.
+voir: berenger-sauniere, alet-les-bains, cure-de-campagne, rennes-le-chateau, coustouge
+
+@ coustouge
+cat: lieux
+groupe: region
+nom: Coustouge
+alias: Costoja, cure de Coustouge, nomination de 1909
+geo: 43.0478, 2.7436
+lieu: Aude, Occitanie
+type: village
+echelle: region
+def: Village des Corbières où l'évêque nomme Saunière en janvier 1909 pour l'éloigner de Rennes-le-Château ; il refuse d'y aller, et de ce refus sort son procès.
+texte: Coustouge est un village des Corbières, dans l'est de l'Aude, du côté de Narbonne : 269 habitants en 1881, une centaine aujourd'hui. [[berenger-sauniere|Saunière]] n'y a jamais mis les pieds comme curé.
+texte: Le 15 janvier 1909, l'évêché l'y nomme, avec ordre de rejoindre son poste avant le 22. Depuis 1901, [[carcassonne|Carcassonne]] lui interdit en vain de solliciter des messes ; le déplacer, c'est le séparer de son domaine et de ses correspondants. Le 28 janvier, il refuse et offre sa démission. [[mgr-de-beausejour|Mgr de Beauséjour]] la décline le lendemain. Saunière ne part pas : la villa et la tour sont au nom de [[marie-denarnaud|Marie Dénarnaud]], le presbytère lui est loué par la commune. En juillet, un autre prêtre, l'abbé Marty, est nommé curé de Rennes ; l'ancien curé dit la messe dans la véranda de sa villa.
+texte: L'évêque change alors de moyen. L'acte d'accusation du 27 mai 1910 retient, avec le [[trafic-de-messes|trafic de messes]], la désobéissance. Voir [[proces-de-sauniere|le procès]].
+voir: proces-de-sauniere, mgr-de-beausejour, berenger-sauniere, villa-bethanie, trafic-de-messes, le-clat
+
+@ prouille
+cat: lieux
+groupe: region
+nom: Prouille
+alias: Prouilhe, monastère de Prouilhe, Notre-Dame de Prouille, Fanjeaux
+geo: 43.1944, 2.0586
+lieu: Fanjeaux, Aude, Occitanie
+type: abbaye
+echelle: region
+def: Monastère de dominicaines fondé par saint Dominique au pied de Fanjeaux, où Saunière accomplit en avril 1911 la retraite que lui impose son tribunal.
+texte: Prouille — on écrit aussi Prouilhe — est au pied de Fanjeaux, à l'ouest de [[carcassonne|Carcassonne]]. Saint Dominique y fonde en 1206, en plein pays cathare, une communauté de femmes : c'est le berceau de l'ordre des dominicains.
+texte: La sentence du 5 novembre 1910 condamne [[berenger-sauniere|Saunière]], pour désobéissance et pour le désordre de ses comptes, à dix jours d'exercices spirituels dans une maison de retraite. Il fait appel, hors délai, puis se tourne vers Rome. Début décembre, l'évêché lui interdit de célébrer tant que la peine n'est pas exécutée. Il s'y plie en avril 1911, à Prouille. La retraite ne règle rien : il a envoyé en mars soixante et une factures et une liste de donateurs que ses juges ne croient pas, et la commission qui examine ses comptes siège jusqu'en octobre. La suspense tombe le 5 décembre. Voir [[proces-de-sauniere|le procès]].
+texte: Certaines sources font mourir à Prouille, le 3 décembre 1901, l'évêque [[mgr-billard|Billard]] ; d'autres le font mourir à Carcassonne.
+voir-sur-place: Le monastère, rebâti au XIXe siècle, abrite toujours des dominicaines.
+voir: proces-de-sauniere, berenger-sauniere, mgr-de-beausejour, mgr-billard, dossier-du-proces, carcassonne
+
+@ douzens
+cat: lieux
+groupe: region
+nom: Douzens
+alias: commanderie de Douzens, Templiers de Douzens, baillie de Carcassonne
+geo: 43.1858, 2.5972
+lieu: Aude, Occitanie
+type: village
+echelle: region
+def: Village de la vallée de l'Aude, entre Carcassonne et Narbonne, siège depuis 1133 de la principale commanderie templière du pays : les Templiers que les textes attestent, loin de ceux que la légende loge au Bézu.
+texte: Douzens est sur l'Aude, à l'est de [[carcassonne|Carcassonne]]. Le 1er avril 1132, les vicomtes Trencavel donnent à l'ordre du Temple un domaine au pied des murs de Carcassonne ; en 1133, Bernard de Canet et Aymeric de Barbaira lui donnent Douzens. Un premier précepteur, Pierre de Rovira, est nommé en 1141. La maison devient le chef-lieu de la baillie de Carcassonne : elle a un moulin drapier dès 1153, des maisons à Carcassonne et à Narbonne, et des dépendances jusque dans la haute vallée, à Limoux et à [[campagne-sur-aude|Campagne-sur-Aude]]. À la suppression de l'ordre, en 1312, ses biens passent aux Hospitaliers.
+texte: C'est là l'intérêt de Douzens pour le dossier. Les Templiers de l'Aude sont connus par leurs actes : des donations, des moulins, des terres. Leur richesse est foncière. Leur seule maison près de Rennes est Campagne, qui dépend de Douzens. Aucune commanderie n'est attestée au [[chateau-du-bezu|Bézu]], où [[gerard-de-sede|Gérard de Sède]] installe des Templiers rescapés et leur trésor. Voir [[templiers-en-razes|Templiers et Hospitaliers en Razès]] et [[tresor-des-templiers|le trésor des Templiers]].
+voir: templiers-en-razes, campagne-sur-aude, tresor-des-templiers, chateau-du-bezu, bertrand-de-blanquefort, carcassonne
+
+@ saint-sulpice
+cat: lieux
+groupe: ailleurs
+nom: Saint-Sulpice
+alias: église Saint-Sulpice, séminaire de Saint-Sulpice, gnomon de Saint-Sulpice, méridienne de Saint-Sulpice, Rose Ligne, Rose Line
+geo: 48.8510, 2.3349
+lieu: Paris, 6e arrondissement
+type: eglise
+echelle: ailleurs
+def: Grande église parisienne et séminaire où la légende envoie Saunière faire lire ses parchemins, en 1892 ; son gnomon est devenu, dans le Da Vinci Code, une « Rose Ligne » qui n'existe pas.
+texte: Saint-Sulpice, sur la rive gauche de la Seine, est commencée en 1646 et achevée au siècle suivant. C'est l'église du séminaire fondé par Jean-Jacques Olier, où se forme une bonne part du clergé de France. Dans le transept, une ligne de laiton court sur le dallage jusqu'à un obélisque de marbre : la méridienne, ou gnomon, voulue par le curé Languet de Gergy, commencée par l'horloger Henry Sully vers 1727 et achevée par l'astronome Le Monnier en 1743. Un rayon de soleil la frappe à midi ; elle sert à fixer l'équinoxe, donc la date de Pâques.
+texte: Le voyage de [[berenger-sauniere|Saunière]] est raconté par [[gerard-de-sede|Gérard de Sède]] en 1967, d'après une plaquette déposée à la Bibliothèque nationale en 1965. [[mgr-billard|Mgr Billard]] aurait envoyé le curé à Paris avec ses [[parchemins|parchemins]]. Le directeur de Saint-Sulpice, l'abbé Bieil, l'aurait confié au jeune [[emile-hoffet|Émile Hoffet]], qui les aurait déchiffrés ; Saunière aurait fréquenté [[emma-calve|Emma Calvé]] et acheté au Louvre la copie d'un [[les-bergers-d-arcadie|tableau de Poussin]]. [[noel-corbu|Noël Corbu]] disait déjà en 1956 que le curé était parti pour Paris, en ajoutant qu'il n'en avait aucune confirmation.
+texte: Il n'y en a toujours pas. Les [[carnets-de-sauniere|carnets]] de 1891 et de 1892 montrent Saunière à Rennes, recevant et acquittant des messes. La liste de ses déplacements, dressée par [[octonovo|Laurent Buchholtzer]] d'après les registres de 1896 à 1915, va de Carcassonne à Lourdes et ne comprend pas Paris. Aucun registre de Saint-Sulpice ne porte sa signature. Hoffet, en 1892, a dix-neuf ans : il est novice chez les oblats, aux Pays-Bas, non séminariste à Paris.
+texte: Les fabricants du mythe tenaient pourtant à l'église. *[[le-serpent-rouge|Le Serpent rouge]]*, en 1967, en donne le plan, cite les peintures de Delacroix dans la chapelle des Saints-Anges et joue sur la méridienne et sur le [[meridien-de-paris|méridien de Paris]], qui passe dans l'Aude près de Rennes-les-Bains. Or le gnomon n'est pas sur ce méridien : il est à une centaine de mètres à l'ouest. La fête de saint Sulpice tombe le [[17-janvier|17 janvier]], ce qui a suffi à l'ajouter à la série.
+texte: En 2003, le *[[da-vinci-code|Da Vinci Code]]* fait de la ligne de laiton une « Rose Ligne », vestige d'un temple païen, et place une scène de meurtre à son pied. La paroisse a dû afficher un démenti : la ligne est un instrument d'astronomie, et rien d'autre.
+voir-sur-place: Le gnomon se voit dans le transept : la ligne de laiton dans le dallage, l'obélisque contre le mur nord. Les peintures de Delacroix sont dans la première chapelle à droite en entrant.
+repere: 1646 — Début de la construction de l'église actuelle.
+repere: vers 1727 — Henry Sully commence la méridienne.
+repere: 1743 — Le Monnier l'achève ; l'obélisque est posé.
+repere: 1965 — Une plaquette déposée à la Bibliothèque nationale raconte pour la première fois le voyage de Saunière.
+repere: 1967 — *L'Or de Rennes* répand le récit ; *Le Serpent rouge* reproduit le plan de l'église.
+repere: 2003 — Le *Da Vinci Code* invente la « Rose Ligne ».
+attention: L'« [[art-saint-sulpicien|art saint-sulpicien]] » du décor de l'église de Rennes doit son nom aux marchands d'objets de piété du quartier, non à un séjour de Saunière.
+voir: piste-occultiste, emile-hoffet, meridien-de-paris, le-serpent-rouge, da-vinci-code, parchemins, emma-calve, 17-janvier
+
+@ stenay
+cat: lieux
+groupe: ailleurs
+nom: Stenay
+alias: Stenay-sur-Meuse, forêt de Woëvre, saint Dagobert
+geo: 49.4900, 5.1856
+lieu: Meuse, Grand Est
+type: ville
+echelle: ailleurs
+def: Petite ville de la Meuse près de laquelle le roi Dagobert II est assassiné en 679 ; les faux des années 1960 en font le point de départ d'une lignée réfugiée à Rennes-le-Château.
+texte: Stenay est une ancienne résidence des rois mérovingiens, sur la Meuse. Le 23 décembre 679, [[dagobert-ii|Dagobert II]], roi d'Austrasie depuis trois ans, est tué dans la forêt voisine de Woëvre. Son corps repose à Stenay, où un culte local lui est rendu depuis 872 ; ses reliques sont dispersées pendant les guerres de Religion. Voilà ce que disent les textes, et ils s'arrêtent là.
+texte: À partir de 1964, [[pierre-plantard|Pierre Plantard]] y accroche sa généalogie. Un fils du roi, [[sigebert-iv|Sigebert IV]], aurait échappé au meurtre et gagné [[rhedae|Rhedae]] en 681 ; de lui descendraient les comtes de Razès, puis les Plantard. L'idée est adaptée d'un article de Louis Saurel paru en 1960 ; aucune source ancienne ne connaît ce fils. Le petit [[parchemins|parchemin]] attribué à Saunière dit que le trésor est « à Dagobert II roi et à Sion ». Les *[[dossiers-secrets|Dossiers secrets]]* font le reste, et Stenay devient un lieu de pèlerinage pour les lecteurs de *[[l-enigme-sacree|L'Énigme sacrée]]*. Plantard a renié cette généalogie en 1989, puis sous serment en 1993. Voir [[descendance-merovingienne|la survivance mérovingienne]].
+voir: dagobert-ii, sigebert-iv, descendance-merovingienne, pierre-plantard, dossiers-secrets, prieure-de-sion
+
+@ gisors
+cat: lieux
+groupe: ailleurs
+nom: Gisors
+alias: château de Gisors, Roger Lhomoy, Les Templiers sont parmi nous, Jean de Gisors
+geo: 49.2808, 1.7745
+lieu: Eure, Normandie
+type: chateau
+echelle: ailleurs
+def: Château normand où un gardien dit en 1946 avoir vu une crypte pleine de coffres : le livre que Gérard de Sède en tire en 1962, avec Pierre Plantard, est la répétition générale de l'affaire de Rennes.
+texte: Le château de Gisors, élevé à partir de la fin du XIe siècle, garde la frontière du duché de Normandie face au roi de France. Les Templiers l'ont eu en garde quelques années au XIIe siècle, le temps d'un litige entre les deux couronnes.
+texte: En 1946, son gardien, Roger Lhomoy, creuse en secret sous le donjon et affirme avoir trouvé une chapelle souterraine, des sarcophages et trente coffres. Personne ne les voit. Des années plus tard, [[gerard-de-sede|Gérard de Sède]], qui élève alors des porcs en Normandie, l'emploie et recueille son récit. Un article sur Gisors lui vaut une lettre de [[pierre-plantard|Pierre Plantard]], qui devient son informateur. *Les Templiers sont parmi nous* paraît chez Julliard en 1962, avec un appendice de Plantard : le château y cache le [[tresor-des-templiers|trésor du Temple]], et le nom du [[prieure-de-sion|prieuré de Sion]] y reparaît. André Malraux fait fouiller en 1964 ; on ne trouve rien.
+texte: La méthode est en place : un témoin unique, un souterrain, un ordre secret, un journaliste qui écrit ce qu'un autre lui souffle. Cinq ans plus tard, les deux hommes la transportent dans l'Aude avec *[[l-or-de-rennes|L'Or de Rennes]]*, et les *[[dossiers-secrets|Dossiers secrets]]* inscrivent un « Jean de Gisors » en tête de la liste des grands maîtres. Voir [[chasseurs-de-tresors|la France des chasseurs de trésors]].
+voir-sur-place: La motte, le donjon et l'enceinte appartiennent à la ville ; le parc est ouvert toute l'année.
+voir: gerard-de-sede, pierre-plantard, tresor-des-templiers, prieure-de-sion, chasseurs-de-tresors, atelier-des-faux
+
+@ shugborough
+cat: lieux
+groupe: ailleurs
+nom: Shugborough
+alias: Shugborough Hall, Shepherd's Monument, monument des Bergers, Thomas Anson
+geo: 52.8013, -2.0125
+lieu: Staffordshire, Angleterre
+type: jardin
+echelle: ailleurs
+def: Domaine anglais dont le parc abrite, depuis le milieu du XVIIIe siècle, un monument qui reproduit en relief les Bergers d'Arcadie de Poussin au-dessus de dix lettres jamais expliquées.
+texte: Shugborough Hall est la demeure de la famille Anson, près de Stafford. Vers 1750, Thomas Anson fait élever dans le parc un monument rustique. Le sculpteur Peter Scheemakers y copie en bas-relief, inversé comme dans un miroir, le tableau du Louvre, *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]* de [[nicolas-poussin|Poussin]]. Dessous sont gravées huit lettres, O U O S V A V V, encadrées plus bas d'un D et d'un M — les initiales de *Dis Manibus*, « aux dieux mânes », sur les tombes romaines. C'est l'[[inscription-de-shugborough|inscription de Shugborough]].
+texte: Le monument est authentique, et il n'a pas attendu Rennes pour intriguer : on y a lu une devise latine, une dédicace à une épouse morte, une formule pieuse. Il entre dans le dossier en 1982 avec *[[l-enigme-sacree|L'Énigme sacrée]]*, qui cherche partout les traces d'un [[secret-de-poussin|secret de Poussin]] et trouve ici une famille anglaise qui aurait été dans la confidence. Rien ne l'indique. Un amateur du siècle des Lumières fait copier un tableau célèbre sur le thème de la mort en [[et-in-arcadia-ego|Arcadie]] et y ajoute un rébus : cela ne demande aucun prieuré. Au début des années 2000, d'anciens décrypteurs de Bletchley Park s'y sont essayés sans résultat.
+voir-sur-place: Le domaine, confié au National Trust, se visite ; le monument est dans les jardins, près de la rivière.
+voir: inscription-de-shugborough, les-bergers-d-arcadie, nicolas-poussin, secret-de-poussin, et-in-arcadia-ego, vague-anglaise
+
+@ chateau-de-cabrieres
+cat: lieux
+groupe: ailleurs
+nom: Château de Cabrières
+alias: Cabrières, château d'Emma Calvé, Compeyre
+geo: 44.1838, 3.0820
+lieu: Compeyre, Aveyron, Occitanie
+type: chateau
+echelle: ailleurs
+def: Château du Rouergue, au nord de Millau, qu'Emma Calvé achète en 1894 et garde jusqu'en 1929 ; la légende y loge les amours de la cantatrice et de l'abbé Saunière, dont il n'existe aucune trace.
+texte: Cabrières se dresse sur un éperon, à une dizaine de kilomètres de Millau. Le lieu est cité en 1070 ; le logis et ses tours passent, au fil des siècles, à une suite de familles du pays. [[emma-calve|Emma Calvé]], née à Decazeville et devenue la Carmen la plus célèbre de son temps, l'achète en 1894 aux Buscarlet. Elle le fait restaurer l'année suivante dans le goût néo-gothique : fenêtres à meneaux, tours en poivrière, parc et terrasses. Elle y passe ses étés, y forme de jeunes chanteuses, y ouvre en 1898 un sanatorium pour enfants pauvres. Ruinée, elle le vend en octobre 1929 à Victor Guibert, gantier de Millau.
+texte: Elle y reçoit aussi ses amis de Paris, et parmi eux des occultistes : [[jules-bois|Jules Bois]], avec qui elle a une liaison, et le cercle de Papus, qui l'a admise dans l'ordre martiniste. On y aurait fait tourner les tables. C'est sur ce fond réel que [[gerard-de-sede|Gérard de Sède]] brode en 1967 : Saunière l'aurait connue à Paris, lors du voyage à [[saint-sulpice|Saint-Sulpice]], l'aurait revue, elle l'aurait aidé de sa fortune. Aucune lettre, aucune photographie, aucun témoin ; rien dans les [[carnets-de-sauniere|registres de correspondance]] du curé, de 1896 à 1915. Voir [[piste-occultiste|Saunière chez les occultistes]].
+voir-sur-place: Propriété privée, qui accueille réceptions et concerts. Les souvenirs de la cantatrice sont au musée de Millau ; elle est enterrée dans cette ville.
+repere: 1070 — Première mention de Cabrières.
+repere: 1894 — Emma Calvé achète le château.
+repere: 1895 — Restauration néo-gothique.
+repere: octobre 1929 — Elle le vend à Victor Guibert.
+repere: 1967 — *L'Or de Rennes* lance la légende d'une liaison avec Saunière.
+voir: emma-calve, jules-bois, piste-occultiste, occultisme-fin-de-siecle, saint-sulpice, gerard-de-sede
+
+@ annemasse
+cat: lieux
+groupe: ailleurs
+nom: Annemasse
+alias: mont Sion, Saint-Julien-en-Genevois, Circuit, Prieuré de Sion 1956
+geo: 46.1950, 6.2356
+lieu: Haute-Savoie, Auvergne-Rhône-Alpes
+type: ville
+echelle: ailleurs
+def: Ville de Haute-Savoie, à la frontière suisse, où Pierre Plantard fonde en 1956 une association de locataires nommée Prieuré de Sion : l'ordre « millénaire » n'a pas d'autre acte de naissance.
+texte: Annemasse fait face à Genève. [[pierre-plantard|Pierre Plantard]] s'y installe en 1951, après son mariage, comme dessinateur dans une entreprise de la ville. Il est reçu la même année dans une loge maçonnique du voisinage, qui l'exclut en 1954. En décembre 1953, il est condamné à six mois de prison pour abus de confiance : on le sait par une lettre du maire, en 1956.
+texte: Cette année-là, il rédige avec trois amis les [[statuts-de-1956|statuts]] d'une association, datés du 7 mai, déclarés le 25 juin à la sous-préfecture de Saint-Julien-en-Genevois et publiés au *Journal officiel* le 20 juillet. André Bonhomme en est le président, Plantard le secrétaire général. Elle s'appelle Prieuré de Sion, du nom du mont Sion, une colline des environs, et se donne des airs de chevalerie catholique. Son bulletin, *Circuit*, dont le premier numéro est daté du 27 mai, défend les locataires des HLM d'Annemasse. Elle cesse toute activité avant la fin de l'année.
+texte: Rien, en 1956, ne la relie à Rennes-le-Château, dont *La Dépêche* vient pourtant de publier l'histoire. Le lien est fabriqué plus tard, à Paris, quand Plantard reprend le nom pour en faire un ordre fondé à Jérusalem en 1099. En 1973, André Bonhomme se désolidarise publiquement de ce qu'on a fait de son association. Voir [[prieure-de-sion|le prieuré de Sion]].
+repere: 1951 — Plantard s'installe à Annemasse.
+repere: décembre 1953 — Il est condamné pour abus de confiance.
+repere: 7 mai 1956 — Date des statuts du Prieuré de Sion.
+repere: 25 juin 1956 — Déclaration à la sous-préfecture de Saint-Julien-en-Genevois.
+repere: 20 juillet 1956 — Insertion au *Journal officiel*.
+repere: 1973 — André Bonhomme, président de 1956, se désolidarise.
+voir: prieure-de-sion, statuts-de-1956, pierre-plantard, atelier-des-faux, aveux, naissance-du-mythe
+
+@ rosslyn
+cat: lieux
+groupe: ailleurs
+nom: Rosslyn
+alias: chapelle de Rosslyn, Rosslyn Chapel, Roslin, Sinclair, Saint-Clair
+geo: 55.8554, -3.1599
+lieu: Midlothian, Écosse
+type: eglise
+echelle: ailleurs
+def: Chapelle écossaise du XVe siècle, couverte de sculptures, où le Da Vinci Code place son dénouement ; elle ne tient à Rennes-le-Château que par les livres.
+texte: William Sinclair, comte d'Orkney, fonde en 1446 une collégiale à Roslin, à une dizaine de kilomètres d'Édimbourg. Seul le chœur est bâti. Sa pierre est sculptée partout : anges musiciens, feuillages, danse macabre, et un pilier torsadé que la tradition donne à un apprenti tué par son maître jaloux.
+texte: La légende moderne en fait la cachette du trésor ou des secrets des Templiers. L'ordre a été supprimé en 1312, cent trente-quatre ans avant la première pierre, et un William Sinclair avait témoigné contre lui en 1309. Le lien avec Rennes passe par un nom. Les *[[dossiers-secrets|Dossiers secrets]]* inscrivent une « Marie de Saint-Clair » parmi les grands maîtres du [[prieure-de-sion|prieuré de Sion]], et [[pierre-plantard|Pierre Plantard]] signe lui-même « Plantard de Saint-Clair » à partir de 1975 ; *[[l-enigme-sacree|L'Énigme sacrée]]* rapproche ces Saint-Clair des Sinclair d'Écosse. En 2003, le *[[da-vinci-code|Da Vinci Code]]* fait de Rosslyn le terme de sa chasse au Graal. Les visiteurs suivent : la chapelle devient, avec le Louvre, [[saint-sulpice|Saint-Sulpice]] et Rennes, une étape du même voyage. Voir [[effet-da-vinci-code|l'effet Da Vinci Code]].
+voir-sur-place: La chapelle, toujours ouverte au culte, se visite ; le « pilier de l'Apprenti » est au fond du chœur.
+voir: da-vinci-code, effet-da-vinci-code, dan-brown, tresor-des-templiers, prieure-de-sion, l-enigme-sacree

@@ -1,0 +1,26 @@
+# Liens « Pour aller plus loin » des fiches Livres et films (build/articles/60-oeuvres.txt).
+
+voyage-a-rennes-les-bains: -
+les-bergers-d-arcadie: wp Les Bergers d'Arcadie
+le-comte-de-razes-fedie: wp Comté de Razès
+la-vraie-langue-celtique: ia abbeboudetlavraielangueceltique = La Vraie Langue celtique, numérisée (Internet Archive) | wp Henri Boudet
+bulletin-de-la-sesa-1906: url https://www.rennes-le-chateau-doc.fr/lespersonnages/blanchefort/la_stele_de_marie_de_negre_dables.pdf = RLCdoc : la stèle de Marie de Nègre d'Ables
+recit-de-noel-corbu: wp Noël Corbu
+articles-de-la-depeche: url https://books.openedition.org/editionsmsh/3414 = Christiane Amiel, « L'abîme au trésor » (OpenEdition)
+tresors-du-monde: wp Robert Charroux
+pierres-gravees-du-languedoc: url https://www.rennes-le-chateau-doc.fr/elements_insolites/images/A_propos_de_pierres_gravees_du_Languedoc.pdf = RLCdoc : à propos de Pierres gravées du Languedoc
+dossiers-secrets: wp Dossiers secrets d'Henri Lobineau
+le-serpent-rouge: wp Dossiers secrets d'Henri Lobineau
+l-or-de-rennes: en Gérard de Sède | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/GdS_a_RLC_1962.pdf = RLCdoc : Gérard de Sède et Rennes-le-Château
+films-de-la-bbc: en Henry Lincoln
+l-enigme-sacree: en The Holy Blood and the Holy Grail
+mythologie-du-tresor-de-rennes: wp Affaire de Rennes-le-Château
+l-heritage-de-l-abbe-sauniere: -
+autopsie-d-un-mythe: url https://www.rennes-le-chateau-doc.fr/lespersonnages/sauniere/images2/Carnet_de_messes_arrete_la.pdf = RLCdoc : les carnets de messes de Saunière
+history-of-a-mystery: en Priory of Sion
+a-mystery-solved: en Rennes-le-Château
+clovis-dardentor: -
+l-aiguille-creuse: -
+le-pendule-de-foucault: -
+l-or-du-diable: -
+da-vinci-code: wp Prieuré de Sion

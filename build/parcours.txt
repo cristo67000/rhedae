@@ -1,0 +1,70 @@
+# Les parcours guidés : un fil d'étapes à travers le dossier.
+#
+#     = identifiant
+#     nom: Le nom du parcours
+#     def: Une phrase qui dit ce qu'on y suit.
+#     etapes: fiche, fiche, fiche…        (au moins quatre ; une ligne indentée continue la liste)
+#
+# Chaque étape est une fiche du dossier, citée une seule fois. La fiche ouverte
+# depuis un parcours montre le fil en tête et l'étape suivante en bas ;
+# l'accueil garde l'avancement.
+
+= affaire
+nom: L'affaire, du curé au mythe
+def: Seize étapes pour tout comprendre : un village, un curé bâtisseur, un procès, puis un hôtelier, de faux parchemins, une société secrète inventée et des aveux.
+etapes: rennes-le-chateau, berenger-sauniere, eglise-et-republique, eglise-sainte-marie-madeleine, carnets-de-sauniere,
+  tour-magdala, trafic-de-messes, proces-de-sauniere, marie-denarnaud, naissance-du-mythe, atelier-des-faux, parchemins,
+  prieure-de-sion, l-enigme-sacree, aveux, rennes-aujourd-hui
+
+= argent
+nom: D'où venait l'argent ?
+def: La seule vraie question du dossier, pièce par pièce : ce que gagne un curé, ce que rapportent les messes, qui donnait, ce que disent les comptes et ce que les juges n'ont pas su.
+etapes: cure-de-campagne, honoraires-de-messes, trafic-de-messes, dons-et-bienfaiteurs, comtesse-de-chambord, reseau-royaliste,
+  dossier-du-proces, magot-de-l-abbe-bigou, pillage-des-tombes, crypte-des-seigneurs
+
+= visite
+nom: Une journée sur place
+def: Du parvis de l'église aux rochers de Rennes-les-Bains : ce qu'on voit, dans l'ordre d'une visite, et ce qu'il faut en savoir.
+etapes: rennes-le-chateau, eglise-sainte-marie-madeleine, asmodee, jardin-du-calvaire, presbytere, villa-bethanie, tour-magdala,
+  belvedere-et-orangerie, tombe-de-sauniere, chateau-des-hautpoul, coustaussa, rennes-les-bains, fauteuil-du-diable,
+  chateau-de-blanchefort, tombeau-des-pontils, bugarach
+
+= eglise
+nom: Lire l'église
+def: Le porche, le diable, le chemin de croix, les statues : un décor de catalogue que la légende lit comme un rébus. Ce que montre chaque pièce, et ce qu'on lui fait dire.
+etapes: terribilis-est-locus-iste, asmodee, par-ce-signe-tu-le-vaincras, dallage-en-damier, chemin-de-croix, statues-de-l-eglise,
+  bas-relief-du-sermon, autel-de-marie-madeleine, pilier-sculpte, dalle-des-chevaliers, piece-secrete, maison-giscard,
+  art-saint-sulpicien, eglise-codee
+
+= fabrique
+nom: La fabrique d'un faux
+def: Comment une légende d'hôtelier devient une affaire mondiale : le récit de 1956, l'association d'Annemasse, les dépôts à la Bibliothèque nationale, le livre, puis les aveux.
+etapes: noel-corbu, recit-de-noel-corbu, articles-de-la-depeche, pierre-plantard, statuts-de-1956, philippe-de-cherisey,
+  pierres-gravees-du-languedoc, dalle-de-la-marquise, le-serpent-rouge, dossiers-secrets, gerard-de-sede, l-or-de-rennes,
+  descendance-merovingienne, jean-luc-chaumeil, histoire-et-pseudo-histoire
+
+= tresors
+nom: Les trésors du Razès
+def: Wisigoths, cathares, Templiers, Blanche de Castille : pour chaque trésor, le fait d'histoire qui lui sert de noyau, puis le saut que fait la légende jusqu'à Rennes.
+etapes: voyage-a-rennes-les-bains, tresor-du-diable-de-blanchefort, alaric, tresor-des-wisigoths, montsegur, tresor-des-cathares,
+  templiers-en-razes, chateau-du-bezu, tresor-des-templiers, faux-monnayeurs-du-bezu, blanche-de-castille,
+  tresor-de-blanche-de-castille, mines-d-or-du-razes
+
+= poussin
+nom: Poussin, l'Arcadie et le tombeau
+def: Un tableau du Louvre, une devise latine, une lettre de 1656, un tombeau au bord d'une route : comment un peintre du XVIIe siècle est entré dans l'affaire.
+etapes: nicolas-poussin, les-bergers-d-arcadie, et-in-arcadia-ego, nicolas-fouquet, lettre-de-louis-fouquet, tombeau-des-pontils,
+  david-teniers, secret-de-poussin, shugborough, inscription-de-shugborough, geometrie-sacree
+
+= boudet
+nom: L'autre Rennes : l'abbé Boudet
+def: À six kilomètres, une station thermale, un curé érudit et un livre étrange sur la langue des Celtes, lu depuis comme une carte au trésor.
+etapes: rennes-les-bains, thermalisme, henri-boudet, la-vraie-langue-celtique, celtomanie, cromleck-de-rennes-les-bains,
+  sources-de-rennes-les-bains, paul-urbain-de-fleury, langue-celtique-codee, boudet-maitre-du-jeu
+
+= enqueteurs
+nom: Ceux qui ont enquêté
+def: Un bibliothécaire, des prêtres historiens, une famille, des comptables de l'histoire : d'où vient ce que l'on sait vraiment, et qui l'a établi.
+etapes: rene-descadeillas, mythologie-du-tresor-de-rennes, bruno-de-monts, corbu-et-captier, l-heritage-de-l-abbe-sauniere,
+  pierre-jarnac, jean-jacques-bedu, autopsie-d-un-mythe, history-of-a-mystery, putnam-et-wood, octonovo, patrick-mensior,
+  paul-saussez

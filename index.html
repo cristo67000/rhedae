@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- L'application ne parle à personne : ni police distante, ni tuile de carte,
+       ni mesure d'audience. `connect-src 'self'` suffit, et le dit. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Les mystères de Rennes-le-Château, pièce par pièce : les personnages, de l'abbé Saunière aux fabricants du mythe ; une chronologie qui distingue l'attesté, le discuté, la légende et le faux ; une carte détaillée du Haut-Razès, du village à la région, dessinée hors ligne ; les hypothèses, du trafic de messes au prieuré de Sion, avec leurs arguments et leurs objections ; le contexte historique. Hors ligne, sans compte, sans publicité.">
+  <meta name="theme-color" content="#141a2e">
+  <!-- La version de la coquille, la même que dans sw.js. -->
+  <meta name="application-version" content="v1.0.0">
+  <title>Rhedae — les mystères de Rennes-le-Château</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Rhedae">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Rhedae">
+  <meta property="og:title" content="Rhedae — les mystères de Rennes-le-Château">
+  <meta property="og:description" content="L'affaire de Rennes-le-Château, pièce par pièce : 253 fiches, une chronologie qui distingue l'attesté du fabriqué, une carte détaillée du Haut-Razès dessinée hors ligne, les hypothèses pesées. Sans compte, sans publicité.">
+  <meta property="og:url" content="https://cristo67000.github.io/rhedae/">
+  <meta property="og:image" content="https://cristo67000.github.io/rhedae/icons/apercu-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Rhedae — les mystères de Rennes-le-Château">
+  <meta property="og:locale" content="fr_FR">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/carte.css">
+</head>
+<body>
+
+  <div id="demarrage" role="status">
+    <svg class="marque-dessin grand" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+      <path class="tour-marque" d="M11 42V19h3.5v-4h4v4h4v-4h4v4H30M30 42V11h-1.5V7h3v2.5h3V7h3v4H36v31M7 42h34"/>
+      <circle class="pomme-marque" cx="20.5" cy="30" r="3.3"/>
+    </svg>
+    <div class="marque">Rhedae</div>
+    <p>Ouverture du dossier…</p>
+  </div>
+
+  <header id="barre">
+    <h1>
+      <svg class="marque-dessin" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+        <path class="tour-marque" d="M11 42V19h3.5v-4h4v4h4v-4h4v4H30M30 42V11h-1.5V7h3v2.5h3V7h3v4H36v31M7 42h34"/>
+        <circle class="pomme-marque" cx="20.5" cy="30" r="3.3"/>
+      </svg>
+      <span class="marque-petite">Rhedae</span>
+    </h1>
+    <p class="sous-titre">les mystères de Rennes-le-Château</p>
+  </header>
+
+  <main id="scene">
+
+    <!-- ————— Le dossier ————— -->
+    <section id="vue-dossier" class="vue">
+      <div id="bloc-recherche">
+        <input id="q" type="search" autocomplete="off" autocapitalize="off"
+               autocorrect="off" spellcheck="false" enterkeyhint="search"
+               placeholder="Chercher : Saunière, parchemins, Bugarach…" aria-label="Chercher dans le dossier">
+        <kbd id="q-raccourci" class="raccourci" aria-hidden="true">/</kbd>
+        <button id="q-vider" type="button" aria-label="Effacer" hidden>✕</button>
+      </div>
+
+      <div id="filtres" class="filtres" role="group" aria-label="Filtrer par rubrique"></div>
+
+      <div id="accueil"></div>
+
+      <div class="ligne-compte">
+        <p id="compte" class="discret compte"></p>
+        <button id="b-hasard" type="button" class="bouton-hasard">
+          <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="3.5"/><circle cx="9" cy="9" r="1.1" class="plein"/><circle cx="15" cy="15" r="1.1" class="plein"/><circle cx="15" cy="9" r="1.1" class="plein"/><circle cx="9" cy="15" r="1.1" class="plein"/></svg>
+          <span>Au hasard</span>
+        </button>
+      </div>
+      <div id="liste"></div>
+
+      <div id="rien" hidden>
+        <p class="rien-titre">Aucune fiche ne correspond.</p>
+        <p class="discret">Essayez une autre orthographe, ou un mot du texte.</p>
+      </div>
+    </section>
+
+    <!-- ————— Chronologie ————— -->
+    <section id="vue-frise" class="vue" hidden>
+      <h2>Chronologie</h2>
+      <p class="discret intro-vue">De la cité wisigothique au tourisme d’aujourd’hui. Chaque date dit ce qu’elle vaut : attestée par un document, discutée, légendaire, ou fabriquée.</p>
+      <div id="frise-natures" class="filtres" role="group" aria-label="Filtrer selon la valeur des dates"></div>
+      <nav id="frise-epoques" class="epoques" aria-label="Aller à une époque"></nav>
+      <div id="frise-contenu"></div>
+    </section>
+
+    <!-- ————— Carte ————— -->
+    <section id="vue-carte" class="vue" hidden>
+      <h2>Carte</h2>
+      <p class="discret intro-vue">Trois cadres, du plus large au plus serré : la région, le Haut-Razès, le village. Touchez un point pour le nommer ; la carte se dessine sans connexion.</p>
+      <div id="carte-cadres" class="segments" role="group" aria-label="Choisir un cadre"></div>
+      <div id="carte-cadre" class="carte-cadre"></div>
+      <div id="carte-choix" hidden></div>
+      <div id="carte-types" class="filtres" role="group" aria-label="Filtrer les lieux"></div>
+      <p id="carte-compte" class="discret"></p>
+      <div id="carte-liste"></div>
+      <p class="discret carte-sources">Relief : Terrain Tiles (Mapzen, AWS Open Data). Rivières, routes, villages et bâti : © les contributeurs d’OpenStreetMap, licence ODbL.</p>
+    </section>
+
+    <!-- ————— Hypothèses ————— -->
+    <section id="vue-hypotheses" class="vue" hidden>
+      <h2>Les hypothèses</h2>
+      <p class="discret intro-vue">D’où venait l’argent du curé, et que cherche-t-on à Rennes depuis 1956 ? Chaque piste est pesée : qui l’a lancée, ce qui plaide pour elle, ce qui s’y oppose, ce qu’en retient l’histoire.</p>
+      <div id="hypotheses-contenu"></div>
+    </section>
+
+    <!-- ————— Réglages ————— -->
+    <section id="vue-reglages" class="vue" hidden>
+      <div id="reglages-contenu"></div>
+    </section>
+
+  </main>
+
+  <div id="mise-a-jour" role="status" aria-live="polite" hidden>
+    <p id="mise-a-jour-texte">Une nouvelle version est prête.</p>
+    <div class="maj-boutons">
+      <button id="b-mettre-a-jour" type="button" class="bouton-principal">Mettre à jour</button>
+      <button id="b-maj-plus-tard" type="button" class="lien-discret">Plus tard</button>
+    </div>
+  </div>
+
+  <div id="annonce" role="status" aria-live="polite" hidden></div>
+
+  <nav id="onglets" aria-label="Sections">
+    <button type="button" data-vue="dossier" aria-current="true">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.2h7a2 2 0 0 1 2 2v7.8a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/><path d="M7.5 12.5h9M7.5 15.8h6"/></svg>
+      <span>Dossier</span>
+    </button>
+    <button type="button" data-vue="frise">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v18"/><circle cx="12" cy="7" r="1.6" class="plein"/><circle cx="12" cy="13" r="1.6" class="plein"/><circle cx="12" cy="19" r="1.6" class="plein"/><path d="M14.5 7H20M4 13h5.5M14.5 19H19"/></svg>
+      <span>Chronologie</span>
+    </button>
+    <button type="button" data-vue="carte">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.5 6.5 9 4l6 2.5 5.5-2.5v13.5L15 20l-6-2.5-5.5 2.5z"/><path d="M9 4v13.5M15 6.5V20"/></svg>
+      <span>Carte</span>
+    </button>
+    <button type="button" data-vue="hypotheses">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 4v16M6 20h12M4.5 7.5h15"/><path d="M4.5 7.5 2.5 13a2.6 2.6 0 0 0 4 0zM19.5 7.5l-2 5.5a2.6 2.6 0 0 0 4 0z"/></svg>
+      <span>Hypothèses</span>
+    </button>
+    <button type="button" data-vue="reglages">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 7h8M18 7h2M4 12h2M12 12h8M4 17h10M20 17h0"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="12" r="2"/><circle cx="17" cy="17" r="2"/></svg>
+      <span>Réglages</span>
+    </button>
+  </nav>
+
+  <aside id="fiche" hidden aria-modal="true" role="dialog">
+    <div id="fiche-contenu"></div>
+  </aside>
+
+  <div id="visionneuse" hidden aria-modal="true" role="dialog"></div>
+
+  <script src="js/outils.js"></script>
+  <script src="js/memoire.js"></script>
+  <script src="js/dossier.js"></script>
+  <script src="js/rendu.js"></script>
+  <script src="js/illustrations.js"></script>
+  <script src="js/carte.js"></script>
+  <script src="js/fiche.js"></script>
+  <script src="js/liste.js"></script>
+  <script src="js/frise.js"></script>
+  <script src="js/lieux.js"></script>
+  <script src="js/hypotheses.js"></script>
+  <script src="js/reglages.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/demarrage.js"></script>
+</body>
+</html>

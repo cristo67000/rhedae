@@ -1,0 +1,21 @@
+# Les liens « Pour aller plus loin » : des pages d'autres sites, au bas de chaque fiche.
+#
+#     node build/construire.mjs          les rattache aux fiches (data/dossier.json)
+#     node build/verifier_liens.mjs      vérifie en ligne que chaque adresse répond
+#
+# Une ligne par fiche : « id: lien | lien | … » (une espace de part et d'autre de la
+# barre), ou « id: - » quand aucune page n'en vaut la peine. Un lien :
+#
+#   wp Titre                      Wikipédia en français (titre exact de la page)
+#   en Title                      Wikipedia en anglais, faute de page française
+#   ws Titre                      Wikisource en français
+#   gallica bpt6k… = libellé      un document numérisé de Gallica
+#   ia identifiant = libellé      un document numérisé de l'Internet Archive
+#   commons Category:… = libellé  une page de Wikimedia Commons
+#   url https://… = libellé       toute autre page (le libellé est obligatoire)
+#
+# Les autres fichiers build/liens-*.txt suivent le même format ; une fiche ne
+# figure que dans un seul.
+
+berenger-sauniere: wp Bérenger Saunière | url https://www.rennes-le-chateau-doc.fr/ = RLCdoc : les documents d'époque en fac-similé
+trafic-de-messes: wp Affaire de Rennes-le-Château

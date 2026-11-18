@@ -1,0 +1,30 @@
+# Liens « Pour aller plus loin » des pièces du dossier (build/articles/40-pieces.txt).
+asmodee: url https://pop.culture.gouv.fr/notice/merimee/PA00132609 = Base Mérimée : la notice de l'église
+terribilis-est-locus-iste: -
+par-ce-signe-tu-le-vaincras: -
+chemin-de-croix: url https://pop.culture.gouv.fr/notice/merimee/PA00132609 = Base Mérimée : la notice de l'église
+bas-relief-du-sermon: -
+statues-de-l-eglise: -
+autel-de-marie-madeleine: -
+dallage-en-damier: -
+piece-secrete: url https://renneslechateau.nl/mystery/the-cholet-report = renneslechateau.nl : le rapport Cholet (en anglais)
+pilier-sculpte: -
+dalle-des-chevaliers: url https://books.openedition.org/editionsmsh/3414 = Christiane Amiel, « L'abîme au trésor » (OpenEdition)
+stele-de-la-marquise: url https://www.rennes-le-chateau-doc.fr/lespersonnages/blanchefort/la_stele_de_marie_de_negre_dables.pdf = RLCdoc : les anomalies de la stèle (T. Bontempi, 2023)
+dalle-de-la-marquise: url https://www.rennes-le-chateau-doc.fr/elements_insolites/images/A_propos_de_pierres_gravees_du_Languedoc.pdf = RLCdoc : à propos de « Pierres gravées du Languedoc » | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/La_dalle.pdf = RLCdoc : la dalle de l'ossuaire
+pierre-de-coumesourde: url https://renneslechateau.nl/man/ernest-cros = renneslechateau.nl : Ernest Cros (en anglais)
+balustre-et-fiole: url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/Acces_au_tombeau_des_Seigneurs.pdf = RLCdoc : l'accès au tombeau des seigneurs
+crane-a-l-entaille: url https://books.openedition.org/editionsmsh/3414 = Christiane Amiel, « L'abîme au trésor » (OpenEdition)
+parchemins: url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/Le_Codex_Biaise.pdf = RLCdoc : « Le Codex biaisé », la source des parchemins | wp Philippe de Chérisey
+carnets-de-sauniere: url https://www.rennes-le-chateau-doc.fr/lespersonnages/sauniere/images2/Carnet_de_messes_arrete_la.pdf = RLCdoc : le carnet de messes, « Arrête là » | url https://priory-of-sion.com/rlc/sauniereswealth.html = Paul Smith : les revenus de Saunière (en anglais)
+dossier-du-proces: url https://renneslechateau.nl/man/saunieres-trial = renneslechateau.nl : le procès (en anglais) | url https://www.rennes-le-chateau-doc.fr/pressetmagazines/La%20Croix/images/La_Croix_09_02_1911.pdf = RLCdoc : La Croix du 9 février 1911
+plaintes-de-1895: url https://www.rennes-le-chateau-doc.fr/Villes%20Villages/ville%20rennes%20le%20chateau/images1/Plainte_Sarda_travaux_cimetiere_1899.pdf = RLCdoc : les plaintes sur le cimetière, 1895-1899
+lettre-de-louis-fouquet: -
+rapport-cros: url https://renneslechateau.nl/man/ernest-cros = renneslechateau.nl : Ernest Cros (en anglais)
+maquette-de-sauniere: -
+statuts-de-1956: wp Prieuré de Sion | en Priory of Sion
+et-in-arcadia-ego: wp Les Bergers d'Arcadie
+17-janvier: -
+pommes-bleues: -
+penitence-penitence: -
+inscription-de-shugborough: -

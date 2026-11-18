@@ -1,0 +1,664 @@
+# Les lieux que la carte montre de près : le village (l'église, le domaine de
+# l'abbé, le cimetière, le château) puis le Haut-Razès, de Couiza à Bugarach et
+# d'Alet à Axat. Les coordonnées viennent des tableaux de
+# build/.recherche/notes-lieux-images.md (Wikidata, OpenStreetMap, IGN) ; celles
+# que ces notes disent « approx. » sont à recaler sur un fond de carte.
+
+@ eglise-sainte-marie-madeleine
+cat: lieux
+groupe: village
+nom: Église Sainte-Marie-Madeleine
+alias: église de Rennes-le-Château, église Sainte-Madeleine, Sainte-Marie-Madeleine, église de l'abbé Saunière
+geo: 42.92807, 2.26269
+lieu: Rennes-le-Château, Aude
+type: eglise
+echelle: village
+def: Église paroissiale de Rennes-le-Château, romane, citée dès 1185, que l'abbé Saunière restaure et redécore de 1887 à 1897 ; elle est inscrite au titre des monuments historiques depuis 1994.
+texte: L'église se tient en haut du village, à 514 mètres d'altitude, le [[presbytere|presbytère]] accolé à l'ouest, le [[cimetiere|cimetière]] au nord et à l'est. C'est à l'origine la chapelle du château des comtes de Razès : l'abside et la base du clocher sont romanes, sans doute du XIe siècle, et un inventaire des Hospitaliers de Saint-Jean la mentionne pour la première fois en 1185. Elle est dédiée à sainte [[marie-madeleine|Marie-Madeleine]].
+texte: Les calvinistes la ruinent en partie en 1578 ; on la répare au siècle suivant. De 1694 à 1726, le registre paroissial y signale un « tombeau des seigneurs », « auprès du balustre », où l'on inhume encore en 1705 et en 1724 ; le caveau est fermé entre 1726 et 1737. C'est le seul souterrain de l'édifice que les textes attestent : la [[crypte-des-seigneurs|crypte des seigneurs]]. Un rapport d'architecte en 1853, puis le conseil général en août 1883, constatent son délabrement : clocher lézardé, toitures à refaire.
+texte: [[berenger-sauniere|Bérenger Saunière]], arrivé en 1885, trouve donc une église qu'il faut de toute façon refaire. Après des réparations d'urgence en 1886, le chantier, conduit par l'entrepreneur [[elie-bot|Élie Bot]], dure dix ans : un maître-autel posé le 27 juillet 1887, offert par une paroissienne de Coursan ; des vitraux d'Henri Feur, de Bordeaux ; un dallage refait à partir de septembre 1891 et une chaire neuve ; enfin le décor de terre cuite peinte commandé en novembre 1896 à la [[maison-giscard|maison Giscard]], de Toulouse, pour 2 500 francs. [[mgr-billard|Mgr Billard]] bénit l'église restaurée le 6 juin 1897, jour de la Pentecôte. D'après les factures, le tout — église, presbytère et cimetière — a coûté 11 605 francs.
+texte: On entre par un porche dont le tympan porte les armes de Léon XIII et l'inscription « [[terribilis-est-locus-iste|Terribilis est locus iste]] », empruntée à la liturgie de la dédicace des églises. L'intérieur est tout entier du goût [[art-saint-sulpicien|saint-sulpicien]], polychrome, garni de statues de série. Le [[asmodee|diable]] y porte le bénitier, sous quatre anges et la devise « [[par-ce-signe-tu-le-vaincras|Par ce signe tu le vaincras]] ». Viennent ensuite le [[chemin-de-croix|chemin de croix]] en relief, les [[statues-de-l-eglise|statues]] des saints, le grand [[bas-relief-du-sermon|bas-relief du Sermon sur la montagne]] au mur du fond, le [[autel-de-marie-madeleine|bas-relief de la Madeleine]] à l'autel, le [[dallage-en-damier|dallage en damier]] noir et blanc et, derrière la sacristie, un réduit qu'on appelle la [[piece-secrete|pièce secrète]]. Ce décor est pour l'essentiel choisi sur catalogue ; seul le groupe du bénitier paraît une commande particulière.
+texte: Pendant les travaux, Saunière met au jour le [[pilier-sculpte|pilier sculpté]] de l'ancien autel, la [[dalle-des-chevaliers|dalle des Chevaliers]] et, le 21 septembre 1891, sous le dallage, « un tombeau » qu'il note dans son carnet sans commentaire. C'est ce sous-sol que l'on interroge depuis. En 1956, une équipe de Carcassonne n'y trouve qu'un [[crane-a-l-entaille|crâne entaillé]] ; de 1959 à 1967, l'ingénieur [[jacques-cholet|Jacques Cholet]] creuse sous l'autel, la chaire et la sacristie, sans résultat ; en 2001, un géoradar relève sous le chœur, à plus de trois mètres, une anomalie interprétée comme une cavité, mais l'État refuse en 2003 la fouille demandée. Voir [[fouilles|les fouilles]].
+texte: La lecture de l'église comme un rébus date de 1967 : c'est [[gerard-de-sede|Gérard de Sède]] qui, dans *[[l-or-de-rennes|L'Or de Rennes]]*, baptise le diable Asmodée et fait du décor une [[eglise-codee|carte au trésor]]. Autour du 17 janvier, le soleil bas projette par un vitrail des taches de couleur sur le mur opposé : ce sont les « [[pommes-bleues|pommes bleues]] ». L'édifice, lui, vieillit. Le diable est décapité en avril 1996, puis frappé à la hache le 23 avril 2017, avec le bas-relief de l'autel ; une fouille clandestine met à nu les fondations dans la nuit du 29 au 30 décembre 2017 ; des fissures et de l'humidité sont signalées à la voûte en 2019-2020. Des carottages sont faits autour de l'église en septembre 2025, pour le diagnostic de ses fondations, et une seconde tranche d'investigations, à l'intérieur, commence le 16 novembre 2026. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].
+voir-sur-place: État de novembre 2026 : l'église est fermée au public du 16 novembre au 31 décembre 2026, le temps d'investigations menées à l'intérieur. En temps ordinaire, l'entrée est gratuite, tous les jours de 10 h 30 à 17 h 30 quand le Domaine est ouvert ; le tympan et ses inscriptions se lisent du dehors.
+repere: XIe siècle — Abside et base du clocher, romanes.
+repere: 1185 — Première mention, dans un inventaire des Hospitaliers.
+repere: 1578 — Les calvinistes la ruinent en partie.
+repere: 1705 — Une inhumation dans le « tombeau des seigneurs », près du balustre.
+repere: août 1883 — Le conseil général constate le clocher lézardé et les toitures à refaire.
+repere: 27 juillet 1887 — Pose du nouveau maître-autel.
+repere: 21 septembre 1891 — Saunière note la « découverte d'un tombeau » sous le dallage.
+repere: 6 juin 1897 — Mgr Billard bénit l'église restaurée.
+repere: 26 juillet 1994 — Inscription au titre des monuments historiques.
+repere: 23 avril 2017 — Le diable et le bas-relief de l'autel sont attaqués à la hache.
+repere: septembre 2025 — Carottages autour de l'édifice.
+repere: 16 novembre 2026 — Fermeture au public pour des investigations à l'intérieur.
+attention: L'église est inscrite, et non classée, au titre des monuments historiques. Le bourg médiéval en avait une seconde, Saint-Pierre, détruite selon la tradition lors du sac de 1361-1362 : son emplacement est discuté et aucune fouille ne l'a retrouvée.
+voir: berenger-sauniere, asmodee, chemin-de-croix, crypte-des-seigneurs, eglise-codee, maison-giscard, fouilles, jardin-du-calvaire, cimetiere, presbytere
+
+@ presbytere
+cat: lieux
+groupe: village
+nom: Le presbytère
+alias: presbytère de Rennes-le-Château, musée de Rennes-le-Château, musée du Domaine de l'abbé Saunière, maison du curé
+geo: 42.92806, 2.26259
+lieu: Rennes-le-Château, Aude
+type: musee
+echelle: village
+def: Maison du curé, accolée à l'église et propriété de la commune : Saunière y loge jusqu'à sa mort, et elle abrite depuis 1989 un musée, aujourd'hui entrée du Domaine de l'abbé Saunière.
+texte: Le presbytère est le bâtiment accolé à l'ouest de l'[[eglise-sainte-marie-madeleine|église]]. Quand [[berenger-sauniere|Bérenger Saunière]] arrive, le 1er juin 1885, il est inhabitable : le nouveau curé loge d'abord chez une paroissienne, Antoinette Marre. La maison est remise en état dès 1886, avec les premiers travaux d'urgence. Au début des années 1890 — les sources hésitent entre 1890, 1892 et 1894 —, la famille de [[marie-denarnaud|Marie Dénarnaud]] s'y installe avec lui.
+texte: Le point qui compte est de droit. Le presbytère n'est pas au curé : c'est un bien de la commune. Après la [[separation-de-1905|Séparation de 1905]], la mairie le loue à Saunière, et ce bail, dont la date n'est pas établie, lui permet de rester au village quand l'évêché le remplace, en 1909. Le domaine voisin — la [[villa-bethanie|villa Béthanie]], la [[tour-magdala|tour Magdala]] — est au nom de Marie. En mars 1917, après la mort du curé, la commune reloue la maison à la servante.
+texte: En mai 1989, [[corbu-et-captier|Claire Corbu et Antoine Captier]] y ouvrent un musée, avec l'association Terre de Rhedae. Rouvert le 1er mars 2009, rénové en 2016 sous le nom de « Domaine de l'abbé Saunière », il sert aujourd'hui d'entrée à la visite. On y voit les deux pièces carolingiennes sorties de l'église — l'original du [[pilier-sculpte|pilier sculpté]], mis à l'abri le 29 mai 1993, et la [[dalle-des-chevaliers|dalle des Chevaliers]] —, le [[balustre-et-fiole|balustre]] de l'ancienne chaire et la dalle qui couvrait la [[tombe-de-sauniere|tombe du curé]].
+voir-sur-place: C'est l'entrée du Domaine de l'abbé Saunière : le musée (panneaux, archives, mobilier, maquettes), puis les jardins, la villa et la tour. Visite libre à 6 euros en 2026, gratuite pour les moins de dix ans ; les horaires changent avec la saison.
+voir: berenger-sauniere, marie-denarnaud, separation-de-1905, cure-de-campagne, eglise-sainte-marie-madeleine, villa-bethanie, pilier-sculpte, dalle-des-chevaliers, rennes-aujourd-hui
+
+@ cimetiere
+cat: lieux
+groupe: village
+nom: Le cimetière
+alias: cimetière de Rennes-le-Château, cimetière paroissial, ossuaire, porche à la tête de mort
+geo: 42.92815, 2.26281
+lieu: Rennes-le-Château, Aude
+type: cimetiere
+echelle: village
+def: Cimetière paroissial qui borde l'église au nord et à l'est : Saunière y remue les tombes en 1895, on y relève en 1905 l'épitaphe de la marquise de Blanchefort, et il est fermé aux visiteurs depuis 2004.
+texte: Le cimetière borde l'[[eglise-sainte-marie-madeleine|église]] au nord et à l'est. On y entre par un porche que surmonte une tête de mort posée sur deux tibias croisés. Les seigneurs du lieu y reposent depuis que leur caveau, dans l'église, a été fermé : le petit Joseph d'Hautpoul en 1739, puis sa mère, [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], morte le 17 janvier 1781.
+texte: [[berenger-sauniere|Bérenger Saunière]] y fait beaucoup travailler. À l'automne 1894, des tailleurs de pierre sont à l'œuvre, sans doute pour l'ossuaire. Les 12 et 14 mars 1895, après une séance du conseil municipal, des habitants écrivent au préfet : le curé déplace les croix, les pierres et les ossements. Ce sont les [[plaintes-de-1895|plaintes de 1895]], seul fondement écrit des « fouilles nocturnes » de la légende ; il n'y est pas question de trésor. En février 1897, le mur est refait. Le 24 avril 1899, un propriétaire, Jean Sarda, se plaint à son tour au procureur de travaux faits « sans autorisation aucune ». Le maire confirme, parle d'une fosse creusée face à la porte et d'une maçonnerie que le curé destine à une chapelle ; puis le conseil municipal prend le parti du curé. La chapelle ne sera jamais construite. En 1900, la commune l'autorise à creuser un caveau, bâti l'année suivante.
+texte: Pourquoi ces bouleversements ? Saunière les explique lui-même : un ossuaire, de la place pour de nouvelles sépultures. La rumeur du village y voit autre chose, et c'est l'hypothèse des [[pillage-des-tombes|tombes fouillées]]. [[patrick-mensior|Patrick Mensior]] suppose qu'il cherchait, depuis le cimetière, un autre accès au [[crypte-des-seigneurs|caveau des seigneurs]] ; ce n'est qu'une hypothèse.
+texte: La pierre la plus célèbre est la [[stele-de-la-marquise|stèle de la marquise]]. Le 25 juin 1905, les excursionnistes de la Société d'études scientifiques de l'Aude la voient encore : une large dalle brisée en son milieu, 1,30 mètre sur 0,65, dans un coin du cimetière. Leur relevé paraît [[bulletin-de-la-sesa-1906|l'année suivante]]. Dix ans après les plaintes, l'épitaphe était donc lisible. [[rene-descadeillas|René Descadeillas]] cite une note selon laquelle la dalle a disparu en 1906. Que Saunière l'ait « effacée » est une accusation de [[noel-corbu|Noël Corbu]], en 1962, reprise par [[gerard-de-sede|Gérard de Sède]] ; rien ne l'établit. Quant à la grande dalle sans inscription de l'ossuaire, photographiée intacte en 1962, des vandales l'ont retaillée au début des années 1970 pour lui donner la forme de la stèle : ce n'est pas la pierre de 1905. La [[dalle-de-la-marquise|dalle « Et in Arcadia ego »]], elle, n'est connue que par un recueil apocryphe.
+texte: Saunière est enterré ici le 24 janvier 1917, contre le mur de son domaine ; [[marie-denarnaud|Marie Dénarnaud]] l'est près de lui en 1953, Noël Corbu en 1968. La célébrité amène les dégradations : la tombe du curé est vandalisée en 1966, d'autres sont profanées dans la nuit du 3 au 4 novembre 1968. Le 14 septembre 2004, la commune fait transférer le corps de l'abbé dans le jardin du domaine — voir [[tombe-de-sauniere|la tombe de Saunière]] — et ferme le cimetière aux visiteurs.
+voir-sur-place: Fermé aux visiteurs depuis 2004 ; pour une demande particulière, s'adresser à la mairie. Le porche à la tête de mort est au chevet de l'église, au bout de la rue de l'Église ; la tombe de Saunière n'est plus ici, mais dans le jardin du Domaine.
+repere: 1739 — Joseph d'Hautpoul, enfant, y est inhumé : le caveau de l'église est fermé.
+repere: 17 janvier 1781 — Mort de Marie de Nègre d'Ables, enterrée au cimetière.
+repere: automne 1894 — Des tailleurs de pierre y travaillent : construction probable de l'ossuaire.
+repere: 12 mars 1895 — Première des deux plaintes d'habitants au préfet.
+repere: 24 avril 1899 — Plainte de Jean Sarda au procureur.
+repere: 1901 — Saunière y fait bâtir un caveau, autorisé l'année précédente.
+repere: 25 juin 1905 — La Société d'études scientifiques de l'Aude relève l'épitaphe de la marquise.
+repere: 24 janvier 1917 — Obsèques de Saunière.
+repere: 29 janvier 1953 — Mort de Marie Dénarnaud, enterrée près de lui.
+repere: novembre 1968 — Des tombes sont profanées dans la nuit du 3 au 4.
+repere: 14 septembre 2004 — Le corps de Saunière est transféré dans le jardin du domaine.
+voir: plaintes-de-1895, stele-de-la-marquise, dalle-de-la-marquise, marie-de-negre-d-ables, tombe-de-sauniere, pillage-des-tombes, crypte-des-seigneurs, bulletin-de-la-sesa-1906, eglise-sainte-marie-madeleine
+
+@ tombe-de-sauniere
+cat: lieux
+groupe: village
+nom: La tombe de Saunière
+alias: tombe de l'abbé Saunière, tombeau de Bérenger Saunière, sarcophage de Saunière, sépulture de Saunière
+geo: 42.92818, 2.26244
+lieu: Rennes-le-Château, Aude
+type: tombeau
+echelle: village
+def: Enterré en 1917 au cimetière, contre le mur de son domaine, Bérenger Saunière repose depuis le 14 septembre 2004 de l'autre côté de ce mur, dans un sarcophage de béton placé dans le jardin.
+texte: [[berenger-sauniere|Bérenger Saunière]] meurt le 22 janvier 1917 ; il est inhumé le 24 au [[cimetiere|cimetière]] paroissial, contre le mur mitoyen de son domaine. La dalle porte : « Ici repose Bérenger Saunière, curé à Rennes-le-Château 1885-1917, décédé le 22 janvier 1917 à l'âge de 65 ans ». Il en avait soixante-quatre, et n'était plus curé en titre depuis 1909. [[marie-denarnaud|Marie Dénarnaud]] ne règle le cercueil que le 12 juin 1917 : la légende, lisant « janvier » pour « juin », dira qu'il avait été commandé avant la mort. Le corps exposé dans un fauteuil, sous une couverture à pompons, appartient au récit de [[gerard-de-sede|Gérard de Sède]], en 1967 ; aucun document ne le rapporte.
+texte: La pierre est mince — 1,05 mètre sur 0,35, cinq centimètres d'épaisseur — et brisée en deux. L'abbé [[bruno-de-monts|Bruno de Monts]] y a vu, vers 1985, la dalle de la marquise de Blanchefort, grattée et regravée. [[patrick-mensior|Patrick Mensior]] objecte en 2024 que la pierre relevée en 1905 mesurait 1,30 mètre sur 0,65, et que [[rene-descadeillas|René Descadeillas]] la dit disparue en 1906. La cassure vient plus probablement du gel, d'un choc ou du vandalisme : la tombe est dégradée dès 1966. Voir [[stele-de-la-marquise|la stèle de la marquise]].
+texte: Les fouilleurs clandestins ne la laissent pas en paix. Le 14 septembre 2004, par décision du maire et des descendants, le village est bouclé à l'aube : le corps est exhumé et déposé dans un sarcophage, sous plusieurs tonnes de béton, dans le jardin du domaine, de l'autre côté du mur. Le cimetière est depuis fermé aux visiteurs. L'ancienne dalle est exposée au musée du [[presbytere|presbytère]].
+voir-sur-place: Le sarcophage se voit dans les jardins du Domaine, avec le billet d'entrée. L'ancienne tombe, au cimetière, n'est plus accessible ; sa dalle est au musée. Le point porté sur la carte est approximatif.
+voir: berenger-sauniere, cimetiere, marie-denarnaud, stele-de-la-marquise, presbytere, villa-bethanie, rennes-aujourd-hui
+
+@ villa-bethanie
+cat: lieux
+groupe: village
+nom: Villa Béthanie
+alias: villa Bethania, Béthanie, villa de l'abbé Saunière, hôtel de la Tour
+geo: 42.92793, 2.26257
+lieu: Rennes-le-Château, Aude
+type: maison
+echelle: village
+def: Maison néo-Renaissance bâtie de 1901 à 1905 pour l'abbé Saunière, sur un terrain au nom de sa servante ; il dit la messe dans sa véranda après 1909, et Noël Corbu en fait un hôtel en 1955.
+texte: La villa est la pièce maîtresse du domaine que [[berenger-sauniere|Bérenger Saunière]] fait bâtir à côté de son église, sur six parcelles achetées en décembre 1898 au nom de [[marie-denarnaud|Marie Dénarnaud]]. La première pierre est posée le 3 juin 1901 ; le gros œuvre est fini en 1902-1903, la maison terminée en mai 1905. L'architecte est [[tiburce-caminade|Tiburce Caminade]], de Limoux, l'entrepreneur [[elie-bot|Élie Bot]]. C'est une maison de style néo-Renaissance, avec une statue du Sacré-Cœur en façade. Son nom vient de l'Évangile : Béthanie est le village où Jésus reçoit l'onction.
+texte: Saunière la destine, dit-il, à servir de maison de retraite pour les prêtres âgés. Elle ne le sera jamais. Il y reçoit, la meuble à grands frais — en 1908, il doit plus de six mille francs à un marchand de meubles —, mais garde son logement au [[presbytere|presbytère]]. Les factures retrouvées donnent 26 417 francs pour tout le domaine, terrains compris, de 1898 à 1905. En 1911, devant ses juges, il compte la seule villa pour 90 000 francs : l'abbé [[bruno-de-monts|Bruno de Monts]] a montré que la somme était gonflée.
+texte: La maison change de rôle en 1909. Remplacé comme curé, Saunière refuse de partir : le domaine est à Marie, l'évêque n'y peut rien. À partir de février 1910, il dit la messe dans la véranda, aménagée en chapelle, et l'église du nouveau desservant se vide. Pendant son [[proces-de-sauniere|procès]], il cherche pourtant à vendre, par un agent en 1910, par une banque en novembre 1911, sans succès. En 1913, le Crédit foncier estime l'ensemble à 18 000 francs et lui en prête 6 000.
+texte: Après sa mort, Marie Dénarnaud, propriétaire en titre, garde la maison et les dettes. En 1918, l'abbé [[eugene-grassaud|Grassaud]] lui conseille d'en demander 200 000 francs ; aucune vente n'aboutit. Le 22 juillet 1946, elle institue par testament [[noel-corbu|Noël Corbu]] et sa femme légataires universels, à charge pour eux de l'entretenir, et ils s'installent à la villa. À Pâques 1955, Corbu y ouvre l'hôtel-restaurant de la Tour : c'est pour ses clients qu'il compose [[recit-de-noel-corbu|le récit du curé aux milliards]]. En 1964-1965, il vend à [[henri-buthion|Henri Buthion]], qui tient l'hôtel jusque dans les années 1990. La commune devient propriétaire du domaine en 2000.
+texte: La légende a peuplé la maison : on y aurait entendu chanter [[emma-calve|Emma Calvé]], on y aurait reçu un [[jean-salvator-de-habsbourg|archiduc]]. Ces récits paraissent à partir de 1967, sans une pièce à l'appui ; la cantatrice n'apparaît nulle part dans les registres de correspondance du curé.
+voir-sur-place: La villa fait partie de la visite du Domaine : on entre dans le salon et dans la chapelle particulière de l'abbé. Elle n'a pas de protection au titre des monuments historiques.
+repere: décembre 1898 — Six parcelles sont achetées au nom de Marie Dénarnaud.
+repere: 3 juin 1901 — Première pierre de la villa.
+repere: mai 1905 — La villa est terminée.
+repere: février 1910 — Saunière dit la messe dans la véranda.
+repere: 1913 — Le Crédit foncier estime le domaine à 18 000 francs.
+repere: 22 juillet 1946 — Marie Dénarnaud lègue ses biens aux époux Corbu.
+repere: Pâques 1955 — Ouverture de l'hôtel-restaurant de la Tour.
+repere: 1964-1965 — Noël Corbu vend le domaine à Henri Buthion.
+repere: 2000 — La commune devient propriétaire.
+voir: berenger-sauniere, marie-denarnaud, tour-magdala, belvedere-et-orangerie, tiburce-caminade, elie-bot, noel-corbu, henri-buthion, proces-de-sauniere, presbytere
+
+@ tour-magdala
+cat: lieux
+groupe: village
+nom: Tour Magdala
+alias: la tour Magdala, tour de Saunière, bibliothèque de Saunière, Magdala
+geo: 42.92783, 2.26198
+lieu: Rennes-le-Château, Aude
+type: tour
+echelle: village
+def: Petite tour néogothique à créneaux et échauguette, bâtie pour l'abbé Saunière au bord de la falaise : il y installe sa bibliothèque. En 2003, on en a ouvert le sol sans rien trouver.
+texte: La tour se dresse au bord de la falaise, à 519 mètres d'altitude, à la pointe sud-ouest du domaine. C'est une petite construction néogothique, crénelée, flanquée d'une échauguette, élevée entre 1901 et 1906 par l'entrepreneur [[elie-bot|Élie Bot]] sur les plans de [[tiburce-caminade|Tiburce Caminade]], dans le même chantier que la [[villa-bethanie|villa Béthanie]]. Son nom, comme le vocable de l'église, renvoie à [[marie-madeleine|Marie de Magdala]]. [[berenger-sauniere|Bérenger Saunière]] y installe sa bibliothèque et son cabinet de travail. Un [[belvedere-et-orangerie|belvédère]] en arc de cercle la relie à une tour de verre, l'orangerie, qui lui fait pendant au nord.
+texte: De la plate-forme, à 527 mètres, la vue porte sur une vingtaine de villages, sur les vallées de l'Aude et de la Sals, sur le [[bugarach|pic de Bugarach]] et le [[pech-cardou|Cardou]]. Saunière fait éditer des cartes postales de son domaine — trente-trois modèles —, qu'il vend.
+texte: Comme tout le domaine, la tour est au nom de [[marie-denarnaud|Marie Dénarnaud]]. Les factures de l'ensemble n'atteignent pas 27 000 francs. Le 14 juillet 1911, dans l'état de dépenses qu'il remet à ses juges, Saunière compte pourtant la tour à elle seule pour 40 000 francs : le chiffre, enflé pour répondre de dons qu'il ne peut prouver, a nourri l'idée d'un chantier fastueux. [[noel-corbu|Noël Corbu]] ira plus loin. Selon lui, le curé aurait signé le 5 janvier 1917, deux semaines avant sa mort, un devis de huit millions où figurait une tour de cinquante mètres. Aucune pièce ne l'appuie, et l'homme était alors endetté.
+texte: Après 1917, Marie Dénarnaud vend les livres. L'hôtel que Corbu ouvre en 1955 s'appelle l'hôtel de la Tour. Le 2 mars 1981, [[francois-mitterrand|François Mitterrand]], candidat en tournée dans l'Aude, y monte et s'y fait photographier ; [[roger-patrice-pelat|Roger-Patrice Pelat]] l'accompagne. L'image servira plus tard à ceux qui prêtent à l'État un intérêt pour Rennes : voir [[prieure-a-l-elysee|le prieuré à l'Élysée]].
+texte: En 2001, une équipe américaine sonde au géoradar l'église et la tour. Sous la tour, l'appareil ne montre que le litage du rocher, vers 1,10 mètre. Vers le 20 août 2003, le maire fait pourtant ouvrir le sol : il n'y a rien. La direction régionale des affaires culturelles, qui n'avait pas été saisie, menace de poursuites et refuse la fouille demandée dans l'église. Voir [[fouilles|les fouilles]].
+voir-sur-place: La tour se visite avec le billet du Domaine : on voit l'ancienne bibliothèque et l'on monte sur la plate-forme crénelée. Au pied, une esplanade publique sert de point de vue, près du parking du haut du village.
+repere: décembre 1898 — Achat des terrains au nom de Marie Dénarnaud.
+repere: 1901 — Début du chantier du domaine.
+repere: 1906 — La tour, le belvédère et l'orangerie sont achevés.
+repere: 14 juillet 1911 — Saunière chiffre la tour à 40 000 francs devant ses juges.
+repere: 2 mars 1981 — François Mitterrand, candidat, monte à la tour.
+repere: 2000 — La commune devient propriétaire du domaine.
+repere: 2001 — Sondage au géoradar : rien sous la tour que le rocher.
+repere: août 2003 — Le maire fait ouvrir le sol : rien.
+voir: berenger-sauniere, villa-bethanie, belvedere-et-orangerie, tiburce-caminade, elie-bot, fouilles, francois-mitterrand, marie-denarnaud, rennes-aujourd-hui
+
+@ belvedere-et-orangerie
+cat: lieux
+groupe: village
+nom: Le belvédère et l'orangerie
+alias: belvédère, orangerie, tour de verre, chemin de ronde, rempart, jardins du Domaine, jardin d'hiver
+geo: 42.92798, 2.26197
+lieu: Rennes-le-Château, Aude
+type: site
+echelle: village
+def: Terrasse en arc de cercle qui ferme le domaine de Saunière du côté de la falaise, entre la tour Magdala et une tour vitrée, l'orangerie, qui servait de jardin d'hiver.
+texte: Le belvédère est le « rempart » du domaine : une terrasse en arc de cercle, au bord de la falaise, que l'on parcourt comme un chemin de ronde. À son extrémité sud se tient la [[tour-magdala|tour Magdala]] ; à l'extrémité nord, une tour-serre vitrée lui fait pendant, l'orangerie, dite aussi tour de verre. Le parc s'étend en arrière, jusqu'à la [[villa-bethanie|villa Béthanie]]. L'ensemble est élevé de 1901 à 1906 par [[elie-bot|Élie Bot]], sur les plans de [[tiburce-caminade|Tiburce Caminade]] ; les jardins sont presque finis en 1908.
+texte: [[berenger-sauniere|Bérenger Saunière]] projette encore, en mai 1914, un kiosque de 2 500 francs ; il y renonce à la fin de 1915. C'est sur la terrasse qu'il est frappé d'un malaise, le 17 janvier 1917 ; il meurt cinq jours plus tard.
+texte: En 1955, [[noel-corbu|Noël Corbu]] installe sous le belvédère une partie de son hôtel-restaurant. L'année suivante, tandis que la presse lance le trésor, on exhume dans le jardin trois squelettes récents : selon Christiane Amiel, l'enquête les rattache à des maquisards espagnols tués en 1945. La commune, propriétaire depuis 2000, engage en septembre 2019 des travaux au belvédère.
+voir-sur-place: Compris dans la visite du Domaine : on marche sur le belvédère d'une tour à l'autre et l'on entre dans l'orangerie. Des expositions temporaires s'y tiennent du 1er avril au 31 octobre.
+voir: tour-magdala, villa-bethanie, berenger-sauniere, tiburce-caminade, elie-bot, noel-corbu, fouilles, rennes-aujourd-hui
+
+@ jardin-du-calvaire
+cat: lieux
+groupe: village
+nom: Le jardin du calvaire
+alias: calvaire de Rennes-le-Château, grotte de Saunière, Vierge de Lourdes, Notre-Dame de Lourdes, jardin de l'église
+geo: 42.92794, 2.26288
+lieu: Rennes-le-Château, Aude
+type: jardin
+echelle: village
+def: Petit enclos aménagé par Saunière devant le porche de l'église, de 1891 à 1897 : une Vierge de Lourdes sur un pilier carolingien, un calvaire, une grotte de rocaille.
+texte: Le jardin occupe l'enclos qui précède le porche de l'[[eglise-sainte-marie-madeleine|église]], au sud de la nef. [[berenger-sauniere|Bérenger Saunière]] l'aménage en six ans. Le 21 juin 1891, jour de la première communion de vingt-quatre enfants et de la clôture d'une mission, il y fait bénir une statue de Notre-Dame de Lourdes. Elle est posée sur l'un des supports de l'ancien autel, le [[pilier-sculpte|pilier sculpté]], dressé à l'envers et gravé « [[penitence-penitence|Pénitence ! Pénitence !]] » et « Mission 1891 ». L'original est au musée depuis le 29 mai 1993 ; une copie le remplace.
+texte: La croix du calvaire est posée le 11 février 1897, et [[mgr-billard|Mgr Billard]] bénit le calvaire avec l'église le 6 juin. Elle porte le sigle « A.O.M.P.S. », qu'on développe d'ordinaire en une prière de protection, *Ab omni malo protege servos* ; [[henry-lincoln|Henry Lincoln]] a préféré y lire les initiales d'un « Antiquus Ordo Mysticus Prioratus Sionis », c'est-à-dire du [[prieure-de-sion|prieuré de Sion]], association née en 1956. Saunière emploie comme marche du calvaire la [[dalle-des-chevaliers|dalle des Chevaliers]], sortie du sol de l'église : on l'y « redécouvre » en 1926.
+texte: Dans un angle, une petite grotte de rocaille. Le curé l'a bâtie, dit la tradition, avec des pierres qu'il rapportait de ses promenades dans le vallon du ruisseau des Couleurs, sous le village.
+texte: Des travaux municipaux, commencés en septembre 2019, s'achèvent ici en février 2024. L'architecte [[paul-saussez|Paul Saussez]] reproche à cette restauration de n'être pas « à l'identique » : briques neuves, triglyphes omis.
+voir-sur-place: Devant le porche de l'église : la Vierge de Lourdes sur la copie du pilier, le calvaire de 1897, la grotte de rocaille et les bassins, restaurés en 2024. Le point porté sur la carte est approximatif.
+voir: eglise-sainte-marie-madeleine, pilier-sculpte, penitence-penitence, dalle-des-chevaliers, berenger-sauniere, mgr-billard, paul-saussez
+
+@ chateau-des-hautpoul
+cat: lieux
+groupe: village
+nom: Château des Hautpoul
+alias: château de Rennes-le-Château, château d'Hautpoul, château des seigneurs de Rennes
+geo: 42.92799, 2.26366
+lieu: Rennes-le-Château, Aude
+type: chateau
+echelle: village
+def: Château du village, aux seigneurs de Rennes de 1422 à la Révolution ; c'est la maison de Marie de Nègre d'Ables, morte en 1781, et c'est aujourd'hui une propriété privée.
+texte: Le château se dresse à l'est de l'[[eglise-sainte-marie-madeleine|église]], dans l'emprise de l'ancien oppidum. Ses premières pierres remontent au XIIIe siècle, le temps où le Razès passe à [[pierre-de-voisins|Pierre de Voisins]] ; ce qu'on voit date pour l'essentiel des remaniements des XVIe et XVIIe siècles. En 1422, le mariage de Blanche de Marquefave, héritière des Voisins, avec Pierre-Raymond d'Hautpoul le fait entrer chez les [[famille-d-hautpoul|Hautpoul]], qui le gardent jusqu'à la Révolution.
+texte: C'est la maison de François d'Hautpoul, qui relève le titre de marquis de Blanchefort, et de [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], qu'il épouse en 1732. Veuve en 1753, endettée, en procès avec ses filles, elle meurt à Rennes le 17 janvier 1781. Sous la [[revolution-en-razes|Révolution]], les biens de la famille sont vendus comme biens nationaux. La dernière des Hautpoul de Rennes, Élisabeth, ruinée, cède le château en 1816 à ses régisseurs, Michel Captier et Julie Avignon ; elle y meurt le 20 mai 1820.
+texte: Dans l'affaire, le château n'est qu'un décor : c'est de lui que vient la marquise, dont la [[stele-de-la-marquise|stèle]] a servi aux faussaires. En 1948, un reporter belge parle du « château de M. Fatin » ; une lettre adressée à Marius Fatin, datée du 2 juillet 1966, figure parmi les faux des *[[dossiers-secrets|Dossiers secrets]]*.
+voir-sur-place: Propriété privée : on n'en voit que l'extérieur. Aucune protection au titre des monuments historiques n'a été trouvée.
+voir: famille-d-hautpoul, marie-de-negre-d-ables, pierre-de-voisins, revolution-en-razes, stele-de-la-marquise, rhedae, ruine-de-1362
+
+@ rennes-le-chateau
+cat: lieux
+groupe: razes
+nom: Rennes-le-Château
+alias: Rennes, RLC, Rhedae, village de l'abbé Saunière, Rennes le Château
+geo: 42.92725, 2.26275
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village perché de l'Aude, à 500 mètres d'altitude au-dessus du confluent de l'Aude et de la Sals ; ancien chef-lieu du Razès, 89 habitants en 2023, il doit sa célébrité à son curé, Bérenger Saunière, et au trésor qu'on lui prête depuis 1956.
+texte: Rennes-le-Château occupe un éperon qui domine la confluence de l'Aude et de la Sals. Le bourg est à un peu plus de 500 mètres d'altitude — 514 à l'église, 519 au pied de la tour Magdala —, près de trois cents mètres au-dessus de [[couiza|Couiza]], d'où monte la seule route normale, la D52 : 4,8 kilomètres de lacets. Une voie étroite continue au sud, vers le plateau du Lauzet et Bugarach. Limoux est à 21 kilomètres, Carcassonne à 45. Le chiffre de 435 mètres que donnent certaines notices est une altitude de la commune, non du village.
+texte: Le site est occupé dès la fin du Néolithique, et c'est sans doute un oppidum à l'âge du fer. À la fin du VIIIe siècle, l'évêque Théodulf d'Orléans le nomme dans un poème : c'est [[rhedae|Rhedae]], chef-lieu d'un pays qui lui doit son nom, le [[comte-de-razes|Razès]]. En 1880, l'érudit Louis Fédié en fait, dans *[[le-comte-de-razes-fedie|Le Comté de Razès]]*, une capitale wisigothique de trente mille âmes ; aucune fouille ne le confirme. Après la croisade, le Razès est donné en 1230 à [[pierre-de-voisins|Pierre de Voisins]] ; un autre Pierre de Voisins relève les fortifications en 1293. En 1361 ou 1362, les routiers d'Henri de Trastamare prennent la place et [[ruine-de-1362|la ruinent]]. Rennes n'est plus dès lors qu'un village, celui des [[famille-d-hautpoul|Hautpoul]] de 1422 à la Révolution.
+texte: Au XIXe siècle, il se vide : 474 habitants en 1851, 241 en 1891, 217 en 1901. C'est dans ce [[exode-rural|village qui s'en va]] que [[berenger-sauniere|Bérenger Saunière]] s'installe le 1er juin 1885. Il y restaure l'[[eglise-sainte-marie-madeleine|église]], y bâtit la [[villa-bethanie|villa Béthanie]] et la [[tour-magdala|tour Magdala]], y est condamné pour ses [[trafic-de-messes|messes]] et y meurt le 22 janvier 1917.
+texte: Pendant quarante ans, on n'en parle guère. En 1948 encore, un journaliste belge y compte soixante-dix habitants et le souvenir d'un curé quêteur et bâtisseur, sans mystère. Tout change en janvier 1956, quand *La Dépêche du Midi* publie, d'après [[noel-corbu|Noël Corbu]], qui tient un hôtel dans la villa, l'histoire du « curé aux milliards » : voir [[naissance-du-mythe|1956]]. Les chercheurs de trésor affluent et creusent. Le 28 juillet 1965, un arrêté municipal interdit les [[fouilles|fouilles]] sur tout le territoire de la commune ; il est toujours en vigueur, et un panneau le rappelle à l'entrée du village.
+texte: La population tombe à 63 habitants en 1982, remonte à 111 en 1999 ; elle est de 89 en 2023. Les visiteurs sont sans commune mesure : la commune en annonce environ 120 000 par an, d'autres sources 100 000, sans statistique sûre. Le village et ses abords sont site inscrit depuis 1973, et la commune possède depuis 2000 le domaine de l'abbé, qu'elle fait visiter. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].
+voir-sur-place: On visite le Domaine de l'abbé Saunière — musée, jardins, villa Béthanie, tour Magdala — et l'église quand elle est ouverte ; le château est privé et les fouilles sont interdites sur toute la commune. Le village est piéton du 15 juin au 15 septembre ; aucun transport en commun n'y monte depuis Couiza.
+repere: VIIIe siècle — Théodulf d'Orléans nomme le lieu dans un poème.
+repere: 1185 — Première mention de l'église.
+repere: 1230 — Le Razès est inféodé à Pierre de Voisins.
+repere: 1362 — Les routiers d'Henri de Trastamare ruinent la place ; d'autres sources disent 1361.
+repere: 1422 — La seigneurie passe aux Hautpoul.
+repere: 1851 — 474 habitants, le maximum connu.
+repere: 1er juin 1885 — Installation de l'abbé Saunière.
+repere: 22 janvier 1917 — Mort de Saunière.
+repere: janvier 1956 — *La Dépêche du Midi* lance « le curé aux milliards ».
+repere: 28 juillet 1965 — Un arrêté municipal interdit les fouilles sur toute la commune.
+repere: 2000 — La commune devient propriétaire du domaine.
+repere: 2023 — 89 habitants.
+attention: Ne pas confondre avec [[rennes-les-bains|Rennes-les-Bains]], la station thermale voisine, dont l'abbé Boudet était le curé.
+voir: rhedae, berenger-sauniere, eglise-sainte-marie-madeleine, villa-bethanie, tour-magdala, chateau-des-hautpoul, couiza, exode-rural, naissance-du-mythe, rennes-aujourd-hui
+
+@ couiza
+cat: lieux
+groupe: razes
+nom: Couiza
+alias: château des ducs de Joyeuse, château de Couiza, gare de Couiza-Montazels
+geo: 42.94278, 2.25611
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Bourg de la vallée, au confluent de la Sals et de l'Aude, d'où part la seule route de Rennes-le-Château ; son château Renaissance est celui des ducs de Joyeuse.
+texte: Couiza est le bourg-carrefour du pays : à 228 mètres d'altitude, là où la Sals rejoint l'Aude, sur la route de Limoux à Quillan. C'est de là que part la D52, qui monte en 4,8 kilomètres à [[rennes-le-chateau|Rennes-le-Château]], et c'est là que s'arrêtent les transports en commun : la gare porte le nom de Couiza-Montazels, [[montazels|Montazels]] étant le village d'en face. Des bâtiments romains y sont attestés.
+texte: Le château est entrepris entre 1540 et 1550 par Jean de Joyeuse, qui a épousé en 1518 Françoise de Voisins, et poursuivi par Guillaume de Joyeuse. Il reste inachevé : un rectangle à quatre tours rondes, autour d'une cour Renaissance. C'est le berceau d'Anne de Joyeuse, favori d'Henri III, tué à Coutras le 20 octobre 1587. Il sert ensuite d'hôpital militaire, de gendarmerie, d'entrepôt de laine pour les chapeliers. Il est classé monument historique depuis 1913.
+texte: Dans l'affaire, Couiza est un lieu de passage. [[berenger-sauniere|Bérenger Saunière]] y paraît à la visite pastorale du 9 juillet 1886. En 1897, la presse dit natif de Couiza l'abbé [[antoine-gelis|Gélis]], le curé assassiné de [[coustaussa|Coustaussa]], le village voisin ; ses biographes le font naître à Villesèquelande.
+voir-sur-place: Le château des ducs de Joyeuse est aujourd'hui un hôtel-restaurant : il ne se visite pas, mais on en voit l'extérieur. C'est à Couiza qu'on laisse le car ou le train pour monter à Rennes.
+voir: rennes-le-chateau, montazels, coustaussa, esperaza, luc-sur-aude, rennes-les-bains
+
+@ montazels
+cat: lieux
+groupe: razes
+nom: Montazels
+alias: maison natale de Saunière, place du Griffoul, le Griffoul
+geo: 42.94500, 2.24611
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village de la rive gauche de l'Aude, en face de Couiza : Bérenger Saunière y naît le 11 avril 1852, dans une maison de la place du Griffoul.
+texte: Montazels fait face à [[couiza|Couiza]], de l'autre côté de l'Aude, à 254 mètres d'altitude. De la place du Griffoul, on a devant soi l'éperon de [[rennes-le-chateau|Rennes-le-Château]]. C'est là que naît, le 11 avril 1852, François-Bérenger [[berenger-sauniere|Saunière]]. Son père, Joseph, dit « Cubié », régit le château du marquis de Cazemajou, gère une minoterie et devient maire du village ; sa mère se nomme Marguerite Hugues. Le couple, marié en 1850, a onze enfants, dont sept atteignent l'âge adulte. Bérenger est l'aîné.
+texte: Son cadet [[alfred-sauniere|Alfred]], né ici en 1855, prêtre lui aussi, s'y retire en 1903, sanctionné par l'Église ; il meurt le 9 septembre 1905. Montazels reste le village de la famille. Les *[[dossiers-secrets|Dossiers secrets]]* prêtent à une « Mme James, de Montazels », donnée pour nièce du curé, la vente à des Anglais de vrais [[parchemins|parchemins]] : les lettres produites à l'appui sont des faux reconnus.
+texte: La maison natale donne sur la place, devant la fontaine monumentale, « le Griffoul », élevée vers 1750 et inscrite au titre des monuments historiques en 1951.
+voir-sur-place: La maison natale, place du Griffoul, est une propriété privée qui ne se visite pas ; on voit la fontaine et, de la place, Rennes-le-Château sur sa hauteur. Le point porté sur la carte est celui du village.
+voir: berenger-sauniere, alfred-sauniere, couiza, antugnac, rennes-le-chateau, esperaza
+
+@ esperaza
+cat: lieux
+groupe: razes
+nom: Espéraza
+alias: Esperaza, ville des chapeliers
+geo: 42.93528, 2.22056
+lieu: Aude, Occitanie
+type: ville
+echelle: razes
+def: Ville de la vallée de l'Aude, ancienne capitale française du chapeau de feutre ; Marie Dénarnaud y naît en 1868, et c'est son curé qui assiste Saunière mourant.
+texte: Espéraza est sur l'Aude, en amont de [[couiza|Couiza]], à 7,8 kilomètres de [[rennes-le-chateau|Rennes-le-Château]] par la route. De la fin du XIXe siècle aux années 1950, c'est la capitale française de la chapellerie de feutre. [[marie-denarnaud|Marie Dénarnaud]] y naît le 12 août 1868, dans une famille d'ouvriers chapeliers. Le ruisseau des Couleurs, qui descend du pied de Rennes, y rejoint l'Aude. En janvier 1917, c'est le curé d'Espéraza, l'abbé [[jean-riviere|Jean Rivière]], qui vient au chevet de [[berenger-sauniere|Saunière]] et lève la censure qui le frappe.
+voir-sur-place: Un musée de la Chapellerie rappelle l'ancienne industrie ; la ville a aussi un musée des dinosaures.
+voir: marie-denarnaud, jean-riviere, couiza, montazels, campagne-sur-aude
+
+@ coustaussa
+cat: lieux
+groupe: razes
+nom: Coustaussa
+alias: château de Coustaussa, presbytère de Coustaussa, tombe de l'abbé Gélis, capitelles de Coustaussa, Camp Grand
+geo: 42.94083, 2.27806
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village de la vallée de la Sals, face à Rennes-le-Château, que dominent les ruines d'un château des Trencavel ; son curé, Antoine Gélis, y est assassiné dans la nuit du 31 octobre au 1er novembre 1897.
+texte: Coustaussa s'étage à 314 mètres d'altitude au-dessus de la Sals, juste en face de [[rennes-le-chateau|Rennes-le-Château]]. En 1897, il compte 168 habitants.
+texte: Le château est fondé en 1157 pour les Trencavel, sur un éperon qui commande la rivière. Simon de Montfort le prend en 1210, pendant la [[croisade-des-albigeois|croisade contre les Albigeois]] ; repris, il est ravagé en 1211. Au XVIe siècle, on en fait une demeure Renaissance. Vendu en 1803, il perd ses charpentes en 1819 : de là les grandes ruines d'aujourd'hui, inscrites au titre des monuments historiques depuis le 10 avril 1948.
+texte: Le village entre dans l'affaire par un crime. [[antoine-gelis|Antoine Gélis]] est curé de Coustaussa depuis 1857 ; il a soixante-dix ans, se méfie et n'ouvre à personne la nuit. Le lundi 1er novembre 1897, jour de la Toussaint, on le trouve mort dans la cuisine du presbytère, frappé à la tête. Le vol n'est pas le mobile : la presse signale 1 500 francs en pièces de cinq francs restés dans des tiroirs ouverts. Des papiers, en revanche, ont été fouillés. Un carnet de papier à cigarettes de marque « Le Tzar » porte au crayon « Viva Angelina » — Gélis ne fumait pas. Le parquet de Limoux fait arrêter deux chemineaux, vite relâchés, puis, le 13 avril 1898, un neveu par alliance de la victime, Joseph Pagès ; un non-lieu est annoncé le 6 août. Le crime n'a jamais été élucidé.
+texte: Aucune pièce de l'instruction ne nomme [[berenger-sauniere|Bérenger Saunière]]. Les seuls liens attestés sont minces : son [[carnets-de-sauniere|carnet]] note une visite « chez Gélis » le 29 septembre 1891, et il assiste en 1898 à l'installation du successeur, l'abbé Marty. C'est *[[l-or-de-rennes|L'Or de Rennes]]*, en 1967, qui fait de ce meurtre un épisode du secret : voir [[piste-gelis|le secret de l'abbé Gélis]].
+texte: Gélis repose au cimetière communal, au nord du village, près de la chapelle Saint-Alain. Sa tombe, tournée à l'opposé des autres, est ornée d'une rose : certains y voient un signe, [[paul-smith|Paul Smith]] un motif funéraire banal. Sur le plateau du nord-est, au lieu-dit Camp Grand, plusieurs dizaines de capitelles, cabanes de pierre sèche des bergers et des vignerons, ont passé auprès de l'abbé [[henri-boudet|Boudet]] et de ses lecteurs pour les restes d'un camp celtique ou romain.
+voir-sur-place: Les ruines du château sont privées et en cours de sauvegarde. Dans le bourg, l'église Saint-Pierre et, contre elle, le presbytère du crime ; la tombe de Gélis est au cimetière, au nord ; un « sentier des Capitelles » parcourt le plateau.
+repere: 1157 — Fondation du château, pour les Trencavel.
+repere: 1210 — Simon de Montfort prend le château.
+repere: 1211 — Repris, le château est ravagé.
+repere: 1819 — Les charpentes sont arrachées : le château devient une ruine.
+repere: 1857 — Antoine Gélis est nommé curé.
+repere: 1er novembre 1897 — Gélis est trouvé assassiné dans son presbytère.
+repere: 6 août 1898 — Non-lieu pour Joseph Pagès, le seul inculpé.
+repere: 10 avril 1948 — Les ruines du château sont inscrites au titre des monuments historiques.
+repere: 1967 — *L'Or de Rennes* rattache le crime à l'affaire Saunière.
+voir: antoine-gelis, piste-gelis, berenger-sauniere, couiza, rennes-le-chateau, croisade-des-albigeois, l-or-de-rennes
+
+@ rennes-les-bains
+cat: lieux
+groupe: razes
+nom: Rennes-les-Bains
+alias: Bains de Rennes, Bains de Montferrand, RLB, église Saint-Nazaire-et-Saint-Celse, cimetière de Rennes-les-Bains
+geo: 42.91889, 2.31889
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Station thermale de la vallée de la Sals, à trois kilomètres à vol d'oiseau de Rennes-le-Château ; l'abbé Henri Boudet en est le curé de 1872 à 1914 et y écrit *La Vraie Langue celtique*.
+texte: Rennes-les-Bains occupe le fond de la vallée de la Sals, à 308 mètres d'altitude ; il compte 238 habitants en 2023. Trois kilomètres seulement le séparent de [[rennes-le-chateau|Rennes-le-Château]] à vol d'oiseau, mais il en faut treize par la route, en redescendant à Couiza. Ses eaux chaudes sont connues depuis l'Antiquité ; du XIVe au XVIIIe siècle, le lieu s'appelle les Bains de Montferrand. La station est relancée aux XVIIIe et XIXe siècles par la famille de Fleury, héritière des [[famille-d-hautpoul|Hautpoul]] : voir [[thermalisme|le thermalisme]] et [[sources-de-rennes-les-bains|les sources]]. En 1832, un voyageur, Labouïsse-Rochefort, rapporte dans son *[[voyage-a-rennes-les-bains|Voyage à Rennes-les-Bains]]* la légende d'un trésor que le diable garde à [[chateau-de-blanchefort|Blanchefort]].
+texte: [[henri-boudet|Henri Boudet]] y est nommé curé le 16 octobre 1872, à la suite de l'abbé Jean Vié, et y reste quarante-deux ans. C'est là qu'il écrit *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]*, paru en 1886 : les rochers des alentours y deviennent un [[cromleck-de-rennes-les-bains|monument celtique]], qu'aucun préhistorien n'a retrouvé. Malade, il démissionne le 30 avril 1914 ; il meurt l'année suivante à [[axat|Axat]], où il est enterré. Son successeur, l'abbé [[joseph-rescanieres|Rescanières]], meurt subitement le 1er février 1915, à trente-sept ans.
+texte: L'église Saint-Nazaire-et-Saint-Celse garde, près de l'entrée, une plaque à la mémoire des deux prêtres. Le cimetière qui l'entoure est une étape obligée des chercheurs : la tombe de l'abbé Vié, mort le 31 août 1872 ; celle de la mère et de la sœur de Boudet, mortes en 1895 et 1896 ; et les deux pierres au nom de [[paul-urbain-de-fleury|Paul-Urbain de Fleury]], dont les dates ne s'accordent pas. À l'entrée, un pilier lisse serait le second support de l'ancien autel de Rennes-le-Château, le pendant du [[pilier-sculpte|pilier sculpté]].
+texte: Le village a aussi sa place dans la fabrication du mythe. [[pierre-plantard|Pierre Plantard]] le fréquente dès la fin des années 1950 et y côtoie le vieil abbé [[joseph-courtauly|Courtauly]], dont il usurpera le nom ; l'un de ses pseudonymes, « Madeleine Blancasall », joue sur la Blanque et la Sals, les deux rivières du lieu. En 1978, il prétend que Boudet finançait Saunière : c'est la thèse de [[boudet-maitre-du-jeu|Boudet, maître du jeu]], que démentent les comptes du curé de Rennes. [[henry-lincoln|Henry Lincoln]], enfin, s'y retire et y meurt en février 2022.
+texte: La Sals est une rivière dangereuse : le 26 septembre 1992, une crue de plus de mille mètres cubes par seconde dévaste la vallée. Les thermes sont aujourd'hui fermés.
+voir-sur-place: L'église et son cimetière sont au centre du village : la plaque à Boudet, les tombes de sa mère et de sa sœur, les deux pierres de Fleury. Les thermes sont fermés, mais on se baigne librement aux sources chaudes, en rivière.
+repere: 1832 — Labouïsse-Rochefort publie son *Voyage à Rennes-les-Bains*.
+repere: 16 octobre 1872 — Henri Boudet est nommé curé.
+repere: 1886 — Parution de *La Vraie Langue celtique*.
+repere: 30 avril 1914 — Boudet démissionne pour maladie.
+repere: 1er février 1915 — Mort de son successeur, l'abbé Rescanières.
+repere: 26 septembre 1992 — Crue de la Sals.
+repere: février 2022 — Mort d'Henry Lincoln, retiré au village.
+attention: Ne pas confondre avec [[rennes-le-chateau|Rennes-le-Château]]. Boudet, curé de Rennes-les-Bains, n'est pas enterré ici mais à Axat.
+voir: henri-boudet, la-vraie-langue-celtique, cromleck-de-rennes-les-bains, sources-de-rennes-les-bains, fauteuil-du-diable, thermalisme, chateau-de-blanchefort, pech-cardou, joseph-rescanieres, paul-urbain-de-fleury
+
+@ sources-de-rennes-les-bains
+cat: lieux
+groupe: razes
+nom: Les sources de Rennes-les-Bains
+alias: Bain fort, Bains doux, Bain doux, Bain de la Reine, source de la Madeleine, source du Cercle, thermes de Rennes-les-Bains
+geo: 42.92007, 2.32038
+lieu: Rennes-les-Bains, Aude
+type: source
+echelle: razes
+def: Les sources chaudes et froides de Rennes-les-Bains — Bain fort, Bain de la Reine, Bains doux, la Madeleine, le Cercle — qui ont fait la station et dont Boudet, puis la légende, se sont emparés.
+texte: Trois sources chaudes ont fait [[rennes-les-bains|Rennes-les-Bains]]. Le Bain fort est la plus chaude, à 47,5 degrés ; ses vestiges romains ont été étudiés en 1934 par le docteur [[paul-courrent|Paul Courrent]], l'ancien médecin de Saunière. Le Bain de la Reine donne une eau à 40 degrés. Les Bains doux, à 37 degrés, étaient le « bain des pauvres ». Voir [[thermalisme|le thermalisme à Rennes-les-Bains]].
+texte: Le nom du Bain de la Reine vient d'une légende : Blanche de Bourbon, l'épouse de Pierre le Cruel, morte en 1361, y aurait été guérie. Les auteurs de l'affaire lui substituent volontiers [[blanche-de-castille|Blanche de Castille]], et c'est peut-être là le germe du [[tresor-de-blanche-de-castille|trésor]] que [[noel-corbu|Noël Corbu]] prête à la régente en 1956. Le parc des Bains de la Reine, avec ses cascades et la falaise de Montferrand, est site inscrit depuis 1947.
+texte: Les sources froides sont en amont du village. La Madeleine, à la limite de Sougraigne, juste avant le confluent de la Blanque et de la Sals, est la « Gode » de l'abbé [[henri-boudet|Boudet]] ; le Cercle, ferrugineuse, sourd à côté du [[fauteuil-du-diable|Fauteuil du Diable]] ; il y a encore le Pontet. La Sals elle-même est salée dès sa naissance, à la [[fontaine-salee|Fontaine salée]].
+voir-sur-place: Les thermes sont fermés. On se baigne librement aux sources chaudes, en rivière ; le parc des Bains de la Reine est un site protégé. Le point porté sur la carte est celui du Bain fort.
+voir: rennes-les-bains, thermalisme, fauteuil-du-diable, fontaine-salee, henri-boudet, tresor-de-blanche-de-castille, cromleck-de-rennes-les-bains
+
+@ fauteuil-du-diable
+cat: lieux
+groupe: razes
+nom: Le Fauteuil du Diable
+alias: Fauteuil du Diable, source du Cercle, fontaine du Cercle, Pla de la Coste
+geo: 42.91292, 2.31579
+lieu: Rennes-les-Bains, Aude
+type: rocher
+echelle: razes
+def: Bloc de grès taillé en forme de siège, sur le versant qui domine la Sals au sud de Rennes-les-Bains, près de la source ferrugineuse du Cercle ; Boudet en fait une pièce de son « cromleck ».
+texte: Le Fauteuil du Diable est un bloc de grès taillé en siège. Il se trouve sur le versant ouest de la vallée de la Sals, au-dessus du hameau du Cercle, au sud de [[rennes-les-bains|Rennes-les-Bains]], vers 400 mètres d'altitude. Tout près sourd la source du Cercle, ferrugineuse, l'une des [[sources-de-rennes-les-bains|sources froides]] de la station. Au-dessus s'étend le plateau du Pla de la Coste, qui porte les roches tremblantes.
+texte: L'abbé [[henri-boudet|Boudet]] le fait entrer dans *[[la-vraie-langue-celtique|La Vraie Langue celtique]]*, en 1886 : le siège devient l'une des pièces du [[cromleck-de-rennes-les-bains|cromleck]] qu'il croit reconnaître dans les rochers du pays. Les préhistoriens qui ont examiné ce prétendu monument, de Germain Sicard en 1928 à Urbain Gibert et Guy Rancoule en 1969, n'y ont trouvé que des formes naturelles.
+texte: Depuis que les auteurs de l'affaire lisent le livre de Boudet comme [[langue-celtique-codee|un texte codé]], chacun de ses rochers est devenu un indice possible, et le Fauteuil un but de promenade. Il est compris dans une zone naturelle protégée de 189 hectares, le bois du Serbaïrou et de la Roche Tremblante.
+voir-sur-place: On y monte à pied par un sentier balisé, le « circuit du Fauteuil du Diable » ; la source du Cercle est à côté. Les cartes divergent d'une soixantaine de mètres sur la position exacte du rocher.
+voir: cromleck-de-rennes-les-bains, rennes-les-bains, sources-de-rennes-les-bains, henri-boudet, la-vraie-langue-celtique, langue-celtique-codee
+
+@ cromleck-de-rennes-les-bains
+cat: lieux
+groupe: razes
+nom: Le « cromleck » de Boudet
+alias: cromleck, cromlech de Rennes-les-Bains, Cap de l'Homme, roches tremblantes, Roulers, Roche tremblante, Pla de la Coste, drunemeton
+geo: 42.91035, 2.31476
+lieu: Rennes-les-Bains, Aude
+type: rocher
+echelle: razes
+def: Ensemble de rochers naturels des hauteurs de Rennes-les-Bains où l'abbé Boudet croit reconnaître, en 1886, un double cercle de pierres dressé par les Gaulois ; les préhistoriens n'y voient que l'œuvre de l'érosion.
+texte: Dans les chapitres 6 à 8 de *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]* (1886), l'abbé [[henri-boudet|Henri Boudet]] soutient que les rochers qui entourent son village forment un grand cromlech, et un second, plus petit, inscrit dans le premier. Il y voit un *drunemeton*, le lieu d'assemblée sacré des Volques Tectosages. Son frère Edmond, notaire à Axat, dessine la carte qui accompagne le livre. C'est un produit de la [[celtomanie|celtomanie]] du siècle.
+texte: Les pièces de ce monument sont des rochers bien réels. Sur le versant ouest de la vallée, le [[fauteuil-du-diable|Fauteuil du Diable]], un siège de grès. Au-dessus, le plateau du Pla de la Coste, qui porte les Roulers, ou roches tremblantes : des pierres branlantes naturelles. Boudet y place aussi un menhir, le Cap de l'Homme, qui aurait porté une tête sculptée, détachée en décembre 1884 et déposée au presbytère ; ce menhir ne figure sur aucune carte. Des crêtes ferment le cercle : la montagne des Cornes à l'est et, au nord, le [[pech-cardou|Cardou]], dont Boudet appelle les aiguilles « Lampos ». Il prend de même pour des menhirs des rochers marqués de croix gravées.
+texte: Les savants ne le suivent pas. Le livre est éreinté dès 1887 ; le préhistorien Émile Cartailhac fait ses réserves en 1892. Germain Sicard en 1928, puis Urbain Gibert et Guy Rancoule en 1969, concluent de même : il n'y a pas de cromlech, les prétendus mégalithes sont des formes d'érosion.
+texte: La légende a retourné l'argument : un prêtre instruit n'aurait pu écrire de telles choses sans intention cachée. À partir de 1967, [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]] lisent le livre comme une carte chiffrée, où le cromleck désignerait l'emplacement d'un dépôt : voir [[langue-celtique-codee|La Vraie Langue celtique, livre codé]].
+voir-sur-place: La Roche tremblante, sur le Pla de la Coste, figure sur les cartes de l'IGN : c'est le point retenu ici. Le Cap de l'Homme n'est porté sur aucune. Le bois du Serbaïrou et de la Roche Tremblante est une zone naturelle protégée.
+attention: « Cromleck », avec un k, est l'orthographe de Boudet ; on écrit d'ordinaire cromlech.
+voir: henri-boudet, la-vraie-langue-celtique, langue-celtique-codee, celtomanie, fauteuil-du-diable, rennes-les-bains, pech-cardou, fontaine-salee
+
+@ chateau-de-blanchefort
+cat: lieux
+groupe: razes
+nom: Château de Blanchefort
+alias: Blanchefort, Blancafort, castrum de Blancafortis, Roc Nègre, Roque Nègre, Roc Noir
+geo: 42.93778, 2.31139
+lieu: Rennes-les-Bains, Aude
+type: ruine
+echelle: razes
+def: Ruines d'un petit château sur un piton calcaire, au-dessus du confluent de la Sals et du Rialsesse ; les Hautpoul en portent le titre, et une légende notée en 1832 y fait garder un trésor par le diable.
+texte: Blanchefort couronne un piton de calcaire blanc, à 476 mètres d'altitude, sur la commune de [[rennes-les-bains|Rennes-les-Bains]]. Il domine le confluent de la Sals et du Rialsesse. Il n'en reste presque rien : la base d'un donjon carré de sept mètres de côté, une citerne. En contrebas, une barre de roche sombre lui fait face, au-dessus de la route : la Roque Nègre, le « Roc Nègre » des auteurs.
+texte: Le *castrum de Blancafortis* est cité en 1067. Une bulle du pape Calixte II, en 1119, le range parmi les dépendances de l'abbaye d'[[alet-les-bains|Alet]]. Simon de Montfort le prend en 1209, au début de la [[croisade-des-albigeois|croisade]], et le remet à [[pierre-de-voisins|Pierre de Voisins]]. Il est abandonné tôt : la carte de Roussel, en 1713, ne le figure plus. Le nom survit comme un titre. Au XVIIIe siècle, François d'Hautpoul, seigneur de Rennes, relève celui de marquis de Blanchefort, et sa veuve, [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], est la « dame d'Hautpoul de Blanchefort » de la [[stele-de-la-marquise|stèle]] du cimetière.
+texte: Le trésor de Blanchefort est plus ancien que celui de Rennes. En 1832, Labouïsse-Rochefort rapporte dans son *[[voyage-a-rennes-les-bains|Voyage à Rennes-les-Bains]]* que le diable y garde dix-neuf millions et demi : voir [[tresor-du-diable-de-blanchefort|le trésor gardé par le diable]]. La légende a donc un demi-siècle d'avance sur l'abbé Saunière, et son chiffre annonce curieusement les dix-huit millions et demi de pièces d'or que [[noel-corbu|Noël Corbu]] attribue en 1956 à Blanche de Castille.
+texte: Les fabricants du mythe y ajoutent les Templiers. Un maître du Temple s'appelle [[bertrand-de-blanquefort|Bertrand de Blanquefort]] ; les *[[dossiers-secrets|Dossiers secrets]]* entretiennent la confusion et lui font amener ici des mineurs allemands en 1156. Or ce Bertrand est originaire de Guyenne, de Blanquefort en Bordelais : il n'y a là qu'une homonymie. Le sous-sol, lui, a bien été exploité autour de Blanchefort et du Cardou, mais pour le jais, le cuivre et le plomb argentifère. Voir [[tresor-des-templiers|le trésor des Templiers]] et [[mines-d-or-du-razes|les mines d'or du Razès]].
+texte: La ruine sert enfin de point fixe aux tracés. [[henry-lincoln|Henry Lincoln]] en fait un sommet de son pentagone de montagnes — voir [[geometrie-sacree|la géométrie sacrée]] — et l'on a cru la reconnaître, comme le [[pech-cardou|Cardou]] ou Rennes, dans le paysage des *Bergers d'Arcadie*, derrière le [[tombeau-des-pontils|tombeau des Pontils]] : l'identification change avec le point de vue choisi.
+voir-sur-place: Les vestiges, non protégés, se réduisent à la base d'un donjon et à une citerne, en haut d'un piton. La Roque Nègre est en contrebas, au-dessus de la D14.
+repere: 1067 — Première mention du *castrum de Blancafortis*.
+repere: 1119 — Une bulle de Calixte II le range parmi les dépendances de l'abbaye d'Alet.
+repere: 1209 — Simon de Montfort le prend et le remet à Pierre de Voisins.
+repere: 1713 — La carte de Roussel ne le figure plus.
+repere: 1832 — Labouïsse-Rochefort rapporte la légende du trésor gardé par le diable.
+repere: 1967 — Dépôt des *Dossiers secrets*, qui le confondent avec le Blanquefort du maître du Temple.
+attention: Ne pas confondre avec Blanquefort, en Bordelais, d'où vient Bertrand de Blanquefort, maître du Temple de 1156 à 1169 : aucun lien n'est établi entre lui et ce château.
+voir: tresor-du-diable-de-blanchefort, bertrand-de-blanquefort, marie-de-negre-d-ables, famille-d-hautpoul, voyage-a-rennes-les-bains, mines-d-or-du-razes, tresor-des-templiers, pech-cardou, rennes-les-bains
+
+@ pech-cardou
+cat: lieux
+groupe: razes
+nom: Pech Cardou
+alias: le Cardou, mont Cardou, pic Cardou, Lampos
+geo: 42.93637, 2.32731
+lieu: Rennes-les-Bains, Aude
+type: sommet
+echelle: razes
+def: Sommet calcaire de 795 mètres qui domine Serres et Rennes-les-Bains ; en 1996, deux auteurs britanniques y placent le tombeau du Christ.
+texte: Le Cardou est une pyramide de calcaire de 795 mètres, sur la commune de [[rennes-les-bains|Rennes-les-Bains]], au-dessus de [[serres|Serres]]. L'abbé [[henri-boudet|Boudet]], en 1886, appelle ses aiguilles « Lampos » et les explique par l'anglais *lamb*, l'agneau. On a exploité autour de lui, comme à [[chateau-de-blanchefort|Blanchefort]], du jais, du cuivre et du plomb argentifère.
+texte: Il sert de point de visée à bien des tracés : voir [[geometrie-sacree|la géométrie sacrée]]. Vu des Pontils, il se détache à droite de l'ancien [[tombeau-des-pontils|tombeau]], et l'on a voulu le retrouver dans le fond des *Bergers d'Arcadie* de Poussin.
+texte: En 1996, Richard Andrews et Paul Schellenberger publient *The Tomb of God* : une géométrie tirée des [[parchemins|parchemins]] et de tableaux désignerait le Cardou comme le lieu du [[tombeau-du-christ|tombeau du Christ]]. Voir [[andrews-et-schellenberger|Andrews et Schellenberger]]. Ils tirent de « Et in Arcadia ego », en y ajoutant un mot, l'anagramme *Arcam Dei tango, Iesu*, « je touche le tombeau de Dieu, Jésus ». La construction repose sur des documents faux ; la BBC la démonte à l'antenne dès le 17 septembre 1996, dans *[[history-of-a-mystery|The History of a Mystery]]*. Rien n'a été trouvé dans la montagne. D'autres y logent l'[[arche-d-alliance|Arche d'alliance]], sans plus de preuve.
+voir-sur-place: Un sentier, le « Tour du Cardou », fait le tour de la montagne ; le versant ouest est un site d'escalade. Une borne géodésique marque le sommet.
+voir: tombeau-du-christ, andrews-et-schellenberger, geometrie-sacree, chateau-de-blanchefort, tombeau-des-pontils, serres, rennes-les-bains, cromleck-de-rennes-les-bains
+
+@ tombeau-des-pontils
+cat: lieux
+groupe: razes
+nom: Le tombeau des Pontils
+alias: tombeau d'Arques, tombeau de Poussin, les Pontils, tombe des Pontils, tombeau Galibert, tombeau Lawrence
+geo: 42.95135, 2.33843
+lieu: Peyrolles, Aude
+type: tombeau
+echelle: razes
+def: Tombeau maçonné du XXe siècle, au bord de la route de Serres à Arques, où l'on a voulu reconnaître celui des *Bergers d'Arcadie* de Poussin ; son propriétaire le fait détruire le 9 avril 1988.
+texte: Le tombeau se dressait sur un tertre rocheux, au lieu-dit les Pontils, en bordure de la D613, entre [[serres|Serres]] et [[arques|Arques]], à six kilomètres à l'est de Rennes-le-Château. On dit souvent « le tombeau d'Arques » ; il est en réalité sur la commune de [[peyrolles|Peyrolles]]. C'était un coffre de pierre rectangulaire, en forme de sarcophage.
+texte: Son histoire est courte. En 1903, un M. Galibert — Jean, selon [[putnam-et-wood|Putnam et Wood]] —, petit-fils d'un industriel et propriétaire du moulin voisin, le fait bâtir par le maçon Bourrel, de Rennes-les-Bains, pour y enterrer les siens. En 1921, la propriété est vendue et les corps sont transférés à Limoux. L'acquéreur, un Américain, Louis Lawrence, y fait ensevelir sa mère et sa grand-mère dans les années 1920-1930. Les sources, des sites spécialisés plus que des archives, ne s'accordent pas sur le détail : pour les unes, le monument que l'on a connu est celui de 1903 ; pour d'autres, Lawrence l'a rebâti vers 1931-1932. Dans les deux cas, c'est une tombe de famille du XXe siècle.
+texte: Le rapprochement avec [[nicolas-poussin|Poussin]] vient plus tard. Au début des années 1970, dans l'entourage de [[gerard-de-sede|Gérard de Sède]], on remarque que le tombeau ressemble à celui de la seconde version des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]*, peinte à Rome vers 1638-1640 ; [[henry-lincoln|Henry Lincoln]] popularise l'idée en 1974, dans un de ses [[films-de-la-bbc|films pour la BBC]]. Le paysage du tableau serait celui des Pontils, avec [[chateau-de-blanchefort|Blanchefort]] ou le [[pech-cardou|Cardou]] à l'horizon. Voir [[secret-de-poussin|le secret de Poussin]].
+texte: Les objections sont décisives. Le tombeau a deux cent soixante-dix ans de moins que le tableau. On ne connaît aucun monument plus ancien au même endroit : celui que Colbert aurait fait détruire est une rumeur sans source. Poussin n'est jamais venu en Languedoc, et il compose ses paysages en atelier. La silhouette du fond, enfin, a été identifiée tour à tour à Blanchefort, au Cardou et à Rennes, selon le point de vue choisi. Reste une coïncidence dont joue *[[le-serpent-rouge|Le Serpent rouge]]* : le lieu est tout proche du [[meridien-de-paris|méridien de Paris]].
+texte: Les curieux ne cessent de forcer la tombe. Le 9 avril 1988, le propriétaire, M. Rousset, excédé, la fait démolir avec l'accord de la mairie de Peyrolles. Il n'en reste que le socle.
+voir-sur-place: Il ne reste que le socle, sur son tertre, au bord de la D613. L'emplacement n'est porté sur aucune carte : le point indiqué ici est approximatif, à 200 mètres près. Le menhir de Peiro Lébado est à 800 mètres à l'est.
+repere: vers 1638 — Poussin peint à Rome la seconde version des *Bergers d'Arcadie*.
+repere: 1903 — Le maçon Bourrel bâtit un tombeau pour la famille Galibert.
+repere: 1921 — Le domaine est vendu ; les corps sont transférés à Limoux.
+repere: 1974 — La BBC popularise le rapprochement avec le tableau.
+repere: 9 avril 1988 — Le propriétaire fait détruire le tombeau.
+attention: Le tombeau est souvent dit « d'Arques » : il se trouvait sur la commune de Peyrolles. Bâti en 1903, il ne peut avoir servi de modèle à un tableau peint vers 1640.
+voir: secret-de-poussin, les-bergers-d-arcadie, nicolas-poussin, et-in-arcadia-ego, peyrolles, arques, serres, pech-cardou, meridien-de-paris, henry-lincoln
+
+@ arques
+cat: lieux
+groupe: razes
+nom: Arques
+alias: château d'Arques, donjon d'Arques, maison Déodat Roché
+geo: 42.95250, 2.37500
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village de la vallée du Rialsesse, connu pour son donjon achevé en 1316 ; Déodat Roché, historien et propagateur du catharisme, y naît en 1877 et en est le maire.
+texte: Arques est à seize kilomètres de [[rennes-le-chateau|Rennes-le-Château]] par Couiza et la D613, à 359 mètres d'altitude ; il compte 248 habitants en 2023. Son château est commencé en 1284 par Gilles de Voisins — de la famille de [[pierre-de-voisins|Pierre de Voisins]], à qui la croisade a donné le Razès — et achevé en 1316 : un donjon carré de 25 mètres, à quatre niveaux et tourelles d'angle, dans une enceinte presque carrée de 51 mètres sur 55. Il est classé monument historique dès le 16 août 1887.
+texte: Arques est aussi le village de [[deodat-roche|Déodat Roché]] (1877-1978), magistrat, maire à partir de 1925, fondateur des *Cahiers d'études cathares*. Il voit dans le catharisme une gnose et dans Montségur le château du Graal ; les historiens ne le suivent pas. Voisin de Rennes, il n'a aucun lien documenté avec Saunière. Son père, notaire à Arques, serait intervenu pour que le terrain des Pontils puisse recevoir une sépulture.
+texte: Le « tombeau d'Arques » des livres n'est pas à Arques : le [[tombeau-des-pontils|tombeau des Pontils]] se trouvait sur la commune voisine de [[peyrolles|Peyrolles]].
+voir-sur-place: Le donjon, propriété de la commune, se visite ; l'entrée est payante. Dans le village, la maison de Déodat Roché présente une exposition sur le catharisme ; un petit lac de loisirs s'étend au sud.
+voir: deodat-roche, tombeau-des-pontils, peyrolles, serres, pierre-de-voisins, tresor-des-cathares
+
+@ serres
+cat: lieux
+groupe: razes
+nom: Serres
+alias: château de Serres, pont de Serres
+geo: 42.94667, 2.32472
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Petit village de la vallée du Rialsesse, au pied du Cardou, sur la route de Couiza à Arques : un château-manoir et un vieux pont en dos d'âne.
+texte: Serres, 89 habitants en 2023, se tient à 272 mètres d'altitude au bord du Rialsesse, peu avant que celui-ci ne rejoigne la Sals sous [[chateau-de-blanchefort|Blanchefort]]. Au bord de la route, un château-manoir des XVIe et XVIIe siècles, privé, est inscrit au titre des monuments historiques ; un vieux pont en dos d'âne franchit la rivière. Dans l'affaire, Serres est un repère. C'est « entre Serres et Arques » que se trouvait le [[tombeau-des-pontils|tombeau des Pontils]], et la montagne qui domine le village, le [[pech-cardou|Cardou]], est celle où certains placent le [[tombeau-du-christ|tombeau du Christ]].
+voir-sur-place: Le château, au bord de la route, est privé et ne se visite pas ; le vieux pont est dans le village.
+voir: pech-cardou, tombeau-des-pontils, chateau-de-blanchefort, arques, peyrolles
+
+@ peyrolles
+cat: lieux
+groupe: razes
+nom: Peyrolles
+alias: les Pontils, menhir de Peiro Lébado
+geo: 42.95972, 2.31833
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village du Haut-Razès sur le territoire duquel se trouvait le tombeau des Pontils, qu'on attribue souvent à tort à Arques.
+texte: Peyrolles compte 91 habitants en 2023. Le village est à 373 mètres d'altitude, à deux kilomètres au nord-ouest du lieu-dit les Pontils, qui dépend de sa commune. C'est donc à Peyrolles, et non à [[arques|Arques]], qu'appartenait le [[tombeau-des-pontils|tombeau des Pontils]], bâti en 1903 au bord de la D613 et rapproché dans les années 1970 du tombeau peint par [[nicolas-poussin|Poussin]]. Quand le propriétaire, lassé des effractions, veut le démolir, c'est la mairie de Peyrolles qui donne son accord : le monument disparaît le 9 avril 1988. La commune a aussi un menhir, celui de Peiro Lébado, à 800 mètres à l'est des Pontils.
+voir-sur-place: Aux Pontils, il ne reste que le socle du tombeau ; le menhir de Peiro Lébado est à 800 mètres à l'est.
+attention: Certaines cartes en ligne placent le point « Peyrolles » aux Pontils, au bord de la route : le village est à deux kilomètres au nord-ouest.
+voir: tombeau-des-pontils, arques, serres, secret-de-poussin
+
+@ chateau-du-bezu
+cat: lieux
+groupe: razes
+nom: Château du Bézu
+alias: le Bézu, Albedun, Albedunum, château des Templiers, château d'Albedun, Saint-Just-et-le-Bézu
+geo: 42.88092, 2.30567
+lieu: Saint-Just-et-le-Bézu, Aude
+type: ruine
+echelle: razes
+def: Ruines d'un château de crête, à 823 mètres d'altitude, l'ancien Albedun ; la légende y loge des Templiers échappés à la rafle de 1307, et les textes une affaire de fausse monnaie en 1344.
+texte: Le château du Bézu n'est plus que des murs très arasés sur une crête, à 823 mètres d'altitude, au-dessus du hameau des Tipliés, dans la commune de Saint-Just-et-le-Bézu, qui compte cinquante habitants. Les cartes de l'IGN l'appellent « Château des Templiers ». Son nom ancien est *Albedunum*, Albedun.
+texte: Ce que l'on sait de son histoire tient en peu de mots, et tout n'en est pas vérifié. Albedun aurait été le siège d'une viguerie carolingienne, puis d'une seigneurie, celle des Sermon d'Albedun. Ces seigneurs passent pour avoir abrité des cathares au XIIIe siècle, au temps de la [[croisade-des-albigeois|croisade]]. Rien, là, ne parle du Temple : le château appartient à des laïcs.
+texte: La tradition templière a pourtant un point de départ réel. Les Templiers du Roussillon, dont la maison principale est le Mas Deu, relèvent du roi de Majorque et non du roi de France : ils ne sont pas arrêtés le 13 octobre 1307, sont jugés à part et acquittés en 1312, puis finissent leurs jours pensionnés dans leur maison. De là l'idée que des Templiers roussillonnais, établis au Bézu à la fin du XIIIe siècle, y auraient échappé à la rafle. L'abbé Mazières la développe dans une étude de 1957-1959 ; [[gerard-de-sede|Gérard de Sède]] la reprend en 1962 et en 1967, [[henry-lincoln|Henry Lincoln]] en 1979. Aucune source médiévale n'est citée à l'appui. La maison du Temple attestée dans la haute vallée est à [[campagne-sur-aude|Campagne-sur-Aude]] : voir [[templiers-en-razes|Templiers et Hospitaliers en Razès]] et [[tresor-des-templiers|le trésor des Templiers]].
+texte: L'autre épisode est authentique. En 1344, une procédure vise des nobles du pays accusés d'avoir fabriqué de la fausse monnaie au château du Bézu ; on y mêle, dit-on, un neveu du pape Benoît XII, détail qui n'a pas été vérifié. Gérard de Sède, puis [[rene-descadeillas|René Descadeillas]], y cherchent l'origine possible de lingots ou de coins cachés : voir [[faux-monnayeurs-du-bezu|l'or des faux-monnayeurs]]. Aucun lien n'est démontré avec Saunière.
+texte: Le Bézu doit le reste de sa renommée aux cartes et aux romans. Lincoln en fait un sommet de son pentagone, avec Rennes et [[chateau-de-blanchefort|Blanchefort]] : voir [[geometrie-sacree|la géométrie sacrée]]. Et [[dan-brown|Dan Brown]], qui emprunte ses noms à l'affaire, appelle Bézu Fache le policier du *[[da-vinci-code|Da Vinci Code]]*.
+voir-sur-place: Des murs très arasés sur une crête, à 823 mètres. Le hameau du Bézu, avec son église Saint-Jean-Baptiste, est à l'ouest, deux cents mètres plus bas.
+repere: 13 octobre 1307 — Arrestation des Templiers du royaume ; ceux du Roussillon, sujets du roi de Majorque, y échappent.
+repere: 1312 — Suppression de l'ordre ; les Templiers du Roussillon, jugés à part, sont acquittés.
+repere: 1344 — Procédure pour fausse monnaie au château du Bézu.
+repere: 1957 — L'abbé Mazières commence son étude sur les Templiers du Bézu.
+repere: 1967 — *L'Or de Rennes* reprend la piste templière.
+repere: 1979 — Henry Lincoln la porte à la BBC.
+attention: « Château des Templiers » est le nom que portent les cartes, non un fait établi : aucune commanderie n'est attestée au Bézu.
+voir: tresor-des-templiers, templiers-en-razes, faux-monnayeurs-du-bezu, campagne-sur-aude, chateau-de-blanchefort, geometrie-sacree, bugarach
+
+@ bugarach
+cat: lieux
+groupe: razes
+nom: Pic de Bugarach
+alias: Bugarach, pech de Bugarach, montagne inversée, pic de Bugarach
+geo: 42.86377, 2.37910
+lieu: Bugarach et Camps-sur-l'Agly, Aude
+type: sommet
+echelle: razes
+def: Point culminant des Corbières, à 1 230 mètres, dit « montagne inversée » parce que des couches anciennes y reposent sur de plus jeunes ; une rumeur mondiale en fait en 2012 le refuge contre la fin du monde.
+texte: Le pech de Bugarach est le plus haut sommet des Corbières : 1 230 mètres. On le voit de la [[tour-magdala|tour Magdala]], au sud-est de [[rennes-le-chateau|Rennes-le-Château]] ; le village de Bugarach, 250 habitants, en est à treize kilomètres par une petite route étroite. On l'appelle la « montagne inversée » : un pli couché, dans une nappe de charriage, y a posé des couches anciennes sur des couches plus jeunes. Le calcaire est percé de nombreuses cavités. Le sommet est partagé entre les communes de Bugarach et de Camps-sur-l'Agly ; l'Agly naît à ses pieds, près du col du Linas.
+texte: Ses rapports avec l'affaire sont d'abord de voisinage. C'est à Bugarach que [[noel-corbu|Noël Corbu]] met ses enfants à l'abri pendant l'Occupation, et c'est par l'instituteur du village qu'il apprend que [[marie-denarnaud|Marie Dénarnaud]] cherche quelqu'un pour reprendre le domaine de Rennes. Le testament de 1946 vient de là.
+texte: Le nom, lui, a servi les amateurs de messages cachés. En 1896, [[jules-verne|Jules Verne]] appelle Bugarach un capitaine de son roman *[[clovis-dardentor|Clovis Dardentor]]* : Michel Lamy en tire argument, en 1984, pour faire de l'écrivain un initié. D'autres voient dans l'aiguille d'Étretat de *[[l-aiguille-creuse|L'Aiguille creuse]]*, le roman de [[maurice-leblanc|Maurice Leblanc]], le pendant normand du pic. Voir [[romanciers-inities|les romanciers initiés]]. On a aussi proposé d'y loger l'[[arche-d-alliance|Arche d'alliance]].
+texte: Le reste est un folklore récent. Dans les années 1960 et 1970, la montagne « à l'envers » et ses grottes attirent les amateurs d'ovnis et de cités souterraines. La rumeur enfle jusqu'à désigner Bugarach comme le lieu épargné par la « fin du monde » annoncée pour le 21 décembre 2012. Le maire s'en alarme dès la fin de 2010. En décembre 2012, un arrêté interdit l'accès au pic et la gendarmerie se déploie ; il vient plus de journalistes que d'illuminés. Les chiffres qui ont couru sur cette affluence n'ont pas été vérifiés ; la rumeur, elle, a profité à tout le « pays des deux Rennes ». Voir [[bugarach-et-les-ovnis|Bugarach, les ovnis et 2012]].
+voir-sur-place: On monte au sommet à pied, par le col du Linas au nord ou par la « voie de la Fenêtre » au sud-ouest ; une variante du GR 36 y passe. Au village, les ruines du château sont inscrites au titre des monuments historiques.
+repere: 1896 — Jules Verne donne le nom de Bugarach à un capitaine de *Clovis Dardentor*.
+repere: 1940-1944 — Pendant l'Occupation, Noël Corbu met ses enfants à l'abri au village.
+repere: années 1960 — Le pic entre dans le folklore des ovnis et des mondes souterrains.
+repere: 2010 — Le maire s'inquiète, à la fin de l'année, de la rumeur de 2012.
+repere: décembre 2012 — Un arrêté interdit l'accès au pic.
+voir: bugarach-et-les-ovnis, romanciers-inities, clovis-dardentor, jules-verne, noel-corbu, arche-d-alliance, chateau-du-bezu, fontaine-salee
+
+@ fontaine-salee
+cat: lieux
+groupe: razes
+nom: La Fontaine salée
+alias: source de la Sals, Fontaine Salée, source salée, Sougraigne, forêt de l'Eau Salée
+geo: 42.89215, 2.40005
+lieu: Sougraigne, Aude
+type: source
+echelle: razes
+def: Source salée où naît la Sals, à 710 mètres d'altitude, dans la forêt de l'Eau Salée, sur la commune de Sougraigne ; son sel a été exploité.
+texte: La Sals, la rivière de [[rennes-les-bains|Rennes-les-Bains]], naît à la Fontaine salée, à 710 mètres d'altitude, dans la forêt domaniale de l'Eau Salée, sur la commune de Sougraigne, qui compte 125 habitants. L'eau sort chargée de sel gemme : elle donne son nom à la rivière, on l'a exploitée dans des salines, et elle a nourri un trafic de sel. Des verriers ont aussi travaillé dans cette forêt, où subsistent les restes de leurs ateliers. Les lecteurs de l'abbé [[henri-boudet|Boudet]] font de la source un repère de la carte de son [[cromleck-de-rennes-les-bains|cromleck]]. Et l'idée revient de temps à autre que le « trésor » du pays serait une richesse naturelle exploitée en secret : voir [[mines-d-or-du-razes|les mines d'or du Razès]]. Les comptes de Saunière n'en gardent aucune trace.
+voir-sur-place: La source sourd en forêt, à l'est de Sougraigne ; on trouve aux alentours des vestiges d'ateliers de verriers.
+voir: rennes-les-bains, sources-de-rennes-les-bains, cromleck-de-rennes-les-bains, mines-d-or-du-razes, bugarach
+
+@ alet-les-bains
+cat: lieux
+groupe: razes
+nom: Alet-les-Bains
+alias: Alet, abbaye d'Alet, cathédrale d'Alet, abbaye-cathédrale Notre-Dame, évêché d'Alet, maison de Nostradamus
+geo: 42.99583, 2.25528
+lieu: Aude, Occitanie
+type: abbaye
+echelle: razes
+def: Village de la vallée de l'Aude, siège d'une abbaye puis, de 1318 à 1790, d'un évêché, dont la cathédrale est en ruine depuis les guerres de Religion ; Bérenger Saunière y est vicaire de 1879 à 1882.
+texte: Alet est sur l'Aude, en aval de Couiza, à douze kilomètres de [[rennes-le-chateau|Rennes-le-Château]] et à 204 mètres d'altitude ; il compte 379 habitants en 2023. C'est vers lui que glisse, au Moyen Âge, le centre de gravité du Razès : une abbaye, puis un évêché. Voir [[diocese-d-alet|le diocèse d'Alet]].
+texte: L'abbaye Notre-Dame se donne pour fondateur Béra, comte de [[comte-de-razes|Razès]], par une charte de 813 que l'on tient pour un faux du XIe siècle ; le premier abbé attesté est de 970. En 1119, une bulle de Calixte II range parmi ses dépendances le château de [[chateau-de-blanchefort|Blanchefort]]. Le 18 février 1318, le pape Jean XXII en fait le siège d'un évêché. Les protestants prennent la ville en 1573 et saccagent la cathédrale le 6 janvier 1577 : elle reste en ruine. Le diocèse est supprimé en 1790 ; depuis le Concordat, son territoire appartient à celui de Carcassonne.
+texte: Son évêque le plus célèbre est [[nicolas-pavillon|Nicolas Pavillon]], qui occupe le siège de 1637 à sa mort, en 1677 : un réformateur rigoriste, proche de Port-Royal, qui tient tête à Louis XIV dans l'affaire de la Régale et plaide contre la noblesse du pays, dont un [[famille-d-hautpoul|Hautpoul]]. Il est enterré sans épitaphe au cimetière paroissial. *[[l-enigme-sacree|L'Énigme sacrée]]*, en 1982, l'enrôle dans le [[prieure-de-sion|prieuré de Sion]] : pure spéculation.
+texte: Alet est le premier poste de [[berenger-sauniere|Bérenger Saunière]]. Ordonné en juin 1879, il y est nommé vicaire le 16 juillet et y reste trois ans, avant d'être envoyé au [[le-clat|Clat]] en juin 1882.
+texte: La légende a trouvé ici d'autres prises. La date de 813 a servi à lire comme un message le titre d'un roman de [[maurice-leblanc|Maurice Leblanc]], *813*, où il n'est pourtant pas question d'Alet : voir [[romanciers-inities|les romanciers initiés]]. Sur la place, une maison du XVIe siècle, dite de Nostradamus, montre des poutres plus anciennes sculptées de symboles, dont un sceau de Salomon ; la tradition y loge la famille du prophète. Et [[jules-doinel|Jules Doinel]], fondateur de l'Église gnostique et archiviste de l'Aude, prend en 1900 le titre d'« évêque d'Alet et de Mirepoix ». C'est enfin un habitant d'Alet, Maurice Tous, qui dépose aux Archives de l'Aude, le 14 juin 1962, la transcription du [[recit-de-noel-corbu|récit de Noël Corbu]].
+voir-sur-place: Les ruines de l'abbaye-cathédrale, classées monument historique, sont au cœur du village. On voit aussi l'ancien palais épiscopal, devenu hôtel, en terrasse sur l'Aude, la maison dite de Nostradamus sur la place de la République et deux portes de l'enceinte. Les thermes ont fermé en 2012.
+repere: 813 — Date d'une charte de fondation, tenue pour un faux du XIe siècle.
+repere: 970 — Premier abbé attesté.
+repere: 18 février 1318 — Jean XXII érige l'abbaye en évêché.
+repere: 6 janvier 1577 — Les protestants saccagent la cathédrale.
+repere: 1637 — Nicolas Pavillon devient évêque d'Alet.
+repere: 1790 — Suppression du diocèse.
+repere: 1862 — Les ruines de la cathédrale sont classées monument historique.
+repere: 16 juillet 1879 — Bérenger Saunière est nommé vicaire d'Alet.
+voir: diocese-d-alet, nicolas-pavillon, berenger-sauniere, comte-de-razes, le-comte-de-razes-fedie, luc-sur-aude, notre-dame-de-marceille, chateau-de-blanchefort
+
+@ notre-dame-de-marceille
+cat: lieux
+groupe: razes
+nom: Notre-Dame de Marceille
+alias: basilique Notre-Dame de Marceille, Marceille, Vierge noire de Limoux, Limoux
+geo: 43.06725, 2.22619
+lieu: Limoux, Aude
+type: eglise
+echelle: razes
+def: Sanctuaire de pèlerinage au nord de Limoux, gothique, connu pour sa Vierge noire et sa source ; Mgr Billard l'achète en 1893, et des auteurs récents y cherchent une clef de l'affaire.
+texte: Notre-Dame de Marceille est un sanctuaire de pèlerinage, au nord de Limoux, la ville où [[berenger-sauniere|Bérenger Saunière]] a fait ses études, à l'école Saint-Louis. L'église est de style gothique méridional, des XIVe et XVe siècles. On y vénère une Vierge noire du XIe siècle. Au bord de la « voie sacrée », une source passe pour guérir les maux d'yeux. L'édifice a le rang de basilique mineure — depuis 1905 ou 1912, selon les sources — et il est inscrit au titre des monuments historiques depuis 1948.
+texte: Le lien avec l'affaire passe par l'évêque. En 1893, [[mgr-billard|Mgr Billard]], qui a nommé Saunière à Rennes, rachète le sanctuaire à titre personnel. Les auteurs de l'affaire en tirent davantage : ils y rattachent Saunière, l'abbé [[henri-boudet|Boudet]] et des prêtres lazaristes. Franck Daffos parle d'un « secret de Notre-Dame de Marceille », où il fait entrer un précédent évêque, Mgr de Bonnechose, et attribue *[[le-serpent-rouge|Le Serpent rouge]]* à un lazariste, Jean Jourde. Aucune pièce n'appuie ces hypothèses, qui restent isolées.
+texte: En octobre 2007, pendant des travaux, la Vierge noire est décapitée et sa tête volée.
+voir-sur-place: La basilique s'élève au nord de Limoux, dans un site protégé depuis 1943, avec sa source au bord de la « voie sacrée ».
+voir: mgr-billard, berenger-sauniere, henri-boudet, le-serpent-rouge, alet-les-bains, carcassonne
+
+@ quillan
+cat: lieux
+groupe: razes
+nom: Quillan
+alias: défilé de Pierre-Lys, forges de Quillan
+geo: 42.87528, 2.18194
+lieu: Aude, Occitanie
+type: ville
+echelle: razes
+def: Petite ville de la haute vallée de l'Aude, à l'entrée du défilé de Pierre-Lys ; l'abbé Henri Boudet y naît le 16 novembre 1837.
+texte: Quillan, 2 978 habitants en 2023, est la ville de la haute vallée de l'Aude, à seize kilomètres de [[rennes-le-chateau|Rennes-le-Château]], à la porte du défilé de Pierre-Lys. C'est la ville natale d'[[henri-boudet|Henri Boudet]], le futur curé de [[rennes-les-bains|Rennes-les-Bains]] : il y naît le 16 novembre 1837, d'un père régisseur des forges, qui meurt en 1841. En novembre 1897, ce sont les gendarmes de Quillan qui arrêtent, à [[campagne-sur-aude|Campagne]], deux chemineaux soupçonnés du meurtre de l'abbé [[antoine-gelis|Gélis]] ; ils sont relâchés sur alibi. Une tradition, que rien n'appuie, veut qu'une famille de bouchers de la ville ait été payée par Saunière en bijoux anciens.
+voir-sur-place: La ville commande l'entrée du défilé de Pierre-Lys, sur la route de Perpignan.
+voir: henri-boudet, axat, campagne-sur-aude, esperaza, rennes-les-bains
+
+@ campagne-sur-aude
+cat: lieux
+groupe: razes
+nom: Campagne-sur-Aude
+alias: Campagne, Campagne-les-Bains, commanderie de Campagne, fort de Campagne
+geo: 42.91582, 2.20687
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village de la vallée de l'Aude bâti autour d'un ancien fort : c'est là, et non au Bézu, que les textes placent la maison des Templiers de la haute vallée.
+texte: Campagne-sur-Aude, 618 habitants en 2023, est sur l'Aude entre [[esperaza|Espéraza]] et [[quillan|Quillan]], à 254 mètres d'altitude. Le cœur du village est un pâté de maisons serré autour de l'église Saint-Sébastien : c'est l'emprise de l'ancien fort, dont une promenade fait encore le tour.
+texte: Ce fort est tenu pour celui d'une commanderie du Temple. Les Templiers de l'Aude ont leur chef-lieu à [[douzens|Douzens]], doté par les Trencavel dès 1132 ; Campagne figure parmi ses dépendances, et c'est la maison de l'ordre attestée dans la haute vallée. Après la suppression du Temple, en 1312, ses biens sont dévolus aux Hospitaliers. Voir [[templiers-en-razes|Templiers et Hospitaliers en Razès]].
+texte: Le fait compte par contraste. La légende installe ses Templiers au [[chateau-du-bezu|château du Bézu]], sur une crête, avec un [[tresor-des-templiers|trésor]] ; les documents les montrent ici, au bord de la rivière, dans un village.
+texte: Campagne paraît deux autres fois dans le dossier. En novembre 1897, on y arrête deux chemineaux soupçonnés du meurtre de l'abbé [[antoine-gelis|Gélis]], relâchés sur alibi. Et pendant la Grande Guerre, [[berenger-sauniere|Saunière]], à court d'argent, vend médailles et chapelets aux soldats convalescents de Campagne-les-Bains ; une rumeur d'espionnage court alors sur son compte.
+voir-sur-place: On fait le tour de l'ancien fort par la « promenade du Château-Fort » ; l'église Saint-Sébastien en occupe le centre.
+voir: templiers-en-razes, douzens, chateau-du-bezu, tresor-des-templiers, esperaza, quillan
+
+@ antugnac
+cat: lieux
+groupe: razes
+nom: Antugnac
+alias: paroisse d'Antugnac, Mon enseignement à Antugnac
+geo: 42.95500, 2.22472
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village viticole au-dessus de Montazels, dont Bérenger Saunière dessert la paroisse, en plus de la sienne, de mai 1890 à juin 1891.
+texte: Antugnac, 291 habitants, est un village de vignes à 296 mètres d'altitude, au-dessus de [[montazels|Montazels]], le village natal de [[berenger-sauniere|Bérenger Saunière]]. Du 4 mai 1890 au 12 juin 1891, le curé de Rennes en assure le service en plus du sien. Les instructions qu'il y donne ont été conservées ; l'abbé [[bruno-de-monts|Bruno de Monts]] les publie en 1984 sous le titre *Mon enseignement à Antugnac, 1890*, l'une des trois éditions de ses papiers. Ce double service finit le 12 juin 1891 ; neuf jours plus tard, à Rennes, il fait bénir la Vierge de Lourdes du [[jardin-du-calvaire|jardin du calvaire]].
+voir: berenger-sauniere, montazels, bruno-de-monts, carnets-de-sauniere, couiza
+
+@ axat
+cat: lieux
+groupe: razes
+nom: Axat
+alias: tombe de Boudet, tombe de l'abbé Boudet, Le Livre d'Axat
+geo: 42.80361, 2.23528
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village de l'Aude, au sud de Quillan, où le frère de l'abbé Boudet est notaire ; le curé de Rennes-les-Bains y meurt en mars 1915 et y est enterré.
+texte: Axat est un village de l'Aude, au sud de [[quillan|Quillan]]. Edmond Boudet (1840-1907), frère cadet de l'abbé [[henri-boudet|Henri Boudet]], y est notaire ; c'est lui qui dessine la carte de *[[la-vraie-langue-celtique|La Vraie Langue celtique]]*. Parmi les écrits de l'abbé figure un *Livre d'Axat*, dont Louis Fédié rend compte en 1896. Malade, Boudet quitte sa cure de [[rennes-les-bains|Rennes-les-Bains]] le 30 avril 1914 et meurt à Axat le 30 mars 1915 selon sa tombe, le 31 à sept heures du soir selon l'acte de décès. Il y est enterré avec son frère. La tombe porte un livre de pierre fermé, gravé du mot grec ΙΧΘΥΣ, que les auteurs à énigme lisent souvent « I.X.O.I.S. ».
+voir-sur-place: La tombe des frères Boudet, à Axat, porte un livre de pierre fermé, gravé en grec.
+voir: henri-boudet, rennes-les-bains, quillan, la-vraie-langue-celtique, boudet-maitre-du-jeu
+
+@ luc-sur-aude
+cat: lieux
+groupe: razes
+nom: Luc-sur-Aude
+alias: Luc, village d'Élie Bot
+geo: 42.95917, 2.27028
+lieu: Aude, Occitanie
+type: village
+echelle: razes
+def: Village de la rive droite de l'Aude, entre Couiza et Alet, celui d'Élie Bot, l'entrepreneur des chantiers de Saunière.
+texte: Luc-sur-Aude, 257 habitants, est sur la rive droite de l'Aude, entre [[couiza|Couiza]] et [[alet-les-bains|Alet]], à 268 mètres d'altitude. C'est le village d'[[elie-bot|Élie Bot]] (1861-1947), limonadier, maçon et entrepreneur, qui en fut maire : à partir de 1886, il conduit la plupart des chantiers de [[berenger-sauniere|Bérenger Saunière]], l'église, puis la villa et la tour, et ses carnets de chantier ont servi aux auteurs. C'est aussi à Luc que Saunière, un mois après son arrivée à Rennes, croise l'abbé [[henri-boudet|Boudet]], à la visite pastorale du 3 juillet 1885.
+voir: elie-bot, berenger-sauniere, henri-boudet, couiza, alet-les-bains

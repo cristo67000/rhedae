@@ -1,0 +1,97 @@
+# Fiches tirées du carnet NotebookLM de l'auteur (« Les Mystères de Rennes-le-Château
+# et sa région », 288 sources) : cinq pistes que le premier plan ne couvrait pas.
+# La synthèse du carnet est une source seconde : ce qui n'a pas pu être recoupé
+# est rendu à son auteur, ou dit incertain.
+
+@ piste-lazariste
+cat: hypotheses
+groupe: secrets
+nom: La piste des Lazaristes
+alias: Jean Jourde, Lazaristes de Notre-Dame de Marceille, crucifix du Razès, crucifix de Gardie, thèse Daffos
+statut: legende
+def: Les Lazaristes de Notre-Dame de Marceille, et l'un d'eux, le père Jean Jourde, auraient été les maîtres cachés de Saunière et de Boudet : une thèse de Franck Daffos, qu'aucune pièce ne vient appuyer.
+origine: Franck Daffos, à partir du milieu des années 2000, notamment dans *Rennes-le-Château, le secret dérobé*.
+pour: Les Lazaristes desservaient réellement le sanctuaire de [[notre-dame-de-marceille|Notre-Dame de Marceille]], à Limoux, et ils étaient en relation avec le clergé du pays.
+pour: Un lazariste figure auprès de [[berenger-sauniere|Saunière]] sur la photographie de la mission du 21 juin 1891.
+pour: Des tableaux de la Crucifixion se voient dans plusieurs églises du Razès, dont celle de Gardie.
+contre: Aucune lettre, aucun compte ne relie le père Jourde aux chantiers ni à l'argent de Saunière.
+contre: Des tableaux de Crucifixion dans des églises de campagne relèvent de l'ordinaire du mobilier religieux, non d'un balisage.
+contre: La thèse fait de Jourde l'auteur des parchemins, alors que [[philippe-de-cherisey|Philippe de Chérisey]] a reconnu les avoir fabriqués dans les années 1960.
+verdict: Une légende récente. Les Lazaristes de Marceille sont un fait ; leur rôle de chefs d'orchestre est une construction.
+texte: La Congrégation de la Mission, que l'on appelle les Lazaristes, a été fondée par saint Vincent de Paul au XVIIe siècle. Elle tient au XIXe siècle le sanctuaire de Notre-Dame de Marceille, aux portes de Limoux, lieu de pèlerinage du pays. Selon la synthèse des sources réunies par l'auteur de ce dossier, le père Jean Jourde, né en 1852, y est affecté dans les années 1880, puis de nouveau à partir de 1899, et meurt en 1930.
+texte: Franck Daffos en fait l'éminence grise de l'affaire. Jourde aurait guidé Saunière et [[henri-boudet|Boudet]], conçu le domaine, et disposé dans les églises du Razès quatre grandes Crucifixions formant une carte, qui mènerait à un dépôt caché à Marceille ou à Rennes-les-Bains. Le même auteur lui attribue *[[le-serpent-rouge|Le Serpent rouge]]*, hypothèse que la critique tient pour isolée.
+texte: La thèse a l'avantage de remplacer un curé seul par une congrégation, comme celle qui fait de Boudet [[boudet-maitre-du-jeu|le maître du jeu]]. Elle a le même défaut : on n'en a jamais montré la preuve. Ce qui est établi se réduit à peu de chose — des prêtres voisins, une mission prêchée à Rennes en 1891, un sanctuaire que [[mgr-billard|Mgr Billard]] racheta en 1893.
+voir: notre-dame-de-marceille, boudet-maitre-du-jeu, le-serpent-rouge, mgr-billard, or-de-louis-xiv, penitence-penitence
+
+@ or-de-louis-xiv
+cat: hypotheses
+groupe: tresors
+nom: L'or de Louis XIV
+alias: trésor de Serres, Fouquet et l'or du Razès, Colbert et Blanchefort, Compagnie des mines du Languedoc
+statut: legende
+def: Un gisement d'or du Razès, connu des frères Fouquet, aurait financé Versailles, et une part en serait restée au château de Serres : une thèse qui brode sur des prospections minières bien réelles, et décevantes.
+origine: Franck Daffos, dans les années 2000, à partir de la [[lettre-de-louis-fouquet|lettre de Louis Fouquet]] de 1656 et de l'histoire minière du pays.
+pour: Colbert a réellement fait prospecter les mines du Languedoc dans les années 1660, et le site de [[chateau-de-blanchefort|Blanchefort]] en faisait partie.
+pour: François Fouquet, frère du surintendant, devient archevêque de Narbonne en 1659 : la famille avait donc un pied dans le pays.
+pour: [[nicolas-fouquet|Nicolas Fouquet]], arrêté en 1661, est gardé prisonnier jusqu'à sa mort, ce que l'on a toujours trouvé sévère.
+contre: Les comptes des Bâtiments du roi détaillent le financement de Versailles : l'impôt et l'emprunt.
+contre: Les rapports des ingénieurs et des intendants décrivent des filons de plomb et de cuivre médiocres, et aucun or exploitable.
+contre: La lettre de 1656 parle d'affaires traitées à Rome avec Poussin, non d'une mine en Languedoc.
+verdict: Une légende, greffée sur un fait : on a cherché du métal dans ce pays au XVIIe siècle, et on en a trouvé peu.
+texte: Sous Colbert, la monarchie veut des mines. Une compagnie est créée pour le Languedoc, des ingénieurs visitent les Corbières, et l'un d'eux promet du plomb et de l'argent autour de Lanet. Le Roc Nègre, près de Blanchefort, entre dans ces recherches. C'est le noyau vrai, celui que l'on retrouve dans [[mines-d-or-du-razes|les mines d'or du Razès]].
+texte: La légende y ajoute un secret d'État. Fouquet aurait tiré sa fortune d'un gisement exploité par son frère ; Louis XIV l'aurait gardé en otage pour se faire livrer l'or ; les convois auraient fait étape au château de [[serres|Serres]], où une partie serait restée après la mort de l'archevêque, en 1673. L'évêque d'Alet, [[nicolas-pavillon|Nicolas Pavillon]], aurait interrompu le trafic.
+texte: Rien de cela n'a de pièce. Mais la thèse montre comment l'affaire s'étend : après Saunière, après les Mérovingiens, elle annexe le Grand Siècle, et le [[secret-de-poussin|secret de Poussin]] lui sert de passerelle.
+voir: nicolas-fouquet, lettre-de-louis-fouquet, mines-d-or-du-razes, chateau-de-blanchefort, serres, nicolas-pavillon, secret-de-poussin, piste-lazariste
+
+@ berger-ignace-paris
+cat: hypotheses
+groupe: tresors
+nom: Le berger Ignace Paris
+alias: Ignace Paris, aven Paris, berger de Rennes, trésor du berger
+statut: legende
+def: En 1645, un berger aurait trouvé une salle pleine d'or en suivant une brebis tombée dans un trou, et serait mort sans livrer son secret : le récit paraît en 1956, sous la plume de Noël Corbu.
+origine: [[noel-corbu|Noël Corbu]], dans le [[recit-de-noel-corbu|récit]] enregistré pour ses clients, qui fixe le nom et la date ; repris par *La Dépêche du Midi* en janvier 1956.
+pour: Le nom de Paris est porté dans le pays, et un aven du plateau s'appelle l'aven Paris.
+pour: Le seigneur du temps, Blaise d'Hautpoul, a fait de grosses dépenses pour établir ses fils dans l'armée.
+pour: Le pays a des cavités, et l'on y a caché des choses.
+contre: Aucun acte du XVIIe siècle — ni procès, ni décès — ne mentionne ce berger.
+contre: Le pâtre qui suit sa bête dans un gouffre et y trouve un trésor est un conte que l'on raconte dans toutes les Pyrénées.
+contre: Les dix-huit millions et demi de pièces d'or du récit sont le chiffre de Corbu, non celui d'une tradition.
+verdict: Un conte, daté de 1956 dans sa forme connue. Il a servi à donner au trésor de l'hôtelier un premier découvreur.
+texte: Le récit a la netteté des contes. Une brebis s'égare, tombe dans une faille ; le berger descend, voit des squelettes et des monceaux d'or, en emplit son bonnet, remonte. Au village, on l'accuse de vol. Selon les versions, il se tait, devient fou, ou meurt entre les mains du seigneur.
+texte: Corbu en a besoin. Son trésor de [[tresor-de-blanche-de-castille|Blanche de Castille]] aurait dormi quatre siècles ; il fallait qu'on l'eût aperçu une fois, pour que [[berenger-sauniere|Saunière]] ne fût pas le premier. Le conte fait le pont. Il ressemble de près à celui que l'on notait à Blanchefort en 1832 : voir [[tresor-du-diable-de-blanchefort|le trésor gardé par le diable]].
+texte: Des auteurs récents ont voulu y voir un fait, et lisent dans le Bon Pasteur sculpté sur le confessionnal de l'église un hommage chiffré au berger. La scène est celle de la brebis retrouvée, dans l'Évangile de Luc.
+voir: noel-corbu, recit-de-noel-corbu, tresor-de-blanche-de-castille, tresor-du-diable-de-blanchefort, famille-d-hautpoul, articles-de-la-depeche
+
+@ hieron-du-val-d-or
+cat: hypotheses
+groupe: marges
+nom: Le Hiéron du Val d'Or
+alias: Hiéron de Paray-le-Monial, Société angélique, Paul Le Cour, Alexis de Sarachaga
+statut: mystification
+def: Une société catholique de Paray-le-Monial et un cénacle lyonnais de la Renaissance seraient les relais anciens du secret : le premier a existé, mais son lien avec Rennes a été fabriqué par Plantard à coups de ciseaux.
+origine: [[pierre-plantard|Pierre Plantard]], dans les documents des années 1960, pour le Hiéron ; Michel Lamy en 1984, puis Patrick Berlier, pour la « Société angélique ».
+pour: Le Hiéron du Val d'Or est une institution réelle, fondée à Paray-le-Monial dans les années 1870, qui mêlait dévotion au Sacré-Cœur et spéculations sur une tradition primordiale.
+pour: Paul Le Cour, que Plantard a beaucoup lu, était en relation avec ses derniers animateurs.
+pour: Un cercle d'humanistes s'est bien réuni à Lyon, au XVIe siècle, dans une maison appelée l'Angélique.
+contre: Les textes attribués au Hiéron dans les dépôts de Plantard sont des passages découpés dans un livre de Paul Le Cour.
+contre: Rien ne relie [[berenger-sauniere|Saunière]] ni [[henri-boudet|Boudet]] à Paray-le-Monial.
+contre: Dès 1910, l'historien de l'imprimerie lyonnaise ne voyait dans l'« Angélique » qu'une réunion d'amis lettrés, non une société secrète.
+verdict: Une mystification pour le Hiéron, une légende pour la Société angélique. Dans les deux cas, une institution réelle a servi de caution à un récit qu'elle ignorait.
+texte: Le Hiéron naît dans le catholicisme de combat des années 1870, celui qui vouait la France au Sacré-Cœur. Son fondateur, le baron de Sarachaga, y ajoute des idées plus singulières : une révélation primitive, l'Atlantide, une science sacrée des noms. La société décline après sa mort ; ses derniers gardiens meurent en 1926.
+texte: Quarante ans plus tard, Plantard cherche des ancêtres à son [[prieure-de-sion|Prieuré]]. Le Hiéron convient : catholique, royaliste, ésotérique, et assez oublié pour qu'on lui prête des écrits. Il en compose en démarquant Paul Le Cour. Voir [[atelier-des-faux|l'atelier des faux]].
+texte: La Société angélique relève d'une autre veine, celle des [[romanciers-inities|romanciers initiés]]. Elle aurait transmis de siècle en siècle, par un langage à double sens, un secret que [[nicolas-poussin|Poussin]], puis [[jules-verne|Jules Verne]], auraient connu. On en doit l'idée à Grasset d'Orcet, érudit de la fin du XIXe siècle.
+voir: pierre-plantard, prieure-de-sion, atelier-des-faux, romanciers-inities, occultisme-fin-de-siecle, jules-verne
+
+@ cartes-postales-de-sauniere
+cat: pieces
+groupe: papiers
+nom: Les cartes postales de Saunière
+alias: 33 cartes postales, collection de cartes postales, vues de Rennes-le-Château
+statut: authentique
+def: Une série de trente-trois vues de son village et de son domaine, que l'abbé Saunière fit éditer et vendait dix centimes pièce aux curistes : un petit commerce, et la meilleure image du domaine achevé.
+texte: Vers 1904-1907, quand la [[villa-bethanie|villa]] et la [[tour-magdala|tour]] sont debout, [[berenger-sauniere|Saunière]] fait photographier son œuvre. La série compte trente-trois cartes : le domaine sous tous ses angles, le [[jardin-du-calvaire|jardin du calvaire]] avec la Vierge sur son pilier, le village, le [[chateau-des-hautpoul|château]], quelques sites des environs. Le curé y pose lui-même, en soutane.
+texte: Il les vend, et il le dit. Dans une lettre que citent les sources réunies pour ce dossier, il explique qu'il y en a trente-trois, à dix centimes l'une, que les baigneurs de [[rennes-les-bains|Rennes-les-Bains]] prennent la collection entière, et qu'il a peine à en fournir. En 1911, il les fait figurer parmi ses ressources, devant ses juges : voir [[dossier-du-proces|le dossier du procès]].
+texte: On a voulu lire la série comme un relevé chiffré, et son nombre comme une allusion aux trente-trois degrés d'un rite maçonnique. Les cartes ne portent pourtant aucun numéro, ce qui s'accorde mal avec un ordre de lecture ; et l'édition de cartes postales était, à la Belle Époque, l'un des revenus ordinaires d'un curé de lieu fréquenté. Un homme en blanc que l'on voit sur l'une d'elles, et dont on a fait un initié, a été reconnu par une habitante : c'était son grand-père, l'instituteur.
+texte: Leur vrai prix est documentaire. Elles montrent le domaine tel que son auteur voulait qu'on le vît, neuf, peuplé, ordonné, et elles rappellent que Saunière ne cachait rien de ce qu'il bâtissait.
+voir: berenger-sauniere, villa-bethanie, tour-magdala, jardin-du-calvaire, dons-et-bienfaiteurs, dossier-du-proces, belvedere-et-orangerie

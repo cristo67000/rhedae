@@ -1,0 +1,465 @@
+{
+ "images": [
+  {
+   "id": "portrait-sauniere",
+   "legende": "L'abbé Bérenger Saunière",
+   "credit": "Photographie, avant 1917 ; collection Spaarnestad · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Pastoor_Sauni%C3%A8res,_gestorven_in_1917,_de_man_die_naar_men_zegt_wist_waar_in_kasteel,_SFA002011574.jpg",
+   "largeur": 440,
+   "hauteur": 560,
+   "empreinte": "31fbc0d276",
+   "pour": [
+    "berenger-sauniere"
+   ],
+   "sig": "Pastoor Saunières, gestorven in 1917, de man die naar men zegt wist waar in kasteel, SFA002011574.jpg||440|76"
+  },
+  {
+   "id": "portrait-marie-denarnaud",
+   "legende": "Marie Dénarnaud",
+   "credit": "Photographie, avant 1917 ; collection Spaarnestad · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Marie_Desnandeau_hoorde_naar_men_zegt_van_pastoor_Sauni%C3%A8res,_gestorven_in_1917,_waar_In_kasteel,_SFA002011575.jpg",
+   "largeur": 440,
+   "hauteur": 586,
+   "empreinte": "994e26a7cb",
+   "pour": [
+    "marie-denarnaud"
+   ],
+   "sig": "Marie Desnandeau hoorde naar men zegt van pastoor Saunières, gestorven in 1917, waar In kasteel, SFA002011575.jpg||440|76"
+  },
+  {
+   "id": "plaque-tombe-sauniere",
+   "legende": "La plaque de la tombe de l'abbé Saunière",
+   "credit": "Photographie, 2005 · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Plaque_tombe_abbe_sauniere.jpg",
+   "largeur": 560,
+   "hauteur": 420,
+   "empreinte": "1cde45f7c9",
+   "pour": [
+    "tombe-de-sauniere"
+   ],
+   "sig": "Plaque tombe abbe sauniere.jpg||560|76"
+  },
+  {
+   "id": "fouilles-interdites",
+   "legende": "À l'entrée du village : les fouilles sont interdites depuis 1965",
+   "credit": "Photographie · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Fouilles_interdites.jpg",
+   "largeur": 520,
+   "hauteur": 390,
+   "empreinte": "3264199e3b",
+   "pour": [
+    "fouilles",
+    "rennes-le-chateau"
+   ],
+   "sig": "Fouilles interdites.jpg||520|76"
+  },
+  {
+   "id": "portrait-boudet",
+   "legende": "L'abbé Henri Boudet",
+   "credit": "Photographie, vers 1887 · CC0",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Boudet.jpg",
+   "largeur": 343,
+   "hauteur": 347,
+   "empreinte": "3bea8b32c1",
+   "pour": [
+    "henri-boudet",
+    "la-vraie-langue-celtique"
+   ],
+   "sig": "Boudet.jpg||343|76"
+  },
+  {
+   "id": "portrait-beausejour",
+   "legende": "Mgr de Beauséjour, évêque de Carcassonne",
+   "credit": "Photographie · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Paul-F%C3%A9lix_Beuvain_de_Beaus%C3%A9jour_2.jpg",
+   "largeur": 440,
+   "hauteur": 721,
+   "empreinte": "39d916cfcc",
+   "pour": [
+    "mgr-de-beausejour"
+   ],
+   "sig": "Paul-Félix Beuvain de Beauséjour 2.jpg||440|76"
+  },
+  {
+   "id": "comtesse-de-chambord",
+   "legende": "Marie-Thérèse de Modène, comtesse de Chambord",
+   "credit": "Photographie, années 1880 · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Marie-Th%C3%A9r%C3%A8se_de_Mod%C3%A8ne,_Comtesse_de_Chambord.png",
+   "largeur": 340,
+   "hauteur": 529,
+   "empreinte": "c64d575430",
+   "pour": [
+    "comtesse-de-chambord"
+   ],
+   "sig": "Marie-Thérèse de Modène, Comtesse de Chambord.png||340|76"
+  },
+  {
+   "id": "comte-de-chambord",
+   "legende": "Henri d'Artois, comte de Chambord",
+   "credit": "Photographie, avant 1883 ; musée Carnavalet · CC0",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Portrait_d%27Henri_Charles_Dieudonn%C3%A9_d%27Artois,_comte_de_Chambord_(1820-1883),_PH38054.jpg",
+   "largeur": 440,
+   "hauteur": 710,
+   "empreinte": "e2464eb094",
+   "pour": [
+    "comte-de-chambord",
+    "legitimisme"
+   ],
+   "sig": "Portrait d'Henri Charles Dieudonné d'Artois, comte de Chambord (1820-1883), PH38054.jpg||440|76"
+  },
+  {
+   "id": "bergers-arcadie",
+   "legende": "Nicolas Poussin, *Les Bergers d'Arcadie*, vers 1638-1640",
+   "credit": "Musée du Louvre · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_-_Et_in_Arcadia_ego_(deuxi%C3%A8me_version).jpg",
+   "largeur": 640,
+   "hauteur": 456,
+   "empreinte": "e66bad7449",
+   "pour": [
+    "les-bergers-d-arcadie",
+    "secret-de-poussin",
+    "et-in-arcadia-ego"
+   ],
+   "sig": "Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg||640|76"
+  },
+  {
+   "id": "arcadie-guercino",
+   "legende": "Le Guerchin, *Et in Arcadia ego*, vers 1618-1622 : la première apparition de la devise",
+   "credit": "Rome, palais Barberini · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Guercino_Et_in_Arcadia_ego_(detail).jpg",
+   "largeur": 560,
+   "hauteur": 466,
+   "empreinte": "6ac366267b",
+   "pour": [
+    "et-in-arcadia-ego"
+   ],
+   "sig": "Guercino Et in Arcadia ego (detail).jpg||560|76"
+  },
+  {
+   "id": "teniers-antoine-paul",
+   "legende": "David Teniers le Jeune, *Saint Antoine abbé et saint Paul ermite*, années 1660",
+   "credit": "David Teniers le Jeune · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:David_Teniers_-_Saint_Anthony_abbot_meets_Saint_Paul_the_hermit.jpg",
+   "largeur": 600,
+   "hauteur": 398,
+   "empreinte": "6469d74a3b",
+   "pour": [
+    "david-teniers"
+   ],
+   "sig": "David Teniers - Saint Anthony abbot meets Saint Paul the hermit.jpg||600|76"
+  },
+  {
+   "id": "fouquet-le-brun",
+   "legende": "Nicolas Fouquet, par Charles Le Brun",
+   "credit": "Charles Le Brun, XVIIe siècle · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Nicolas_Fouquet_par_Charles_Le_Brun.jpg",
+   "largeur": 440,
+   "hauteur": 587,
+   "empreinte": "5629a95ea3",
+   "pour": [
+    "nicolas-fouquet",
+    "lettre-de-louis-fouquet"
+   ],
+   "sig": "Nicolas Fouquet par Charles Le Brun.jpg||440|76"
+  },
+  {
+   "id": "diocese-d-alet",
+   "legende": "Carte du diocèse d'Alet, 1781 : Rennes en dépendait",
+   "credit": "Bibliothèque nationale de France, 1781 · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Carte_du_dioc%C3%A8se_d%27Alet.jpg",
+   "largeur": 720,
+   "hauteur": 572,
+   "empreinte": "938c355a6e",
+   "pour": [
+    "diocese-d-alet"
+   ],
+   "sig": "Carte du diocèse d'Alet.jpg||720|76"
+  },
+  {
+   "id": "alet-ruines",
+   "legende": "Les ruines de l'abbaye-cathédrale d'Alet, le 20 juin 1898",
+   "credit": "Bibliothèque nationale de France · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Ensemble_des_ruines,_Alet-les-Bains,_20_juin_1898_-_btv1b105788860.jpg",
+   "largeur": 600,
+   "hauteur": 451,
+   "empreinte": "133b6d8eef",
+   "pour": [
+    "alet-les-bains"
+   ],
+   "sig": "Ensemble des ruines, Alet-les-Bains, 20 juin 1898 - btv1b105788860.jpg||600|76"
+  },
+  {
+   "id": "arques-donjon",
+   "legende": "Le donjon d'Arques",
+   "credit": "Photographie ancienne ; Bibliothèque nationale de France · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Donjon_d%27_Arques,_Aude_-_btv1b10574192k.jpg",
+   "largeur": 440,
+   "hauteur": 584,
+   "empreinte": "25298622ef",
+   "pour": [
+    "arques"
+   ],
+   "sig": "Donjon d' Arques, Aude - btv1b10574192k.jpg||440|76"
+  },
+  {
+   "id": "quillan",
+   "legende": "Quillan, la promenade, au début du XXe siècle",
+   "credit": "Carte postale ancienne · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Quillan_-_Promenade.jpg",
+   "largeur": 600,
+   "hauteur": 399,
+   "empreinte": "d14226be96",
+   "pour": [
+    "quillan"
+   ],
+   "sig": "Quillan - Promenade.jpg||600|76"
+  },
+  {
+   "id": "bugarach-pech",
+   "legende": "Le pic de Bugarach",
+   "credit": "Photographie, 2014 · CC0",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pech_de_Bugarach_27072014_02.jpg",
+   "largeur": 640,
+   "hauteur": 424,
+   "empreinte": "53ef9e0250",
+   "pour": [
+    "bugarach",
+    "bugarach-et-les-ovnis"
+   ],
+   "sig": "Pech de Bugarach 27072014 02.jpg||640|76"
+  },
+  {
+   "id": "blanche-de-castille",
+   "legende": "Blanche de Castille",
+   "credit": "Enluminure du XIIIe siècle · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Blancheofcastile.jpg",
+   "largeur": 440,
+   "hauteur": 515,
+   "empreinte": "a35bb7cf18",
+   "pour": [
+    "blanche-de-castille",
+    "tresor-de-blanche-de-castille"
+   ],
+   "sig": "Blancheofcastile.jpg||440|76"
+  },
+  {
+   "id": "madeleine-penitente",
+   "legende": "Georges de La Tour, *La Madeleine pénitente*",
+   "credit": "Metropolitan Museum of Art, New York · CC0",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Penitent_Magdalen_MET_DT7252.jpg",
+   "largeur": 440,
+   "hauteur": 636,
+   "empreinte": "9cb984e5b7",
+   "pour": [
+    "marie-madeleine",
+    "lignee-de-jesus"
+   ],
+   "sig": "The Penitent Magdalen MET DT7252.jpg||440|76"
+  },
+  {
+   "id": "jules-bois",
+   "legende": "Jules Bois en 1906",
+   "credit": "Bibliothèque nationale de France · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Jules_Bois,_1906_-_btv1b53220033z.jpg",
+   "largeur": 440,
+   "hauteur": 321,
+   "empreinte": "8300b52287",
+   "pour": [
+    "jules-bois"
+   ],
+   "sig": "Jules Bois, 1906 - btv1b53220033z.jpg||440|76"
+  },
+  {
+   "id": "maurice-leblanc",
+   "legende": "Maurice Leblanc",
+   "credit": "Photographie d'Henri Manuel · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Maurice_Leblanc_-_photographie_Henri_Manuel.jpg",
+   "largeur": 440,
+   "hauteur": 586,
+   "empreinte": "fc92d10cfe",
+   "pour": [
+    "maurice-leblanc",
+    "romanciers-inities"
+   ],
+   "sig": "Maurice Leblanc - photographie Henri Manuel.jpg||440|76"
+  },
+  {
+   "id": "aiguille-document",
+   "legende": "Le document chiffré de *L'Aiguille creuse*, édition de 1912",
+   "credit": "Maurice Leblanc, *L'Aiguille creuse*, 1912 · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Leblanc_-_L%E2%80%99Aiguille_creuse,_1912_(page_93_crop).jpg",
+   "largeur": 600,
+   "hauteur": 320,
+   "empreinte": "3c999ea390",
+   "pour": [
+    "l-aiguille-creuse"
+   ],
+   "sig": "Leblanc - L’Aiguille creuse, 1912 (page 93 crop).jpg||600|76"
+  },
+  {
+   "id": "jules-verne",
+   "legende": "Jules Verne, par Nadar",
+   "credit": "Félix Nadar · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_(restoration).jpg",
+   "largeur": 440,
+   "hauteur": 616,
+   "empreinte": "10ff7d3b70",
+   "pour": [
+    "jules-verne"
+   ],
+   "sig": "Félix Nadar 1820-1910 portraits Jules Verne (restoration).jpg||440|76"
+  },
+  {
+   "id": "codex-bezae",
+   "legende": "Une page latine du Codex Bezae : c'est l'écriture qu'a imitée l'auteur du petit parchemin",
+   "credit": "Fac-similé ancien du manuscrit de Cambridge, Ve siècle · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Codex_Bezae_-_Latin_Luke_23-47-24-1_(The_S.S._Teacher%27s_Edition-The_Holy_Bible_-_Plate_XXVI).jpg",
+   "largeur": 440,
+   "hauteur": 601,
+   "empreinte": "f7a61ce1cf",
+   "pour": [
+    "parchemins"
+   ],
+   "sig": "Codex Bezae - Latin Luke 23-47-24-1 (The S.S. Teacher's Edition-The Holy Bible - Plate XXVI).jpg||440|76"
+  },
+  {
+   "id": "saint-sulpice",
+   "legende": "L'église Saint-Sulpice, à Paris",
+   "credit": "Photographie, 2006 · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint-Sulpice_Paris_April_2006_016.jpg",
+   "largeur": 440,
+   "hauteur": 587,
+   "empreinte": "11e1f520a3",
+   "pour": [
+    "saint-sulpice",
+    "meridien-de-paris"
+   ],
+   "sig": "Saint-Sulpice Paris April 2006 016.jpg||440|76"
+  },
+  {
+   "id": "stenay",
+   "legende": "Stenay",
+   "credit": "Bibliothèque nationale de France · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Stenay_-_btv1b53144128w_(2_of_3).jpg",
+   "largeur": 600,
+   "hauteur": 442,
+   "empreinte": "4d92467266",
+   "pour": [
+    "stenay"
+   ],
+   "sig": "Stenay - btv1b53144128w (2 of 3).jpg||600|76"
+  },
+  {
+   "id": "gisors",
+   "legende": "Les ruines du château de Gisors",
+   "credit": "Gravure ancienne · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Gravure_ruines_du_Ch%C3%A2teau_Gisors.jpg",
+   "largeur": 560,
+   "hauteur": 407,
+   "empreinte": "19b2eb53d9",
+   "pour": [
+    "gisors"
+   ],
+   "sig": "Gravure ruines du Château Gisors.jpg||560|76"
+  },
+  {
+   "id": "shugborough",
+   "legende": "Le monument des Bergers, à Shugborough",
+   "credit": "Photographie · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Shepherd%27s_Monument,_Shugborough_Estate_-_Staffordshire,_England_-_DSC00182.jpg",
+   "largeur": 440,
+   "hauteur": 667,
+   "empreinte": "163958cc47",
+   "pour": [
+    "shugborough",
+    "inscription-de-shugborough"
+   ],
+   "sig": "Shepherd's Monument, Shugborough Estate - Staffordshire, England - DSC00182.jpg||440|76"
+  },
+  {
+   "id": "rosslyn",
+   "legende": "La chapelle de Rosslyn, porche sud",
+   "credit": "Metropolitan Museum of Art, New York · CC0",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Roslin_Chapel,_South_Porch_MET_DP107956.jpg",
+   "largeur": 440,
+   "hauteur": 369,
+   "empreinte": "ec44384ce5",
+   "pour": [
+    "rosslyn"
+   ],
+   "sig": "Roslin Chapel, South Porch MET DP107956.jpg||440|76"
+  },
+  {
+   "id": "asmodee-plancy",
+   "legende": "Asmodée, dans le *Dictionnaire infernal* de Collin de Plancy, 1863",
+   "credit": "Louis Le Breton, 1863 · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Asmodeus.jpg",
+   "largeur": 440,
+   "hauteur": 500,
+   "empreinte": "4a7cf10450",
+   "pour": [
+    "asmodee"
+   ],
+   "sig": "Asmodeus.jpg||440|76"
+  },
+  {
+   "id": "menorah-titus",
+   "legende": "Le butin du Temple de Jérusalem, sur l'arc de Titus à Rome",
+   "credit": "Relief de l'arc de Titus · CC0",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Menorah_(Arc_de_Titus,_Rome).jpg",
+   "largeur": 455,
+   "hauteur": 694,
+   "empreinte": "9fb81a1832",
+   "pour": [
+    "arche-d-alliance"
+   ],
+   "sig": "Menorah (Arc de Titus, Rome).jpg||560|76"
+  },
+  {
+   "id": "templiers-bucher",
+   "legende": "Templiers sur le bûcher",
+   "credit": "Enluminure médiévale · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Templars_on_Stake.jpg",
+   "largeur": 440,
+   "hauteur": 326,
+   "empreinte": "8d1121b9bc",
+   "pour": [
+    "tresor-des-templiers",
+    "templiers-en-razes"
+   ],
+   "sig": "Templars on Stake.jpg||440|76"
+  }
+ ]
+}

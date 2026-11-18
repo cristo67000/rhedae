@@ -1,0 +1,459 @@
+# Le contexte historique : le pays avant Saunière, le monde d'un curé de campagne
+# vers 1900, et la manière dont le mythe s'est fabriqué après 1956.
+# Chaque fiche explique un pan du contexte et dit ce qu'il change pour comprendre l'affaire.
+
+# ───────────────────────── Des Wisigoths aux Hautpoul ─────────────────────────
+
+@ rhedae
+cat: contexte
+groupe: ancien
+nom: Rhedae
+alias: Redae, Redas, Rhedæ, Redez, Rezae, cité de Rhedae, pagus Redensis, castellum Redae
+an: 790
+def: Nom carolingien de Rennes-le-Château, attesté à la fin du VIIIe siècle, qui a donné le sien au Razès ; l'érudit Louis Fédié en a fait en 1880 une capitale wisigothique de trente mille habitants, que ni les textes ni les fouilles ne confirment.
+texte: Le nom apparaît à la fin du VIIIe siècle. L'évêque Théodulf d'Orléans, envoyé en mission en Septimanie avec Leidrade, cite la place dans un poème, à la suite de Carcassonne : *Redae* ou *Redas*, selon les lectures, entre 788 et 798 selon les auteurs. Un *pagus Redensis*, le pays de Redae, est attesté en 788 ; il devient le [[comte-de-razes|comté de Razès]]. Les textes écrivent ensuite *castellum Redae* en 1002, *Redez* en 1067, *Rezae* en 1258, *Rénes* en 1647. *Rhedae*, que tous les livres de l'affaire ont adopté, n'est que l'une de ces graphies.
+texte: Le site est bien plus vieux que le nom. L'éperon, à cinq cents mètres d'altitude au-dessus de la confluence de l'Aude et de la Sals, est occupé dès la fin du Néolithique, quatre mille ans avant notre ère ; il porte probablement un oppidum à l'âge du fer. Les Romains bâtissent dans la vallée, à Fa et à Couiza. À l'époque carolingienne, la hauteur est le chef-lieu d'un pays. Deux pierres sculptées en témoignent, que [[berenger-sauniere|Saunière]] sortira de son église onze siècles plus tard : le [[pilier-sculpte|pilier]] de l'ancien autel et la [[dalle-des-chevaliers|dalle des Chevaliers]].
+texte: En 1880, l'érudit Louis Fédié publie à Carcassonne *[[le-comte-de-razes-fedie|Le Comté de Razès et le diocèse d'Alet]]*. Il y décrit une Rhedae wisigothique, capitale à deux citadelles, peuplée de trente mille habitants, détruite une première fois par le roi d'Aragon vers 1170, puis [[ruine-de-1362|ruinée pour de bon en 1362]]. Le livre donne à un village de quelques centaines d'habitants un passé de métropole. Il paraît cinq ans avant l'arrivée de Saunière, six ans avant *[[la-vraie-langue-celtique|La Vraie Langue celtique]]* de l'abbé Boudet : quand le curé ouvre le sol de son église, l'idée qu'une grande ville dort sous Rennes est déjà imprimée.
+texte: Rien ne la confirme. Aucun texte ancien ne fait de Rhedae une capitale ni le siège d'un évêque. Aucune fouille n'a retrouvé la cité, et l'on n'a tiré du sol de Rennes aucun objet wisigothique de prix ; le pilier que l'on dit « wisigothique » est lui-même carolingien. Bill Putnam et John Edwin Wood, dans *[[a-mystery-solved|A Mystery Solved]]*, ramènent la population à quelques centaines d'âmes ; Jean Fourié, en 1984, a même proposé de lire autrement les textes. La destruction de 1170 ne se retrouve pas dans les sources. Restent un toponyme ancien, qui a donné son nom au pays, et une place forte qui compte encore à la fin du XIIIe siècle, quand un Voisins en relève les murs.
+texte: La légende, elle, a pris Fédié au mot. Le [[tresor-des-wisigoths|trésor des Wisigoths]] suppose une capitale où le cacher. Les faussaires des années 1960 font de Rhedae le refuge de [[sigebert-iv|Sigebert IV]] en 681, et intitulent l'une de leurs plaquettes « l'énigme du Razès wisigoth ». En 2000 encore, Gérard de Sède répète à la télévision que le village a compté jusqu'à vingt mille habitants. Ce qui demeure ouvert est plus modeste : ce qu'était au juste la place forte carolingienne et médiévale, et jusqu'à l'emplacement de sa seconde église, Saint-Pierre, dont il ne reste qu'un nom de place.
+repere: vers 4000 av. J.-C. — Premières occupations de la colline, au Néolithique.
+repere: fin du VIIIe siècle — Théodulf d'Orléans nomme la place dans un poème ; le *pagus Redensis* est attesté en 788.
+repere: 1002 — Un texte mentionne le *castellum Redae*.
+repere: 1293 — Un Pierre de Voisins relève les fortifications.
+repere: 1362 — Les routiers d'Henri de Trastamare ruinent la place.
+repere: 1647 — Le nom s'écrit *Rénes*.
+repere: 1880 — Louis Fédié publie *Le Comté de Razès et le diocèse d'Alet*.
+repere: 1965 — Une plaquette apocryphe déposée à la Bibliothèque nationale parle de « l'énigme du Razès wisigoth ».
+voir: comte-de-razes, wisigoths-en-septimanie, ruine-de-1362, le-comte-de-razes-fedie, rennes-le-chateau, tresor-des-wisigoths, sigebert-iv, pilier-sculpte, dalle-des-chevaliers
+
+@ wisigoths-en-septimanie
+cat: contexte
+groupe: ancien
+nom: Les Wisigoths en Septimanie
+alias: Wisigoths, Visigoths, Goths, Septimanie, Gothie, royaume de Toulouse, royaume de Tolède, Vouillé
+dates: 507 – vers 720
+an: 507
+def: Du Ve au VIIIe siècle, le Razès appartient au royaume des Wisigoths, puis à sa dernière province de Gaule, la Septimanie ; c'est sur ces siècles, presque sans traces à Rennes, que repose la légende du trésor rapporté de Rome.
+texte: Le 24 août 410, les Wisigoths d'[[alaric|Alaric]] entrent dans Rome et la pillent. Huit ans plus tard, ils s'installent en Aquitaine : c'est le royaume de Toulouse. En 507, Clovis bat Alaric II à Vouillé. Les Wisigoths ne gardent alors, au nord des Pyrénées, que les cités de Narbonne, Carcassonne, Béziers, Agde, Nîmes, Maguelone et Elne. C'est la Septimanie, province d'un royaume dont le centre est désormais à Tolède. Le Razès en fait partie.
+texte: La province dure deux siècles. Les Wisigoths passent au catholicisme en 589, au IIIe concile de Tolède. En 711, les Arabes conquièrent l'Espagne ; Narbonne tombe vers 720. En 759, Pépin le Bref prend la ville à son tour, et la Septimanie devient la « Gothie » des Francs. C'est dans ce cadre carolingien qu'apparaît, à la fin du siècle, le nom de [[rhedae|Rhedae]].
+texte: À Rennes, ces siècles n'ont presque rien laissé. Aucun texte ne fait du lieu une capitale ou un évêché wisigothique, et l'on n'y a trouvé aucun objet de prix de cette époque. Le [[pilier-sculpte|pilier]] que tout le monde appelle « wisigothique » est carolingien, comme la [[dalle-des-chevaliers|dalle des Chevaliers]], que certains archéologues font tout au plus remonter au VIIIe siècle. La « cité de trente mille habitants » sort d'un livre de 1880, *[[le-comte-de-razes-fedie|Le Comté de Razès]]* de Louis Fédié.
+texte: La légende tient en un raisonnement. Rome gardait le butin que Titus avait rapporté du Temple de Jérusalem en 70, le chandelier, la table ; Alaric l'aurait saisi en 410, et ses successeurs, repliés en Septimanie après Vouillé, l'auraient caché à Rhedae. C'est le [[tresor-des-wisigoths|trésor des Wisigoths]], que Gérard de Sède avance en 1967 et dont Henry Lincoln fait en 1972 le sujet de son premier film. Les textes racontent un autre trajet. Selon Procope, le trésor du Temple quitte Rome en 455 avec les Vandales ; Bélisaire le leur reprend et l'envoie à Constantinople en 534. Quant au trésor des rois wisigoths, mis à l'abri à Carcassonne en 507, il part pour Ravenne, revient à Tolède, et les Arabes s'en emparent en 711.
+texte: Le cadre est donc exact, et c'est ce qui rend la légende vraisemblable : le Razès a bien été terre gothique, et Carcassonne a bien abrité un trésor royal. Mais chaque maillon qu'on y ajoute — le butin de Jérusalem aux mains des Goths, Rhedae capitale, la cachette — manque de texte. Les faussaires des années 1960 ont choisi le mot à dessein : leur plaquette de 1965 s'intitule *Les Descendants mérovingiens ou l'énigme du Razès wisigoth*, et greffe sur ce pays gothique un prince franc, [[sigebert-iv|Sigebert IV]], qui n'a jamais existé.
+repere: 24 août 410 — Sac de Rome par Alaric Ier.
+repere: 418 — Les Wisigoths s'installent en Aquitaine : royaume de Toulouse.
+repere: 455 — Les Vandales pillent Rome et emportent, selon Procope, le trésor du Temple.
+repere: 507 — Vouillé : les Wisigoths ne gardent en Gaule que la Septimanie.
+repere: 534 — Bélisaire envoie le trésor du Temple à Constantinople.
+repere: 589 — Conversion au catholicisme, au IIIe concile de Tolède.
+repere: 711 — Conquête arabe de l'Espagne ; le trésor royal est pris à Tolède.
+repere: vers 720 — Chute de Narbonne.
+repere: 759 — Pépin le Bref prend Narbonne : la Septimanie devient la Gothie franque.
+voir: alaric, tresor-des-wisigoths, rhedae, comte-de-razes, pilier-sculpte, dalle-des-chevaliers, le-comte-de-razes-fedie, arche-d-alliance
+
+@ comte-de-razes
+cat: contexte
+groupe: ancien
+nom: Le comté de Razès
+alias: Razès, pagus Redensis, comtes de Razès, pays de Razès, Bera, Argila, Trencavel
+an: 830
+def: Pays carolingien né autour de Rhedae, le Razès a ses comtes au IXe siècle, puis passe aux comtes de Carcassonne, aux Trencavel et, après la croisade, à un compagnon de Simon de Montfort ; les faussaires des années 1960 lui ont inventé une dynastie issue des Mérovingiens.
+texte: Le Razès est d'abord un *pagus*, une circonscription de l'époque carolingienne. Le *pagus Redensis*, attesté en 788, tire son nom de [[rhedae|Rhedae]], la place qui le commande. Au IXe siècle, il a ses comtes : les actes font connaître Bera au début du siècle, Argila en 830, Bera II en 846. Vers 870, sous Acfred Ier, le comté est uni à celui de Carcassonne, dans la maison des Bellonides. Au Xe siècle, il perd des terres au profit de la Cerdagne.
+texte: En 1067-1068, la comtesse Ermengarde vend Carcassonne et le Razès au comte de Barcelone, qui les inféode aux Trencavel. Rhedae n'est plus alors qu'un château, le *castellum Redae* d'un texte de 1002. Le centre de gravité du pays glisse vers la vallée, à Limoux et autour de l'abbaye d'[[alet-les-bains|Alet]], qui deviendra [[diocese-d-alet|évêché en 1318]].
+texte: La [[croisade-des-albigeois|croisade contre les Albigeois]] clôt l'histoire propre du comté. Simon de Montfort confie le Razès à Lambert de Thury en 1210 ; les comtes de Foix le reprennent en 1220 ; en 1230, il est donné en fief à [[pierre-de-voisins|Pierre de Voisins]]. Après l'échec du dernier Trencavel, en 1240, le pays entre dans la sénéchaussée royale de Carcassonne. Le Razès n'est plus qu'un nom de pays.
+texte: Sur cette histoire, la tradition a brodé de bonne heure. La charte qui fait fonder l'abbaye d'Alet en 813 par « Béra, comte de Razès » est tenue pour un faux du XIe siècle. En 1880, Louis Fédié donne pour premier comte [[guillaume-de-gellone|Guillaume de Gellone]], le cousin de Charlemagne ; les actes désignent plutôt Bera. Puis viennent, en 1967, les *[[dossiers-secrets|Dossiers secrets]]* : [[sigebert-iv|Sigebert IV]], fils supposé de Dagobert II, se serait réfugié à Rhedae en 681 et aurait fait souche de « comtes de Razès », dont Guillaume de Gellone, puis la famille Plantard. C'est la [[descendance-merovingienne|survivance mérovingienne]].
+texte: Le faux s'est logé dans un vide réel : avant le IXe siècle, aucun comte de Razès n'est connu, et l'on peut y glisser autant de générations qu'on veut. À partir de 830, en revanche, les noms sont dans les actes, et ils ne doivent rien à cette lignée. Le comté a existé ; sa dynastie secrète a été écrite à Paris, onze siècles plus tard.
+repere: 788 — Le *pagus Redensis* est attesté.
+repere: 813 — Date que porte la charte de fondation d'Alet au nom de Béra, tenue pour un faux du XIe siècle.
+repere: 830 — Argila est comte de Razès ; avant lui, Bera, au début du siècle.
+repere: 846 — Bera II.
+repere: vers 870 — Union avec Carcassonne sous Acfred Ier.
+repere: 1067 — Ermengarde vend Carcassonne et le Razès au comte de Barcelone ; les Trencavel les tiennent en fief.
+repere: 1210 — Simon de Montfort confie le Razès à Lambert de Thury.
+repere: 1230 — Le Razès est inféodé à Pierre de Voisins.
+repere: 1240 — Échec de Trencavel : le pays entre dans la sénéchaussée de Carcassonne.
+repere: 1880 — Louis Fédié publie *Le Comté de Razès et le diocèse d'Alet*.
+repere: 1967 — Les *Dossiers secrets* inventent une lignée de comtes issue de Sigebert IV.
+voir: rhedae, guillaume-de-gellone, sigebert-iv, descendance-merovingienne, le-comte-de-razes-fedie, croisade-des-albigeois, pierre-de-voisins, diocese-d-alet, dossiers-secrets
+
+@ croisade-des-albigeois
+cat: contexte
+groupe: ancien
+nom: La croisade contre les Albigeois
+alias: croisade albigeoise, croisade des Albigeois, cathares, catharisme, Simon de Montfort, traité de Paris, traité de Meaux, Inquisition
+dates: 1209 – 1229
+an: 1209
+def: La guerre menée de 1209 à 1229 contre les cathares et les seigneurs du Midi fait passer le Razès des Trencavel à un compagnon de Simon de Montfort, puis sous l'autorité du roi ; la légende y a pris deux de ses trésors, celui des cathares et celui de Blanche de Castille.
+texte: Le catharisme est une dissidence chrétienne apparue au milieu du XIIe siècle. Ses « bons hommes » et ses « bonnes femmes », que l'Inquisition appellera « parfaits », ne connaissent qu'un sacrement, le *consolamentum*. Il a des fidèles en Razès — les seigneurs d'Albedun, au [[chateau-du-bezu|Bézu]], passent pour en avoir abrité —, sans que Rennes y tienne un rôle particulier.
+texte: La croisade s'abat en 1209 sur les terres des Trencavel : Béziers est mise à sac le 22 juillet, Carcassonne tombe le 15 août. Dans le Razès, Blanchefort est pris la même année, Coustaussa en 1210 ; Simon de Montfort confie le pays à Lambert de Thury. Montfort est tué devant Toulouse en 1218, et les comtes de Foix reprennent le Razès en 1220. Le traité de Paris, le 12 avril 1229, règle le sort du Midi : le comte de Toulouse cède près de la moitié de ses terres, et les anciennes vicomtés des Trencavel deviennent des sénéchaussées royales. La régente qui l'impose est [[blanche-de-castille|Blanche de Castille]].
+texte: En 1230, le Razès est donné en fief à [[pierre-de-voisins|Pierre de Voisins]]. L'Inquisition s'installe en 1233. Le dernier Trencavel échoue à reprendre son bien en 1240. Le 16 mars 1244, plus de deux cents cathares sont brûlés au pied de [[montsegur|Montségur]] ; [[queribus|Quéribus]] se rend en 1255. Rennes est désormais la seigneurie d'une famille venue avec les croisés : les Voisins relèvent ses murs en 1293, entreprennent le donjon d'[[arques|Arques]] en 1284, et leur héritage passera par mariage aux Hautpoul en 1422. Quant aux forteresses qu'on appelle « châteaux cathares », ce sont pour la plupart des places royales rebâties après la guerre.
+texte: Deux trésors de la légende viennent de là. Le premier a un point d'appui : les dépositions faites devant l'Inquisition disent que le « trésor » de l'Église cathare fut évacué de Montségur vers Noël 1243, et que quatre hommes s'échappèrent la nuit qui précéda le bûcher. Mais ces mêmes dépositions l'envoient vers le Sabarthès, en haute Ariège ; Montségur est à quarante kilomètres, et rien ne relie cet argent au Razès. Voir [[tresor-des-cathares|le trésor des cathares]]. Le second n'a aucun texte pour lui : c'est le [[tresor-de-blanche-de-castille|trésor de Blanche de Castille]], que Noël Corbu invente en 1956. La régente n'est jamais venue à Rennes, et l'on voit mal la couronne confier ses réserves à une forteresse isolée d'un pays à peine soumis.
+texte: Le XXe siècle a ajouté sa couche. [[otto-rahn|Otto Rahn]] fait de Montségur le château du Graal dans les années 1930 ; [[deodat-roche|Déodat Roché]], à Arques, voit dans le catharisme une gnose venue d'Orient. Les historiens ont écarté ces lectures, mais elles ont enveloppé toute la région d'une réputation de secret dont l'affaire de Rennes a hérité.
+repere: 22 juillet 1209 — Sac de Béziers.
+repere: 15 août 1209 — Chute de Carcassonne.
+repere: 1210 — Le Razès est confié à Lambert de Thury.
+repere: 1218 — Mort de Simon de Montfort devant Toulouse.
+repere: 1220 — Les comtes de Foix reprennent le Razès.
+repere: 12 avril 1229 — Traité de Paris.
+repere: 1230 — Le Razès est inféodé à Pierre de Voisins.
+repere: 1233 — Établissement de l'Inquisition.
+repere: 1240 — Échec du dernier Trencavel.
+repere: 16 mars 1244 — Bûcher de Montségur.
+repere: 1255 — Reddition de Quéribus.
+voir: tresor-des-cathares, montsegur, pierre-de-voisins, blanche-de-castille, tresor-de-blanche-de-castille, chateau-du-bezu, queribus, deodat-roche, otto-rahn, comte-de-razes
+
+@ templiers-en-razes
+cat: contexte
+groupe: ancien
+nom: Templiers et Hospitaliers en Razès
+alias: Templiers, ordre du Temple, Hospitaliers, ordre de Saint-Jean de Jérusalem, commanderie, Mas Deu, Templiers du Bézu, Templiers de l'Aude
+an: 1130
+def: Les Templiers ont eu dans l'Aude des maisons bien attestées, à Douzens et à Campagne-sur-Aude, et les Hospitaliers ont hérité de leurs biens en 1312 ; ceux que la légende installe au Bézu et à Blanchefort ne reposent sur aucun texte médiéval.
+texte: Fondé vers 1120, l'ordre du Temple s'implante dans l'Aude dès la décennie suivante. Le 1er avril 1132, les vicomtes Trencavel lui font une première donation ; en 1133, Bernard de Canet et Aymeric de Barbaira lui donnent [[douzens|Douzens]], qui devient le chef-lieu de la baillie de Carcassonne. Plusieurs maisons en dépendent, dont une à Limoux et une autre, dans la haute vallée, à [[campagne-sur-aude|Campagne-sur-Aude]]. Ce sont là les vrais Templiers du pays.
+texte: Leur richesse est faite de terres, de moulins et de crédit, non d'or entassé. Le 13 octobre 1307, Philippe le Bel fait arrêter les frères du royaume ; le concile de Vienne supprime l'ordre le 22 mars 1312, et ses biens sont dévolus aux Hospitaliers de Saint-Jean. Ceux-ci tiennent d'ailleurs une place dans l'histoire de Rennes : c'est l'un de leurs inventaires qui, en 1185, mentionne pour la première fois l'[[eglise-sainte-marie-madeleine|église]] du lieu.
+texte: Le Roussillon voisin connaît un autre sort. La commanderie du Mas Deu, fondée en 1136, relève du roi de Majorque et de la couronne d'Aragon : ses frères ne sont pas arrêtés le 13 octobre 1307. Leur chef, Raymond de Saguardia, résiste dans Miravet jusqu'en décembre 1308 ; le concile de Tarragone les déclare innocents le 4 novembre 1312, et ils finissent leurs jours pensionnés dans leur maison. C'est le fond réel d'une idée promise à un bel avenir : des Templiers épargnés, tout près du Razès.
+texte: La légende les installe au [[chateau-du-bezu|Bézu]]. Des frères venus du Roussillon s'y seraient établis à la fin du XIIIe siècle, auraient échappé à la rafle et caché le trésor de l'ordre. L'idée vient d'une étude de l'abbé Mazières, en 1957-1959 ; [[gerard-de-sede|Gérard de Sède]] la reprend en 1962 et en 1967, Henry Lincoln en 1979. Or aucune commanderie n'est attestée au Bézu : le château, l'ancien Albedun, appartient à des seigneurs laïcs, même si la carte nomme aujourd'hui ses ruines « Château des Templiers ». Le second pilier de la thèse est une homonymie : [[bertrand-de-blanquefort|Bertrand de Blanquefort]], maître du Temple de 1156 à 1169, est un Gascon du Bordelais, sans lien avec le [[chateau-de-blanchefort|château de Blanchefort]], qui dépendait de l'abbaye d'Alet.
+texte: Les Templiers étaient donc là, mais dans la vallée, en propriétaires, connus par leurs chartes. Le [[tresor-des-templiers|trésor des Templiers]], lui, est une légende moderne, arrivée à Rennes par [[gisors|Gisors]] : de Sède vient de publier *Les Templiers sont parmi nous* quand, à l'été 1962, on lui parle de Saunière. Le procédé des faussaires a lui aussi un ancêtre templier : en 1804, un « ordre du Temple » restauré s'appuyait sur une charte donnant la liste de ses grands maîtres secrets depuis Jacques de Molay, faux reconnu. Les *[[dossiers-secrets|Dossiers secrets]]* feront de même en 1967.
+repere: vers 1120 — Fondation de l'ordre du Temple.
+repere: 1er avril 1132 — Donation des Trencavel aux Templiers.
+repere: 1133 — Don de Douzens.
+repere: 1136 — Fondation du Mas Deu, en Roussillon.
+repere: 1185 — Un inventaire des Hospitaliers mentionne l'église de Rennes.
+repere: 13 octobre 1307 — Arrestation des Templiers du royaume ; ceux du Roussillon ne sont pas inquiétés.
+repere: 22 mars 1312 — Suppression de l'ordre au concile de Vienne.
+repere: 4 novembre 1312 — Le concile de Tarragone innocente les Templiers du Roussillon.
+repere: 1957 — L'abbé Mazières commence à publier son étude sur les Templiers du Bézu.
+repere: 1962 — Gérard de Sède publie *Les Templiers sont parmi nous*.
+voir: douzens, campagne-sur-aude, chateau-du-bezu, tresor-des-templiers, bertrand-de-blanquefort, chateau-de-blanchefort, gisors, faux-monnayeurs-du-bezu, gerard-de-sede
+
+@ ruine-de-1362
+cat: contexte
+groupe: ancien
+nom: La ruine de 1362
+alias: sac de Rennes, 1361, Henri de Trastamare, routiers, destruction de Rhedae, église Saint-Pierre
+dates: 1361 ou 1362
+an: 1362
+def: Vers 1361-1362, les routiers d'Henri de Trastamare prennent et ruinent la place forte de Rennes, qui ne sera plus jamais qu'un village ; la légende a fait de cette chute la fin d'une grande cité et l'occasion d'un trésor caché.
+texte: Au XIVe siècle, Rennes compte encore. Un [[pierre-de-voisins|Voisins]] a relevé ses fortifications en 1293 ; le bourg a deux églises, Sainte-Marie-Madeleine et Saint-Pierre. C'est cette place que prennent et ruinent les routiers d'Henri de Trastamare. La date flotte : 1361 pour les uns, 1362 pour Louis Fédié et la plupart des auteurs ; Noël Corbu disait 1370. Le fait est tenu pour acquis, mais son récit passe par Fédié, comme presque tout ce que l'on répète sur la Rennes médiévale.
+texte: La place ne retrouve jamais son rang. La tradition veut que Saint-Pierre ait disparu dans le sac : il n'en reste qu'un nom de place, et son emplacement, que deux études situent en des points différents, n'a jamais été confirmé par une fouille. En 1422, la seigneurie passe par mariage aux [[famille-d-hautpoul|Hautpoul]] ; le [[chateau-des-hautpoul|château]] que l'on voit date pour l'essentiel des XVIe-XVIIIe siècles. L'église qui subsiste est en partie ruinée par les calvinistes en 1578, puis réparée au siècle suivant. Le [[crane-a-l-entaille|crâne à l'entaille]] trouvé sous son dallage en 1956 a été daté entre 1281 et 1396 : la fourchette couvre ces années-là, sans qu'on puisse en dire davantage.
+texte: Quand [[berenger-sauniere|Saunière]] arrive, en 1885, Rennes est donc depuis cinq siècles le reste de quelque chose : moins de trois cents habitants, une église lézardée, des murs épars. Or Fédié vient d'écrire, en 1880, que ce reste était celui d'une capitale de trente mille âmes. La légende du trésor a besoin d'une catastrophe — des habitants qui enfouissent leurs biens et ne reviennent pas —, et la ruine de 1362 la lui fournit. Corbu y accroche en 1956 ses récits de souterrains, dont celui du berger Ignace Paris, qui aurait trouvé de l'or en 1645 : aucun texte d'époque n'en parle. Ce que les documents laissent voir est la fin d'un bourg fortifié du [[comte-de-razes|Razès]], non celle d'une métropole ; voir [[rhedae|Rhedae]].
+repere: 1293 — Un Pierre de Voisins relève les fortifications.
+repere: 1362 — Les routiers d'Henri de Trastamare prennent et ruinent la place ; certains auteurs disent 1361.
+repere: 1422 — La seigneurie passe aux Hautpoul.
+repere: 1578 — L'église est en partie ruinée par les calvinistes.
+repere: 1645 — Date que le récit de Noël Corbu donne à la trouvaille du berger Ignace Paris ; aucune source d'époque.
+repere: 1880 — Louis Fédié fait de la place détruite une capitale de trente mille habitants.
+voir: rhedae, pierre-de-voisins, famille-d-hautpoul, chateau-des-hautpoul, le-comte-de-razes-fedie, crane-a-l-entaille, eglise-sainte-marie-madeleine, rennes-le-chateau
+
+@ diocese-d-alet
+cat: contexte
+groupe: ancien
+nom: Le diocèse d'Alet
+alias: évêché d'Alet, évêques d'Alet, abbaye d'Alet, cathédrale d'Alet, Alet
+dates: 1318 – 1790
+an: 1318
+def: Évêché créé en 1318 dans l'abbaye d'Alet et supprimé en 1790, autour duquel s'organise le haut Razès ; son évêque le plus célèbre, Nicolas Pavillon, a été enrôlé après coup dans les sociétés secrètes de la légende.
+texte: [[alet-les-bains|Alet]] est d'abord une abbaye, au bord de l'Aude, à une douzaine de kilomètres de Rennes par la route. La charte qui la fait fonder en 813 par un comte de Razès est tenue pour un faux du XIe siècle ; son premier abbé attesté est de 970. En 1119, une bulle du pape Calixte II range parmi ses dépendances le *castrum* de [[chateau-de-blanchefort|Blanchefort]]. Le 18 février 1318, Jean XXII érige l'abbaye en évêché. Le centre du [[comte-de-razes|Razès]] n'est plus sur la hauteur de Rhedae : il est dans la vallée.
+texte: La cathédrale ne survit pas aux guerres de Religion : les protestants prennent la ville en 1573 et la saccagent le 6 janvier 1577. Ses ruines sont toujours debout. Les évêques restent. Le plus connu, [[nicolas-pavillon|Nicolas Pavillon]], gouverne le diocèse de 1637 à sa mort, en 1677 : réformateur rigoriste, proche de Port-Royal, il tient tête à Louis XIV dans l'affaire de la Régale et plaide contre la noblesse du pays, dont Blaise d'Hautpoul, seigneur de Rennes. Il est enterré sans épitaphe au cimetière de la paroisse.
+texte: Le diocèse est supprimé en 1790, quand l'abbé [[antoine-bigou|Bigou]] est encore curé de Rennes. Depuis le Concordat, celui de [[carcassonne|Carcassonne]] réunit les anciens diocèses de Carcassonne, de Narbonne, d'Alet et de Saint-Papoul : c'est son évêque qui nomme Saunière, et son tribunal qui le juge. Le futur curé de Rennes commence d'ailleurs à Alet, où il est vicaire de 1879 à 1882, dans une petite ville à la cathédrale morte.
+texte: Un évêché éteint offre des noms et des dates à qui veut s'en servir. *[[l-enigme-sacree|L'Énigme sacrée]]* fait en 1982 de Pavillon, avec le fondateur de [[saint-sulpice|Saint-Sulpice]], un agent du prieuré de Sion : pure spéculation. En 1900, [[jules-doinel|Jules Doinel]], archiviste de l'Aude et fondateur d'une « Église gnostique », se donne le titre d'« évêque d'Alet et de Mirepoix ». Des lecteurs de Maurice Leblanc retrouvent enfin l'abbaye dans le titre de son roman *813*, la date de la fausse charte. Aucun de ces emplois n'apprend rien sur le diocèse ; tous montrent comment la légende se fournit.
+repere: 813 — Date portée par la charte de fondation, tenue pour un faux du XIe siècle.
+repere: 970 — Premier abbé attesté.
+repere: 1119 — Une bulle de Calixte II cite Blanchefort parmi les biens de l'abbaye.
+repere: 18 février 1318 — Jean XXII érige l'abbaye en évêché.
+repere: 1573 — Les protestants prennent Alet.
+repere: 6 janvier 1577 — Saccage de la cathédrale.
+repere: 1637 — Nicolas Pavillon devient évêque d'Alet.
+repere: 8 décembre 1677 — Mort de Pavillon.
+repere: 1790 — Suppression du diocèse.
+repere: 16 juillet 1879 — Saunière est nommé vicaire à Alet.
+repere: 1900 — Jules Doinel se dit « évêque d'Alet et de Mirepoix » de son Église gnostique.
+voir: alet-les-bains, nicolas-pavillon, comte-de-razes, revolution-en-razes, antoine-bigou, carcassonne, jules-doinel, l-enigme-sacree, romanciers-inities
+
+@ revolution-en-razes
+cat: contexte
+groupe: ancien
+nom: La Révolution en Razès
+alias: Révolution française, prêtres réfractaires, biens nationaux, émigration, 1789, 1792
+an: 1789
+def: La Révolution chasse de Rennes son curé réfractaire, l'abbé Bigou, mort en exil en 1794, et fait vendre les biens de seigneurs déjà ruinés ; c'est à ce moment que la légende place la cachette retrouvée un siècle plus tard par Saunière.
+texte: En 1789, Rennes a des seigneurs sans fortune. François d'Hautpoul est mort en 1753 ; sa veuve, [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], a plaidé contre ses propres filles et vendu des seigneuries pour payer ses dettes. Elle meurt le 17 janvier 1781 et repose au cimetière, le caveau de l'église étant fermé depuis un demi-siècle. Le curé est [[antoine-bigou|Antoine Bigou]], soixante-dix ans, en poste depuis 1774.
+texte: Les textes disent peu de chose de ce qui suit, mais ils sont nets. Le [[diocese-d-alet|diocèse d'Alet]] est supprimé en 1790. Bigou est réfractaire. Le 8 octobre 1792, l'inventaire de l'église ne relève aucun objet de valeur. Le curé passe en Espagne — en 1792 selon la date courante, en mars 1793 selon une notice qui le montre abandonnant alors ses biens à l'État. Il meurt le 21 mars 1794 à Collioure, que tiennent les Espagnols : l'acte a été retrouvé en 2009, et les livres qui le font mourir à Sabadell sont périmés.
+texte: Les biens des [[famille-d-hautpoul|Hautpoul]] sont vendus comme biens nationaux en 1796. Une partie est rachetée par [[paul-urbain-de-fleury|Paul-Urbain de Fleury]], que les notices donnent tantôt pour le gendre de la marquise, tantôt pour son petit-fils ; sa famille relancera les bains de Rennes-les-Bains. En 1816, Élisabeth d'Hautpoul, ruinée, vend le château à ses régisseurs. Elle y meurt le 20 mai 1820, et son décès n'est pas même transcrit à l'état civil : une créance de dix mille francs était en jeu, selon René Descadeillas.
+texte: La légende fait de Bigou le dépositaire d'un secret. Confesseur de la marquise, il aurait composé son épitaphe, gravé une dalle chiffrée, retourné la dalle des Chevaliers et caché des parchemins dans un pilier avant de fuir. Rien ne le documente : le récit apparaît dans une plaquette déposée à la Bibliothèque nationale en 1965, puis dans *L'Or de Rennes*. Il en existe une version modeste, le [[magot-de-l-abbe-bigou|magot de l'abbé Bigou]] : un prêtre qui part en exil cache les vases sacrés, un peu d'argenterie, des papiers. Descadeillas l'admettait pour un petit dépôt. Mais les seigneurs étaient ruinés, et l'inventaire de 1792 ne signale rien. L'hypothèse la plus économe ne parle que d'un écrit du XVIIIe siècle indiquant l'accès au caveau condamné : voir [[crypte-des-seigneurs|la crypte des seigneurs]].
+texte: La Révolution a surtout coupé des fils. Un curé mort au loin, une dernière châtelaine dont on n'enregistre pas la mort, une [[stele-de-la-marquise|stèle]] laissée au cimetière : la mémoire du lieu s'interrompt, et un siècle et demi plus tard on a pu remplir ce silence à volonté.
+repere: 15 mai 1753 — Mort de François d'Hautpoul.
+repere: 1774 — Antoine Bigou succède à son oncle comme curé de Rennes.
+repere: 17 janvier 1781 — Mort de Marie de Nègre d'Ables.
+repere: 1790 — Suppression du diocèse d'Alet.
+repere: 8 octobre 1792 — Inventaire de l'église : aucun objet de valeur.
+repere: mars 1793 — Bigou, réfractaire, abandonne ses biens à l'État ; il est en Espagne.
+repere: 21 mars 1794 — Il meurt à Collioure.
+repere: 1796 — Vente des biens Hautpoul comme biens nationaux.
+repere: 1816 — Élisabeth d'Hautpoul vend le château à ses régisseurs.
+repere: 20 mai 1820 — Elle meurt à Rennes ; son décès n'est pas transcrit.
+voir: antoine-bigou, marie-de-negre-d-ables, famille-d-hautpoul, paul-urbain-de-fleury, magot-de-l-abbe-bigou, crypte-des-seigneurs, stele-de-la-marquise, diocese-d-alet, chateau-des-hautpoul
+
+@ thermalisme
+cat: contexte
+groupe: ancien
+nom: Le thermalisme à Rennes-les-Bains
+alias: bains de Rennes, Bains de Montferrand, eaux de Rennes-les-Bains, curistes, station thermale, Bain de la Reine
+an: 1800
+def: Station thermale connue depuis l'Antiquité et relancée aux XVIIIe et XIXe siècles, Rennes-les-Bains attire curistes, voyageurs et érudits ; les légendes du pays y ont été notées de bonne heure, et c'est aux bains que Pierre Plantard vient chercher, vers 1960, des noms et des lieux.
+texte: Dans la vallée de la Sals, à trois kilomètres de Rennes-le-Château à vol d'oiseau, jaillissent des eaux chaudes et salées que les Romains connaissaient. Le Bain fort sort à 47,5 degrés — le docteur [[paul-courrent|Courrent]] y étudie des vestiges romains en 1934 —, le Bain de la Reine à 40, le Bain doux à 37 ; s'y ajoutent des sources froides, dont celle du Cercle, près du [[fauteuil-du-diable|Fauteuil du Diable]]. Du XIVe au XVIIIe siècle, l'endroit s'appelle les Bains de Montferrand. Voir [[sources-de-rennes-les-bains|les sources de Rennes-les-Bains]].
+texte: La station est relancée aux XVIIIe et XIXe siècles par les Fleury, héritiers des Hautpoul. Avec les curistes viennent les gens de plume. En 1832, Auguste de Labouïsse-Rochefort publie son *[[voyage-a-rennes-les-bains|Voyage à Rennes-les-Bains]]* et y note qu'un trésor de dix-neuf millions et demi serait gardé par le diable à Blanchefort. Le pays a donc sa légende de trésor un demi-siècle avant Saunière, et on la connaît parce qu'un voyageur l'a entendue aux bains : voir [[tresor-du-diable-de-blanchefort|le trésor gardé par le diable]].
+texte: Curé d'une ville d'eaux de 1872 à 1914, l'abbé [[henri-boudet|Boudet]] a un public que n'a aucun de ses confrères du canton. Son livre de 1886 est en partie écrit pour lui : le « [[cromleck-de-rennes-les-bains|cromleck]] » qu'il décrit est le cirque de rochers où se promènent les baigneurs.
+texte: Les bains ont aussi fourni une reine. Le Bain de la Reine doit son nom à une tradition : Blanche de Bourbon, épouse de Pierre le Cruel, morte en 1361, y aurait été guérie. Les récits de l'affaire lui substituent volontiers Blanche de Castille, et c'est peut-être là le germe du [[tresor-de-blanche-de-castille|trésor]] que Noël Corbu lui prête en 1956.
+texte: C'est enfin à Rennes-les-Bains que l'on voit paraître, dès la fin des années 1950, un Parisien sans attaches dans le pays, qui ne suit aucun traitement et revient même l'hiver : René Descadeillas a reconnu en lui [[pierre-plantard|Pierre Plantard]]. Il y fréquente un vieux prêtre venu prendre les eaux, l'abbé [[joseph-courtauly|Courtauly]], dont il empruntera le nom après sa mort, et il signe en 1965 l'une de ses plaquettes « Madeleine Blancasall », d'après la Blanque et la Sals, les deux rivières du lieu. Les thermes sont aujourd'hui fermés ; la crue de la Sals, le 26 septembre 1992, a ravagé le village.
+repere: 1832 — Labouïsse-Rochefort publie son *Voyage à Rennes-les-Bains*.
+repere: 16 octobre 1872 — Henri Boudet est nommé curé de Rennes-les-Bains.
+repere: 1886 — *La Vraie Langue celtique et le cromleck de Rennes-les-Bains*.
+repere: 1934 — Le docteur Courrent étudie les vestiges romains du Bain fort.
+repere: 1947 — Le parc des Bains de la Reine devient site inscrit.
+repere: fin des années 1950 — Pierre Plantard commence à fréquenter la station.
+repere: août 1965 — Dépôt de la plaquette signée « Madeleine Blancasall ».
+repere: 26 septembre 1992 — Crue dévastatrice de la Sals.
+voir: rennes-les-bains, sources-de-rennes-les-bains, henri-boudet, voyage-a-rennes-les-bains, tresor-du-diable-de-blanchefort, cromleck-de-rennes-les-bains, paul-urbain-de-fleury, joseph-courtauly, tresor-de-blanche-de-castille, pierre-plantard
+
+# ───────────────────────── Le siècle de Saunière ─────────────────────────
+
+@ eglise-et-republique
+cat: contexte
+groupe: siecle
+nom: L'Église contre la République
+alias: lois laïques, anticléricalisme, Concordat, Ralliement, suspension de traitement, prône de 1885, René Goblet, lois Ferry
+dates: 1879 – 1905
+an: 1879
+def: De 1879 à 1905, la République et l'Église de France s'affrontent sur l'école, les congrégations et le budget des cultes ; Saunière, prêtre monarchiste, y perd son traitement en 1885, et le décor de son église en porte la marque.
+texte: [[berenger-sauniere|Saunière]] est ordonné en juin 1879. C'est l'année où les républicains, après l'Ordre moral, tiennent enfin tous les pouvoirs. Suivent, de 1880 à 1882, les décrets contre les congrégations et les lois Ferry sur l'école gratuite, obligatoire et laïque. Pour un prêtre formé dans ces années-là, le régime est un adversaire. C'est aussi son payeur : sous le Concordat, l'État verse leur traitement aux curés et aux desservants, et il peut le suspendre à ceux qui font de la politique en chaire.
+texte: Saunière l'apprend dès 1885. Aux élections législatives des 4 et 18 octobre, les conservateurs manquent de peu la victoire. Entre les deux tours, le nouveau curé de Rennes, en poste depuis quatre mois, prêche contre les républicains : « voilà le diable à vaincre », disent ses notes. Le 30 octobre, le ministre des Cultes, René Goblet, le dénonce à l'évêque avec trois autres prêtres de l'Aude. [[mgr-billard|Mgr Billard]] les couvre le 15 novembre ; le traitement de Saunière n'en est pas moins suspendu le 1er décembre, et la presse catholique crie à la persécution. Il le retrouve le 1er juillet 1886. L'évêque lui-même sera privé de cinq cents francs en 1891, pour être allé à Rome sans autorisation.
+texte: En 1892, par l'encyclique *Au milieu des sollicitudes*, Léon XIII demande aux catholiques français d'accepter la République : c'est le Ralliement. Beaucoup de prêtres [[legitimisme|légitimistes]] du Midi le refusent. Saunière fait placer les armes du pape au tympan de son église, mais ne change pas. En octobre 1899, quand l'évêque le propose pour une dignité, l'administration, dont l'agrément est requis, consulte le sous-préfet de Limoux. La réponse tient en quelques mots : fortune aisée, « opinions antigouvernementales », « réactionnaire militant ». Avis défavorable.
+texte: C'est dans cette lumière qu'il faut regarder le décor béni en 1897. Le [[asmodee|diable]] qui plie sous le bénitier, les quatre anges qui se signent, la devise « [[par-ce-signe-tu-le-vaincras|Par ce signe tu le vaincras]] » : la formule du prône de 1885 éclaire celle de la sculpture. C'est le catholicisme de combat de ces années-là, hanté par la franc-maçonnerie, attaché aux missions et aux apparitions — la Vierge de Lourdes de 1891 et son « [[penitence-penitence|Pénitence ! Pénitence !]] » en relèvent aussi. Un paroissien de 1897 lisait ces images sans peine.
+texte: La fin est connue. La loi de 1901 sur les associations vise les congrégations, auxquelles l'enseignement est interdit en 1904 ; la France rompt la même année avec Rome. [[mgr-de-beausejour|Mgr de Beauséjour]], nommé par décret en mai 1902, n'est sacré qu'en mars 1904 : la nomination des évêques est elle-même devenue un sujet de querelle. Le 9 décembre 1905, la [[separation-de-1905|Séparation]] met fin au Concordat.
+texte: Ce contexte change trois choses à la lecture de l'affaire. Les images « étranges » de l'église parlent la langue d'une lutte politique et religieuse, non celle d'un secret. Les convictions du curé expliquent qu'il ait trouvé des bienfaiteurs hors de sa paroisse. Et son [[proces-de-sauniere|procès]], en 1910, se tient dans une Église appauvrie et reprise en main. La légende, née en 1956, a oublié cette guerre.
+repere: juin 1879 — Ordination de Saunière ; les républicains tiennent tous les pouvoirs.
+repere: 1880-1882 — Décrets contre les congrégations, lois scolaires de Jules Ferry.
+repere: octobre 1885 — Élections législatives ; prône de Saunière contre les républicains.
+repere: 1er décembre 1885 — Le ministre des Cultes suspend son traitement.
+repere: 1er juillet 1886 — Le traitement est rétabli.
+repere: 16 février 1892 — Encyclique *Au milieu des sollicitudes* : le Ralliement.
+repere: 6 juin 1897 — Bénédiction de l'église restaurée et de son diable terrassé.
+repere: 16 octobre 1899 — Le sous-préfet de Limoux note : « réactionnaire militant ».
+repere: 1904 — Interdiction d'enseigner aux congrégations ; rupture avec Rome.
+repere: 9 décembre 1905 — Loi de Séparation des Églises et de l'État.
+repere: février 1906 — Début de la crise des inventaires.
+voir: berenger-sauniere, mgr-billard, legitimisme, cure-de-campagne, separation-de-1905, asmodee, par-ce-signe-tu-le-vaincras, penitence-penitence, mgr-de-beausejour, proces-de-sauniere
+
+@ legitimisme
+cat: contexte
+groupe: siecle
+nom: Le légitimisme
+alias: légitimistes, royalistes, monarchistes, Henri V, Blancs d'Espagne, drapeau blanc, cercles catholiques
+an: 1883
+def: Fidélité à la branche aînée des Bourbons et à son dernier prétendant, le comte de Chambord, mort en 1883 ; c'est le milieu politique de Saunière, d'où lui viennent des dons réels, et dont la légende a tiré un réseau secret.
+texte: Pour les légitimistes, le roi de France s'appelle Henri d'Artois, [[comte-de-chambord|comte de Chambord]], « Henri V ». En octobre 1873, sa restauration échoue sur la question du drapeau blanc. Il meurt à Frohsdorf le 24 août 1883, sans enfant, et ses fidèles se partagent : les uns se rallient aux Orléans, les autres, les « Blancs d'Espagne », cherchent leur prince ailleurs. Saunière s'installe à Rennes moins de deux ans plus tard.
+texte: Ce légitimisme des années 1880 n'a rien d'une conjuration. C'est un milieu : des notables, des châteaux, une partie du clergé, des œuvres. La [[comtesse-de-chambord|comtesse de Chambord]] et son entourage soutiennent en province les fondations catholiques et royalistes ; l'Aude a ses cercles catholiques, à Narbonne et à Carcassonne. Saunière en est : son prône d'octobre 1885 contre les républicains lui coûte sept mois de traitement, et quatorze ans plus tard le sous-préfet de Limoux le dit encore « réactionnaire militant ». Voir [[eglise-et-republique|l'Église contre la République]].
+texte: De ce milieu lui vient de l'argent. Le don de la comtesse est le plus célèbre : trois mille francs selon ses propres listes, mille francs en deux versements selon une autre version. La pièce n'a pas été retrouvée, et la donatrice meurt le 25 mars 1886 : le don est antérieur, ou il est passé par un intermédiaire. Son frère [[alfred-sauniere|Alfred]], prédicateur et précepteur dans la noblesse, lui amène d'autres bienfaiteurs, liés au Cercle catholique de Narbonne ; on cite vingt-cinq mille francs d'une seule famille, cinquante-cinq mille transmis par Alfred. Mais ces chiffres viennent de ce que Saunière a déclaré à ses juges, qui ne l'ont pas cru, et les deux frères se brouillent en décembre 1897. Voir [[dons-et-bienfaiteurs|les dons et les bienfaiteurs]].
+texte: La légende a changé ces dons en réseau. Les faux des années 1960, puis Gérard de Sède, font monter à Rennes un « Monsieur Guillaume » qui serait l'archiduc [[jean-salvator-de-habsbourg|Jean-Salvator de Habsbourg]] et aurait ouvert au curé un compte en banque ; de Sède tient encore à l'argent des Habsbourg en 1988. Aucune pièce ne l'appuie. Le seul lien avéré du dossier avec la maison d'Autriche est la comtesse elle-même, née archiduchesse d'Autriche-Este. Voir [[reseau-royaliste|l'argent des royalistes]].
+texte: Le légitimisme explique donc qu'un desservant sans fortune ait reçu, dans ses premières années, des sommes venues de loin : un complément réel, impossible à chiffrer. Il éclaire aussi le goût de la légende pour les rois cachés. Quand [[pierre-plantard|Pierre Plantard]], nourri de nostalgies monarchistes, se fabrique dans les années 1960 une ascendance mérovingienne, il propose à un public qui n'a plus de prétendant une dynastie plus ancienne que toutes les autres.
+repere: 1820 — Naissance d'Henri d'Artois, futur comte de Chambord.
+repere: octobre 1873 — Échec de la restauration : l'affaire du drapeau blanc.
+repere: 24 août 1883 — Mort du comte de Chambord à Frohsdorf.
+repere: octobre 1885 — Prône de Saunière contre les républicains.
+repere: 25 mars 1886 — Mort de la comtesse de Chambord à Goritz.
+repere: 16 février 1892 — Le Ralliement, que refusent beaucoup de prêtres légitimistes du Midi.
+repere: 9 décembre 1897 — Brouille de Saunière avec son frère Alfred.
+voir: comte-de-chambord, comtesse-de-chambord, reseau-royaliste, dons-et-bienfaiteurs, alfred-sauniere, eglise-et-republique, jean-salvator-de-habsbourg, descendance-merovingienne
+
+@ cure-de-campagne
+cat: contexte
+groupe: siecle
+nom: Vivre en curé de campagne
+alias: desservant, traitement, Concordat, fabrique, conseil de fabrique, vie d'un curé, 900 francs
+an: 1885
+def: Vers 1885, le desservant d'un village reçoit de l'État environ neuf cents francs par an, loge dans un presbytère qui appartient à la commune et dépend de son évêque pour sa carrière : c'est à cette aune qu'il faut mesurer les dépenses de Saunière.
+texte: Sous le Concordat, le prêtre d'une petite paroisse est un « desservant ». L'État lui verse de neuf cents à douze cents francs par an ; Saunière en touche environ neuf cents, soit soixante-quinze francs par mois. L'évêque le nomme et le déplace : vicaire à Alet en 1879, curé du [[le-clat|Clat]] en 1882, de Rennes en 1885. Certains ne bougent plus : l'abbé Gélis reste quarante ans à Coustaussa, l'abbé Boudet quarante-deux à Rennes-les-Bains.
+texte: Le curé ne possède ni son église ni sa maison. Le [[presbytere|presbytère]] appartient à la commune ; celui de Rennes est inhabitable en 1885, et Saunière loge d'abord chez une paroissienne, Antoinette Marre. L'église dépend de la fabrique, le conseil qui administre les biens de la paroisse, et de ce que la commune veut bien donner. Or le conseil général constatait en 1883 un clocher lézardé et des toitures à refaire. Pour réparer, il faut quêter : six cents francs de la commune, quatre cents d'un legs de l'ancien curé, un autel offert par une paroissienne de Coursan, une loterie en 1887, les troncs. Et il faut payer à tempérament : les vitraux, 1 350 francs, sont réglés en quatre fois sur treize ans.
+texte: Au traitement s'ajoutent les [[honoraires-de-messes|honoraires de messes]] : un franc ou deux par messe, une messe par jour. En 1892, Saunière en acquitte 747 pour 955 francs, davantage que ce que lui verse l'État. Un prêtre économe peut mettre de côté : chez l'abbé Gélis, en 1897, la presse signale quinze cents francs en pièces de cinq francs dans les tiroirs.
+texte: Les [[carnets-de-sauniere|carnets]] de Saunière montrent le reste des jours. Des lettres reçues, des visites aux confrères, la pluie du soir. Une première communion de vingt-quatre enfants et la clôture d'une mission, le 21 juin 1891. La desserte d'[[antugnac|Antugnac]] en plus de la sienne, pendant un an. Les visites de l'évêque, en 1889 et en 1897, et la liste des messes dites, envoyée chaque trimestre à l'évêché. Avec la mairie, des heurts : en juillet 1895, lors d'un incendie, il refuse aux pompiers la citerne placée sous une pièce qu'il a bâtie sans autorisation, et doit céder ; des habitants se plaignent de ses travaux au cimetière, mais le conseil municipal le soutient en 1899. Et l'État le surveille : traitement suspendu en 1885, fiche du sous-préfet en 1899.
+texte: C'est à cette échelle que ses dépenses prennent leur sens. Les 11 605 francs de l'église, du presbytère et du cimetière représentent treize années de traitement ; les 26 417 francs du domaine, vingt-neuf. Pour un village de deux cent quarante habitants, c'est une fortune ; pour un entrepreneur de la ville, le prix d'une belle maison — le Crédit foncier estime le tout à dix-huit mille francs en 1913. La légende est née de cet écart entre ce qu'un curé devait avoir et ce que celui-ci dépensait, et elle l'a rempli de milliards.
+repere: 16 juillet 1879 — Saunière est nommé vicaire à Alet.
+repere: 16 juin 1882 — Curé du Clat.
+repere: 1er juin 1885 — Installation à Rennes-le-Château ; le presbytère est inhabitable.
+repere: 1er décembre 1885 — Son traitement est suspendu pour sept mois.
+repere: 1er janvier 1888 — La fabrique délibère sur les lambris de l'église.
+repere: 1er juillet 1889 — Première visite pastorale de Mgr Billard.
+repere: 4 mai 1890 — Il dessert aussi Antugnac, jusqu'en juin 1891.
+repere: 21 juin 1891 — Première communion et clôture de la mission.
+repere: 14 juillet 1895 — Incendie au village : l'affaire de la citerne.
+repere: 9 décembre 1905 — La Séparation supprime le traitement des prêtres.
+voir: berenger-sauniere, honoraires-de-messes, presbytere, eglise-et-republique, separation-de-1905, exode-rural, carnets-de-sauniere, mgr-billard, antugnac, le-clat
+
+@ honoraires-de-messes
+cat: contexte
+groupe: siecle
+nom: Les honoraires de messes
+alias: intentions de messes, honoraire de messe, messes pour les défunts, carnet de messes, simonie, Ut debita
+an: 1890
+def: Offrande qu'un fidèle remet à un prêtre pour qu'une messe soit dite à son intention : pratique licite, encadrée par des règles strictes, dont vivaient en partie les prêtres pauvres, et que la sollicitation par lettres et par annonces faisait tourner à l'abus.
+texte: Un fidèle peut demander qu'une messe soit célébrée pour quelqu'un ou pour quelque chose : un défunt, un malade, une grâce espérée. C'est l'intention. Il joint à sa demande une offrande, l'honoraire. Ce n'est pas un prix : l'Église interdit de vendre les choses saintes, et nomme simonie ce commerce. L'honoraire aide le prêtre à vivre. Vers 1900, il va de cinquante centimes à un franc cinquante, parfois deux francs.
+texte: Les règles tiennent en peu de mots. Un prêtre ne dit qu'une messe par jour, trois à Noël : moins de quatre cents par an. Tout honoraire accepté l'oblige à célébrer. Il ne doit pas en garder plus qu'il n'en peut acquitter dans l'année ; le surplus va à des confrères ou à l'évêché, avec l'argent. Ce qui est défendu, c'est d'en solliciter au-delà de ses forces, d'en garder le produit, d'en faire trafic. Un décret romain de 1904, que les auteurs citent sous le nom d'*Ut debita*, aurait encore durci ces règles ; la référence n'a pas été contrôlée.
+texte: Les intentions n'arrivent pas partout également, et c'est ce qui fait de l'honoraire une ressource. Tel prêtre en reçoit plus qu'il n'en peut dire ; une paroisse de deux cent quarante âmes n'en fournit presque pas. Elles circulent donc entre confrères, par paquets, l'argent avec. Pour un [[cure-de-campagne|desservant]] à neuf cents francs par an, une messe quotidienne à un franc ou un franc cinquante ajoute au traitement entre un tiers et la moitié : voilà comment des prêtres pauvres en vivaient. Les premiers [[carnets-de-sauniere|carnets]] de Saunière montrent exactement cela. En 1891 et 1892, l'abbé Sarda, l'abbé Iché, son frère Alfred lui envoient des messes à un ou deux francs. De 1896 à 1900, l'abbé [[henri-boudet|Boudet]] lui en transmet pour 290 francs en tout ; plus tard, il répondra qu'il n'en a pas.
+texte: Le système repose sur des écritures. Le carnet de messes a ses colonnes : la date de réception, le donateur, l'intention, l'honoraire, le jour où la messe est acquittée. L'évêque peut demander des comptes : Saunière envoie à Carcassonne, au moins depuis la fin de 1896, une feuille trimestrielle des messes dites, sans qu'on sache si la règle valait pour tout le diocèse. Et le prêtre qui manque de messes doit s'adresser à son évêque : c'est ce que [[mgr-billard|Mgr Billard]] lui ordonne en lui défendant d'en demander ailleurs.
+texte: L'abus consiste à aller chercher les intentions soi-même : écrire à des inconnus, envoyer des circulaires aux couvents et aux presbytères à partir de l'annuaire du clergé, passer des annonces dans la presse pieuse. Il est connu et régulièrement dénoncé ; Saunière ne l'invente pas, il le pratique à une échelle peu commune. Contre lui, l'évêché n'a que ses défenses, puis l'avertissement public : celui du 3 février 1911, dans *La Semaine religieuse de Carcassonne*, est repris six jours plus tard par *La Croix*. Après la [[separation-de-1905|Séparation]], quand les prêtres n'ont plus de traitement et vivent du denier du culte et des messes, l'accumulation par un seul devient une affaire de discipline.
+texte: Qui connaît ce système lit autrement les papiers du curé de Rennes. Des mandats d'un à cinquante francs, des centaines de correspondants, des religieuses, des confrères, des veuves : c'est la comptabilité d'une petite entreprise par correspondance, non celle d'un homme qui aurait trouvé de l'or ou qu'un protecteur entretiendrait. Les chiffres, la méthode et les sanctions sont exposés à la fiche [[trafic-de-messes|Le trafic de messes]], et la suite judiciaire au [[proces-de-sauniere|procès]]. La légende, elle, ne dit pas un mot des messes : le récit de 1956 les ignore.
+repere: 9 juillet 1891 — Début du premier carnet de messes conservé de Saunière.
+repere: 1892 — Il acquitte 747 messes pour 955 francs.
+repere: 31 décembre 1896 — Première feuille trimestrielle connue, envoyée à l'évêché.
+repere: mars 1899 — Il se procure l'annuaire du clergé.
+repere: 16 mai 1901 — L'évêché lui défend de solliciter des honoraires.
+repere: 1904 — Date donnée au décret romain qui durcit les règles.
+repere: 9 décembre 1905 — La Séparation : les prêtres perdent leur traitement.
+repere: 14 décembre 1910 — Saunière passe encore une annonce dans un journal pieux.
+repere: 9 février 1911 — *La Croix* avertit ses lecteurs.
+voir: trafic-de-messes, cure-de-campagne, carnets-de-sauniere, proces-de-sauniere, berenger-sauniere, mgr-billard, separation-de-1905, dossier-du-proces, henri-boudet
+
+@ art-saint-sulpicien
+cat: contexte
+groupe: siecle
+nom: L'art saint-sulpicien
+alias: art sulpicien, style saint-sulpicien, statues de série, mobilier d'église, terre cuite peinte, catalogue Giscard, Monna, Feur
+an: 1890
+def: Art d'église produit en série au XIXe siècle — statues peintes, chemins de croix en relief, autels sur catalogue — dont relève presque tout le décor commandé par Saunière ; ce que la légende lit comme un rébus est pour l'essentiel du mobilier de fabrique.
+texte: Dans la seconde moitié du XIXe siècle, des manufactures fournissent aux paroisses des statues de plâtre ou de terre cuite peintes de couleurs vives, des chemins de croix en relief, des autels, que le curé choisit sur catalogue. On appelle cet art « saint-sulpicien », du nom du quartier de Paris où se tenaient les marchands d'objets de piété. Il est fait pour être compris de tous : visages doux, gestes clairs, inscriptions édifiantes.
+texte: L'[[eglise-sainte-marie-madeleine|église de Rennes]], refaite de 1887 à 1897, en est un exemple complet. L'autel vient de la maison Monna, de Toulouse : sept cents francs, offerts par une paroissienne de Coursan. Les vitraux sont d'Henri Feur, de Bordeaux. Le reste est commandé en novembre 1896 à la [[maison-giscard|maison Giscard]], manufacture toulousaine fondée en 1855, pour 2 500 francs payables par annuités : le [[chemin-de-croix|chemin de croix]], les [[statues-de-l-eglise|statues]], le grand bas-relief, le bénitier. Les saints sont ceux du catalogue : Antoine ermite, Antoine de Padoue, Germaine de Pibrac, Roch, Marie-Madeleine, Joseph et la Vierge portant chacun l'Enfant. Les stations sont un modèle de la maison, que l'on dit se retrouver dans d'autres églises. Seul le groupe du bénitier, que la facture du 30 juin 1897 nomme « bénitier avec diable », paraît une commande particulière ; encore existe-t-il un diable comparable à la collégiale de Montréal, dans l'Aude.
+texte: La part de Saunière est le programme : le choix des sujets, des inscriptions, des emplacements, et peut-être le pinceau, puisqu'on lui attribue la peinture du bas-relief de l'autel. Ce programme est de son temps. « [[terribilis-est-locus-iste|Terribilis est locus iste]] », au porche, est tiré de la messe de la dédicace et se lit sur des centaines de portails. La Vierge de Lourdes, la Madeleine pénitente dans sa grotte, le Sacré-Cœur sur la façade de la villa : rien là qui sorte de la piété ordinaire des années 1890. L'ensemble, presbytère et cimetière compris, coûte 11 605 francs en dix ans.
+texte: Savoir cela change la lecture du décor. Depuis 1967, on y relève des « anomalies » : un enfant vêtu d'un tartan à la huitième station, une lune à la quatorzième, deux enfants Jésus, un sac percé au pied du Christ. Mais un détail qui vient du moule ne peut pas être un message du curé, à moins de supposer le fabricant dans la confidence. La vérification est à la portée de chacun : comparer avec les autres exemplaires du même modèle. Quant au nom d'[[asmodee|Asmodée]], c'est Gérard de Sède qui le donne au diable, en 1967 ; aucun papier de Saunière ne l'emploie. Voir [[eglise-codee|l'église, carte au trésor]].
+repere: 1855 — Fondation de la maison Giscard, à Toulouse.
+repere: 27 juillet 1887 — Pose du maître-autel de la maison Monna.
+repere: 30 septembre 1887 — Premier acompte pour les vitraux d'Henri Feur.
+repere: 21 juin 1891 — Bénédiction de la Vierge de Lourdes.
+repere: novembre 1896 — Marché avec Giscard : 2 500 francs.
+repere: 6 juin 1897 — Mgr Billard bénit l'église restaurée.
+repere: 30 juin 1897 — Facture Giscard : « bénitier avec diable ».
+repere: 1967 — *L'Or de Rennes* baptise le diable « Asmodée » et lance la lecture codée du décor.
+attention: Sans rapport avec le voyage que la légende fait faire à Saunière à l'église [[saint-sulpice|Saint-Sulpice]] de Paris : l'art « saint-sulpicien » doit son nom au quartier, non à cet épisode.
+voir: maison-giscard, eglise-sainte-marie-madeleine, chemin-de-croix, asmodee, statues-de-l-eglise, bas-relief-du-sermon, autel-de-marie-madeleine, terribilis-est-locus-iste, eglise-codee
+
+@ celtomanie
+cat: contexte
+groupe: siecle
+nom: La celtomanie
+alias: celtomanes, langue celtique, druides, mégalithes, cromlech, étymologies celtiques, érudition locale
+an: 1886
+def: Passion érudite qui cherche des Celtes à l'origine des langues, des noms de lieux et des rochers ; le livre de l'abbé Boudet en est un produit tardif, que la légende a pris pour un texte chiffré.
+texte: On appelle celtomanie l'habitude, répandue chez les érudits jusqu'au XIXe siècle, de tout ramener aux Celtes : les langues, les noms de lieux, les pierres levées, qu'on donne aux druides. Dans les années 1880, la linguistique et la préhistoire sont devenues des sciences, mais l'ancienne manière survit en province, dans les sociétés savantes où se côtoient notables et ecclésiastiques. On y explique un nom par un autre qui lui ressemble à l'oreille.
+texte: *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]*, que l'abbé [[henri-boudet|Boudet]] publie à ses frais à Carcassonne en 1886, pousse la méthode à bout. La langue celtique primitive serait, à peu de chose près, l'anglais moderne ; par lui s'expliqueraient les noms de lieux du pays, le languedocien, le basque, l'hébreu. Les aiguilles du Cardou, dites « Lampos », viendraient de *lamb*, l'agneau. Et les rochers qui entourent la station formeraient un immense [[cromleck-de-rennes-les-bains|cromleck]], lieu d'assemblée des Gaulois. Boudet y croit : il envoie son livre à Cambridge, à la reine Victoria, à l'empereur du Brésil, et le présente à un prix de l'Institut.
+texte: Les savants ne s'y trompent pas. Gaston Jourdanne l'éreinte en mai 1887, puis devant la Société d'études scientifiques de l'Aude en 1893 ; le rapporteur de l'Académie de Toulouse lui refuse un prix en juin 1887 ; le préhistorien Émile Cartailhac le juge sévèrement en 1892. L'auteur n'est pas pour autant un réprouvé : la Société des arts et des sciences de Carcassonne le reçoit comme correspondant en 1888, la Société de linguistique de Paris en 1897. En 1928, puis en 1969, les préhistoriens constatent que le « cromleck » est fait de rochers façonnés par l'érosion.
+texte: Le livre a un voisin immédiat. Six ans plus tôt, Louis Fédié donnait à Rennes-le-Château un passé de capitale wisigothique dans *[[le-comte-de-razes-fedie|Le Comté de Razès]]*. Les deux ouvrages sortent du même sol : une érudition locale qui prête au Razès une antiquité grandiose, juste avant que Saunière n'y arrive.
+texte: En 1967, puis dans une préface de 1978, Pierre Plantard et Gérard de Sède retournent le jugement des savants. Un prêtre instruit, disent-ils, n'a pu écrire de telles absurdités sans dessein : le livre est donc chiffré, et son auteur tient les fils. Voir [[langue-celtique-codee|le livre codé]] et [[boudet-maitre-du-jeu|Boudet, le maître du jeu]]. Connaître la celtomanie ôte à l'argument son ressort : ces absurdités sont l'ordinaire du genre, et les bizarreries de l'impression sont celles d'un livre de province à compte d'auteur. Il reste que la méthode de Boudet, le rapprochement des sons sans aucune règle, permet de tout prouver. C'est exactement celle que ses déchiffreurs lui appliquent.
+repere: 1880 — Louis Fédié publie *Le Comté de Razès et le diocèse d'Alet*.
+repere: 1886 — *La Vraie Langue celtique* paraît à Carcassonne.
+repere: 18 décembre 1886 — Article favorable du *Courrier de l'Aude*.
+repere: 26 mai 1887 — Gaston Jourdanne éreinte le livre dans *Le Radical du Midi*.
+repere: 5 juin 1887 — Rapport négatif à l'Académie de Toulouse.
+repere: 1888 — Boudet est membre correspondant de la Société des arts et des sciences de Carcassonne.
+repere: 1892 — Réserves d'Émile Cartailhac.
+repere: 4 décembre 1897 — Il est admis à la Société de linguistique de Paris.
+repere: 1928 — Germain Sicard ne trouve aucun cromlech à Rennes-les-Bains.
+repere: 1969 — Urbain Gibert et Guy Rancoule : des formes d'érosion naturelle.
+repere: 1978 — Préface de Pierre Plantard à la réédition : le livre serait codé.
+voir: henri-boudet, la-vraie-langue-celtique, cromleck-de-rennes-les-bains, langue-celtique-codee, boudet-maitre-du-jeu, le-comte-de-razes-fedie, rennes-les-bains, histoire-et-pseudo-histoire
+
+@ occultisme-fin-de-siecle
+cat: contexte
+groupe: siecle
+nom: L'occultisme fin de siècle
+alias: occultisme, Rose-Croix, martinisme, Papus, Péladan, Stanislas de Guaita, Église gnostique, Léo Taxil, satanisme
+an: 1890
+def: Dans les années 1885-1900 fleurissent à Paris des ordres rosicruciens, martinistes et gnostiques, tandis que l'Église combat la franc-maçonnerie ; la légende a logé Saunière chez les premiers, alors que ses papiers et son décor le rangent dans le camp d'en face.
+texte: En 1888, Stanislas de Guaita et Joséphin Péladan fondent à Paris l'Ordre kabbalistique de la Rose-Croix. Papus organise dans les mêmes années l'Ordre martiniste. Péladan tient de 1892 à 1897 ses Salons de la Rose-Croix ; Huysmans publie *Là-bas* en 1891, [[jules-bois|Jules Bois]] *Le Satanisme et la magie* en 1895. C'est un milieu d'écrivains, d'artistes et de gens du monde. La cantatrice [[emma-calve|Emma Calvé]] en est : Papus la reçoit dans son ordre vers 1892-1893, et elle a une liaison avec Jules Bois.
+texte: L'Aude n'est pas à l'écart. [[jules-doinel|Jules Doinel]], archiviste de métier, fonde en 1890 une « Église gnostique » dont il se dit « évêque de Montségur », et qui reprend les noms des rites cathares. Il abjure en 1895, puis dirige les Archives de l'Aude, à Carcassonne, de 1896 à sa mort en 1902 ; en 1900, revenu à son Église, il s'y fait « évêque d'Alet et de Mirepoix ». [[deodat-roche|Déodat Roché]], né à Arques en 1877, sera évêque de la même Église. Aucun document ne met ces hommes en rapport avec Saunière.
+texte: En face se tient un catholicisme de combat, obsédé par la franc-maçonnerie. De 1885 à 1897, Léo Taxil lui vend une maçonnerie adoratrice de Lucifer et une Diana Vaughan fiancée au démon Asmodée ; le 19 avril 1897, à Paris, il avoue publiquement avoir tout inventé. Ce catholicisme est aussi celui des apparitions, La Salette et Lourdes, et des missions paroissiales. C'est le monde de Saunière : une mission en 1891, une Vierge de Lourdes, un diable écrasé sous l'eau bénite. L'église est bénie le 6 juin 1897, sept semaines après l'aveu de Taxil.
+texte: La légende l'a fait changer de camp. En 1967, Gérard de Sède l'envoie à Paris, où le jeune [[emile-hoffet|Hoffet]] l'aurait introduit chez les occultistes et présenté à Emma Calvé ; d'autres le font martiniste à Lyon. C'est la [[piste-occultiste|piste occultiste]]. Les documents disent le contraire : ses carnets ne portent aucun voyage à Paris, sa correspondance de 1896 à 1915 ignore la cantatrice, et ses lettres sont celles d'un curé de campagne des plus conventionnels. Les listes de « grands maîtres » où figure Debussy sont des faux des années 1960.
+texte: La légende n'a donc pas inventé le décor : ces ordres ont existé, Calvé les fréquentait, un évêque gnostique siégeait aux archives de Carcassonne. Elle a emprunté des noms réels pour peupler une fiction. Mais en 1897, un diable dans une église est une image de polémique contre la franc-maçonnerie, non un emblème d'initié. Le nom d'[[asmodee|Asmodée]], que de Sède donnera en 1967 au diable de Rennes, traînait déjà dans la fable de Taxil ; rien n'indique que Saunière l'ait jamais employé.
+repere: 1888 — Fondation de l'Ordre kabbalistique de la Rose-Croix.
+repere: 1890 — Jules Doinel fonde l'Église gnostique.
+repere: 1891 — *Là-bas*, de Huysmans.
+repere: 10 mars 1892 — Ouverture du premier Salon de la Rose-Croix.
+repere: 1895 — Jules Bois publie *Le Satanisme et la magie* ; Doinel abjure.
+repere: 1896 — Doinel devient archiviste de l'Aude.
+repere: 19 avril 1897 — Léo Taxil avoue sa mystification.
+repere: 6 juin 1897 — Bénédiction de l'église de Rennes-le-Château.
+repere: 16 mars 1902 — Mort de Doinel à Carcassonne.
+repere: 1967 — *L'Or de Rennes* place Saunière parmi les occultistes parisiens.
+voir: piste-occultiste, emma-calve, jules-bois, jules-doinel, emile-hoffet, deodat-roche, clovis-lassalle, asmodee, saint-sulpice, eglise-et-republique
+
+@ exode-rural
+cat: contexte
+groupe: siecle
+nom: Un village qui se vide
+alias: exode rural, dépopulation, population de Rennes-le-Château, démographie, recensements
+an: 1891
+def: Rennes-le-Château perd la moitié de ses habitants entre 1851 et 1891, et n'en compte plus que soixante-trois en 1982 : ce dépeuplement explique l'église délabrée que trouve Saunière, le silence qui suit sa mort, et le prix que le village attache aujourd'hui à sa légende.
+texte: Les chiffres sont nets : 474 habitants en 1851, le maximum connu ; 241 en 1891 ; 217 en 1901. Quand Saunière s'installe, en 1885, le village a perdu la moitié des siens en une génération. En bas, la vallée a du travail et un chemin de fer : [[esperaza|Espéraza]] devient à la fin du siècle la capitale française du chapeau de feutre — la famille de Marie Dénarnaud en vient —, et [[couiza|Couiza]] a sa gare. Les villages perchés des alentours ne vont pas mieux : Coustaussa compte 168 habitants en 1897.
+texte: Une paroisse qui se vide n'entretient plus son église. Un architecte signale l'état de celle de Rennes dès 1853 ; en 1883, le conseil général constate le clocher lézardé et les toitures à refaire ; le presbytère est inhabitable. La commune donne six cents francs. L'église que trouve le nouveau curé doit de toute façon être refaite, et l'argent ne peut venir que d'ailleurs : de bienfaiteurs étrangers à la paroisse, puis des messes demandées dans toute la France. Voir [[cure-de-campagne|vivre en curé de campagne]]. Le pays reste fragile : en 1907, la crise viticole du Midi suffit à faire chuter les rentrées du curé.
+texte: Le dépeuplement explique aussi le silence d'après 1917. [[marie-denarnaud|Marie Dénarnaud]] vieillit dans un domaine que personne n'achète. En 1948, un journaliste belge compte soixante-dix habitants inscrits et recueille le souvenir d'un curé quêteur et bâtisseur, sans y voir de mystère. Quand [[noel-corbu|Noël Corbu]] se met à raconter, les témoins sont rares et vieux : la fouille de 1956 suit les souvenirs d'un ancien enfant de chœur, et les récits sur le pot d'objets brillants aperçu par les ouvriers sont recueillis après la parution des articles. Voir [[naissance-du-mythe|1956]].
+texte: Le creux est atteint en 1982, avec 63 habitants ; on en compte 111 en 1999, 89 en 2023. Dans le même temps viennent chaque année des dizaines de milliers de visiteurs. Le trésor est devenu la ressource d'une commune de moins de cent âmes, qui doit à la fois protéger son sol des fouilleurs et vivre de ceux qu'il attire. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].
+repere: 1851 — 474 habitants : le maximum.
+repere: 1883 — Le conseil général constate le délabrement de l'église.
+repere: 1891 — 241 habitants.
+repere: 1901 — 217 habitants.
+repere: 1907 — La crise viticole du Midi réduit les ressources du curé.
+repere: 1948 — Soixante-dix habitants inscrits, selon *Le Soir illustré*.
+repere: 1982 — 63 habitants : le minimum.
+repere: 1999 — 111 habitants.
+repere: 2023 — 89 habitants.
+voir: rennes-le-chateau, cure-de-campagne, esperaza, couiza, marie-denarnaud, noel-corbu, rennes-aujourd-hui, naissance-du-mythe
+
+@ proces-de-sauniere
+cat: contexte
+groupe: siecle
+nom: Le procès de l'abbé Saunière
+alias: procès Saunière, officialité de Carcassonne, suspense a divinis, sentence de 1911, sentences de 1910, affaire de Coustouge
+dates: 1909 – 1911
+an: 1910
+def: De 1909 à 1911, l'évêché de Carcassonne déplace Saunière, puis le traduit devant son tribunal pour trafic d'honoraires de messes, désobéissance et dépenses injustifiées ; trois sentences se succèdent, dont la dernière le suspend de ses fonctions jusqu'à restitution.
+texte: L'affaire couve depuis dix ans. [[mgr-billard|Mgr Billard]] défend à Saunière de solliciter des messes en mars et en mai 1901 ; [[mgr-de-beausejour|Mgr de Beauséjour]] renouvelle la défense en juin 1903 et en août 1904, sans effet. Le 15 janvier 1909, l'évêché nomme le curé à [[coustouge|Coustouge]], dans les Corbières, avec ordre de rejoindre avant le 22. Le 28, Saunière refuse et offre sa démission, que l'évêque décline le lendemain. En juillet, l'abbé Marty est nommé à Rennes. Saunière reste sur place, et dit bientôt la messe dans la véranda de la [[villa-bethanie|villa Béthanie]] ; l'église de son successeur se vide.
+texte: Le 27 mai 1910, il est mis en accusation devant l'officialité de [[carcassonne|Carcassonne]], le tribunal de l'évêque, sous trois chefs : [[trafic-de-messes|trafic d'honoraires de messes]], désobéissance, dépenses exagérées et non justifiées. Son mémoire du 15 juillet refuse de nommer ses donateurs. Cité le 16, il ne comparaît pas. La première sentence tombe le 23 juillet 1910, par contumace : un mois de suspense *a divinis* — l'interdiction d'exercer les fonctions sacrées — et la restitution des honoraires. Il fait opposition ; l'affaire est renvoyée au 23 août, puis au 15 octobre. Un avocat de Limoux, Me Mis, puis le chanoine [[eugene-huguet|Huguet]] le défendent.
+texte: La deuxième sentence est du 5 novembre 1910. Faute de preuve complète, elle ne retient pas le trafic au sens strict ; elle le déclare coupable de négligence grave dans ses comptes et de désobéissance, et lui impose dix jours d'exercices spirituels dans une maison de retraite, avec un mois pour produire ses comptes. Notifiée le 17, elle est frappée d'un appel hors délai. Début décembre, il lui est interdit de célébrer tant que la peine n'est pas faite. Le 14, il passe encore une annonce pour demander des messes ; les 17 et 18, il en appelle à Rome, qui renvoie le dossier à Carcassonne en février 1911. Le 3 février, l'évêché avertit le public que l'ancien curé de Rennes n'est pas autorisé à recevoir des honoraires ; *La Croix* reprend l'avis le 9.
+texte: L'année 1911 est celle des comptes. Sommé de produire ses livres, Saunière envoie le 13 mars soixante et une factures, environ 36 000 francs, en assurant qu'il ne garde rien au-delà de deux ans. Le 25, il adresse une liste de ressources de 193 150 francs en vingt ans : troncs, loterie, dons transmis par son frère, pensionnaires, cartes postales. Il fait en avril sa retraite à [[prouille|Prouille]]. Une commission, présidée par le chanoine Saglio, reçoit le 14 juillet un état de dépenses de 193 050 francs, ajusté à la liste des recettes ; l'abbé [[bruno-de-monts|Bruno de Monts]] a montré depuis combien il était gonflé. Son rapport, le 4 octobre, ne tient pour justifiés que 36 000 francs.
+texte: Cité le 21 novembre, Saunière fait encore défaut. La troisième sentence, le 5 décembre 1911, le condamne par contumace pour dilapidation et détournement de fonds dont il était dépositaire : trois mois de suspense *a divinis*, qui se prolongeront jusqu'à restitution. Comme il ne restitue pas, la peine n'a pas de terme.
+texte: La suite est mal établie. Huguet poursuit les recours à Rome ; on lit ici qu'ils aboutissent à une réhabilitation en 1913, suivie d'une interdiction définitive en avril 1915, là que Rome lève la suspense en octobre 1915. Aucune pièce consultée ne permet de trancher. Ce qui est sûr : il ne retrouve aucun poste, refuse en août 1916 l'offre de l'évêché de le réintégrer s'il quitte Rennes, et meurt sous le coup de la censure, que l'abbé [[jean-riviere|Rivière]] lève à son chevet.
+texte: Ce procès est le moment le mieux documenté de sa vie : voir [[dossier-du-proces|le dossier du procès]]. Il montre un prêtre averti, déplacé, jugé, suspendu, à l'opposé de l'homme intouchable qui tiendrait l'Église par un secret, comme le veut [[chantage-au-vatican|la thèse du chantage]]. Il montre aussi que ses juges n'ont jamais obtenu le compte exact de ses recettes : c'est dans cette marge que la légende s'est installée.
+repere: 16 mai 1901 — L'évêché lui défend de solliciter des messes, pour la seconde fois de l'année.
+repere: 15 janvier 1909 — Nomination à Coustouge.
+repere: 28 janvier 1909 — Il refuse et offre sa démission.
+repere: 27 mai 1910 — Acte d'accusation devant l'officialité.
+repere: 23 juillet 1910 — Première sentence, par contumace : un mois de suspense.
+repere: 5 novembre 1910 — Deuxième sentence : dix jours d'exercices spirituels, un mois pour produire ses comptes.
+repere: 17 décembre 1910 — Recours à Rome.
+repere: 9 février 1911 — *La Croix* publie l'avertissement de l'évêché.
+repere: 25 mars 1911 — Liste de ressources : 193 150 francs.
+repere: 4 octobre 1911 — Rapport de la commission : 36 000 francs justifiés.
+repere: 5 décembre 1911 — Troisième sentence : suspense prolongée jusqu'à restitution.
+repere: août 1916 — Il refuse d'être réintégré ailleurs qu'à Rennes.
+voir: berenger-sauniere, trafic-de-messes, dossier-du-proces, mgr-de-beausejour, eugene-huguet, coustouge, honoraires-de-messes, separation-de-1905, chantage-au-vatican, rene-descadeillas
+
+@ separation-de-1905
+cat: contexte
+groupe: siecle
+nom: La Séparation de 1905
+alias: loi de Séparation, séparation des Églises et de l'État, loi du 9 décembre 1905, inventaires, fin du Concordat
+dates: 9 décembre 1905
+an: 1905
+def: La loi du 9 décembre 1905 met fin au Concordat : l'État ne paie plus les prêtres, et le presbytère de Rennes, bien communal, devient un logement que la mairie loue à Saunière, ce qui lui permettra de rester au village malgré son évêque.
+texte: La loi vient au bout de vingt-cinq ans de [[eglise-et-republique|conflit entre l'Église et la République]] : loi sur les associations en 1901, interdiction d'enseigner faite aux congrégations et rupture avec Rome en 1904. Le 9 décembre 1905, l'État cesse de reconnaître et de salarier les cultes. Au début de 1906, les inventaires des biens d'église tournent à la crise. Les prêtres n'ont plus de traitement : ils vivent du denier du culte et des [[honoraires-de-messes|honoraires de messes]].
+texte: Pour Saunière, la perte est mince. Ses neuf cents francs annuels pèsent peu auprès de ses recettes, qui ont atteint vingt-cinq mille francs en 1901. Ce qui change est son logement : le [[presbytere|presbytère]], qui appartient à la commune, lui est désormais loué par la mairie — la date du bail n'est pas établie. Et il a autre chose. Depuis 1898, les terrains du domaine sont achetés au nom de [[marie-denarnaud|Marie Dénarnaud]] ; la [[villa-bethanie|villa Béthanie]] est achevée en mai 1905, la tour sort de terre. Au moment où la loi est votée, il habite donc une maison louée à la commune et dispose d'une propriété privée au nom de sa servante. Ni l'une ni l'autre ne dépend de l'évêque.
+texte: La précaution est antérieure de sept ans à la loi ; elle n'en est pas la conséquence. Mais c'est la Séparation qui lui donne toute sa portée. Quand [[mgr-de-beausejour|Mgr de Beauséjour]] le nomme à [[coustouge|Coustouge]], en janvier 1909, Saunière n'a plus rien de matériel à perdre en refusant : pas de traitement, un toit qu'il tient de la mairie, un domaine qui est à Marie. Il reste, dit la messe dans la véranda de la villa, garde la confiance du village. Après sa mort, en mars 1917, la commune reloue le presbytère à Marie Dénarnaud.
+texte: Du côté de l'évêché, la loi change aussi la donne. Sous le Concordat, l'État pesait sur la carrière des prêtres : c'est un ministre qui suspend le traitement de Saunière en 1885, et un sous-préfet qui fait échouer en 1899 la promotion par laquelle Mgr Billard pensait l'éloigner de Rennes. Après 1905, l'évêque est seul maître de la discipline, dans une Église plus pauvre, où les honoraires de messes sont devenus le pain du clergé. Le [[proces-de-sauniere|procès]] de 1910-1911 appartient à ce moment.
+texte: La légende voit dans ce prêtre qui tient tête à son évêque et ne quitte pas sa colline le signe d'une puissance cachée. L'explication tient dans un acte de vente et dans un bail.
+repere: 1898 — Premiers terrains achetés au nom de Marie Dénarnaud.
+repere: 1904 — Rupture diplomatique avec Rome.
+repere: mai 1905 — La villa Béthanie est achevée.
+repere: 9 décembre 1905 — Loi de Séparation des Églises et de l'État.
+repere: février 1906 — Début de la crise des inventaires.
+repere: 15 janvier 1909 — Saunière est nommé à Coustouge ; il refuse.
+repere: février 1910 — Il dit la messe dans la véranda de la villa.
+repere: mars 1917 — La commune reloue le presbytère à Marie Dénarnaud.
+voir: eglise-et-republique, presbytere, cure-de-campagne, marie-denarnaud, villa-bethanie, proces-de-sauniere, mgr-de-beausejour, honoraires-de-messes, coustouge

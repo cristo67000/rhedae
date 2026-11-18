@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Rhedae — les mystères de Rennes-le-Château",
+  "short_name": "Rhedae",
+  "description": "Les mystères de Rennes-le-Château, pièce par pièce : personnages, chronologie, carte détaillée du Haut-Razès, hypothèses pesées, contexte historique. Hors ligne, sans compte ni publicité.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5efe2",
+  "theme_color": "#141a2e",
+  "categories": ["books", "education", "reference"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,334 @@
+# Le plan du dossier : toutes les fiches, avec leur identifiant.
+#
+#     identifiant | rubrique | groupe | nom | ce que la fiche doit dire
+#
+# Un renvoi [[identifiant]] n'est permis que vers une fiche de ce plan :
+# « node build/construire.mjs --verifier build/articles/NN-xxx.txt » le contrôle.
+# Le rapport de construction (build/rapport.txt) dit ce qui reste à écrire.
+
+# ───────────────────────── PERSONNAGES ─────────────────────────
+
+# Les prêtres du Razès
+berenger-sauniere | personnages | pretres | Bérenger Saunière | la fiche centrale : naissance, carrière, sermon de 1885, travaux, domaine, messes, procès, mort ; ce qui est documenté et ce que la légende ajoute
+henri-boudet | personnages | pretres | Henri Boudet | curé de Rennes-les-Bains 1872-1914, La Vraie Langue celtique, réception savante, légende du « cerveau »
+antoine-gelis | personnages | pretres | Antoine Gélis | curé de Coustaussa assassiné dans la nuit du 31 octobre au 1er novembre 1897 ; l'enquête ; les lectures ultérieures
+alfred-sauniere | personnages | pretres | Alfred Saunière | le frère cadet, prêtre, précepteur, sanctionné ; les dons qu'il aurait rabattus
+antoine-bigou | personnages | pretres | Antoine Bigou | curé de Rennes au XVIIIe siècle, confesseur de la marquise, exil de 1792 ; le rôle que lui prête la légende
+eugene-grassaud | personnages | pretres | Eugène Grassaud | l'ami prêtre de Saunière ; le calice ; Saint-Paul-de-Fenouillet
+joseph-rescanieres | personnages | pretres | Joseph Rescanières | successeur de Boudet, mort en 1915 ; la « mort suspecte » de la légende
+jean-riviere | personnages | pretres | Jean Rivière | le curé d'Espéraza au chevet de Saunière ; la légende du confesseur bouleversé
+joseph-courtauly | personnages | pretres | Joseph Courtauly | le vieux prêtre de Villarzel-du-Razès dont Plantard a usurpé le nom
+
+# L'entourage de Saunière
+marie-denarnaud | personnages | entourage | Marie Dénarnaud | la servante, propriétaire en titre du domaine, héritière ; 1946 ; les phrases que lui prête Corbu
+elie-bot | personnages | entourage | Élie Bot | l'entrepreneur des chantiers
+tiburce-caminade | personnages | entourage | Tiburce Caminade | l'architecte de la villa et de la tour
+maison-giscard | personnages | entourage | La maison Giscard | les statuaires toulousains ; le contrat de 1896 ; un décor de catalogue
+paul-courrent | personnages | entourage | Paul Courrent | le médecin et ami
+antoine-captier | personnages | entourage | Antoine Captier | le carillonneur et la fiole ; la famille Captier
+comtesse-de-chambord | personnages | entourage | La comtesse de Chambord | Marie-Thérèse de Modène ; le don ; la difficulté chronologique
+ernest-cros | personnages | entourage | Ernest Cros | l'ingénieur de Ginoles ; le « rapport Cros »
+
+# Les évêques et l'Église
+mgr-billard | personnages | eglise | Mgr Billard | Félix-Arsène Billard, évêque de Carcassonne 1881-1901 ; indulgent ; 1897 ; interdictions de 1901
+mgr-de-beausejour | personnages | eglise | Mgr de Beauséjour | Paul-Félix Beuvain de Beauséjour ; Coustouge ; le procès
+eugene-huguet | personnages | eglise | Eugène Huguet | le défenseur de Saunière devant l'officialité et à Rome
+emile-hoffet | personnages | eglise | Émile Hoffet | l'oblat érudit à qui la légende fait déchiffrer les parchemins
+nicolas-pavillon | personnages | eglise | Nicolas Pavillon | évêque d'Alet, réformateur ; ce qu'en fait L'Énigme sacrée
+
+# Seigneurs et dames du lieu
+marie-de-negre-d-ables | personnages | seigneurs | Marie de Nègre d'Ables | la marquise de Blanchefort, morte le 17 janvier 1781 ; sa tombe
+famille-d-hautpoul | personnages | seigneurs | Les Hautpoul | seigneurs de Rennes de 1422 à la Révolution ; François ; Élisabeth, « Mademoiselle de Rennes »
+pierre-de-voisins | personnages | seigneurs | Pierre de Voisins | le compagnon de Montfort, seigneur de Rennes après la croisade
+paul-urbain-de-fleury | personnages | seigneurs | Paul-Urbain de Fleury | le gendre ; ses deux tombes à Rennes-les-Bains
+bertrand-de-blanquefort | personnages | seigneurs | Bertrand de Blanquefort | le maître du Temple, bordelais, que la légende installe à Blanchefort
+
+# Figures de l'histoire et de la légende
+alaric | personnages | histoire | Alaric | Alaric Ier et le sac de Rome ; Alaric II et Vouillé ; le trésor
+dagobert-ii | personnages | histoire | Dagobert II | roi d'Austrasie assassiné en 679 ; Stenay
+sigebert-iv | personnages | histoire | Sigebert IV | le fils inventé, « rejeton ardent », réfugié à Rhedae
+blanche-de-castille | personnages | histoire | Blanche de Castille | la régente ; pourquoi Corbu lui prête un trésor
+marie-madeleine | personnages | histoire | Marie-Madeleine | la sainte patronne de l'église ; la légende provençale ; l'usage moderne
+comte-de-chambord | personnages | histoire | Le comte de Chambord | Henri V, mort en 1883 ; le légitimisme
+nicolas-fouquet | personnages | histoire | Nicolas Fouquet | le surintendant et la lettre de 1656
+jean-salvator-de-habsbourg | personnages | histoire | Jean-Salvator de Habsbourg | « Johann Orth », disparu en 1890 ; le visiteur que la légende appelle « Monsieur Guillaume »
+guillaume-de-gellone | personnages | histoire | Guillaume de Gellone | le cousin de Charlemagne ; comte de Razès selon la tradition
+
+# Peintres, écrivains, artistes
+nicolas-poussin | personnages | artistes | Nicolas Poussin | le peintre des Bergers d'Arcadie ; ce que la légende lui fait savoir
+david-teniers | personnages | artistes | David Teniers | « Poussin Teniers gardent la clef » ; saint Antoine
+emma-calve | personnages | artistes | Emma Calvé | la cantatrice ; Cabrières ; une liaison inventée
+jules-bois | personnages | artistes | Jules Bois | l'occultiste, ami de Calvé
+maurice-leblanc | personnages | artistes | Maurice Leblanc | Arsène Lupin lu comme un message ; qui a emprunté à qui
+jules-verne | personnages | artistes | Jules Verne | Clovis Dardentor et le capitaine Bugarach
+clovis-lassalle | personnages | artistes | Clovis Lassalle | le photographe toulousain rosicrucien
+jules-doinel | personnages | artistes | Jules Doinel | fondateur de l'Église gnostique, archiviste de l'Aude 1896-1902
+eugene-stublein | personnages | artistes | Eugène Stüblein | l'érudit de Limoux à qui l'on attribue un recueil apocryphe
+
+# Les fabricants du mythe
+noel-corbu | personnages | inventeurs | Noël Corbu | l'hôtelier ; le récit de 1955-1956
+pierre-plantard | personnages | inventeurs | Pierre Plantard | de Vaincre au prieuré de Sion ; les dépôts à la BnF ; 1993
+philippe-de-cherisey | personnages | inventeurs | Philippe de Chérisey | le comédien qui a fabriqué les parchemins
+gerard-de-sede | personnages | inventeurs | Gérard de Sède | L'Or de Rennes ; le retournement de 1988
+robert-charroux | personnages | inventeurs | Robert Charroux | le club des chercheurs de trésors
+henry-lincoln | personnages | inventeurs | Henry Lincoln | les films de la BBC ; la géométrie
+baigent-et-leigh | personnages | inventeurs | Michael Baigent et Richard Leigh | les coauteurs de L'Énigme sacrée ; le procès de 2006
+dan-brown | personnages | inventeurs | Dan Brown | le romancier ; ce que le Da Vinci Code prend à Rennes
+
+# Auteurs et chercheurs de trésor
+andre-douzet | personnages | auteurs | André Douzet | la maquette et Périllos
+david-wood | personnages | auteurs | David Wood | Genisis : le pentacle des montagnes
+andrews-et-schellenberger | personnages | auteurs | Andrews et Schellenberger | The Tomb of God : le Pech Cardou
+henri-buthion | personnages | auteurs | Henri Buthion | l'acquéreur du domaine en 1964, chercheur lui-même
+jacques-cholet | personnages | auteurs | Jacques Cholet | les fouilles autorisées de 1959-1967
+deodat-roche | personnages | auteurs | Déodat Roché | le néo-cathare d'Arques
+roger-rene-dagobert | personnages | auteurs | Roger-René Dagobert | l'architecte et les mines du général Dagobert
+guy-tarade | personnages | auteurs | Guy Tarade | l'ufologue du réalisme fantastique
+
+# Historiens et enquêteurs
+rene-descadeillas | personnages | critiques | René Descadeillas | le bibliothécaire de Carcassonne ; Mythologie du trésor de Rennes
+jean-jacques-bedu | personnages | critiques | Jean-Jacques Bedu | Autopsie d'un mythe : les comptes
+pierre-jarnac | personnages | critiques | Pierre Jarnac | les archives ; la lettre d'aveu de Chérisey
+corbu-et-captier | personnages | critiques | Claire Corbu et Antoine Captier | les papiers de famille ; L'Héritage de l'abbé Saunière
+bruno-de-monts | personnages | critiques | Bruno de Monts | l'abbé historien de Saunière
+jean-luc-chaumeil | personnages | critiques | Jean-Luc Chaumeil | du propagateur au dénonciateur
+putnam-et-wood | personnages | critiques | Bill Putnam et John Edwin Wood | A Mystery Solved
+paul-smith | personnages | critiques | Paul Smith | le chercheur britannique et ses pièces
+octonovo | personnages | critiques | Laurent Buchholtzer, dit Octonovo | les registres de correspondance
+christian-doumergue | personnages | critiques | Christian Doumergue | la somme documentaire ; la piste Marie-Madeleine
+paul-saussez | personnages | critiques | Paul Saussez | l'architecte et la crypte des seigneurs
+patrick-mensior | personnages | critiques | Patrick Mensior | l'association RLCdoc et l'édition des sources
+
+# Ombres portées du XXe siècle
+otto-rahn | personnages | politique | Otto Rahn | le chercheur du Graal ; aucun séjour à Rennes
+francois-mitterrand | personnages | politique | François Mitterrand | la visite du 2 mars 1981
+roger-patrice-pelat | personnages | politique | Roger-Patrice Pelat | l'ami du président, « grand maître » malgré lui
+
+# ───────────────────────── LIEUX ─────────────────────────
+
+# Dans le village (echelle: village)
+eglise-sainte-marie-madeleine | lieux | village | Église Sainte-Marie-Madeleine | l'édifice : roman, 1185, restauré 1887-1897 ; inscrit MH 1994 ; fermé pour investigations fin 2026
+presbytere | lieux | village | Le presbytère | maison du curé, bien communal ; musée depuis 1989
+cimetiere | lieux | village | Le cimetière | le porche, les plaintes de 1895, l'ossuaire ; fermé aux visiteurs
+tombe-de-sauniere | lieux | village | La tombe de Saunière | l'ancienne tombe et le sarcophage de 2004
+villa-bethanie | lieux | village | Villa Béthanie | 1901-1905 ; la véranda-chapelle
+tour-magdala | lieux | village | Tour Magdala | la tour-bibliothèque ; 2003 : le sol ouvert
+belvedere-et-orangerie | lieux | village | Le belvédère et l'orangerie | le chemin de ronde et la tour de verre
+jardin-du-calvaire | lieux | village | Le jardin du calvaire | le calvaire de 1897, la grotte de rocaille, la Vierge de Lourdes sur le pilier
+chateau-des-hautpoul | lieux | village | Château des Hautpoul | le château du village, privé
+
+# Le Haut-Razès (echelle: razes)
+rennes-le-chateau | lieux | razes | Rennes-le-Château | le village : site, population, histoire en bref, visite
+couiza | lieux | razes | Couiza | le bourg de la vallée ; le château des ducs de Joyeuse ; la gare
+montazels | lieux | razes | Montazels | la maison natale de Saunière
+esperaza | lieux | razes | Espéraza | la ville des chapeliers ; les Dénarnaud
+coustaussa | lieux | razes | Coustaussa | le château ruiné, le presbytère du crime, la tombe de Gélis
+rennes-les-bains | lieux | razes | Rennes-les-Bains | la station thermale ; l'église et le cimetière ; Boudet
+sources-de-rennes-les-bains | lieux | razes | Les sources de Rennes-les-Bains | Bain fort, Bain doux, Bain de la Reine, source de la Madeleine, fontaine des Amours
+fauteuil-du-diable | lieux | razes | Le Fauteuil du Diable | le siège de grès et la source du Cercle
+cromleck-de-rennes-les-bains | lieux | razes | Le « cromleck » de Boudet | les rochers : Cap de l'Homme, roches tremblantes, Pla de la Coste
+chateau-de-blanchefort | lieux | razes | Château de Blanchefort | la tour ruinée ; le Roc Nègre ; la légende de 1832
+pech-cardou | lieux | razes | Pech Cardou | la montagne du « tombeau de Dieu »
+tombeau-des-pontils | lieux | razes | Le tombeau des Pontils | 1903, Galibert, Lawrence ; détruit en 1988 ; Poussin
+arques | lieux | razes | Arques | le donjon ; Déodat Roché
+serres | lieux | razes | Serres | le village du confluent ; le pont
+peyrolles | lieux | razes | Peyrolles | le village des Pontils
+chateau-du-bezu | lieux | razes | Château du Bézu | Albedun ; les « Templiers » ; les faux-monnayeurs de 1344
+bugarach | lieux | razes | Pic de Bugarach | 1 230 m ; la montagne inversée ; 2012
+fontaine-salee | lieux | razes | La Fontaine salée | la source de la Sals, à Sougraigne
+alet-les-bains | lieux | razes | Alet-les-Bains | l'abbaye-cathédrale ; premier poste de Saunière
+notre-dame-de-marceille | lieux | razes | Notre-Dame de Marceille | la basilique de Limoux et sa Vierge noire
+quillan | lieux | razes | Quillan | la ville natale de Boudet
+campagne-sur-aude | lieux | razes | Campagne-sur-Aude | la commanderie : les vrais Templiers du pays
+antugnac | lieux | razes | Antugnac | la paroisse voisine desservie en 1890-1891
+axat | lieux | razes | Axat | où Boudet meurt en 1915
+luc-sur-aude | lieux | razes | Luc-sur-Aude | le village d'Élie Bot
+
+# Du pays cathare à la mer (echelle: region)
+carcassonne | lieux | region | Carcassonne | l'évêché, l'officialité, les archives, la Société des arts et des sciences
+narbonne | lieux | region | Narbonne | le petit séminaire de 1886
+montsegur | lieux | region | Montségur | le bûcher de 1244 et le trésor des cathares
+puilaurens | lieux | region | Château de Puilaurens | forteresse royale
+peyrepertuse | lieux | region | Château de Peyrepertuse | forteresse royale
+queribus | lieux | region | Château de Quéribus | le dernier bastion, 1255
+perillos | lieux | region | Périllos | le hameau abandonné d'Opoul ; la thèse Douzet
+le-clat | lieux | region | Le Clat | la première cure, 1882-1885
+coustouge | lieux | region | Coustouge | la nomination refusée de 1909
+prouille | lieux | region | Prouille | le monastère de la retraite d'avril 1911
+douzens | lieux | region | Douzens | la plus ancienne commanderie templière de l'Aude
+
+# Ailleurs (echelle: ailleurs)
+saint-sulpice | lieux | ailleurs | Saint-Sulpice | l'église parisienne, le gnomon, le voyage supposé
+stenay | lieux | ailleurs | Stenay | où Dagobert II fut tué
+gisors | lieux | ailleurs | Gisors | le château, Lhomoy, les premiers pas de Plantard et de Sède
+shugborough | lieux | ailleurs | Shugborough | le monument des Bergers et son inscription
+chateau-de-cabrieres | lieux | ailleurs | Château de Cabrières | la demeure d'Emma Calvé, en Aveyron
+annemasse | lieux | ailleurs | Annemasse | où naît, en 1956, le prieuré de Sion
+rosslyn | lieux | ailleurs | Rosslyn | la chapelle écossaise du Da Vinci Code
+
+# ───────────────────────── HYPOTHÈSES ─────────────────────────
+
+# D'où venait l'argent ?
+trafic-de-messes | hypotheses | argent | Le trafic de messes | etabli : le mécanisme, les chiffres, le procès
+dons-et-bienfaiteurs | hypotheses | argent | Les dons et les bienfaiteurs | plausible : Chambord, Cavailhé, les troncs, la loterie, les donateurs que Saunière refuse de nommer
+reseau-royaliste | hypotheses | argent | L'argent des royalistes | fragile : un curé agent des légitimistes, Chambord, Habsbourg
+magot-de-l-abbe-bigou | hypotheses | argent | Le magot de l'abbé Bigou | fragile : un dépôt caché à la Révolution et retrouvé dans l'église
+pillage-des-tombes | hypotheses | argent | Les tombes fouillées | fragile : objets et bijoux tirés du caveau et du cimetière
+
+# Les trésors
+tresor-des-wisigoths | hypotheses | tresors | Le trésor des Wisigoths | legende : le butin de Rome et du Temple de Jérusalem
+tresor-de-blanche-de-castille | hypotheses | tresors | Le trésor de Blanche de Castille | legende : l'invention de Corbu ; 18,5 millions
+tresor-des-templiers | hypotheses | tresors | Le trésor des Templiers | legende : le Bézu, Blanchefort
+tresor-des-cathares | hypotheses | tresors | Le trésor des cathares | legende : l'évasion de Montségur
+faux-monnayeurs-du-bezu | hypotheses | tresors | L'or des faux-monnayeurs | fragile : un fait de 1344, un lien imaginaire
+mines-d-or-du-razes | hypotheses | tresors | Les mines d'or du Razès | legende : mineurs allemands, Roc Nègre, général Dagobert
+tresor-du-diable-de-blanchefort | hypotheses | tresors | Le trésor gardé par le diable | legende : le récit de 1832 ; une tradition antérieure à Saunière
+
+# Les secrets
+prieure-de-sion | hypotheses | secrets | Le prieuré de Sion | mystification : l'association de 1956 et l'ordre millénaire
+descendance-merovingienne | hypotheses | secrets | La survivance mérovingienne | mystification : Dagobert II, Sigebert IV, Plantard
+lignee-de-jesus | hypotheses | secrets | La lignée de Jésus | mystification : Marie-Madeleine en Gaule, le « sang réal »
+tombeau-du-christ | hypotheses | secrets | Le tombeau du Christ | legende : Pech Cardou, Périllos
+chantage-au-vatican | hypotheses | secrets | Le secret qui fait chanter l'Église | legende : un document compromettant
+crypte-des-seigneurs | hypotheses | secrets | La crypte des seigneurs | plausible : le caveau attesté sous le chœur ; ce que Saunière y a vu
+piste-gelis | hypotheses | secrets | Le secret de l'abbé Gélis | fragile : un crime lié à l'affaire ?
+boudet-maitre-du-jeu | hypotheses | secrets | Boudet, le maître du jeu | legende : le curé d'à côté tire les ficelles
+piste-occultiste | hypotheses | secrets | Saunière chez les occultistes | legende : Paris, Calvé, Hoffet, Debussy
+
+# Le paysage et les signes
+secret-de-poussin | hypotheses | paysage | Le secret de Poussin | legende : le tombeau peint et le tombeau des Pontils
+geometrie-sacree | hypotheses | paysage | La géométrie sacrée | legende : pentacles et alignements
+meridien-de-paris | hypotheses | paysage | Le méridien et la « Rose Ligne » | legende
+eglise-codee | hypotheses | paysage | L'église, carte au trésor | legende : lire le décor comme un rébus
+langue-celtique-codee | hypotheses | paysage | La Vraie Langue celtique, livre codé | legende
+romanciers-inities | hypotheses | paysage | Les romanciers initiés | legende : Verne, Leblanc
+
+# Aux marges
+arche-d-alliance | hypotheses | marges | L'Arche d'alliance | legende
+or-du-reich | hypotheses | marges | Les nazis et le Graal | legende : Rahn, Skorzeny, 1944
+bugarach-et-les-ovnis | hypotheses | marges | Bugarach, les ovnis et 2012 | legende
+piste-de-perillos | hypotheses | marges | La piste de Périllos | legende : la maquette
+prieure-a-l-elysee | hypotheses | marges | Le prieuré à l'Élysée | mystification : Pelat, Mitterrand, 1993
+
+# ───────────────────────── PIÈCES DU DOSSIER ─────────────────────────
+
+# L'église et son décor
+asmodee | pieces | eglise | Le diable du bénitier | authentique : Giscard 1897 ; le nom d'Asmodée vient après ; 1996, 2017
+terribilis-est-locus-iste | pieces | eglise | « Terribilis est locus iste » | authentique : l'inscription du porche, liturgie de la dédicace
+par-ce-signe-tu-le-vaincras | pieces | eglise | « Par ce signe tu le vaincras » | authentique : les anges du bénitier ; le « le » de trop
+chemin-de-croix | pieces | eglise | Le chemin de croix | authentique : un modèle de catalogue ; les « anomalies »
+bas-relief-du-sermon | pieces | eglise | Le bas-relief du Sermon sur la montagne | authentique : « Venez à moi » ; le sac percé
+statues-de-l-eglise | pieces | eglise | Les statues | authentique : les saints, les deux enfants Jésus
+autel-de-marie-madeleine | pieces | eglise | Le bas-relief de Marie-Madeleine | authentique : l'autel, l'inscription latine, vandalisé en 2017
+dallage-en-damier | pieces | eglise | Le dallage en damier | authentique
+piece-secrete | pieces | eglise | La pièce secrète | authentique : le réduit derrière la sacristie
+
+# Pierres et tombes
+pilier-sculpte | pieces | pierres | Le pilier sculpté | authentique : carolingien, dit « wisigothique » ; Mission 1891
+dalle-des-chevaliers | pieces | pierres | La dalle des Chevaliers | authentique : relief carolingien trouvé face contre terre
+stele-de-la-marquise | pieces | pierres | La stèle de la marquise | discute : l'épitaphe relevée en 1905, les « fautes », l'anagramme
+dalle-de-la-marquise | pieces | pierres | La dalle « Et in Arcadia ego » | faux : connue seulement par un recueil apocryphe
+pierre-de-coumesourde | pieces | pierres | La pierre de Coumesourde | discute : connue par le seul « rapport Cros »
+balustre-et-fiole | pieces | pierres | Le balustre et la fiole | discute : la version Captier de la découverte
+crane-a-l-entaille | pieces | pierres | Le crâne à l'entaille | authentique : trouvé en 1956, daté au carbone 14
+
+# Papiers, comptes et parchemins
+parchemins | pieces | papiers | Les parchemins | faux : petit et grand, leurs messages, leur fabrication
+carnets-de-sauniere | pieces | papiers | Les carnets et les comptes | authentique : registres de correspondance, livres de comptes, « Découverte d'un tombeau »
+dossier-du-proces | pieces | papiers | Le dossier du procès | authentique : les pièces de 1910-1911, la liste des donateurs
+plaintes-de-1895 | pieces | papiers | Les plaintes de 1895 | authentique : ce que le curé faisait au cimetière
+lettre-de-louis-fouquet | pieces | papiers | La lettre de Louis Fouquet | authentique : Rome, 17 avril 1656
+rapport-cros | pieces | papiers | Le « rapport Cros » | discute
+maquette-de-sauniere | pieces | papiers | La « maquette de Saunière » | faux : un relief de Jérusalem
+statuts-de-1956 | pieces | papiers | Les statuts de 1956 | authentique : l'acte de naissance du prieuré de Sion
+
+# Dates, devises et signes
+et-in-arcadia-ego | pieces | signes | « Et in Arcadia ego » | authentique : la devise, du Guerchin à Poussin
+17-janvier | pieces | signes | Le 17 janvier | discute : une date qui revient
+pommes-bleues | pieces | signes | Les pommes bleues | authentique : un effet de vitrail
+penitence-penitence | pieces | signes | « Pénitence ! Pénitence ! » | authentique : La Salette, Lourdes, la mission de 1891
+inscription-de-shugborough | pieces | signes | L'inscription de Shugborough | authentique : O U O S V A V V
+
+# ───────────────────────── CONTEXTE HISTORIQUE ─────────────────────────
+
+# Des Wisigoths aux Hautpoul
+rhedae | contexte | ancien | Rhedae | an 790 : le nom, la « cité de trente mille âmes » de Fédié, ce qu'en dit l'archéologie
+wisigoths-en-septimanie | contexte | ancien | Les Wisigoths en Septimanie | an 507
+comte-de-razes | contexte | ancien | Le comté de Razès | an 830
+croisade-des-albigeois | contexte | ancien | La croisade contre les Albigeois | an 1209
+templiers-en-razes | contexte | ancien | Templiers et Hospitaliers en Razès | an 1130
+ruine-de-1362 | contexte | ancien | La ruine de 1362 | an 1362 : Trastamare ; la fin de la place forte
+diocese-d-alet | contexte | ancien | Le diocèse d'Alet | an 1318 : création, Pavillon, suppression en 1790
+revolution-en-razes | contexte | ancien | La Révolution en Razès | an 1789 : Bigou, les biens Hautpoul
+thermalisme | contexte | ancien | Le thermalisme à Rennes-les-Bains | an 1800
+
+# Le siècle de Saunière
+eglise-et-republique | contexte | siecle | L'Église contre la République | an 1879 : lois laïques, 1885, Ralliement, Séparation
+legitimisme | contexte | siecle | Le légitimisme | an 1883
+cure-de-campagne | contexte | siecle | Vivre en curé de campagne | an 1885 : le Concordat, 900 francs par an, la fabrique
+honoraires-de-messes | contexte | siecle | Les honoraires de messes | an 1890 : le système, les annonces, les abus
+art-saint-sulpicien | contexte | siecle | L'art saint-sulpicien | an 1890
+celtomanie | contexte | siecle | La celtomanie | an 1886
+occultisme-fin-de-siecle | contexte | siecle | L'occultisme fin de siècle | an 1890
+exode-rural | contexte | siecle | Un village qui se vide | an 1891 : 474 habitants en 1851, 217 en 1901
+proces-de-sauniere | contexte | siecle | Le procès de l'abbé Saunière | an 1910 : le récit suivi, de Coustouge à la suspense
+separation-de-1905 | contexte | siecle | La Séparation de 1905 | an 1905 : ce qu'elle change pour le presbytère
+
+# La fabrique d'un mythe
+naissance-du-mythe | contexte | mythe | 1956 : le curé aux milliards | an 1956
+chasseurs-de-tresors | contexte | mythe | La France des chasseurs de trésors | an 1958
+fouilles | contexte | mythe | Les fouilles | an 1959 : 1956, Cholet, dynamite, l'arrêté de 1965, géoradar, 2003, 2025-2026
+atelier-des-faux | contexte | mythe | L'atelier des faux | an 1964 : les dépôts à la BnF
+realisme-fantastique | contexte | mythe | Le réalisme fantastique | an 1960
+vague-anglaise | contexte | mythe | La vague anglaise | an 1972 : la BBC, 1982
+aveux | contexte | mythe | Les aveux | an 1974 : Chérisey, Plantard devant le juge, 1993
+effet-da-vinci-code | contexte | mythe | L'effet Da Vinci Code | an 2003
+rennes-aujourd-hui | contexte | mythe | Rennes-le-Château aujourd'hui | an 2026 : domaine communal, musée, visiteurs, restauration de l'église
+histoire-et-pseudo-histoire | contexte | mythe | Histoire et pseudo-histoire | an 2000 : comment on reconnaît un faux ; la méthode
+
+# ───────────────────────── LIVRES ET FILMS ─────────────────────────
+
+# Avant le mythe
+le-comte-de-razes-fedie | oeuvres | sources | Le Comté de Razès | an 1880 : Louis Fédié
+la-vraie-langue-celtique | oeuvres | sources | La Vraie Langue celtique | an 1886
+voyage-a-rennes-les-bains | oeuvres | sources | Voyage à Rennes-les-Bains | an 1832 : Labouïsse-Rochefort
+les-bergers-d-arcadie | oeuvres | sources | Les Bergers d'Arcadie | an 1638 : les deux tableaux de Poussin
+bulletin-de-la-sesa-1906 | oeuvres | sources | L'excursion de 1905 | an 1906 : le compte rendu de la SESA
+
+# Les livres du mythe
+recit-de-noel-corbu | oeuvres | mythe | Le récit de Noël Corbu | an 1955 : la bande enregistrée
+articles-de-la-depeche | oeuvres | mythe | Les articles de La Dépêche | an 1956 : Albert Salamon
+tresors-du-monde | oeuvres | mythe | Trésors du monde | an 1962 : Charroux
+dossiers-secrets | oeuvres | mythe | Les Dossiers secrets | an 1967 : Lobineau
+pierres-gravees-du-languedoc | oeuvres | mythe | Pierres gravées du Languedoc | an 1966 : le recueil apocryphe
+le-serpent-rouge | oeuvres | mythe | Le Serpent rouge | an 1967
+l-or-de-rennes | oeuvres | mythe | L'Or de Rennes | an 1967
+films-de-la-bbc | oeuvres | mythe | Les films de la BBC | an 1972 : Chronicle
+l-enigme-sacree | oeuvres | mythe | L'Énigme sacrée | an 1982
+
+# Les enquêtes critiques
+mythologie-du-tresor-de-rennes | oeuvres | critique | Mythologie du trésor de Rennes | an 1974
+l-heritage-de-l-abbe-sauniere | oeuvres | critique | L'Héritage de l'abbé Saunière | an 1985
+autopsie-d-un-mythe | oeuvres | critique | Autopsie d'un mythe | an 1990
+history-of-a-mystery | oeuvres | critique | The History of a Mystery | an 1996 : Timewatch, BBC
+a-mystery-solved | oeuvres | critique | A Mystery Solved | an 2003
+
+# Romans et films
+da-vinci-code | oeuvres | fiction | Da Vinci Code | an 2003
+l-aiguille-creuse | oeuvres | fiction | L'Aiguille creuse | an 1909
+clovis-dardentor | oeuvres | fiction | Clovis Dardentor | an 1896
+l-or-du-diable | oeuvres | fiction | L'Or du diable | an 1989 : le feuilleton de FR3
+le-pendule-de-foucault | oeuvres | fiction | Le Pendule de Foucault | an 1988
+
+# ───────────────────────── AJOUTS TIRÉS DU CARNET NOTEBOOKLM ─────────────────────────
+piste-lazariste | hypotheses | secrets | La piste des Lazaristes | legende : Jean Jourde, Marceille, les crucifix du Razès (Daffos)
+or-de-louis-xiv | hypotheses | tresors | L'or de Louis XIV | legende : Fouquet, Colbert, Serres
+berger-ignace-paris | hypotheses | tresors | Le berger Ignace Paris | legende : le conte de 1645, fixé par Corbu en 1956
+hieron-du-val-d-or | hypotheses | marges | Le Hiéron du Val d'Or | mystification : Paray-le-Monial, la Société angélique
+cartes-postales-de-sauniere | pieces | papiers | Les cartes postales de Saunière | authentique : 33 vues à dix centimes
+piste-chanterac | hypotheses | argent | La piste Chantérac | fragile : les biens de l'évêché d'Alet, 1792
+protochretiens-du-razes | hypotheses | secrets | Les protochrétiens du Razès | legende : Marie-Madeleine à Narbonne (Doumergue)
+bornes-meridiennes | hypotheses | paysage | Les bornes méridiennes | legende
+colline-envoutee | hypotheses | marges | La colline envoûtée | legende : Jean Robin, 1982
+n-inverses | pieces | signes | Les N inversés | discute : N inversés et étoiles à six branches
+cercle-catholique-de-narbonne | contexte | siecle | Le Cercle catholique de Narbonne | an 1886

@@ -1,0 +1,282 @@
+# Les personnages du temps de Saunière, suite : l'entourage, les évêques, les seigneurs du lieu.
+
+@ marie-denarnaud
+cat: personnages
+groupe: entourage
+nom: Marie Dénarnaud
+alias: Marie Dénarnaud, la servante de Saunière, la Madone du curé
+dates: 1868 – 1953
+an: 1868
+role: Servante de l'abbé [[berenger-sauniere|Saunière]], propriétaire en titre du domaine et son héritière
+def: Servante de l'abbé Saunière pendant près de trente ans, propriétaire légale de la villa et de la tour, elle vécut seule au domaine jusqu'en 1953 et mourut sans avoir rien dit.
+texte: Marie Dénarnaud naît le 12 août 1868 à [[esperaza|Espéraza]], dans une famille d'ouvriers de la chapellerie. Elle entre au service du curé jeune encore, et sa famille s'installe au [[presbytere|presbytère]] au début des années 1890 ; les sources divergent sur l'année. Elle tient la maison, reçoit les visiteurs, et le village la voit bientôt mieux mise qu'une servante.
+texte: Son rôle est d'abord juridique. À partir de décembre 1898, les terrains du futur domaine sont achetés à son nom : la [[villa-bethanie|villa Béthanie]], la [[tour-magdala|tour Magdala]], les jardins lui appartiennent. Ce montage met les biens à l'abri de l'évêché, et il explique que Saunière ait pu refuser sa mutation en 1909 : on ne déloge pas un curé d'une maison qui n'est pas la sienne ni celle de l'Église.
+texte: En 1917, elle hérite, la famille Saunière ayant renoncé à la succession. Elle hérite aussi des dettes. Les tentatives de vente n'aboutissent pas ; elle vit de plus en plus pauvrement, vend les meubles, les livres, la collection de timbres. Le 22 juillet 1946, par testament, elle institue [[noel-corbu|Noël Corbu]] et sa femme légataires universels, à charge pour eux de l'entretenir. Frappée d'une attaque le 24 janvier 1953, elle meurt le 29, à quatre-vingt-quatre ans.
+texte: Ce qu'elle aurait dit, on ne le tient que de Corbu. C'est lui qui rapporte, à partir de 1956, qu'elle répétait que les gens d'ici marchaient sur de l'or sans le savoir, et qu'elle avait promis de lui confier avant de mourir un secret qui le rendrait riche et puissant. L'épisode des liasses de billets brûlées dans le jardin, lors de l'échange des billets de 1945, vient de lui aussi et de témoins tardifs ; aucune pièce ne l'appuie.
+repere: 12 août 1868 — Naissance à Espéraza.
+repere: décembre 1898 — Six parcelles sont achetées à son nom.
+repere: 22 janvier 1917 — Mort de Saunière ; elle hérite du domaine et des dettes.
+repere: 22 juillet 1946 — Testament en faveur des époux Corbu.
+repere: 29 janvier 1953 — Mort à Rennes-le-Château.
+voir: berenger-sauniere, villa-bethanie, tour-magdala, noel-corbu, presbytere, esperaza, recit-de-noel-corbu
+
+@ elie-bot
+cat: personnages
+groupe: entourage
+nom: Élie Bot
+alias: Elie Bot, l'entrepreneur de Saunière
+dates: 1861 – 1947
+an: 1861
+role: Maçon et entrepreneur de [[luc-sur-aude|Luc-sur-Aude]], maître d'œuvre des chantiers de Saunière
+def: Entrepreneur de Luc-sur-Aude qui conduisit presque tous les chantiers de l'abbé Saunière, de la réfection de l'église à la tour Magdala ; ses carnets servent aujourd'hui à en établir le coût.
+texte: Élie Bot est de Luc-sur-Aude, dont il sera maire. Limonadier, maçon, entrepreneur, il travaille pour [[berenger-sauniere|Saunière]] dès 1886, aux premières réparations d'urgence du toit et du presbytère, et ne le quitte plus : l'[[eglise-sainte-marie-madeleine|église]], le cimetière, puis, de 1901 à 1906, la [[villa-bethanie|villa]], la [[tour-magdala|tour]] et le belvédère, sur les plans de l'architecte [[tiburce-caminade|Caminade]].
+texte: Il a laissé des carnets de chantier. Avec les factures et les livres de comptes du curé, ils permettent de chiffrer les travaux, et c'est ce qui a ruiné les « milliards » de la légende : 11 605 francs pour l'église, 26 417 pour le domaine.
+voir: berenger-sauniere, tiburce-caminade, luc-sur-aude, villa-bethanie, tour-magdala
+
+@ tiburce-caminade
+cat: personnages
+groupe: entourage
+nom: Tiburce Caminade
+alias: Caminade, architecte de Saunière
+an: 1901
+role: Architecte de Limoux, auteur des plans de la villa Béthanie et de la tour Magdala
+def: Architecte de Limoux à qui l'abbé Saunière confia les constructions de son domaine, de 1901 à 1906.
+texte: Tiburce Caminade est architecte à Limoux. C'est lui qui dessine la [[villa-bethanie|villa Béthanie]], la [[tour-magdala|tour Magdala]] néogothique, le belvédère et l'orangerie, que bâtit l'entrepreneur [[elie-bot|Élie Bot]]. Un différend l'oppose au curé en août 1905, et le chantier s'interrompt un temps.
+texte: Sa présence dit quelque chose du domaine : ce n'est pas l'œuvre d'un curé qui improvise, mais une commande passée à un homme de l'art, avec devis et factures.
+voir: villa-bethanie, tour-magdala, belvedere-et-orangerie, elie-bot, berenger-sauniere
+
+@ maison-giscard
+cat: personnages
+groupe: entourage
+nom: La maison Giscard
+alias: Giscard, manufacture Giscard, statuaire Giscard, Giscard père et fils
+dates: fondée en 1855
+an: 1855
+role: Manufacture toulousaine de statues et d'ornements d'église, qui fournit le décor de l'église de Rennes
+def: Manufacture de Toulouse, fondée en 1855, qui vendit à l'abbé Saunière le décor de terre cuite peinte de son église : chemin de croix, statues, bas-relief et bénitier au diable.
+texte: La maison Giscard fabrique à Toulouse, depuis 1855, des statues et des ornements en terre cuite pour les églises. Elle travaille sur catalogue : un curé choisit ses saints, ses stations, ses couleurs, et la fabrique livre. Ses modèles se retrouvent dans des dizaines de paroisses du Midi.
+texte: En novembre 1896, [[berenger-sauniere|Saunière]] passe marché avec elle pour l'ensemble du décor de son [[eglise-sainte-marie-madeleine|église]] : le [[chemin-de-croix|chemin de croix]], les [[statues-de-l-eglise|statues]], le grand [[bas-relief-du-sermon|bas-relief]] du fond, le bénitier. Le prix est de 2 500 francs, payables par annuités de 500 francs à partir de la fin de 1897 : un curé qui aurait trouvé un trésor ne paierait pas à tempérament. La facture du 30 juin 1897 mentionne un « bénitier avec diable », sans autre nom : celui d'[[asmodee|Asmodée]] viendra soixante-dix ans plus tard.
+texte: Ce contrat est la meilleure réponse aux lectures qui font du décor un [[eglise-codee|message chiffré]]. Les figures viennent d'un fonds commun ; la part du curé est le programme d'ensemble et quelques commandes particulières. Voir [[art-saint-sulpicien|l'art saint-sulpicien]].
+repere: 1855 — Fondation de la manufacture à Toulouse.
+repere: novembre 1896 — Marché avec Saunière pour le décor de l'église : 2 500 francs.
+repere: 30 juin 1897 — Facture mentionnant le « bénitier avec diable ».
+voir: asmodee, chemin-de-croix, statues-de-l-eglise, bas-relief-du-sermon, art-saint-sulpicien, eglise-codee, eglise-sainte-marie-madeleine
+
+@ paul-courrent
+cat: personnages
+groupe: entourage
+nom: Paul Courrent
+alias: docteur Courrent
+an: 1917
+role: Médecin à [[rennes-les-bains|Rennes-les-Bains]], médecin et ami de l'abbé Saunière
+def: Médecin de Rennes-les-Bains et érudit local, ami de l'abbé Saunière, qu'il soigna dans ses derniers jours.
+texte: Le docteur Paul Courrent exerce à Rennes-les-Bains. Érudit, curieux de l'histoire du pays, il est le médecin de [[berenger-sauniere|Saunière]] et son ami ; il est auprès de lui en janvier 1917.
+texte: Les sources consultées pour ce dossier n'en disent pas davantage : ses dates et le détail de sa vie n'ont pas pu être vérifiés.
+voir: berenger-sauniere, rennes-les-bains
+
+@ antoine-captier
+cat: personnages
+groupe: entourage
+nom: Antoine Captier
+alias: le carillonneur, Captier
+an: 1890
+role: Carillonneur de l'église au temps de Saunière
+def: Carillonneur de l'abbé Saunière, à qui la tradition de sa famille attribue la découverte d'une fiole de verre contenant un papier, dans un balustre de bois de l'ancienne chaire.
+texte: Antoine Captier sonne les cloches de Rennes au temps de [[berenger-sauniere|Saunière]]. Sa famille est du village depuis longtemps : ce sont des Captier qui, en 1816, avaient racheté le château aux Hautpoul.
+texte: La tradition familiale veut qu'il ait trouvé, dans le chapiteau creux d'un balustre de l'ancienne chaire, une petite fiole de verre renfermant un papier, et qu'il l'ait remise au curé. Elle ne dit rien du contenu. C'est la version la plus sobre de la « découverte », et la seule qui s'appuie sur un objet conservé : le balustre est au musée. Voir [[balustre-et-fiole|le balustre et la fiole]].
+texte: Son descendant et homonyme, gendre de Noël Corbu, a publié avec sa femme les papiers de l'abbé : voir [[corbu-et-captier|Claire Corbu et Antoine Captier]].
+voir: balustre-et-fiole, corbu-et-captier, berenger-sauniere, chateau-des-hautpoul
+
+@ comtesse-de-chambord
+cat: personnages
+groupe: entourage
+nom: La comtesse de Chambord
+alias: Marie-Thérèse de Modène, Marie-Thérèse d'Autriche-Este, comtesse de Chambord
+dates: 1817 – 1886
+an: 1817
+role: Veuve du [[comte-de-chambord|comte de Chambord]], bienfaitrice supposée de l'église de Rennes
+def: Veuve du prétendant légitimiste, à qui l'on attribue un don de trois mille francs à l'abbé Saunière pour son église, en 1886 : le don est vraisemblable, mais la pièce manque.
+texte: Marie-Thérèse de Modène, archiduchesse d'Autriche-Este, épouse Henri d'Artois, comte de Chambord, que ses partisans appellent Henri V. Veuve en 1883, elle continue de soutenir, avec son entourage, les œuvres catholiques et royalistes de province. Elle meurt à Goritz le 25 mars 1886.
+texte: C'est à elle que [[berenger-sauniere|Saunière]] doit, selon la version courante, trois mille francs pour réparer son église ; une autre source parle de mille francs en deux versements. Le chiffre de trois mille vient des listes de donateurs du curé lui-même. Aucune des études consultées ne produit la pièce.
+texte: La date fait difficulté. La comtesse meurt en mars 1886, alors que Saunière, privé de traitement depuis décembre, n'est rétabli qu'en juillet. Le don serait donc antérieur, ou venu par un intermédiaire. Qu'un curé sanctionné pour un prône royaliste ait été aidé par des [[legitimisme|légitimistes]] n'a rien d'étonnant ; de là à en faire l'agent d'un [[reseau-royaliste|réseau]], il y a un pas que les documents ne franchissent pas.
+voir: comte-de-chambord, legitimisme, dons-et-bienfaiteurs, reseau-royaliste, berenger-sauniere
+
+@ ernest-cros
+cat: personnages
+groupe: entourage
+nom: Ernest Cros
+alias: l'ingénieur Cros, Ernest Cros de Ginoles
+dates: 1857 – vers 1946
+an: 1857
+role: Ingénieur des chemins de fer retiré à Ginoles, amateur d'antiquités, à qui l'on attribue un « rapport » sur les pierres de Rennes
+def: Ingénieur en chef des chemins de fer, retiré près de Quillan en 1924, amateur d'antiquités qui connut l'abbé Saunière ; on lui attribue un rapport sur la dalle de la marquise et sur une pierre gravée, connu seulement par des copies tardives.
+texte: Ernest Cros fait carrière dans les chemins de fer et se retire en 1924 à Ginoles, près de [[quillan|Quillan]]. Il s'intéresse aux antiquités du pays. Il a connu [[berenger-sauniere|Saunière]] : c'est établi.
+texte: Ce qui ne l'est pas, c'est le texte qui porte son nom. Le « [[rapport-cros|rapport Cros]] » donne une lecture de la dalle de la marquise et décrit une [[pierre-de-coumesourde|pierre gravée]] qu'il aurait trouvée en 1928 au lieu-dit Coumesourde. On n'en connaît que deux dactylographies tardives, l'une venue de [[noel-corbu|Noël Corbu]] ; l'une est la copie de l'autre.
+texte: Dans le carnet de Saunière, à la date du 29 septembre 1891, on lit : « Vu Cros et Secret. » La légende y a vu l'ingénieur. Il s'agit très probablement du vicaire général Guillaume Cros.
+voir: rapport-cros, pierre-de-coumesourde, carnets-de-sauniere, quillan, noel-corbu
+
+@ mgr-billard
+cat: personnages
+groupe: eglise
+nom: Mgr Billard
+alias: Félix-Arsène Billard, Monseigneur Billard, évêque de Carcassonne
+dates: 1829 – 1901
+an: 1829
+role: Évêque de [[carcassonne|Carcassonne]] de 1881 à 1901, qui nomma Saunière à Rennes
+def: Évêque de Carcassonne qui nomma l'abbé Saunière, le défendit en 1885 et bénit son église en 1897, puis, soupçonnant un trafic de messes, tenta de l'éloigner et lui interdit de solliciter des honoraires.
+texte: Félix-Arsène Billard naît le 23 octobre 1829 à Saint-Valery-en-Caux. Prêtre en 1853, vicaire à Dieppe et à Rouen, curé de Caudebec-lès-Elbeuf, il est nommé évêque de Carcassonne le 17 février 1881. C'est lui qui envoie [[berenger-sauniere|Saunière]] à Rennes en 1885.
+texte: Il le couvre d'abord. Quand le ministre des Cultes lui dénonce, en octobre 1885, quatre prêtres de l'Aude pour propagande électorale en chaire, il répond qu'ils n'ont pas voulu attaquer la forme du gouvernement. Lui-même n'est pas en bons termes avec la République, qui lui retient en 1891 une part de son traitement pour un voyage à Rome fait sans autorisation. Il vient deux fois à Rennes : le 1er juillet 1889, et le 6 juin 1897, jour de Pentecôte, pour bénir l'[[eglise-sainte-marie-madeleine|église]] restaurée.
+texte: La légende veut qu'il ait écourté cette visite, saisi de malaise devant le décor, et qu'il ne soit jamais revenu. C'est une invention : deux ans plus tard, il propose encore son curé pour une dignité. Mais cette proposition même a un sens. Le 2 octobre 1899, il le présente pour un « personnat », titre qui l'aurait obligé à quitter Rennes ; le sous-préfet de Limoux rend un avis défavorable, notant une « situation de fortune aisée » et un « réactionnaire militant ». Les 1er mars et 16 mai 1901, l'évêque lui fait interdire de solliciter des [[honoraires-de-messes|honoraires de messes]].
+texte: Il meurt le 3 décembre 1901 et repose à la cathédrale Saint-Michel. On lui prête d'avoir envoyé Saunière à [[saint-sulpice|Saint-Sulpice]] avec les parchemins, en payant le voyage : l'affirmation, de [[gerard-de-sede|Gérard de Sède]], ne repose sur aucune pièce. En 1893, il avait racheté à titre personnel le sanctuaire de [[notre-dame-de-marceille|Notre-Dame de Marceille]], à Limoux.
+repere: 23 octobre 1829 — Naissance à Saint-Valery-en-Caux.
+repere: 17 février 1881 — Nommé évêque de Carcassonne.
+repere: 1885 — Il nomme Saunière à Rennes-le-Château, puis le défend devant le ministre.
+repere: 6 juin 1897 — Il bénit l'église restaurée.
+repere: 2 octobre 1899 — Il propose Saunière pour un personnat, afin de l'éloigner.
+repere: 16 mai 1901 — Seconde interdiction de solliciter des messes.
+repere: 3 décembre 1901 — Mort.
+voir: berenger-sauniere, mgr-de-beausejour, carcassonne, trafic-de-messes, eglise-et-republique, notre-dame-de-marceille, chantage-au-vatican
+
+@ mgr-de-beausejour
+cat: personnages
+groupe: eglise
+nom: Mgr de Beauséjour
+alias: Paul-Félix Beuvain de Beauséjour, Monseigneur de Beauséjour
+dates: 1839 – 1930
+an: 1839
+role: Évêque de [[carcassonne|Carcassonne]] de 1902 à 1930, qui fit juger Saunière
+def: Évêque de Carcassonne pendant vingt-huit ans, celui de la Séparation et du procès : il nomma l'abbé Saunière à Coustouge, puis le traduisit devant son tribunal pour trafic de messes.
+texte: Paul-Félix Beuvain de Beauséjour naît le 16 décembre 1839 à Vesoul. Prêtre en 1863, curé de Vitrey puis de Luxeuil, il succède à [[mgr-billard|Mgr Billard]] en 1902 et reste évêque de Carcassonne jusqu'à sa mort, en avril 1930, à quatre-vingt-dix ans.
+texte: Il hérite d'un dossier ouvert. Son prédécesseur avait interdit à [[berenger-sauniere|Saunière]] de solliciter des messes ; il renouvelle l'avertissement en juin 1903 et en août 1904, sans plus d'effet. Entre-temps, la [[separation-de-1905|Séparation]] a changé la condition du clergé : privés de traitement, les prêtres vivent du denier du culte et des honoraires, et les évêques resserrent la discipline.
+texte: Le 15 janvier 1909, il nomme Saunière à [[coustouge|Coustouge]]. Le curé refuse et offre sa démission. L'évêque installe un successeur, puis, le 27 mai 1910, fait dresser l'acte d'accusation : trafic d'honoraires, désobéissance, dépenses non justifiées. Trois sentences suivent, jusqu'à la suspense du 5 décembre 1911. Voir [[proces-de-sauniere|le procès de l'abbé Saunière]].
+texte: La légende en a fait un persécuteur, décidé à arracher un secret. Rien ne montre une hostilité personnelle : il applique des règles que Rome venait de durcir, à un prêtre qui les enfreignait depuis dix ans et refusait de montrer ses comptes. En août 1916, l'évêché offre encore de le réintégrer s'il quitte Rennes ; Saunière refuse.
+repere: 16 décembre 1839 — Naissance à Vesoul.
+repere: 1902 — Nommé évêque de Carcassonne.
+repere: juin 1903 — Nouvel avertissement à Saunière sur les messes.
+repere: 15 janvier 1909 — Il le nomme à Coustouge.
+repere: 27 mai 1910 — Acte d'accusation devant l'officialité.
+repere: 5 décembre 1911 — Sentence définitive.
+repere: avril 1930 — Mort à Carcassonne.
+voir: mgr-billard, proces-de-sauniere, coustouge, trafic-de-messes, separation-de-1905, dossier-du-proces, berenger-sauniere
+
+@ eugene-huguet
+cat: personnages
+groupe: eglise
+nom: Eugène Huguet
+alias: chanoine Huguet, abbé Huguet
+an: 1910
+role: Docteur en droit canonique, défenseur de Saunière devant l'officialité puis à Rome
+def: Prêtre et docteur en droit canonique qui défendit l'abbé Saunière devant le tribunal de l'évêque, à partir de l'automne 1910, puis suivit ses recours à Rome.
+texte: L'abbé Eugène Huguet est canoniste. Il prend la défense de [[berenger-sauniere|Saunière]] à l'audience du 15 octobre 1910, après un avocat de Limoux, et la poursuit devant la Congrégation du Concile, à Rome, où le curé fait appel en décembre.
+texte: Sa tâche est ingrate : son client refuse de nommer ses donateurs et ne produit que des comptes partiels. L'issue des recours romains est mal établie dans les sources ; le fait sûr est que Saunière ne fut jamais réintégré. Voir [[proces-de-sauniere|le procès]] et [[dossier-du-proces|le dossier du procès]].
+voir: proces-de-sauniere, dossier-du-proces, berenger-sauniere, mgr-de-beausejour
+
+@ emile-hoffet
+cat: personnages
+groupe: eglise
+nom: Émile Hoffet
+alias: père Hoffet, abbé Hoffet, Émile-Guillaume-Henri Hoffet
+dates: 1873 – 1946
+an: 1873
+role: Oblat de Marie-Immaculée, érudit, à qui la légende fait déchiffrer les parchemins de Saunière
+def: Religieux alsacien, spécialiste de liturgie et d'histoire des sociétés secrètes, dont la légende fait le jeune paléographe qui aurait déchiffré à Paris les parchemins de Saunière : il avait alors dix-neuf ans et faisait son noviciat aux Pays-Bas.
+texte: Émile Hoffet naît le 11 mai 1873 à Schiltigheim, près de Strasbourg, d'un père protestant et d'une mère catholique. Il étudie chez les oblats de Marie-Immaculée, à Notre-Dame de Sion, en Lorraine, fait son noviciat aux Pays-Bas et devient prêtre à la fin des années 1890. Sa carrière le mène à Montmartre, à Marseille, à Rome. Il dirige une revue, collabore à une autre, et laisse le souvenir d'un érudit. Il meurt à Paris le 3 mars 1946.
+texte: Dans le récit de 1967, il est le neveu du directeur de [[saint-sulpice|Saint-Sulpice]], un séminariste prodige à qui l'on confie les [[parchemins|parchemins]] apportés par [[berenger-sauniere|Saunière]], et qui présente le curé au Tout-Paris occultiste. [[rene-descadeillas|René Descadeillas]] a fait l'objection qui suffit : en 1892, Hoffet a dix-neuf ans, il est novice chez les oblats, non à Saint-Sulpice.
+texte: Pourquoi lui ? Parce que [[pierre-plantard|Pierre Plantard]] l'avait connu. Le vieux religieux fréquentait à Paris, dans les années 1930 et 1940, des milieux où passait le jeune homme, et [[gerard-de-sede|Gérard de Sède]] acheta en 1966 une partie de ses papiers. Le nom de la maison où il avait étudié, Notre-Dame de Sion, a pu aussi amuser les inventeurs du [[prieure-de-sion|Prieuré]].
+voir: saint-sulpice, piste-occultiste, parchemins, pierre-plantard, gerard-de-sede, rene-descadeillas
+
+@ nicolas-pavillon
+cat: personnages
+groupe: eglise
+nom: Nicolas Pavillon
+alias: Pavillon, évêque d'Alet
+dates: 1597 – 1677
+an: 1597
+role: Évêque d'[[alet-les-bains|Alet]] de 1637 à 1677, réformateur rigoriste
+def: Évêque d'Alet pendant quarante ans, proche de Port-Royal, qui tint tête à Louis XIV ; les auteurs de L'Énigme sacrée en ont fait, sans preuve, un gardien du secret.
+texte: Nicolas Pavillon reçoit en 1637 le petit [[diocese-d-alet|diocèse d'Alet]], dont dépend Rennes. Il y passe sa vie. C'est un évêque de la réforme catholique, austère, résidant, qui visite ses paroisses, forme ses prêtres et entre en procès avec la noblesse du pays, dont un Hautpoul. Proche des jansénistes, il refuse au roi le droit de régale et meurt en disgrâce le 8 décembre 1677.
+texte: *[[l-enigme-sacree|L'Énigme sacrée]]* l'enrôle en 1982. Avec Jean-Jacques Olier, fondateur de Saint-Sulpice, et la Compagnie du Saint-Sacrement, il formerait le relais du [[prieure-de-sion|Prieuré]] au XVIIe siècle, au temps où [[nicolas-poussin|Poussin]] peint ses bergers. La construction ne repose que sur des voisinages : un évêque dont Rennes dépendait, un séminaire parisien, une société dévote discrète.
+voir: diocese-d-alet, alet-les-bains, l-enigme-sacree, saint-sulpice, famille-d-hautpoul
+
+@ marie-de-negre-d-ables
+cat: personnages
+groupe: seigneurs
+nom: Marie de Nègre d'Ables
+alias: marquise de Blanchefort, dame d'Hautpoul, Marie de Nègre d'Ables dame d'Hautpoul de Blanchefort, la marquise
+dates: vers 1714 – 1781
+an: 1714
+role: Veuve de François d'Hautpoul, dernière dame de Rennes
+def: Dernière dame de Rennes, veuve et endettée, morte le 17 janvier 1781 ; sa tombe du cimetière, relevée en 1905, est devenue l'une des pièces maîtresses de l'énigme.
+texte: Marie de Nègre d'Ables naît vers 1714, dans le pays de Sault. Le 17 novembre 1732, elle épouse François d'Hautpoul, seigneur de Rennes, qui a relevé le titre de marquis de Blanchefort. Ils ont quatre enfants : trois filles, et un fils, Joseph, qui meurt enfant en 1739. Avec lui s'éteint la branche. Voir [[famille-d-hautpoul|les Hautpoul]].
+texte: Veuve en 1753, elle se débat dans les dettes. Elle plaide contre ses propres filles pour la succession, obtient une sentence d'arbitres en 1757, vend des seigneuries. [[rene-descadeillas|René Descadeillas]], qui a dépouillé ces papiers, décrit une maison ruinée bien avant la Révolution : cela compte, quand on prête à la famille un trésor à cacher.
+texte: Elle meurt au château le 17 janvier 1781. Le caveau des seigneurs, dans l'église, est fermé depuis un demi-siècle : on l'enterre au cimetière. Le curé est alors [[antoine-bigou|Antoine Bigou]].
+texte: Sa pierre tombale fait sa postérité. En 1905, des excursionnistes en relèvent l'épitaphe, gravée grossièrement et pleine de maladresses : voir [[stele-de-la-marquise|la stèle de la marquise]]. Soixante ans plus tard, les faussaires en tirent la clef de leur chiffre, et lui adjoignent une seconde pierre, la [[dalle-de-la-marquise|dalle « Et in Arcadia ego »]], que personne n'avait vue. La légende veut que Bigou ait reçu d'elle un secret en confession, et que [[berenger-sauniere|Saunière]] ait martelé l'inscription : en 1905, dix ans après ses travaux au cimetière, elle était toujours lisible.
+repere: vers 1714 — Naissance.
+repere: 17 novembre 1732 — Mariage avec François d'Hautpoul.
+repere: 1739 — Mort de son fils Joseph.
+repere: 1753 — Veuvage.
+repere: 17 janvier 1781 — Mort à Rennes-le-Château.
+repere: 25 juin 1905 — Son épitaphe est relevée par la Société d'études scientifiques de l'Aude.
+voir: famille-d-hautpoul, stele-de-la-marquise, dalle-de-la-marquise, antoine-bigou, 17-janvier, chateau-des-hautpoul, cimetiere, crypte-des-seigneurs
+
+@ famille-d-hautpoul
+cat: personnages
+groupe: seigneurs
+nom: Les Hautpoul
+alias: Hautpoul, d'Hautpoul, Haupoul, Hautpoul de Blanchefort, Mademoiselle de Rennes, Élisabeth d'Hautpoul, François d'Hautpoul
+dates: 1422 – 1820
+an: 1422
+role: Seigneurs de Rennes de 1422 à la Révolution
+def: Famille noble qui tint la seigneurie de Rennes pendant près de quatre siècles ; sa dernière représentante au village, « Mademoiselle de Rennes », y mourut ruinée en 1820.
+texte: Les Hautpoul sont une vieille famille du Languedoc. Ils entrent à Rennes en 1422, par le mariage de Pierre-Raymond d'Hautpoul avec l'héritière des [[pierre-de-voisins|Voisins]], et gardent la seigneurie jusqu'à la Révolution. Le [[chateau-des-hautpoul|château]] qui se voit au village est, pour l'essentiel, le leur. Ils se font enterrer dans l'église, dans un caveau que le registre paroissial appelle le « tombeau des seigneurs » : voir [[crypte-des-seigneurs|la crypte des seigneurs]].
+texte: Au XVIIIe siècle, la maison décline. François d'Hautpoul, qui relève le titre de marquis de Blanchefort, épouse en 1732 [[marie-de-negre-d-ables|Marie de Nègre d'Ables]] ; leur seul fils meurt enfant. Les filles se partagent une succession obérée. L'une, Gabrielle, épouse un Fleury, dont les descendants hériteront des bains de [[rennes-les-bains|Rennes-les-Bains]] ; voir [[paul-urbain-de-fleury|Paul-Urbain de Fleury]].
+texte: Une autre, Élisabeth, reste au château. On l'appelle Mademoiselle de Rennes. La Révolution vend les biens de la famille comme biens nationaux ; ruinée, elle cède le château en 1816 à ses anciens régisseurs et y meurt le 20 mai 1820. Son décès ne fut pas transcrit à l'état civil, pour une affaire de créance, selon [[rene-descadeillas|Descadeillas]], qui a consacré sa thèse aux derniers seigneurs.
+texte: La légende leur prête des archives secrètes, que Mademoiselle de Rennes aurait refusé de montrer à ses sœurs, et un trésor confié à l'abbé [[antoine-bigou|Bigou]]. Les papiers de famille montrent des procès et des dettes. Ils signaient volontiers « Haupoul », sans t : c'est l'une des « fautes » que l'on reproche à la [[stele-de-la-marquise|stèle]].
+repere: 1422 — La seigneurie de Rennes passe aux Hautpoul par mariage.
+repere: 1732 — François d'Hautpoul épouse Marie de Nègre d'Ables.
+repere: 1739 — Mort de Joseph, le seul fils.
+repere: 1781 — Mort de la marquise.
+repere: 1816 — Élisabeth vend le château à ses régisseurs.
+repere: 20 mai 1820 — Mort d'Élisabeth, « Mademoiselle de Rennes ».
+voir: marie-de-negre-d-ables, chateau-des-hautpoul, pierre-de-voisins, paul-urbain-de-fleury, crypte-des-seigneurs, revolution-en-razes, rene-descadeillas
+
+@ pierre-de-voisins
+cat: personnages
+groupe: seigneurs
+nom: Pierre de Voisins
+alias: Voisins, famille de Voisins
+an: 1230
+role: Compagnon de Simon de Montfort, seigneur de Rennes après la croisade
+def: Chevalier du Nord venu avec la croisade contre les Albigeois, qui reçut le Razès en fief en 1230 ; sa famille tint Rennes jusqu'en 1422.
+texte: Pierre de Voisins est l'un des compagnons de Simon de Montfort. Quand la [[croisade-des-albigeois|croisade]] a dépossédé les seigneurs du Midi, les vainqueurs se partagent leurs terres : le Razès lui est inféodé en 1230. Après l'échec du dernier Trencavel, en 1240, le pays entre dans la sénéchaussée de Carcassonne.
+texte: Ses descendants relèvent la place : en 1293, un autre Pierre de Voisins en restaure les fortifications. Cela n'empêche pas [[ruine-de-1362|la ruine de 1362]]. En 1422, l'héritière de la famille épouse un [[famille-d-hautpoul|Hautpoul]], et la seigneurie change de nom.
+voir: croisade-des-albigeois, famille-d-hautpoul, ruine-de-1362, comte-de-razes
+
+@ paul-urbain-de-fleury
+cat: personnages
+groupe: seigneurs
+nom: Paul-Urbain de Fleury
+alias: marquis de Fleury, Fleury de Blanchefort, tombes de Fleury
+dates: 1776 – 1836
+an: 1776
+role: Héritier des Hautpoul par les femmes, propriétaire des bains de [[rennes-les-bains|Rennes-les-Bains]]
+def: Descendant des Hautpoul par sa mère, propriétaire des bains de Rennes-les-Bains, dont le cimetière garde deux pierres à son nom aux dates discordantes, que les amateurs d'énigmes ont beaucoup commentées.
+texte: Les Fleury tiennent aux [[famille-d-hautpoul|Hautpoul]] par un mariage de 1767, celui de Gabrielle, fille de la marquise. Après la Révolution, la famille rachète une partie des biens vendus et relance les bains de Rennes-les-Bains : voir [[thermalisme|le thermalisme]]. C'est elle que met en scène, en 1832, la légende du [[tresor-du-diable-de-blanchefort|trésor gardé par le diable]] : le marquis fait un procès aux villageois venus fouiller à Blanchefort.
+texte: Paul-Urbain de Fleury est connu surtout par ses tombes. Le cimetière de Rennes-les-Bains porte deux inscriptions à son nom, qui ne donnent pas les mêmes dates. Les lecteurs de [[henri-boudet|Boudet]] y ont vu un signal. Un corps déplacé, une pierre refaite et un graveur distrait suffisent à l'expliquer.
+texte: Son lien exact avec la marquise est donné différemment selon les sources : gendre pour les unes, petit-fils pour les autres. Les dates plaident pour la seconde lecture.
+voir: famille-d-hautpoul, rennes-les-bains, thermalisme, tresor-du-diable-de-blanchefort, marie-de-negre-d-ables, henri-boudet
+
+@ bertrand-de-blanquefort
+cat: personnages
+groupe: seigneurs
+nom: Bertrand de Blanquefort
+alias: Bertrand de Blanchefort, sixième maître du Temple
+dates: vers 1109 – 1169
+an: 1109
+role: Sixième maître de l'ordre du Temple, de 1156 à 1169
+def: Maître du Temple originaire du Bordelais, que les Dossiers secrets installent au château de Blanchefort, près de Rennes-les-Bains, sur la foi d'une simple ressemblance de noms.
+texte: Bertrand de Blanquefort gouverne l'ordre du Temple de 1156 à sa mort, le 2 janvier 1169. Il est gascon : Blanquefort est un bourg du Bordelais. Sa carrière se passe en Terre sainte, où il est un temps prisonnier.
+texte: Rien ne le relie au Razès, sinon un nom. Il existe près de Rennes-les-Bains un [[chateau-de-blanchefort|château de Blanchefort]], dont les Hautpoul relèveront le titre. Les [[dossiers-secrets|Dossiers secrets]] de 1967 fondent les deux en un : le maître du Temple devient un seigneur du pays, et fait venir en 1156 des mineurs allemands pour exploiter l'or de ses terres.
+texte: Cette confusion voulue porte une bonne part du [[tresor-des-templiers|trésor des Templiers]] et des [[mines-d-or-du-razes|mines d'or du Razès]]. Elle se défait en ouvrant un dictionnaire.
+attention: Blanquefort, en Gironde, n'est pas Blanchefort, dans l'Aude. Le maître du Temple vient du premier ; le titre des Hautpoul vient du second.
+voir: tresor-des-templiers, chateau-de-blanchefort, mines-d-or-du-razes, dossiers-secrets, templiers-en-razes

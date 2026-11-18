@@ -1,0 +1,215 @@
+# Les hypothèses, fin : le paysage et les signes, puis les marges.
+
+@ secret-de-poussin
+cat: hypotheses
+groupe: paysage
+nom: Le secret de Poussin
+alias: Poussin et Rennes-le-Château, tombeau d'Arcadie, Poussin Teniers gardent la clef
+statut: legende
+def: Poussin aurait peint dans Les Bergers d'Arcadie un tombeau réel du Razès et caché dans sa toile la clef d'un secret : le tombeau qu'on lui compare a été bâti en 1903.
+origine: Le grand [[parchemins|parchemin]], fabriqué dans les années 1960, nomme « Poussin Teniers ». La ressemblance avec le tombeau des Pontils est signalée au début des années 1970 dans l'entourage de [[gerard-de-sede|Gérard de Sède]] et popularisée par [[henry-lincoln|Henry Lincoln]] à la BBC en 1974.
+pour: Le [[tombeau-des-pontils|tombeau des Pontils]] ressemblait à celui du tableau, et le paysage du fond rappelle les crêtes voisines.
+pour: En 1656, l'abbé Louis Fouquet écrit de Rome que [[nicolas-poussin|Poussin]] et lui ont formé des projets d'un avantage tel que les rois peineraient à en tirer de semblables.
+pour: La devise *[[et-in-arcadia-ego|Et in Arcadia ego]]* figurerait aussi sur la tombe de la marquise.
+contre: Le tombeau des Pontils date de 1903 : il a deux cent soixante-dix ans de moins que le tableau, et aucun monument antérieur n'est connu au même endroit.
+contre: Poussin n'est jamais venu en Languedoc ; ses paysages sont composés en atelier.
+contre: La [[dalle-de-la-marquise|dalle]] qui porterait la devise n'est connue que par un recueil apocryphe de 1966.
+verdict: Une légende, construite à rebours : on a d'abord écrit le nom de Poussin dans un faux, puis cherché dans le pays de quoi le justifier.
+texte: *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]* existent en deux versions ; la seconde, peinte vers 1638-1640, est au Louvre depuis Louis XIV. Des bergers déchiffrent sur un tombeau une inscription latine. Le sujet vient du Guerchin, et les historiens de l'art y lisent une méditation sur la mort présente jusque dans le bonheur.
+texte: La [[lettre-de-louis-fouquet|lettre de 1656]] est authentique, et c'est la meilleure carte des partisans. Mais elle ne parle ni de trésor ni de Languedoc : le frère du surintendant [[nicolas-fouquet|Fouquet]] achetait à Rome des œuvres et des antiques, et vante à son aîné des affaires de ce genre.
+texte: Le reste s'enchaîne après 1967. On remarque au bord de la route d'Arques un tombeau de pierre ; on lui trouve la silhouette de celui du tableau ; on identifie la montagne du fond, tour à tour, à Blanchefort, au Cardou et à Rennes, selon l'endroit où l'on se place. Excédé par les visiteurs, le propriétaire fait raser le monument en 1988. Quant à [[david-teniers|Teniers]], le second peintre du parchemin, on n'a jamais su quel tableau de lui était visé.
+voir: nicolas-poussin, les-bergers-d-arcadie, tombeau-des-pontils, et-in-arcadia-ego, lettre-de-louis-fouquet, david-teniers, dalle-de-la-marquise, geometrie-sacree, inscription-de-shugborough
+
+@ geometrie-sacree
+cat: hypotheses
+groupe: paysage
+nom: La géométrie sacrée
+alias: pentacle des montagnes, pentagone de Lincoln, alignements, Genisis, The Holy Place
+statut: legende
+def: Les sommets et les églises du Razès dessineraient un pentagone parfait, tracé par des initiés : une figure obtenue en choisissant ses points après coup.
+origine: [[henry-lincoln|Henry Lincoln]], qui voit en 1974 un pentacle caché dans le tableau de Poussin, puis un pentagone de sommets dans le paysage (*The Holy Place*, 1991) ; [[david-wood|David Wood]], *Genisis*, 1985.
+pour: Cinq hauteurs — dont Rennes-le-Château, [[chateau-de-blanchefort|Blanchefort]] et le [[chateau-du-bezu|Bézu]] — se placent à peu près aux sommets d'un pentagone.
+pour: Des églises et des châteaux s'alignent, et certaines distances tombent en nombres ronds de milles anglais.
+pour: Une figure si régulière ne peut, dit-on, devoir rien au hasard.
+contre: Le pentagone n'est régulier qu'à de larges tolérances près.
+contre: Le pays compte des centaines de sommets, d'églises et de ruines : on y trouve la figure que l'on cherche.
+contre: Aucun de ces auteurs n'a soumis ses alignements à un test statistique, comme le relèvent [[putnam-et-wood|Putnam et Wood]].
+verdict: Une illusion de carte. Avec assez de points et assez de marge, toute figure apparaît.
+texte: L'idée naît devant un tableau. Lincoln superpose aux *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* un pentacle dont le centre tombe sur le front d'une bergère. De la toile, il passe au terrain : puisque le peintre connaissait la figure, elle doit être dans le paysage.
+texte: Elle y est, à condition de l'y mettre. Le Razès est un pays de crêtes ; chaque hauteur porte une ruine, une croix ou un nom. David Wood y trace un cercle d'églises et une étoile qu'il lit comme une déesse ; [[andrews-et-schellenberger|Andrews et Schellenberger]] y cherchent un [[tombeau-du-christ|tombeau]]. Chacun trouve sa figure, et aucune ne coïncide avec celle du voisin.
+texte: La critique est de méthode. Un alignement ne prouve quelque chose que si l'on a dit d'avance quels points seraient retenus et quelle erreur serait tolérée. Faute de quoi on ne mesure que sa propre patience. Le [[meridien-de-paris|méridien de Paris]], qui passe réellement dans le pays, a fourni à ces tracés leur axe le plus commode.
+voir: henry-lincoln, david-wood, andrews-et-schellenberger, secret-de-poussin, meridien-de-paris, putnam-et-wood, tombeau-du-christ
+
+@ meridien-de-paris
+cat: hypotheses
+groupe: paysage
+nom: Le méridien et la « Rose Ligne »
+alias: méridien de Paris, Rose Line, ligne rouge, gnomon de Saint-Sulpice, méridienne verte
+statut: legende
+def: Le méridien de Paris, qui traverse l'Aude près de Rennes-les-Bains, serait l'axe secret de l'énigme : la ligne est réelle, le sens qu'on lui prête date de 1967.
+origine: *[[le-serpent-rouge|Le Serpent rouge]]*, plaquette déposée à la Bibliothèque nationale en 1967 ; la « Rose Ligne » est une invention du *[[da-vinci-code|Da Vinci Code]]*, en 2003.
+pour: Le méridien de l'Observatoire passe réellement dans le pays, à quelques kilomètres à l'est de Rennes-le-Château.
+pour: Le [[tombeau-des-pontils|tombeau des Pontils]] en était tout proche.
+pour: L'église [[saint-sulpice|Saint-Sulpice]], à Paris, possède une méridienne de laiton et un obélisque.
+contre: Le méridien, fixé au XVIIe siècle, traverse toute la France : il passe forcément près de quelque chose.
+contre: Le gnomon de Saint-Sulpice n'est pas sur le méridien de Paris, mais à une centaine de mètres à l'ouest ; c'est un instrument pour fixer la date de Pâques.
+contre: La paroisse a dû afficher un démenti à l'usage des lecteurs du roman.
+verdict: Une coïncidence de carte, exploitée par un faux de 1967 puis par un roman.
+texte: Le méridien de Paris est une convention d'astronomes : la ligne nord-sud qui passe par l'Observatoire, mesurée d'un bout à l'autre du royaume. Il sert de référence aux cartes françaises jusqu'à ce que Greenwich l'emporte. Dans l'Aude, il court à l'est de [[rennes-les-bains|Rennes-les-Bains]].
+texte: *Le Serpent rouge* en fait une « ligne rouge » qui relierait Saint-Sulpice au Razès. Le texte, daté du [[17-janvier|17 janvier]], joue sur le nom de la sainte fêtée le lendemain, sur le laiton de la méridienne, sur Poussin. Dan Brown en tire la « Rose Ligne » de son roman, et les visiteurs viennent depuis chercher dans l'église parisienne une clef qui n'y a jamais été.
+voir: le-serpent-rouge, saint-sulpice, tombeau-des-pontils, da-vinci-code, geometrie-sacree, 17-janvier
+
+@ eglise-codee
+cat: hypotheses
+groupe: paysage
+nom: L'église, carte au trésor
+alias: décor codé, église de Saunière, messages de l'église, chemin de croix inversé
+statut: legende
+def: Saunière aurait fait de son église un rébus qui mène au trésor : son décor sort du catalogue d'un statuaire toulousain, et ses « anomalies » se retrouvent ailleurs.
+origine: [[gerard-de-sede|Gérard de Sède]], *[[l-or-de-rennes|L'Or de Rennes]]*, 1967 ; d'innombrables lectures depuis.
+pour: Un [[asmodee|diable]] porte le bénitier, ce qui est rare dans une église.
+pour: Le [[chemin-de-croix|chemin de croix]] se lit dans le sens inverse de l'usage, et certaines stations montrent des détails inattendus.
+pour: [[berenger-sauniere|Saunière]] a suivi le chantier de près et choisi lui-même le programme.
+pour: Le [[dallage-en-damier|dallage]] en damier évoque un échiquier.
+contre: Le décor est commandé à la [[maison-giscard|maison Giscard]] : statues et stations sont des modèles de série, que l'on retrouve dans d'autres églises.
+contre: L'inscription du porche, *[[terribilis-est-locus-iste|Terribilis est locus iste]]*, est celle de la messe de dédicace de toutes les églises.
+contre: Le diable terrassé par le signe de croix dit ce qu'il montre : la victoire de la foi, dans un catholicisme de combat.
+contre: Aucune de ces lectures n'a jamais conduit à rien.
+verdict: Une légende. L'église de Rennes est un bel exemple d'art saint-sulpicien, chargé et sincère ; elle ne cache que ce qu'on y apporte.
+texte: Tout part d'une impression juste. L'église est petite, sombre, et couverte du sol à la voûte de couleurs et de figures. Le visiteur qui s'attend à une chapelle de campagne trouve un théâtre. Il en conclut que tant de soin doit vouloir dire quelque chose.
+texte: Cela veut dire quelque chose, mais pas ce qu'on cherche. Un curé monarchiste, sanctionné par la République en 1885, fait de son église un manifeste : le démon ploie, les anges se signent, la devise dit « [[par-ce-signe-tu-le-vaincras|Par ce signe tu le vaincras]] ». Le reste est le goût de l'époque, celui de [[art-saint-sulpicien|l'art saint-sulpicien]], que les fabriques de Toulouse livraient sur catalogue à toute la France.
+texte: Les lectures codées procèdent toutes de même. On relève un détail — un enfant vêtu d'écossais, une lune, un sac percé au pied du [[bas-relief-du-sermon|Christ]], deux enfants Jésus parmi les [[statues-de-l-eglise|statues]] — et on le tient pour voulu. Puis on le relie à un autre. La chaîne ne manque jamais d'anneaux, puisque l'église en offre des centaines ; elle ne mène nulle part, puisque chacun la tire dans son sens.
+voir: eglise-sainte-marie-madeleine, asmodee, chemin-de-croix, statues-de-l-eglise, bas-relief-du-sermon, dallage-en-damier, terribilis-est-locus-iste, maison-giscard, art-saint-sulpicien
+
+@ langue-celtique-codee
+cat: hypotheses
+groupe: paysage
+nom: La Vraie Langue celtique, livre codé
+alias: livre codé de Boudet, cryptogramme de Boudet, cromleck codé
+statut: legende
+def: Sous ses étymologies absurdes, le livre de l'abbé Boudet décrirait en langage chiffré l'emplacement d'un dépôt : une lecture inaugurée en 1967, que rien dans l'ouvrage n'appelle.
+origine: [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]], à partir de 1967 ; la préface de Plantard à la réédition de 1978.
+pour: Le livre est si déraisonnable qu'un prêtre instruit n'a pu l'écrire au premier degré.
+pour: Il décrit minutieusement les rochers des environs de [[rennes-les-bains|Rennes-les-Bains]], et sa carte comporte des bizarreries.
+pour: Coquilles, erreurs de pagination et mots soulignés seraient autant de signaux.
+contre: [[henri-boudet|Boudet]] a défendu sa thèse publiquement : il a envoyé son livre aux académies, à Cambridge, à la reine Victoria.
+contre: La quête d'une langue primitive et la [[celtomanie|celtomanie]] étaient des passions communes au XIXe siècle.
+contre: Coquilles et pagination fautive sont celles d'une impression provinciale à compte d'auteur.
+verdict: Une légende. Le livre est sincère et faux, ce qui suffit à expliquer qu'il soit étrange.
+texte: *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]* paraît en 1886. L'auteur y soutient que l'anglais est la langue d'avant Babel et que les noms du pays, décomposés en mots anglais, livrent leur sens. Les savants de son temps en rient ou s'en irritent ; les préhistoriens ne trouvent aucun [[cromleck-de-rennes-les-bains|cromlech]] sur le terrain.
+texte: Pour qui veut un secret, cette déraison est une aubaine. Un texte absurde peut dire n'importe quoi : il suffit de décider que l'absurdité est un voile. Depuis les années 1960, on a donc cherché dans Boudet des itinéraires, des angles, des dates. Chaque lecteur a trouvé son trésor à un endroit différent.
+texte: La thèse va de pair avec celle qui fait de Boudet [[boudet-maitre-du-jeu|le maître du jeu]]. Elle oublie ce que l'auteur a fait de son livre : il l'a signé, vendu trois francs cinquante, offert aux curistes et présenté à un prix de l'Institut.
+voir: la-vraie-langue-celtique, henri-boudet, celtomanie, cromleck-de-rennes-les-bains, boudet-maitre-du-jeu, rennes-les-bains
+
+@ romanciers-inities
+cat: hypotheses
+groupe: paysage
+nom: Les romanciers initiés
+alias: Jules Verne initié, Arsène Lupin et Rennes-le-Château, capitaine Bugarach, Lupin codé
+statut: legende
+def: Jules Verne et Maurice Leblanc auraient connu le secret de Rennes et l'auraient glissé dans leurs romans : des rapprochements faits après coup, dont le plus solide se retourne.
+origine: Michel Lamy pour [[jules-verne|Jules Verne]], en 1984 ; Patrick Ferté et d'autres pour [[maurice-leblanc|Maurice Leblanc]].
+pour: Dans *[[clovis-dardentor|Clovis Dardentor]]* (1896), un personnage s'appelle le capitaine Bugarach.
+pour: *[[l-aiguille-creuse|L'Aiguille creuse]]* (1909) raconte un secret des rois de France caché dans un rocher creux, transmis par un document chiffré.
+pour: Leblanc fréquentait des milieux où l'on rencontrait [[jules-bois|Jules Bois]] et [[emma-calve|Emma Calvé]].
+contre: Rien, dans la correspondance ni dans les manuscrits de Verne, n'évoque Rennes.
+contre: L'affaire Saunière n'existe pas comme énigme avant 1956 : ces romans ne peuvent y faire allusion.
+contre: Les ressemblances jouent dans l'autre sens : ce sont les faussaires des années 1960 qui ont lu Leblanc.
+verdict: Une légende, et un contresens. Les romans n'annoncent pas le mythe : ils lui ont servi de modèle.
+texte: Le procédé est celui de toute lecture codée : on relève un nom, un nombre, une date, et on y reconnaît ce que l'on sait d'ailleurs. Un capitaine s'appelle Bugarach, comme le [[bugarach|pic]] ; un héros se nomme Dardentor, où l'on entend « d'ardent or ». Verne aimait les noms à tiroirs et prenait les siens sur les cartes.
+texte: Le cas de Leblanc est plus instructif. Un trésor royal, un parchemin, un secret que se passent les souverains, une formule à déchiffrer : *L'Aiguille creuse* contient presque tout le scénario de Rennes. Mais le roman est de 1909, et le scénario de 1967. [[pierre-plantard|Plantard]] et [[philippe-de-cherisey|Chérisey]], grands lecteurs de feuilletons, ont écrit leur histoire dans le moule qu'ils connaissaient. Le rapprochement est donc fondé ; il faut seulement le lire dans le bon ordre.
+voir: jules-verne, maurice-leblanc, clovis-dardentor, l-aiguille-creuse, bugarach, pierre-plantard, philippe-de-cherisey
+
+@ arche-d-alliance
+cat: hypotheses
+groupe: marges
+nom: L'Arche d'alliance
+alias: Arche de l'alliance, trésor de Salomon
+statut: legende
+def: L'Arche d'alliance, venue de Jérusalem avec le butin de Rome ou rapportée par les Templiers, reposerait dans une montagne du Razès : la plus haute enchère d'une légende déjà sans base.
+origine: Une variante du trésor du Temple, apparue chez divers auteurs à partir des années 1970 ; elle n'a pas d'inventeur unique.
+pour: Si le [[tresor-des-wisigoths|trésor du Temple]] est venu jusqu'à Rennes, l'Arche a pu le suivre.
+pour: Les Templiers, logés sur l'emplacement du Temple de Salomon, auraient fouillé sous leurs quartiers.
+contre: L'Arche disparaît des textes bibliques bien avant la destruction du Temple par les Romains.
+contre: La thèse additionne deux légendes sans appui : le trésor des Wisigoths et celui des [[tresor-des-templiers|Templiers]].
+contre: Aucun document, aucun objet, aucune tradition locale.
+verdict: Nul. Elle montre seulement jusqu'où une affaire de trésor peut monter quand rien ne la retient.
+texte: À mesure que l'affaire grandit, son trésor change de nature. Il était d'or en 1956 ; il devient en 1967 un secret dynastique, en 1982 un secret religieux. L'Arche d'alliance est au bout de cette surenchère : l'objet le plus sacré de l'Ancien Testament, caché au [[pech-cardou|Cardou]] ou au [[bugarach|Bugarach]] selon les auteurs.
+texte: On la doit moins à des livres précis qu'à un air du temps, celui des romans et des films d'aventure archéologique. Elle n'a jamais reçu de démonstration, pas même fausse.
+voir: tresor-des-wisigoths, tresor-des-templiers, pech-cardou, bugarach, tombeau-du-christ
+
+@ or-du-reich
+cat: hypotheses
+groupe: marges
+nom: Les nazis et le Graal
+alias: or du Reich, Graal nazi, Otto Skorzeny, fouilles allemandes de 1944
+statut: legende
+def: Des commandos allemands auraient fouillé le pays en 1943-1944 sur les traces d'Otto Rahn, à la recherche du Graal ou d'un trésor : aucune archive, ni allemande ni française, ne le confirme.
+origine: La littérature du « Graal nazi », apparue dans les années 1970, qui prolonge jusqu'à Rennes les recherches d'[[otto-rahn|Otto Rahn]] en Ariège.
+pour: Rahn a bien cherché le Graal dans le Midi, et il est entré dans la SS.
+pour: Des dignitaires nazis s'intéressaient réellement aux reliques et aux traditions ésotériques.
+pour: Le pays a été occupé à partir de novembre 1942.
+contre: Rahn est mort en 1939 ; il n'a travaillé qu'en Ariège, et rien n'atteste qu'il soit venu à Rennes.
+contre: Aucune archive ne signale de fouilles allemandes à Rennes-le-Château.
+contre: En 1943, l'affaire Saunière n'est connue de personne hors du village.
+verdict: Non étayé. La légende greffe sur Rennes une histoire qui appartient à [[montsegur|Montségur]], et qui y est déjà très enflée.
+texte: Otto Rahn séjourne en Ariège au début des années 1930. Il visite les grottes du Sabarthès, monte à Montségur, et publie en 1933 un livre où il fait des cathares les gardiens du Graal. C'est cette œuvre, et son entrée dans l'ordre noir, qui nourrissent quarante ans plus tard tout un rayon de librairie.
+texte: Les auteurs de ces livres font fouiller Montségur par un commando en 1944, et certains étendent la recherche au Razès. Mais ils écrivent après 1967, quand Rennes est devenu célèbre, et ils projettent cette célébrité en arrière. Pendant la guerre, la seule occupante de la villa Béthanie est une vieille servante, [[marie-denarnaud|Marie Dénarnaud]], dont personne ne se soucie. Voir aussi [[tresor-des-cathares|le trésor des cathares]].
+voir: otto-rahn, montsegur, tresor-des-cathares, marie-denarnaud
+
+@ bugarach-et-les-ovnis
+cat: hypotheses
+groupe: marges
+nom: Bugarach, les ovnis et 2012
+alias: fin du monde de 2012, base extraterrestre, montagne magique, cité souterraine
+statut: legende
+def: Le pic de Bugarach abriterait une cité souterraine ou une base d'extraterrestres, et aurait dû être épargné par la fin du monde de 2012 : une croyance contemporaine, étrangère à l'histoire de Saunière.
+origine: Le folklore New Age des années 1960 et 1970 ; la rumeur de 2012 vient d'internet.
+pour: Le [[bugarach|pic]] est géologiquement singulier : des couches anciennes y reposent sur des plus récentes.
+pour: Il est percé de grottes, et sa silhouette isolée frappe.
+pour: Des témoins y rapportent des lumières et des bruits.
+contre: Les géologues expliquent l'inversion des couches par un chevauchement, lors de la formation des Pyrénées.
+contre: Aucune cavité de la taille supposée n'a été trouvée par les spéléologues.
+contre: Le 21 décembre 2012 est passé.
+verdict: Une croyance de notre temps. Elle n'a de commun avec l'affaire de Rennes que le voisinage, et l'afflux de curieux.
+texte: Point culminant des Corbières, le Bugarach était un but de promenade. L'affaire de Rennes, toute proche, y amène à partir des années 1960 un public nouveau, et avec lui d'autres récits : soucoupes, vortex, peuple caché. Des auteurs comme [[guy-tarade|Guy Tarade]], venus de l'ufologie et du [[realisme-fantastique|réalisme fantastique]], font le lien entre les deux curiosités.
+texte: En 2012, une lecture hâtive du calendrier maya annonce la fin du monde pour le 21 décembre, et une rumeur désigne le pic comme l'unique refuge. Le maire s'en inquiète, la préfecture interdit l'accès au sommet, les gendarmes barrent les chemins. Il vient surtout des journalistes. L'épisode n'a rien appris sur la montagne, mais il a montré comment un lieu se charge de sens : par contagion, d'une légende voisine à la suivante.
+voir: bugarach, guy-tarade, realisme-fantastique, arche-d-alliance, rennes-aujourd-hui
+
+@ piste-de-perillos
+cat: hypotheses
+groupe: marges
+nom: La piste de Périllos
+alias: thèse Douzet, maquette de Saunière, tombeau de Périllos, Opoul-Périllos
+statut: legende
+def: Le vrai secret de Saunière ne serait pas à Rennes mais à Périllos, hameau désert des Corbières orientales, que désignerait une maquette de plâtre : un objet dont la provenance n'a jamais été établie.
+origine: [[andre-douzet|André Douzet]], à partir de 1995.
+pour: Douzet présente une [[maquette-de-sauniere|maquette]] en relief qu'il dit commandée par [[berenger-sauniere|Saunière]] peu avant sa mort.
+pour: On y lit des noms de lieux saints : tombeau du Christ, Golgotha, jardin de Gethsémani.
+pour: [[perillos|Périllos]] est un lieu désert, ancien, et ses seigneurs ont une histoire singulière.
+contre: Les lettres qui prouveraient la commande n'ont jamais été montrées en entier, et la date annoncée a varié.
+contre: Le cahier de correspondance de Saunière pour 1915-1917 n'en porte aucune trace ; l'homme est alors malade et sans argent.
+contre: [[patrick-mensior|Patrick Mensior]] a relevé qu'un relief identique, œuvre d'un franciscain, est exposé à Jérusalem : c'est une maquette de la ville sainte.
+verdict: Une légende récente, portée par un seul auteur. L'objet existe ; rien ne le relie à Saunière, et il représente vraisemblablement Jérusalem.
+texte: En déplaçant l'énigme de quatre-vingts kilomètres, Douzet lui rend ce que Rennes avait perdu : un terrain neuf. À Rennes, tout a été fouillé, interdit, commenté ; à Périllos, il n'y a qu'un plateau calcaire, une église et des ruines.
+texte: La thèse reprend celle du [[tombeau-du-christ|tombeau du Christ]] et la reloge. Elle n'a convaincu aucun historien. Elle a du moins eu un effet heureux : tirer de l'oubli un village abandonné depuis les années 1970, et sa vraie histoire, celle d'une famille de seigneurs au service des rois d'Aragon.
+voir: perillos, andre-douzet, maquette-de-sauniere, patrick-mensior, tombeau-du-christ
+
+@ prieure-a-l-elysee
+cat: hypotheses
+groupe: marges
+nom: Le prieuré à l'Élysée
+alias: Pelat grand maître, Mitterrand et Rennes-le-Château, affaire Pelat
+statut: mystification
+def: Un ami du président Mitterrand aurait été grand maître du Prieuré de Sion, signe que le secret de Rennes touchait au sommet de l'État : la dernière invention de Plantard, et celle qui l'a perdu.
+origine: [[pierre-plantard|Pierre Plantard]], en 1989, lorsqu'il relance son bulletin *Vaincre* et réécrit la liste des grands maîtres.
+pour: [[francois-mitterrand|François Mitterrand]], alors candidat, a bien visité Rennes-le-Château le 2 mars 1981 et s'est fait photographier à la tour Magdala.
+pour: [[roger-patrice-pelat|Roger-Patrice Pelat]], son ami, l'accompagnait ce jour-là.
+contre: La visite est une étape d'une tournée électorale dans l'Aude.
+contre: Plantard ne nomme Pelat qu'après sa mort, en mars 1989, quand celui-ci ne peut plus démentir.
+contre: Entendu en 1993 par le juge qui instruit l'affaire où Pelat était mêlé, Plantard reconnaît sous serment avoir tout inventé.
+verdict: Une mystification, et son épilogue judiciaire. Le seul fait est une visite de campagne.
+texte: À la fin des années 1980, Plantard a renié ses premiers documents et cherche à redonner du crédit à son [[prieure-de-sion|Prieuré]]. Il lui faut des noms neufs. Pelat est mort en pleine tourmente, mis en cause dans une affaire boursière ; son amitié avec le président est notoire. Plantard l'inscrit parmi ses grands maîtres.
+texte: Le calcul se retourne. Un magistrat s'intéresse à tout ce qui touche Pelat ; il fait perquisitionner chez Plantard, y saisit des papiers et l'entend. Sous serment, l'homme admet que le Prieuré est une fiction. On le prie de ne plus jouer avec la justice. Il se tait jusqu'à sa mort, en 2000. Voir [[aveux|les aveux]].
+texte: Reste la photographie de 1981, que l'on voit dans tous les livres. Elle montre un candidat en campagne dans un village pittoresque du département qu'il visite. Elle a suffi à faire supposer un intérêt d'État.
+voir: pierre-plantard, roger-patrice-pelat, francois-mitterrand, prieure-de-sion, aveux, tour-magdala

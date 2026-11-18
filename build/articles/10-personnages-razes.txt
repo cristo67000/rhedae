@@ -1,0 +1,162 @@
+# Les personnages du temps de Saunière : les prêtres du Razès, l'entourage du curé,
+# les évêques et l'Église, les seigneurs et dames du lieu. Vingt-six fiches.
+# La fiche berenger-sauniere est dans 01-coeur.txt : celles-ci y renvoient.
+
+# ───────────────────────── Les prêtres du Razès ─────────────────────────
+
+@ henri-boudet
+cat: personnages
+groupe: pretres
+nom: Henri Boudet
+alias: abbé Boudet, Jean-Jacques-Henri Boudet, curé de Rennes-les-Bains
+dates: 1837 – 1915
+an: 1837
+role: Curé de [[rennes-les-bains|Rennes-les-Bains]] de 1872 à 1914, auteur de *La Vraie Langue celtique*
+def: Curé de Rennes-les-Bains pendant quarante-deux ans, auteur en 1886 d'un livre qui fait de l'anglais la langue des Celtes et des rochers de sa paroisse un vaste monument celtique ; la légende en a fait, après 1967, le maître secret de Saunière.
+texte: Jean-Jacques-Henri Boudet naît à [[quillan|Quillan]] le 16 novembre 1837. Son père, régisseur des forges de la ville, meurt quand il a trois ans ; son frère cadet, Edmond, sera notaire à [[axat|Axat]]. Passé par le séminaire de [[carcassonne|Carcassonne]], licencié d'anglais selon ses biographes, il est ordonné le 25 décembre 1861. Il est vicaire à Durban, puis à Caunes-Minervois, curé de Festes-et-Saint-André en 1866. Le 16 octobre 1872, il succède à l'abbé Jean Vié à [[rennes-les-bains|Rennes-les-Bains]], petite [[thermalisme|station thermale]] de la vallée de la Sals. Il y reste quarante-deux ans.
+texte: En 1886, il fait imprimer à ses frais, chez Victor Bonnafous, à Carcassonne, *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]* : 310 pages et une carte dépliante dessinée par Edmond, pour 3,50 francs. La thèse est double. La langue des Celtes se serait conservée dans l'anglais moderne, qui expliquerait aussi bien les noms de lieux du pays que les mots languedociens, basques ou hébreux ; et les rochers qui entourent la station formeraient un immense [[cromleck-de-rennes-les-bains|cercle de pierres]] dressé par ces mêmes Celtes. Le livre est sincère : c'est celui d'un curé érudit, au temps de la [[celtomanie|celtomanie]], qui écrit en partie pour ses curistes.
+texte: Il le défend avec constance. Il en adresse des exemplaires à Cambridge, à la reine Victoria, qui en accuse réception en 1889, à l'empereur du Brésil ; il le présente en 1887 au prix Gobert de l'Académie des inscriptions, sans succès. Le *Courrier de l'Aude* en dit du bien. Les savants, non : Gaston Jourdanne l'éreinte dans *Le Radical du Midi* dès mai 1887, Eugène Lapierre rend à l'Académie de Toulouse un rapport défavorable, Émile Cartailhac fait ses réserves en 1892. Les préhistoriens venus après lui — Germain Sicard en 1928, Urbain Gibert et Guy Rancoule en 1969 — ne trouveront à Rennes-les-Bains aucun mégalithe, seulement des roches façonnées par l'érosion. Boudet n'en est pas moins un notable de l'érudition locale : membre correspondant de la Société des arts et des sciences de Carcassonne en 1888, admis à la Société de linguistique de Paris en 1897.
+texte: Avec son voisin de [[rennes-le-chateau|Rennes-le-Château]], les papiers ne montrent que des relations de confrères. Les deux curés se croisent aux visites pastorales, à Luc-sur-Aude en juillet 1885, à Couiza en juillet 1886. De 1894 à 1900, les [[carnets-de-sauniere|carnets]] de [[berenger-sauniere|Saunière]] notent que Boudet lui passe des intentions de messes à 1,50 franc, par envois de trois à quarante : 290 francs entre 1896 et 1900. Ensuite, plus rien, sinon deux demandes de Saunière, en 1907 et en 1908, auxquelles son confrère répond qu'il « n'a pas de messes », et un mot de condoléances quand Edmond meurt, en mai 1907.
+texte: Malade, Boudet démissionne le 30 avril 1914 ; l'abbé [[joseph-rescanieres|Rescanières]] le remplace. Il meurt à Axat le 30 mars 1915 — le 31 d'après l'acte de décès — et y est enterré avec son frère. La tombe porte un livre de pierre fermé, gravé du mot grec ΙΧΘΥΣ, que les auteurs à énigmes lisent souvent « I.X.O.I.S. ».
+texte: La légende vient après. En 1967, [[gerard-de-sede|Gérard de Sède]] lit son livre comme un texte à double fond. En 1978, [[pierre-plantard|Pierre Plantard]], préfaçant une réédition, affirme que Boudet aurait versé 3 679 431 francs à [[marie-denarnaud|Marie Dénarnaud]] et plus de sept millions à [[mgr-billard|Mgr Billard]] : il ne produit aucune pièce, et le « tirage de 500 exemplaires » que l'on répète partout sort de la même préface. Les registres de Saunière montrent l'inverse : un confrère qui lui passe quelques messes, puis n'en a plus. Voir [[boudet-maitre-du-jeu|Boudet, le maître du jeu]] et [[langue-celtique-codee|le livre codé]].
+repere: 16 novembre 1837 — Naissance à Quillan.
+repere: 25 décembre 1861 — Ordination.
+repere: 1866 — Curé de Festes-et-Saint-André.
+repere: 16 octobre 1872 — Curé de Rennes-les-Bains.
+repere: 1886 — Il publie à compte d'auteur *La Vraie Langue celtique*.
+repere: 1887 — Jourdanne et Lapierre rejettent sa thèse ; le livre concourt sans succès au prix Gobert.
+repere: 1888 — Membre correspondant de la Société des arts et des sciences de Carcassonne.
+repere: 1897 — Admis à la Société de linguistique de Paris.
+repere: 30 avril 1914 — Il démissionne pour raison de santé.
+repere: 30 mars 1915 — Mort à Axat.
+repere: 1978 — Pierre Plantard, préfaçant la réédition de son livre, lui prête des millions.
+oeuvres: La Vraie Langue celtique et le cromleck de Rennes-les-Bains (1886) ; Remarques sur la phonétique du dialecte languedocien (1894) ; Le Livre d'Axat (1896)
+attention: Le *Lazare, veni foras !* qu'on lui attribue parfois ne figure pas parmi ses écrits établis : l'attribution est contestée.
+voir: rennes-les-bains, la-vraie-langue-celtique, cromleck-de-rennes-les-bains, boudet-maitre-du-jeu, langue-celtique-codee, celtomanie, berenger-sauniere, joseph-rescanieres, axat, quillan
+
+@ antoine-gelis
+cat: personnages
+groupe: pretres
+nom: Antoine Gélis
+alias: abbé Gélis, Jean-Antoine-Maurice Gélis, curé de Coustaussa, crime de Coustaussa
+dates: 1827 – 1897
+an: 1827
+role: Curé de [[coustaussa|Coustaussa]] de 1857 à 1897, assassiné dans son presbytère
+def: Curé de Coustaussa pendant quarante ans, tué dans la cuisine de son presbytère dans la nuit du 31 octobre au 1er novembre 1897 ; le crime, où rien ne fut volé, n'a jamais été élucidé, et la légende l'a rattaché à Saunière soixante-dix ans plus tard.
+texte: Jean-Antoine-Maurice Gélis naît en 1827 — le 1er avril à Villesèquelande, disent ses biographes ; à [[couiza|Couiza]], écrit *L'Express du Midi* au lendemain de sa mort. Ordonné en 1852, il est nommé en 1857 à [[coustaussa|Coustaussa]], un village de 168 habitants qui fait face à [[rennes-le-chateau|Rennes-le-Château]] par-dessus la vallée de la Sals. Il n'en bouge plus. À soixante-dix ans, c'est un vieux curé méfiant, qui n'ouvre à personne la nuit ; un de ses neveux, l'abbé Malot, est chapelain au hameau des Grèzes.
+texte: Il est tué dans la cuisine de son presbytère dans la nuit du dimanche 31 octobre au lundi 1er novembre 1897. On le découvre au matin de la Toussaint. Il porte à la nuque une blessure profonde, faite par un instrument contondant, et l'autopsie relève de multiples plaies à la tête : quatorze, portées avec les pincettes de la cheminée puis avec une hachette, selon les auteurs qui citent le dossier d'instruction. Les obsèques ont lieu dès le 2 novembre, en présence du vicaire général Cantegril.
+texte: Le vol n'est pas le mobile. *L'Express du Midi* du 4 novembre signale 1 500 francs en pièces de cinq francs restés dans des tiroirs pourtant ouverts ; *Le Petit Journal* ajoute des titres, nominatifs et au porteur, et assure que pas un centime n'a été emporté. Tiroirs et papiers, en revanche, ont été fouillés : l'assassin cherchait un document. Sur la table, une bouteille de vin et un verre donnent à penser que le curé connaissait son visiteur. Et l'on ramasse un carnet de papier à cigarettes de la marque « Le Tzar », où quelqu'un a écrit au crayon « Viva Angelina » ; Gélis ne fumait pas. La pièce est au dossier. Personne n'a su l'expliquer.
+texte: Un détail a fait beaucoup écrire. Les journaux du 3 novembre décrivent le corps « la face contre le sol », dans une mare de sang ; le procès-verbal des autorités, arrivées deux heures plus tard, le dit couché sur le dos, les mains ramenées sur la poitrine. Les auteurs à mystère y lisent un rituel. L'association [[patrick-mensior|RLCdoc]] propose plus simple : le maire avait fait évacuer le presbytère avant l'arrivée du parquet, et les premiers villageois entrés auront retourné et arrangé le mort, par respect.
+texte: L'enquête est conduite par le parquet de Limoux. Deux chemineaux, arrêtés à [[campagne-sur-aude|Campagne]] par les gendarmes de [[quillan|Quillan]], sont relâchés le 6 novembre sur alibi. Le 13 avril 1898, on arrête Joseph Pagès, neveu par alliance de la victime. Son renvoi devant les assises de l'Aude est envisagé pour la session d'août ; la chambre des mises en accusation ordonne un supplément d'information, et le non-lieu est annoncé le 6 août 1898. L'affaire n'a jamais été élucidée. Le même été, l'abbé Henri Marty est installé à Coustaussa : [[berenger-sauniere|Saunière]] est de la fête, note le journal.
+texte: Rien, dans l'instruction, ne nomme le curé de Rennes. Le seul lien documenté entre les deux prêtres est une ligne du [[carnets-de-sauniere|carnet]] de Saunière, le 29 septembre 1891 : « Chez Gélis ». C'est *[[l-or-de-rennes|L'Or de Rennes]]*, en 1967, qui fait entrer le crime dans l'affaire ; [[gerard-de-sede|Gérard de Sède]] racontera encore, en 1985, « le secret des 3 curés » — Saunière, [[henri-boudet|Boudet]], Gélis. Les lectures proposées depuis, jusqu'aux spéculations récentes sur l'entourage de Saunière, n'ont apporté aucune pièce nouvelle : elles sont pesées dans la fiche [[piste-gelis|Le secret de l'abbé Gélis]]. Sa tombe, au cimetière de Coustaussa, est tournée à l'opposé des autres et ornée d'une rose — un motif funéraire banal, observe [[paul-smith|Paul Smith]].
+repere: 1827 — Naissance ; à Villesèquelande selon ses biographes, à Couiza selon la presse de 1897.
+repere: 1852 — Ordination.
+repere: 1857 — Curé de Coustaussa.
+repere: 29 septembre 1891 — Saunière note dans son carnet : « Chez Gélis ».
+repere: 1er novembre 1897 — Il est trouvé mort dans la cuisine de son presbytère.
+repere: 6 novembre 1897 — Deux chemineaux arrêtés sont relâchés sur alibi.
+repere: 13 avril 1898 — Arrestation de Joseph Pagès, son neveu par alliance.
+repere: 6 août 1898 — Le non-lieu est annoncé.
+repere: 1967 — *L'Or de Rennes* rattache le crime à l'affaire Saunière.
+repere: octobre 1975 — *Midi libre* publie l'enquête de Coudy et Nogué sur le crime.
+voir: coustaussa, piste-gelis, berenger-sauniere, carnets-de-sauniere, l-or-de-rennes, gerard-de-sede, henri-boudet, paul-smith
+
+@ alfred-sauniere
+cat: personnages
+groupe: pretres
+nom: Alfred Saunière
+alias: abbé Alfred Saunière, Jean-Marie Alfred Saunière, le frère de Saunière
+dates: 1855 – 1905
+an: 1855
+role: Prêtre, frère cadet de [[berenger-sauniere|Bérenger Saunière]]
+def: Frère cadet de Bérenger Saunière, prêtre, professeur puis précepteur, sanctionné par l'Église et mort en 1905 ; son aîné lui a attribué, devant ses juges, une large part des dons qu'il disait avoir reçus.
+texte: Jean-Marie Alfred Saunière naît à [[montazels|Montazels]] en 1855, trois ans après [[berenger-sauniere|Bérenger]]. Ordonné en 1878, un an avant son aîné, il enseigne chez les jésuites de 1879 à 1892 environ, puis devient précepteur dans des familles nobles — chez les Chefdebien, à Narbonne, dit une tradition d'auteurs qui n'a pas été vérifiée. C'est lui, et non son frère, le « Saunière » qui figure en 1886 parmi les professeurs du petit séminaire de [[narbonne|Narbonne]], d'après une étude de l'association [[patrick-mensior|RLCdoc]].
+texte: Les [[carnets-de-sauniere|carnets]] de Bérenger le montrent d'abord en pourvoyeur : en janvier 1892, Alfred lui adresse des intentions de messes, que le curé de Rennes n'acquitte qu'en septembre. Il lui amène aussi des bienfaiteurs. [[christian-doumergue|Christian Doumergue]] le décrit en rabatteur de dons auprès des milieux catholiques et royalistes de Narbonne, jusqu'à une brouille qu'il date du 9 décembre 1897.
+texte: Sa carrière finit mal. L'Église le sanctionne — suspendu, puis interdit — et il vit en ménage. Retiré à Montazels en 1903, il meurt le 9 septembre 1905, date de l'état de services diocésain et des carnets de son frère ; un site écrit le 19.
+texte: Mort, il devient un argument. En 1911, sommé de justifier ses ressources, Bérenger porte au compte de son frère, « prédicateur ayant beaucoup de relations », une part considérable des dons de sa [[dossier-du-proces|liste]] : 30 000 francs d'après un décompte, 55 000 d'après un autre. Alfred ne pouvait plus confirmer, et les juges de l'[[proces-de-sauniere|officialité]] n'en ont rien retenu. La part réelle de ses relations dans les [[dons-et-bienfaiteurs|dons]] des années 1886-1897 reste impossible à chiffrer. Une spéculation récente a voulu, enfin, le mêler au meurtre de l'abbé [[antoine-gelis|Gélis]] : aucun élément matériel ne l'y rattache (voir [[piste-gelis|le secret de l'abbé Gélis]]).
+repere: 1855 — Naissance à Montazels.
+repere: 1878 — Ordination.
+repere: 1879 — Professeur chez les jésuites, jusque vers 1892.
+repere: 9 décembre 1897 — Brouille avec son frère, selon Doumergue.
+repere: 1903 — Il se retire à Montazels.
+repere: 9 septembre 1905 — Mort.
+repere: 1911 — Bérenger lui attribue une part de ses dons devant l'officialité.
+voir: berenger-sauniere, montazels, dons-et-bienfaiteurs, reseau-royaliste, proces-de-sauniere, dossier-du-proces, narbonne, piste-gelis
+
+@ antoine-bigou
+cat: personnages
+groupe: pretres
+nom: Antoine Bigou
+alias: abbé Bigou, curé Bigou
+dates: 1719 – 1794
+an: 1719
+role: Curé de [[rennes-le-chateau|Rennes-le-Château]] de 1774 à la Révolution
+def: Curé de Rennes-le-Château à la fin de l'Ancien Régime, prêtre réfractaire mort en exil à Collioure en 1794 ; les faux des années 1960 en ont fait le confesseur de la marquise et l'auteur de messages codés.
+texte: Antoine Bigou naît en 1719 dans le pays de Sault. Son oncle, l'abbé Jean Bigou, est curé de [[rennes-le-chateau|Rennes-le-Château]] depuis 1736 ; il lui succède en 1774 — en 1776, à la mort de l'oncle, selon d'autres relevés. Il est donc le curé du lieu quand meurt, le 17 janvier 1781, [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], veuve du seigneur.
+texte: La [[revolution-en-razes|Révolution]] le chasse. Prêtre réfractaire, il abandonne ses biens à l'État et passe en Espagne — en 1792 selon les uns, en mars 1793 selon les autres. L'inventaire de l'église, dressé le 8 octobre 1792, ne relève aucun objet de valeur. Il meurt le 21 mars 1794 à Collioure, que les Espagnols occupent alors : son acte de décès a été retrouvé en 2009 dans le registre de la ville. Beaucoup de livres le font encore mourir à Sabadell, en Catalogne ; cette version est périmée.
+texte: Tout le reste est tardif. Une plaquette signée « Madeleine Blancasall », déposée à la Bibliothèque nationale en 1965 (voir [[atelier-des-faux|l'atelier des faux]]), puis *[[l-or-de-rennes|L'Or de Rennes]]*, en 1967, font de lui le chapelain et le confesseur de la marquise : il aurait reçu d'elle un secret, mis deux ans à composer son [[stele-de-la-marquise|épitaphe]], gravé une [[dalle-de-la-marquise|seconde dalle]] chiffrée, retourné la [[dalle-des-chevaliers|dalle des Chevaliers]] et caché des [[parchemins|parchemins]] avant de partir. Aucun document ne l'atteste. C'est la famille, non le curé, qui commande une pierre tombale. Et le message qu'on lui prête est l'anagramme de l'épitaphe telle qu'un bulletin savant l'a imprimée en 1906, fautes de relevé comprises : il ne peut pas être de sa main.
+texte: Reste une hypothèse plus modeste, que [[rene-descadeillas|René Descadeillas]] n'écartait pas : un prêtre qui part en exil met à l'abri les vases sacrés et quelques papiers, et un successeur lointain retombe dessus. Elle se heurte à la pauvreté du lieu — les [[famille-d-hautpoul|Hautpoul]] de Rennes sont ruinés depuis 1753 — et reste invérifiable. Voir [[magot-de-l-abbe-bigou|le magot de l'abbé Bigou]].
+repere: 1719 — Naissance dans le pays de Sault.
+repere: 1774 — Il succède à son oncle Jean Bigou comme curé de Rennes.
+repere: 17 janvier 1781 — Mort de la marquise de Blanchefort, sa paroissienne.
+repere: 8 octobre 1792 — Inventaire de l'église : aucun objet de valeur.
+repere: 1792-1793 — Réfractaire, il abandonne ses biens à l'État et passe en Espagne.
+repere: 21 mars 1794 — Mort à Collioure.
+repere: 1965 — Une plaquette apocryphe lui attribue la tombe codée de la marquise.
+repere: 2009 — Son acte de décès est retrouvé au registre de Collioure.
+voir: marie-de-negre-d-ables, magot-de-l-abbe-bigou, revolution-en-razes, stele-de-la-marquise, dalle-de-la-marquise, parchemins, famille-d-hautpoul, atelier-des-faux
+
+@ eugene-grassaud
+cat: personnages
+groupe: pretres
+nom: Eugène Grassaud
+alias: abbé Grassaud
+an: 1911
+role: Prêtre, ami de [[berenger-sauniere|Bérenger Saunière]]
+def: Prêtre ami de Saunière, à qui la tradition fait offrir par le curé de Rennes un calice ancien ; il conseille encore Marie Dénarnaud en 1918.
+texte: L'abbé Eugène Grassaud est un ami de [[berenger-sauniere|Saunière]]. En juin 1911, en plein [[proces-de-sauniere|procès]], l'ancien curé de Rennes fait le voyage de Saint-Paul-de-Fenouillet, dans les Pyrénées-Orientales, que l'on rattache à cette amitié. Après la mort de Saunière, Grassaud conseille son héritière : le 10 mai 1918, il suggère à [[marie-denarnaud|Marie Dénarnaud]] de demander 200 000 francs du domaine. Aucune vente n'aboutit.
+texte: La tradition veut que Saunière lui ait offert un calice ancien, et ceux qui pensent que le curé a tiré quelque chose des [[pillage-des-tombes|tombes]] ou du caveau de l'église citent volontiers ce cadeau. Aucune pièce ne l'établit : ni l'objet ni son origine n'ont été vérifiés.
+voir: berenger-sauniere, marie-denarnaud, pillage-des-tombes, proces-de-sauniere
+
+@ joseph-rescanieres
+cat: personnages
+groupe: pretres
+nom: Joseph Rescanières
+alias: abbé Rescanières
+dates: vers 1877 – 1915
+an: 1877
+role: Curé de [[rennes-les-bains|Rennes-les-Bains]] en 1914-1915, successeur de l'abbé Boudet
+def: Successeur d'Henri Boudet à Rennes-les-Bains, mort subitement le 1er février 1915, à trente-sept ans ; Gérard de Sède a fait de cette mort une mort suspecte.
+texte: Quand l'abbé [[henri-boudet|Boudet]], malade, démissionne le 30 avril 1914, l'évêché nomme à [[rennes-les-bains|Rennes-les-Bains]] l'abbé Joseph Rescanières ; l'annonce paraît le 2 mai. Il n'y reste que neuf mois. Il meurt subitement le 1er février 1915, à trente-sept ans — d'une crise cardiaque, probablement —, deux mois avant son prédécesseur.
+texte: [[gerard-de-sede|Gérard de Sède]] a entouré cette mort de mystère : le jeune curé aurait succombé après la visite de deux inconnus. Le détail vient de lui et ne repose sur aucune pièce. Près de l'entrée de l'église, une plaque associe aujourd'hui son nom à celui de Boudet.
+repere: vers 1877 — Naissance.
+repere: mai 1914 — Nommé curé de Rennes-les-Bains.
+repere: 1er février 1915 — Mort subite.
+voir: henri-boudet, rennes-les-bains, gerard-de-sede, boudet-maitre-du-jeu
+
+@ jean-riviere
+cat: personnages
+groupe: pretres
+nom: Jean Rivière
+alias: abbé Rivière, curé d'Espéraza
+an: 1917
+role: Curé d'[[esperaza|Espéraza]], qui assiste Saunière mourant en janvier 1917
+def: Curé d'Espéraza appelé au chevet de Saunière en janvier 1917 : il lève la censure qui frappait le mourant ; la légende en a fait un confesseur épouvanté.
+texte: L'abbé Jean Rivière est curé d'[[esperaza|Espéraza]] quand [[berenger-sauniere|Saunière]], frappé d'un malaise le 17 janvier 1917, s'éteint le 22. Il l'assiste dans ses derniers jours. Saunière est alors sous le coup de la suspense prononcée en 1911 par l'[[proces-de-sauniere|officialité]] ; Rivière la lève *in articulo mortis*, à l'article de la mort. Le prêtre condamné meurt donc en règle avec l'Église, et ses obsèques ont lieu le 24.
+texte: [[gerard-de-sede|Gérard de Sède]], en 1967, raconte une autre scène : un confesseur bouleversé par ce qu'il entend, qui refuse au mourant les derniers sacrements. Aucun document ne la rapporte ; ce que les pièces établissent, c'est une censure levée. [[jean-jacques-bedu|Jean-Jacques Bedu]] l'a souligné, car c'est sur ce confesseur épouvanté que repose en partie l'idée d'[[chantage-au-vatican|un secret qui ferait trembler l'Église]].
+attention: Ne pas le confondre avec Jacques Rivière, auteur en 1983 du *Fabuleux Trésor de Rennes-le-Château !*, ni avec Victor Rivière, le maire qui signe l'acte de décès de Saunière.
+voir: berenger-sauniere, esperaza, proces-de-sauniere, chantage-au-vatican, gerard-de-sede
+
+@ joseph-courtauly
+cat: personnages
+groupe: pretres
+nom: Joseph Courtauly
+alias: abbé Courtauly, Courtaly
+dates: mort en 1964
+an: 1964
+role: Prêtre de Villarzel-du-Razès, dont le nom a servi de caution à un recueil apocryphe
+def: Vieux prêtre de Villarzel-du-Razès, mort en 1964, dont le nom — écorché en « Courtaly » — a servi à authentifier les *Pierres gravées du Languedoc*, recueil apocryphe déposé à la Bibliothèque nationale en 1966.
+texte: L'abbé Joseph Courtauly, de Villarzel-du-Razès, n'a aucune part dans l'histoire de [[berenger-sauniere|Saunière]] : il n'entre dans le dossier qu'après sa mort, survenue en 1964. Dans ses dernières années, il prend les eaux à [[rennes-les-bains|Rennes-les-Bains]]. [[rene-descadeillas|René Descadeillas]] rapporte qu'il y rencontrait souvent un Parisien sans attaches dans le pays, que l'on voyait rôder dans la station depuis la fin des années cinquante : c'est [[pierre-plantard|Pierre Plantard]], que l'historien décrit sans le nommer.
+texte: Le 20 juin 1966, un recueil intitulé *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]* est déposé à la Bibliothèque nationale. Il se donne pour la reproduction, faite en 1962 par « l'abbé Joseph Courtaly », d'un ouvrage d'[[eugene-stublein|Eugène Stüblein]] qui aurait paru à Limoux en 1884, et produit à l'appui une lettre du prêtre. On y voit pour la première fois la [[dalle-de-la-marquise|dalle « Et in Arcadia ego »]]. Or aucun exemplaire de l'édition de 1884 n'est connu ; la lettre est un faux, qui estropie jusqu'au nom de son signataire ; et le vrai Courtauly, mort depuis deux ans, ne pouvait plus protester.
+texte: [[gerard-de-sede|Gérard de Sède]], qui disait l'avoir rencontré et enregistré, lui dédie *[[l-or-de-rennes|L'Or de Rennes]]* en 1967, en écrivant son nom correctement : l'association [[patrick-mensior|RLCdoc]] en conclut que le journaliste n'est pas l'auteur du recueil. Voir [[atelier-des-faux|l'atelier des faux]].
+voir: pierres-gravees-du-languedoc, eugene-stublein, dalle-de-la-marquise, pierre-plantard, atelier-des-faux, rennes-les-bains

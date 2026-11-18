@@ -1,0 +1,19 @@
+# Liens « Pour aller plus loin » des fiches de build/articles/21-lieux-region.txt
+carcassonne: wp Affaire de Rennes-le-Château | wp Félix Arsène Billard
+narbonne: url https://www.rennes-le-chateau-doc.fr/lespersonnages/sauniere/images2/BS_a_Narbonne.pdf = RLCdoc : Saunière à Narbonne
+montsegur: wp Otto Rahn
+puilaurens: -
+peyrepertuse: -
+queribus: -
+perillos: -
+le-clat: wp Bérenger Saunière
+coustouge: url https://renneslechateau.nl/man/saunieres-trial = Le procès de Saunière (en anglais)
+prouille: en Bérenger Saunière
+douzens: -
+saint-sulpice: wp Affaire de Rennes-le-Château
+stenay: wp Dagobert II
+gisors: en Gérard de Sède
+shugborough: wp Les Bergers d'Arcadie
+chateau-de-cabrieres: wp Emma Calvé
+annemasse: wp Prieuré de Sion | en Priory of Sion
+rosslyn: -

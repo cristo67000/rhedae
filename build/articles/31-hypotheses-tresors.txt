@@ -1,0 +1,311 @@
+# Les hypothèses, suite : les trésors, puis les secrets.
+
+@ tresor-des-wisigoths
+cat: hypotheses
+groupe: tresors
+nom: Le trésor des Wisigoths
+alias: trésor du Temple de Jérusalem, trésor d'Alaric, chandelier à sept branches, butin de Rome
+statut: legende
+def: Le butin pris à Rome en 410, où figurerait le trésor du Temple de Jérusalem, aurait été caché par les Wisigoths dans leur place forte de Rhedae : une légende que les textes anciens contredisent.
+origine: Le cadre vient de Louis Fédié, qui fait en 1880 de Rennes une capitale wisigothique. Le trésor lui-même paraît chez [[gerard-de-sede|Gérard de Sède]] en 1967, puis dans le premier film d'[[henry-lincoln|Henry Lincoln]] pour la BBC, en 1972.
+pour: Les Wisigoths d'[[alaric|Alaric]] ont bien pillé Rome en 410, et Rome gardait depuis l'an 70 le butin rapporté de Jérusalem par Titus.
+pour: Battus à Vouillé en 507, ils se replient en [[wisigoths-en-septimanie|Septimanie]], dont le Razès fait partie : un trésor royal a dû y passer.
+pour: Le nom de [[rhedae|Rhedae]] est ancien, et le site est une forteresse naturelle.
+contre: Selon l'historien Procope, le trésor du Temple quitte Rome en 455 avec les Vandales, puis est repris par Bélisaire et envoyé à Constantinople en 534.
+contre: Le trésor royal wisigoth, mis à l'abri à Carcassonne en 507, part pour Ravenne puis revient à Tolède, où les Arabes le prennent en 711.
+contre: Aucun texte ne fait de Rhedae une capitale, et aucun objet wisigothique de prix n'a jamais été trouvé à Rennes.
+verdict: Sans base. Le sac de Rome est un fait ; tout ce qui mène de Rome à Rennes est une supposition du XIXe siècle habillée en tradition.
+texte: Le noyau est vrai. Le 24 août 410, les Wisigoths entrent dans Rome et la pillent trois jours. Un siècle plus tard, vaincus par Clovis, ils ne tiennent plus au nord des Pyrénées qu'une bande de terre de Narbonne à Carcassonne. Leurs rois avaient un trésor, que les chroniqueurs décrivent et suivent à la trace : il finit à Tolède.
+texte: Le saut se fait en 1880. Dans *[[le-comte-de-razes-fedie|Le Comté de Razès]]*, Louis Fédié imagine à Rennes une cité de trente mille habitants, à deux citadelles. Aucune fouille ne l'a confirmé ; mais le décor est planté, et il suffira d'y poser un trésor. Les faussaires des années 1960 le feront avec méthode : la [[dalle-des-chevaliers|dalle des Chevaliers]] devient wisigothique, le [[pilier-sculpte|pilier de l'autel]] aussi, alors que les archéologues les datent de l'époque carolingienne.
+texte: La variante la plus ambitieuse fait du butin celui du Temple de Jérusalem, chandelier compris, et ouvre la voie à l'[[arche-d-alliance|Arche d'alliance]]. Elle se heurte à Procope, qui écrit au VIe siècle et raconte un tout autre itinéraire.
+voir: alaric, wisigoths-en-septimanie, rhedae, le-comte-de-razes-fedie, arche-d-alliance, dalle-des-chevaliers, gerard-de-sede
+
+@ tresor-de-blanche-de-castille
+cat: hypotheses
+groupe: tresors
+nom: Le trésor de Blanche de Castille
+alias: trésor royal, dix-huit millions et demi, 18 500 000 pièces d'or
+statut: legende
+def: Dix-huit millions et demi de pièces d'or que la régente aurait mises à l'abri à Rennes vers 1250 : le premier trésor de l'affaire, lancé en 1956 par l'hôtelier Noël Corbu.
+origine: [[noel-corbu|Noël Corbu]], dans le [[recit-de-noel-corbu|récit]] qu'il enregistre pour ses clients en 1955, repris par *La Dépêche du Midi* en janvier 1956.
+pour: [[blanche-de-castille|Blanche de Castille]] gouverne le royaume pendant la croisade de son fils, et la révolte des Pastoureaux, en 1251, menace Paris : il fallait un lieu sûr.
+pour: Le Razès venait d'entrer dans le domaine royal, et Rennes était une place forte.
+pour: À Rennes-les-Bains, une source s'appelle le Bain de la Reine.
+contre: Aucun texte ne parle d'un tel dépôt. Le Trésor royal est alors gardé au Temple de Paris, et la régente n'est jamais venue à Rennes.
+contre: Cent quatre-vingts tonnes d'or dépassent tout ce que le royaume possédait de métal monnayé.
+contre: Corbu lui-même abandonne cette version dès 1962.
+verdict: Une invention publicitaire. Elle doit sans doute son chiffre à une vieille légende du pays, notée en 1832 : dix-neuf millions et demi gardés par le diable à Blanchefort.
+texte: Quand il ouvre son hôtel dans la villa de l'abbé, Corbu a besoin d'une histoire. Il sait que le curé a beaucoup dépensé ; il lui faut dire d'où venait l'argent. Il choisit une reine, un chiffre rond et un péril : Blanche de Castille, dix-huit millions et demi de pièces d'or, les Pastoureaux aux portes de Paris. [[berenger-sauniere|Saunière]] aurait trouvé le dépôt grâce à des parchemins, et n'en aurait dépensé qu'une part.
+texte: Le chiffre est le détail qui trahit. En 1832, le voyageur Labouïsse-Rochefort rapportait dans son *[[voyage-a-rennes-les-bains|Voyage à Rennes-les-Bains]]* la légende d'un trésor de dix-neuf millions et demi, que le diable gardait au [[chateau-de-blanchefort|château de Blanchefort]]. Corbu a pu la connaître, comme il a pu connaître la tradition qui fait venir une reine Blanche aux eaux de [[rennes-les-bains|Rennes-les-Bains]].
+texte: La version ne dure pas. Dès que [[pierre-plantard|Pierre Plantard]] s'empare de l'affaire, la reine cède la place aux Mérovingiens. Mais c'est elle qui a fait venir les premiers chercheurs, et les [[articles-de-la-depeche|articles de 1956]] qui portent son trésor sont l'acte de naissance du mythe.
+voir: noel-corbu, blanche-de-castille, recit-de-noel-corbu, articles-de-la-depeche, tresor-du-diable-de-blanchefort, naissance-du-mythe
+
+@ tresor-des-templiers
+cat: hypotheses
+groupe: tresors
+nom: Le trésor des Templiers
+alias: Templiers du Bézu, trésor du Temple, Templiers de Blanchefort
+statut: legende
+def: Des Templiers venus du Roussillon auraient échappé aux arrestations de 1307 et caché leur trésor au Bézu ou à Blanchefort : une conjecture bâtie sur une homonymie et sur un château qui n'était pas à eux.
+origine: L'abbé Maurice Mazières, à la fin des années 1950, pour une présence templière au Bézu ; [[gerard-de-sede|Gérard de Sède]] en 1962 et 1967, puis [[henry-lincoln|Henry Lincoln]] en 1979, pour le trésor.
+pour: Les Templiers du Roussillon, sujets du roi de Majorque, ne sont pas arrêtés le 13 octobre 1307 ; jugés à part, ils sont acquittés.
+pour: Un maître du Temple s'appelle [[bertrand-de-blanquefort|Bertrand de Blanquefort]], et un château du pays se nomme Blanchefort.
+pour: Les ruines du [[chateau-du-bezu|Bézu]] sont appelées « château des Templiers ».
+contre: La maison du Temple attestée dans la haute vallée est à [[campagne-sur-aude|Campagne-sur-Aude]] ; la grande commanderie de l'Aude est à [[douzens|Douzens]].
+contre: Le château du Bézu, l'ancien Albedun, appartient à des seigneurs laïcs.
+contre: Bertrand de Blanquefort est un Gascon du Bordelais, sans lien avec le Razès.
+verdict: Une conjecture à la base documentaire très mince. Le « trésor du Temple » est lui-même une légende moderne ; le loger au Bézu en ajoute une seconde.
+texte: L'ordre du Temple a bien possédé des biens dans l'Aude : voir [[templiers-en-razes|Templiers et Hospitaliers en Razès]]. Mais ses maisons sont dans la plaine et dans la vallée, là où sont les terres à blé et les chemins. Le Bézu est un nid d'aigle tenu par une famille du pays.
+texte: La légende repose sur deux glissements. Le premier est géographique : parce que les Templiers du Mas Deu, en Roussillon, relevaient d'un autre roi et furent épargnés en 1307, on a supposé qu'un détachement s'était établi de ce côté-ci de la frontière. Le second est une homonymie : les [[dossiers-secrets|Dossiers secrets]] installent à Blanchefort un maître de l'ordre qui portait le nom d'un village de Gironde, et lui font venir des mineurs allemands en 1156.
+texte: Le pays a pourtant connu, au Bézu, une vraie affaire d'argent caché : celle des [[faux-monnayeurs-du-bezu|faux-monnayeurs]] de 1344. Elle n'a rien à voir avec le Temple, supprimé depuis trente ans.
+voir: templiers-en-razes, chateau-du-bezu, bertrand-de-blanquefort, campagne-sur-aude, douzens, faux-monnayeurs-du-bezu, chateau-de-blanchefort
+
+@ tresor-des-cathares
+cat: hypotheses
+groupe: tresors
+nom: Le trésor des cathares
+alias: trésor de Montségur, évasion de Montségur, Graal cathare
+statut: legende
+def: Le trésor que quatre cathares auraient sauvé de Montségur en 1244 aurait fini à Rennes : les dépositions de l'époque l'envoient ailleurs.
+origine: Le thème vient d'[[otto-rahn|Otto Rahn]] et de Maurice Magre, dans les années 1930 ; [[gerard-de-sede|Gérard de Sède]] le rapproche du Razès dans *Le Trésor cathare*, en 1966.
+pour: Devant l'Inquisition, des témoins disent que le trésor de l'Église cathare a quitté [[montsegur|Montségur]] vers Noël 1243.
+pour: Quatre hommes s'échappent encore la nuit qui précède le bûcher du 16 mars 1244.
+pour: Le Razès avait ses seigneurs cathares, dont ceux du [[chateau-du-bezu|Bézu]].
+contre: Les mêmes dépositions envoient le trésor vers le Sabarthès, en haute Ariège, non vers l'Aude.
+contre: Montségur est à quarante kilomètres, et rien ne relie cet argent au Razès.
+contre: Il s'agit, semble-t-il, d'argent et peut-être de livres : la caisse d'une Église traquée, non un trésor de légende.
+verdict: Hors sujet. L'évasion est un fait ; son lien avec Rennes n'a jamais reposé sur rien.
+texte: Le siège de Montségur dure dix mois. La place capitule le 2 mars 1244 ; le 16, plus de deux cents cathares qui refusent d'abjurer sont brûlés au pied de la montagne. Les survivants sont interrogés, et c'est par eux que l'on sait qu'un dépôt avait été mis à l'abri. Voir [[croisade-des-albigeois|la croisade contre les Albigeois]].
+texte: Au XXe siècle, ce dépôt devient le Graal. Otto Rahn croit reconnaître dans Montségur le château du *Parzival* ; d'autres après lui parlent de livres secrets, d'un calice, d'une pierre. Aucun de ces auteurs ne pense à Rennes : c'est l'affaire Saunière, une fois lancée, qui aspire tous les trésors du Midi. On retrouve le même mouvement pour l'[[or-du-reich|or du Reich]], qui fait chercher le Graal par des commandos allemands.
+voir: montsegur, croisade-des-albigeois, otto-rahn, or-du-reich, gerard-de-sede, chateau-du-bezu
+
+@ faux-monnayeurs-du-bezu
+cat: hypotheses
+groupe: tresors
+nom: L'or des faux-monnayeurs
+alias: faux-monnayeurs du Bézu, fausse monnaie du Bézu, affaire de 1344
+statut: fragile
+def: Au XIVe siècle, de la fausse monnaie a été frappée au château du Bézu : un fait divers authentique, où certains voient l'origine d'un dépôt d'or retrouvé plus tard.
+origine: L'affaire est connue des érudits locaux ; [[rene-descadeillas|René Descadeillas]] et [[gerard-de-sede|Gérard de Sède]] l'évoquent tous deux comme une origine possible de lingots ou de coins cachés.
+pour: La procédure de 1344 est réelle : on a bien fabriqué de la fausse monnaie au [[chateau-du-bezu|Bézu]], et des nobles du pays y étaient mêlés.
+pour: Des faussaires surpris cachent leur métal ; il a pu en rester dans le sol.
+contre: Aucun document ne relie cette affaire à [[berenger-sauniere|Saunière]], qui n'a jamais fouillé au Bézu.
+contre: Le détail de la procédure — les noms, les sommes — n'est pas établi dans les sources consultées pour ce dossier.
+verdict: Un fait médiéval authentique, sans lien démontré avec l'affaire. Il explique tout au plus qu'on ait pu, çà et là, trouver de l'or dans le pays.
+texte: C'est l'un des rares épisodes du dossier où de l'or caché n'est pas une supposition. Au milieu du XIVe siècle, alors que la monnaie royale s'affaiblit, des gentilshommes du Razès sont poursuivis pour avoir battu monnaie dans la forteresse isolée du Bézu. L'affaire se règle par des poursuites, puis par des grâces.
+texte: Elle a servi deux fois. Aux partisans du trésor, elle fournit un métal déjà fondu, prêt à être découvert. Aux sceptiques, elle offre une explication modeste des trouvailles que la rumeur prête au pays. Mais six siècles la séparent de Saunière, et rien ne les rejoint. Elle n'a pas non plus de rapport avec le [[tresor-des-templiers|trésor des Templiers]] que l'on place au même endroit : l'ordre était supprimé depuis 1312.
+voir: chateau-du-bezu, tresor-des-templiers, mines-d-or-du-razes, rene-descadeillas
+
+@ mines-d-or-du-razes
+cat: hypotheses
+groupe: tresors
+nom: Les mines d'or du Razès
+alias: mines de Blanchefort, mineurs allemands, mine du Roc Nègre, mines du général Dagobert
+statut: legende
+def: Le « trésor » serait une richesse du sous-sol, exploitée en secret depuis le Moyen Âge : le pays a eu des mines, mais pas d'or, et les comptes du curé n'en portent aucune trace.
+origine: Les [[dossiers-secrets|Dossiers secrets]] de 1967, qui font venir des mineurs allemands à Blanchefort en 1156 ; [[roger-rene-dagobert|Roger-René Dagobert]], à partir des années 1980, pour les mines du général Dagobert.
+pour: Le pays a réellement été exploité : jais, cuivre, plomb argentifère autour de [[chateau-de-blanchefort|Blanchefort]] et du [[pech-cardou|Cardou]].
+pour: La source salée de la Sals a nourri un vrai trafic de sel, donc une tradition de richesse cachée.
+pour: Le général Dagobert, mort en 1794, avait par son mariage des intérêts miniers dans les Corbières.
+contre: Aucun gisement d'or n'est attesté dans le Razès.
+contre: Les mineurs allemands de 1156 sortent des Dossiers secrets, qui les rattachent à un maître du Temple étranger au pays.
+contre: Les comptes de [[berenger-sauniere|Saunière]] ne montrent ni vente de métal ni dépense de fouille.
+verdict: Une toile de fond géologique exacte, et une hypothèse gratuite.
+texte: Qui se promène autour de Rennes-les-Bains voit des entrées de galeries. Elles sont anciennes, et elles ont donné du jais pour les chapelets, un peu de cuivre, du plomb où l'on cherchait l'argent. À [[fontaine-salee|la Fontaine salée]], la rivière sort de terre chargée de sel, que la gabelle rendait précieux et que l'on fraudait.
+texte: De ces faits, la légende tire deux récits. Le premier, médiéval, met des fondeurs allemands au service des Templiers. Le second, moderne, suppose que des archives minières, passées par la franc-maçonnerie du XVIIIe siècle, auraient désigné un filon à des initiés. Ni l'un ni l'autre n'a produit un document, et les deux butent sur la même pierre : on n'a jamais tiré d'or de ce sol.
+voir: chateau-de-blanchefort, pech-cardou, fontaine-salee, roger-rene-dagobert, bertrand-de-blanquefort, faux-monnayeurs-du-bezu
+
+@ tresor-du-diable-de-blanchefort
+cat: hypotheses
+groupe: tresors
+nom: Le trésor gardé par le diable
+alias: légende de Blanchefort, dix-neuf millions et demi, bergère de Blanchefort
+statut: legende
+def: En 1832, un voyageur note à Rennes-les-Bains qu'un trésor de dix-neuf millions et demi est gardé par le diable dans les ruines de Blanchefort : le pays avait sa légende un demi-siècle avant Saunière.
+origine: Auguste de Labouïsse-Rochefort, *[[voyage-a-rennes-les-bains|Voyage à Rennes-les-Bains]]*, 1832, qui rapporte un conte du pays.
+pour: Le texte est authentique et daté : la tradition d'un trésor à [[chateau-de-blanchefort|Blanchefort]] existe bien avant l'affaire.
+pour: Les contes de trésor gardé s'attachent souvent à des lieux où l'on a réellement trouvé quelque chose.
+contre: C'est un conte : le diable compte ses écus au soleil, une bergère le surprend, les villageois consultent un sorcier.
+contre: Le récit ne dit rien de Rennes-le-Château ni de son église.
+verdict: Une légende, et précieuse comme telle : elle prouve que le trésor de 1956 n'est pas sorti de rien, et que son chiffre a peut-être un modèle.
+texte: Labouïsse-Rochefort est un homme de lettres qui prend les eaux et note ce qu'on lui raconte. Les ruines de Blanchefort dominent la route ; on lui dit que le diable y garde dix-neuf millions et demi, qu'une bergère l'a vu étaler son or, et que le marquis de Fleury fit un procès aux villageois venus creuser sur ses terres.
+texte: Le rapprochement s'impose avec les dix-huit millions et demi de [[tresor-de-blanche-de-castille|Blanche de Castille]]. [[noel-corbu|Noël Corbu]] a-t-il lu ce livre, ou recueilli le conte de la bouche des gens ? On l'ignore. Mais la coïncidence des chiffres suggère que l'hôtelier a moins inventé qu'habillé une vieille histoire, en la déplaçant de six kilomètres et en remplaçant le diable par une reine.
+voir: voyage-a-rennes-les-bains, chateau-de-blanchefort, tresor-de-blanche-de-castille, noel-corbu, paul-urbain-de-fleury, rennes-les-bains
+
+@ prieure-de-sion
+cat: hypotheses
+groupe: secrets
+nom: Le prieuré de Sion
+alias: Prieuré de Sion, ordre de Sion, grands maîtres du Prieuré, nautoniers
+statut: mystification
+def: Une société secrète fondée en 1099 garderait depuis neuf siècles le secret de Rennes : c'est une association déclarée en Haute-Savoie en 1956, à laquelle son fondateur a ensuite fabriqué un passé.
+origine: [[pierre-plantard|Pierre Plantard]]. L'association date de 1956 ; l'ordre millénaire paraît dans les documents déposés à la Bibliothèque nationale de 1964 à 1967.
+pour: Les *[[dossiers-secrets|Dossiers secrets]]* donnent la liste de ses grands maîtres, de 1188 à Jean Cocteau, avec Léonard de Vinci, Newton, Hugo et Debussy.
+pour: Une abbaye Notre-Dame du Mont-Sion a bien existé à Jérusalem au temps des croisades.
+pour: Les documents sont conservés à la Bibliothèque nationale, ce qui leur donne l'apparence de l'archive.
+contre: Les [[statuts-de-1956|statuts de 1956]] parlent de la défense des locataires d'[[annemasse|Annemasse]] ; le nom vient du mont Sion, une colline voisine.
+contre: Les documents ont été déposés sous de faux noms par Plantard et ses amis ; la Bibliothèque nationale reçoit ce qu'on lui dépose, sans rien garantir.
+contre: [[philippe-de-cherisey|Philippe de Chérisey]] a reconnu avoir fabriqué les parchemins, et Plantard, entendu par un juge en 1993, a reconnu sous serment avoir tout inventé.
+verdict: Une mystification établie, reconnue par ses auteurs. L'abbaye de Jérusalem a existé ; elle n'a aucun lien avec l'association de 1956.
+texte: Le 25 juin 1956, quatre hommes déposent à la sous-préfecture de Saint-Julien-en-Genevois les statuts d'une association. Son bulletin, *Circuit*, s'occupe des habitations à loyer modéré. Elle ne vit que quelques mois. Rien, à cette date, ne la relie à Rennes-le-Château, dont le trésor vient pourtant de paraître dans la presse.
+texte: Dix ans plus tard, le nom ressert. Plantard, qui fréquente [[rennes-les-bains|Rennes-les-Bains]], a compris ce que l'affaire Saunière pouvait porter. Avec Chérisey, il compose une histoire : des moines calabrais, Godefroy de Bouillon, un ordre qui aurait créé les Templiers puis s'en serait séparé, et qui veillerait sur la [[descendance-merovingienne|lignée des Mérovingiens]]. Les pièces sont déposées une à une à la Bibliothèque nationale : voir [[atelier-des-faux|l'atelier des faux]].
+texte: [[gerard-de-sede|Gérard de Sède]] met le tout en récit en 1967. En 1982, *[[l-enigme-sacree|L'Énigme sacrée]]* y ajoute une [[lignee-de-jesus|descendance du Christ]], et en 2003 le *[[da-vinci-code|Da Vinci Code]]* affirme en première page que le Prieuré est une organisation réelle. Entre-temps, les enquêtes de [[pierre-jarnac|Pierre Jarnac]], de [[jean-luc-chaumeil|Jean-Luc Chaumeil]] et de [[paul-smith|Paul Smith]] ont publié les rapports de police, la lettre du maire d'Annemasse et les lettres des faussaires. Voir [[aveux|les aveux]].
+voir: pierre-plantard, philippe-de-cherisey, statuts-de-1956, dossiers-secrets, annemasse, descendance-merovingienne, lignee-de-jesus, atelier-des-faux, aveux, l-enigme-sacree
+
+@ descendance-merovingienne
+cat: hypotheses
+groupe: secrets
+nom: La survivance mérovingienne
+alias: descendance de Dagobert II, lignée mérovingienne, rejeton ardent, comtes de Razès mérovingiens
+statut: mystification
+def: Le fils de Dagobert II aurait survécu, fait souche à Rhedae et laissé une descendance jusqu'à Pierre Plantard : une généalogie fabriquée dans les années 1960.
+origine: [[pierre-plantard|Pierre Plantard]], dans les plaquettes déposées à la Bibliothèque nationale à partir de janvier 1964, à partir d'un article de vulgarisation paru en 1960.
+pour: [[dagobert-ii|Dagobert II]] a existé, et il a bien été assassiné près de [[stenay|Stenay]] en 679.
+pour: Le petit [[parchemins|parchemin]] dit : « À Dagobert II roi et à Sion est ce trésor ».
+pour: Les Carolingiens, qui ont supplanté les Mérovingiens, avaient intérêt à effacer un héritier.
+contre: [[sigebert-iv|Sigebert IV]] ne figure dans aucun texte ancien : il apparaît dans les documents de Plantard.
+contre: Le parchemin a été fabriqué par [[philippe-de-cherisey|Chérisey]] ; il prouve le faussaire, non le roi.
+contre: Plantard a renié ces généalogies en 1989, puis reconnu sous serment en 1993 les avoir inventées.
+verdict: Une généalogie de fantaisie, reconnue comme telle par son auteur. Elle n'avait qu'un objet : faire de lui un prétendant.
+texte: Le but de Plantard n'a jamais été le trésor. Dès les années 1940, il rêve d'un rôle, et il lui faut des ancêtres. Les Mérovingiens conviennent : ils sont les premiers rois, on les dit dépossédés, et leur fin est assez obscure pour qu'on y glisse un survivant.
+texte: Le survivant s'appelle Sigebert. Sauvé du meurtre de son père, il aurait été conduit dans le Razès, chez sa mère, et y aurait fait souche sous le nom de « rejeton ardent », d'où l'on tire *Plant-Ard*. Ses descendants seraient les comtes de Razès, puis une suite de familles jusqu'aux Plantard. Les [[dossiers-secrets|Dossiers secrets]] en donnent les tableaux, attribués à un généalogiste imaginaire.
+texte: Rennes-le-Château fournit le décor. La [[dalle-des-chevaliers|dalle des Chevaliers]] montrerait la fuite de l'enfant ; les parchemins que [[berenger-sauniere|Saunière]] aurait trouvés seraient les titres de la lignée, cachés par l'abbé [[antoine-bigou|Bigou]]. Ainsi l'affaire d'un curé dépensier devient-elle une affaire d'État, et le [[prieure-de-sion|prieuré de Sion]] le gardien d'un trône.
+voir: dagobert-ii, sigebert-iv, pierre-plantard, dossiers-secrets, prieure-de-sion, parchemins, stenay, lignee-de-jesus, guillaume-de-gellone
+
+@ lignee-de-jesus
+cat: hypotheses
+groupe: secrets
+nom: La lignée de Jésus
+alias: sang réal, Saint Graal, descendance du Christ, Jésus et Marie-Madeleine, Holy Blood
+statut: mystification
+def: Jésus et Marie-Madeleine auraient eu une descendance, passée en Gaule et unie aux Mérovingiens ; le Graal serait ce « sang royal » : la thèse de L'Énigme sacrée, bâtie sur les faux de Plantard.
+origine: Michael Baigent, Richard Leigh et [[henry-lincoln|Henry Lincoln]], *[[l-enigme-sacree|The Holy Blood and the Holy Grail]]*, 1982 ; reprise par le roman de [[dan-brown|Dan Brown]] en 2003.
+pour: Une légende provençale fait débarquer [[marie-madeleine|Marie-Madeleine]] en Gaule et la fait mourir à la Sainte-Baume.
+pour: Des évangiles gnostiques, celui de Philippe et celui de Marie, lui donnent une place à part auprès de Jésus.
+pour: L'église de Rennes lui est dédiée, et [[berenger-sauniere|Saunière]] a nommé sa tour Magdala et sa villa Béthanie.
+contre: La légende provençale ne remonte pas au-delà du XIe siècle, et aucun texte ancien ne parle d'un enfant.
+contre: Le lien avec les Mérovingiens repose tout entier sur les [[dossiers-secrets|Dossiers secrets]], seule source des auteurs sur le Prieuré.
+contre: [[pierre-plantard|Plantard]] lui-même a récusé la thèse : il se voulait descendant de rois, non du Christ.
+verdict: De la pseudo-histoire. L'étage du bas est une légende médiévale, l'étage du haut un faux moderne, et rien ne les relie que le désir des auteurs.
+texte: En 1982, trois auteurs anglais ajoutent à l'édifice de Plantard un étage qu'il n'avait pas prévu. Si les Mérovingiens sont si précieux, disent-ils, c'est qu'ils descendent de Jésus. Le *San Graal* des romans se lirait *Sang réal* ; le [[prieure-de-sion|prieuré de Sion]] protégerait cette lignée, et l'Église la combattrait. Le secret de Saunière serait d'en avoir trouvé la preuve.
+texte: Le livre se vend par millions. Il donne à l'affaire une portée religieuse qu'elle n'avait pas, et fait de la dédicace d'une église de village un indice. Or l'église est dédiée à Marie-Madeleine depuis le Moyen Âge, et les noms de Magdala et de Béthanie sont ceux qu'un curé choisit pour honorer la patronne de sa paroisse.
+texte: Vingt ans plus tard, le *[[da-vinci-code|Da Vinci Code]]* en fait un roman. Ses deux prédécesseurs, [[baigent-et-leigh|Baigent et Leigh]], attaquent l'éditeur en plagiat et perdent, en 2006 : on ne peut, dit le juge, présenter une thèse comme de l'histoire et la revendiquer comme une fiction. Voir [[effet-da-vinci-code|l'effet Da Vinci Code]].
+voir: marie-madeleine, l-enigme-sacree, baigent-et-leigh, henry-lincoln, dan-brown, da-vinci-code, descendance-merovingienne, prieure-de-sion, tombeau-du-christ
+
+@ tombeau-du-christ
+cat: hypotheses
+groupe: secrets
+nom: Le tombeau du Christ
+alias: tombeau de Dieu, The Tomb of God, tombeau de Marie-Madeleine, tombeau de Jésus au Cardou
+statut: legende
+def: Le corps de Jésus, ou celui de Marie-Madeleine, reposerait dans une montagne du Razès : une déduction géométrique faite en 1996 à partir de documents faux.
+origine: Richard Andrews et Paul Schellenberger, *The Tomb of God*, 1996, qui désignent le [[pech-cardou|Pech Cardou]] ; variantes d'[[andre-douzet|André Douzet]] pour [[perillos|Périllos]] et de [[christian-doumergue|Christian Doumergue]] pour un tombeau de Marie-Madeleine.
+pour: Des lignes tracées sur les [[parchemins|parchemins]] et sur des tableaux se recoupent, selon ces auteurs, en un point du Cardou.
+pour: La devise *[[et-in-arcadia-ego|Et in Arcadia ego]]*, lue comme une anagramme, parlerait d'un tombeau de Dieu.
+pour: Un tel secret expliquerait le silence de l'Église.
+contre: La géométrie est construite sur les parchemins de [[philippe-de-cherisey|Chérisey]], fabriqués dans les années 1960.
+contre: La BBC a démonté la démonstration à l'antenne le 17 septembre 1996 : voir *[[history-of-a-mystery|The History of a Mystery]]*.
+contre: Rien n'a jamais été trouvé ; le « tombeau » montré dans un film de 2008 était une mise en scène, avouée en 2012.
+verdict: Nul. On ne tire pas un fait d'un faux, quelle que soit la précision des lignes.
+texte: [[andrews-et-schellenberger|Andrews et Schellenberger]] sont deux Anglais, l'un ingénieur, l'autre géomètre. Ils prennent les parchemins pour authentiques, y relèvent des angles, les reportent sur la carte et aboutissent au flanc d'une montagne en face de [[chateau-de-blanchefort|Blanchefort]]. La devise de Poussin, complétée d'un mot, deviendrait : « Je touche le tombeau de Dieu, Jésus. »
+texte: La thèse suppose que Jésus n'est pas ressuscité, et que des initiés le savent depuis toujours. Elle prolonge en cela la [[lignee-de-jesus|lignée de Jésus]] de 1982, en remplaçant une descendance par une dépouille. D'autres ont déplacé le tombeau : à Périllos, sur la foi d'une [[maquette-de-sauniere|maquette]] ; ou l'ont attribué à Marie-Madeleine. Aucune de ces variantes n'a produit autre chose qu'un tracé.
+voir: pech-cardou, andrews-et-schellenberger, et-in-arcadia-ego, geometrie-sacree, piste-de-perillos, lignee-de-jesus, history-of-a-mystery
+
+@ chantage-au-vatican
+cat: hypotheses
+groupe: secrets
+nom: Le secret qui fait chanter l'Église
+alias: chantage au Vatican, secret dogmatique, confesseur épouvanté
+statut: legende
+def: Saunière aurait détenu un document si dangereux pour l'Église qu'elle l'aurait payé pour se taire : mais l'Église l'a muté, jugé et suspendu, et il est mort endetté.
+origine: Des allusions de [[gerard-de-sede|Gérard de Sède]] en 1967 ; la thèse est développée par *[[l-enigme-sacree|L'Énigme sacrée]]* en 1982.
+pour: L'origine d'une partie des fonds n'a jamais été éclaircie, [[berenger-sauniere|Saunière]] ayant refusé de nommer ses donateurs.
+pour: Son confesseur serait sorti bouleversé de sa chambre et lui aurait refusé les derniers sacrements.
+pour: [[mgr-billard|Mgr Billard]] l'a longtemps ménagé.
+contre: Saunière n'a rien d'un homme protégé : averti quatre fois, nommé ailleurs, cité, condamné, suspendu.
+contre: Un homme qui ferait chanter Rome ne solliciterait pas des messes à un franc, et n'emprunterait pas six mille francs sur son domaine.
+contre: La scène du confesseur n'a aucune source : l'abbé [[jean-riviere|Rivière]] a au contraire levé la censure à son chevet.
+verdict: Contredit par les faits. Tout ce que l'on sait de ses rapports avec l'évêché est l'inverse d'une impunité.
+texte: L'idée a pour elle sa simplicité : puisque le curé était riche et que l'Église ne dit pas pourquoi, c'est qu'elle payait. Reste à dire quoi. Les uns parlent d'une généalogie qui ruinerait la légitimité des rois, les autres d'une preuve que le Christ a eu des enfants, d'autres encore d'un tombeau.
+texte: Le [[dossier-du-proces|dossier du procès]] raconte autre chose. De 1909 à 1911, l'évêché de Carcassonne poursuit son ancien curé avec une patience procédurière, et Rome, saisie en appel, renvoie l'affaire. Saunière se défend comme un homme acculé : il enfle ses dépenses, invente des feuilles volantes, se dit sans archives. Voir [[proces-de-sauniere|le procès de l'abbé Saunière]]. Quant à l'indulgence de Mgr Billard, elle cesse en 1899, quand l'évêque tente de l'éloigner, puis lui interdit par deux fois de solliciter des messes.
+voir: proces-de-sauniere, dossier-du-proces, jean-riviere, mgr-billard, mgr-de-beausejour, lignee-de-jesus, trafic-de-messes
+
+@ crypte-des-seigneurs
+cat: hypotheses
+groupe: secrets
+nom: La crypte des seigneurs
+alias: tombeau des seigneurs, caveau des Hautpoul, crypte de l'église, découverte d'un tombeau
+statut: plausible
+def: Un caveau seigneurial existe sous le chœur de l'église, attesté par le registre paroissial ; Saunière l'a très probablement rouvert en 1891. C'est la seule cavité que les documents établissent — et un caveau n'est pas un trésor.
+origine: Le registre paroissial de 1694-1726 ; la note du carnet de Saunière du 21 septembre 1891. L'hypothèse a été étudiée par [[rene-descadeillas|René Descadeillas]], puis par l'architecte [[paul-saussez|Paul Saussez]] à partir de 2004.
+pour: Le registre mentionne un « tombeau des seigneurs » dans l'église, « auprès du balustre », où l'on inhume encore en 1705 et en 1724.
+pour: Le 21 septembre 1891, alors qu'on dépose le dallage, [[berenger-sauniere|Saunière]] écrit dans son [[carnets-de-sauniere|carnet]] : « Découverte d'un tombeau. »
+pour: En 2001, un géoradar relève sous le chœur une anomalie au-delà de trois mètres, interprétée comme une cavité.
+pour: Le caveau est fermé entre 1726 et 1737 : la marquise elle-même, en 1781, est enterrée au cimetière.
+contre: Personne n'a vu ce caveau depuis Saunière ; l'État a refusé en 2003 la fouille demandée dans l'église.
+contre: Rien n'indique qu'il ait contenu autre chose que des sépultures.
+contre: Une anomalie de géoradar n'est pas une preuve : elle demande à être vérifiée.
+verdict: Plausible, et la seule piste du dossier qui repose sur des documents d'époque. Elle dit ce que le curé a pu voir, non qu'il s'y soit enrichi.
+texte: De tout ce que l'on prête à l'église de Rennes — souterrains, salles, galeries vers le château —, une seule chose est écrite : les [[famille-d-hautpoul|seigneurs]] s'y faisaient enterrer. Le registre du curé le dit sans mystère, comme on note une habitude. Vers 1730, on cesse d'y descendre, et l'entrée est condamnée.
+texte: Cent soixante ans plus tard, Saunière refait le sol. Sa note du 21 septembre 1891 est la seule découverte qu'il ait lui-même consignée, et elle tient en trois mots, entre une lettre reçue et la pluie du soir. Il est très vraisemblable qu'il a retrouvé l'accès du caveau, ou une tombe qui en dépendait. C'est à ce moment que la tradition place la découverte de la [[dalle-des-chevaliers|dalle des Chevaliers]], posée face contre terre, et le souvenir d'un pot d'objets brillants que le curé aurait dits « médailles de Lourdes ».
+texte: Ce qu'il y a pris, s'il y a pris quelque chose, on ne le sait pas. Un caveau noble peut contenir des bijoux, des monnaies, un écrit : voir [[magot-de-l-abbe-bigou|le magot de l'abbé Bigou]] et [[pillage-des-tombes|les tombes fouillées]]. Cela ferait un appoint, non une fortune. Les travaux de Paul Saussez ont proposé un plan de cette crypte et de ses accès possibles, dont l'un par le cimetière.
+texte: La question est redevenue actuelle. En septembre 2025, des carottages ont été faits autour de l'église, pour le diagnostic de ses fondations ; depuis le 16 novembre 2026, l'édifice est fermé pour une seconde tranche d'investigations, cette fois à l'intérieur. Ce sont des travaux de sécurité, non des fouilles, et leurs résultats ne sont pas publiés. Voir [[fouilles|les fouilles]].
+voir: eglise-sainte-marie-madeleine, carnets-de-sauniere, paul-saussez, famille-d-hautpoul, dalle-des-chevaliers, magot-de-l-abbe-bigou, pillage-des-tombes, fouilles, plaintes-de-1895
+
+@ piste-gelis
+cat: hypotheses
+groupe: secrets
+nom: Le secret de l'abbé Gélis
+alias: meurtre de Coustaussa, assassinat de Gélis, Viva Angelina
+statut: fragile
+def: Le meurtre du curé de Coustaussa, en 1897, serait lié à l'affaire de Rennes : le crime est réel et impuni, mais aucune pièce ne le rattache à Saunière.
+origine: [[gerard-de-sede|Gérard de Sède]] en 1967, puis l'enquête de deux journalistes du *Midi libre* en 1975. Des lectures récentes désignent tel ou tel proche de Saunière, sans document.
+pour: [[antoine-gelis|Antoine Gélis]] est tué à six kilomètres de Rennes, quelques mois après l'inauguration de l'église, et [[berenger-sauniere|Saunière]] le connaissait.
+pour: Le vol ne semble pas le mobile : de l'argent est resté dans les tiroirs.
+pour: Le meurtrier a laissé un papier à cigarettes portant les mots « Viva Angelina », jamais expliqués.
+contre: L'instruction de 1897-1898 a suivi une piste familiale : un neveu est arrêté, puis bénéficie d'un non-lieu.
+contre: Aucune pièce du dossier ne mentionne Saunière, son frère ni un secret.
+contre: Les détails « rituels » de la scène ne sont pas ceux que rapporte la presse du moment.
+verdict: Un crime de village resté sans coupable. Le relier à l'affaire, c'est expliquer une énigme par une autre.
+texte: Le 1er novembre 1897, on trouve le vieux curé de [[coustaussa|Coustaussa]] mort dans son presbytère, frappé à la tête. Il vivait enfermé, n'ouvrait qu'à qui il connaissait, et cachait son argent dans la maison. La justice de Limoux enquête, soupçonne un neveu endetté, l'arrête au printemps suivant et le relâche faute de preuves.
+texte: Soixante-dix ans plus tard, l'affaire Saunière lui donne un sens nouveau. Gélis aurait su quelque chose ; on l'aurait fait taire. Le corps aurait été disposé les mains croisées, comme un gisant. Mais les journaux de novembre 1897 disent qu'on le trouva face contre terre, et seul le procès-verbal, dressé plus tard, le décrit sur le dos.
+texte: Depuis, chacun a son coupable. L'un des plus souvent nommés est [[alfred-sauniere|Alfred Saunière]], le frère : c'est une spéculation moderne, qui ne repose sur aucune pièce. La seule chose sûre est celle que dit le dossier : on n'a jamais su.
+voir: antoine-gelis, coustaussa, alfred-sauniere, gerard-de-sede, chantage-au-vatican
+
+@ boudet-maitre-du-jeu
+cat: hypotheses
+groupe: secrets
+nom: Boudet, le maître du jeu
+alias: Boudet cerveau de l'affaire, comptes de Boudet, Boudet financier de Saunière
+statut: legende
+def: Le curé de Rennes-les-Bains aurait tout su, tout dirigé et tout payé, Saunière n'étant que son exécutant : une thèse née en 1978, appuyée sur des comptes que personne n'a vus.
+origine: [[pierre-plantard|Pierre Plantard]], dans sa préface à la réédition de *[[la-vraie-langue-celtique|La Vraie Langue celtique]]*, en 1978.
+pour: [[henri-boudet|Boudet]] est l'aîné, l'érudit, et il a publié son livre un an après l'arrivée de [[berenger-sauniere|Saunière]].
+pour: Plantard cite des « comptes de Boudet » : plus de quatre millions versés à Marie Dénarnaud, sept millions à l'évêque.
+pour: Les deux paroisses se touchent, et les deux hommes se connaissaient.
+contre: Ces comptes n'ont jamais été montrés.
+contre: Les registres de Saunière n'enregistrent venant de Boudet que 290 francs, de 1896 à 1900 : des intentions de messes à un franc cinquante.
+contre: En 1907 et 1908, Boudet répond qu'il « n'a pas de messes » ; il meurt pauvre, à Axat, en 1915.
+verdict: Une invention de 1978. Les seuls comptes qui existent, ceux de Saunière, montrent deux confrères qui s'échangent de petites sommes.
+texte: L'idée a une fonction dans le récit. Tant que Saunière est seul, sa fortune reste celle d'un homme ; dès qu'un supérieur caché le commande, elle devient celle d'une organisation. Plantard en a besoin pour relier Rennes-le-Château à [[rennes-les-bains|Rennes-les-Bains]], où il a lui-même ses habitudes.
+texte: Les chiffres qu'il avance sont de ceux qu'on ne discute pas, faute de pouvoir les lire. Ils supposent qu'un curé de station thermale ait manié en quinze ans douze millions de francs, quand son livre, à trois francs cinquante l'exemplaire, ne lui a rien rapporté. La thèse a été reprise depuis, et elle sert de socle à la lecture de son ouvrage comme d'un [[langue-celtique-codee|livre codé]].
+voir: henri-boudet, la-vraie-langue-celtique, langue-celtique-codee, pierre-plantard, carnets-de-sauniere, rennes-les-bains
+
+@ piste-occultiste
+cat: hypotheses
+groupe: secrets
+nom: Saunière chez les occultistes
+alias: voyage à Paris, Saunière martiniste, Saunière et Emma Calvé, Saunière à Saint-Sulpice
+statut: legende
+def: Monté à Paris avec ses parchemins, Saunière y aurait fréquenté les cercles occultistes, la cantatrice Emma Calvé et Debussy : ses carnets, qui notent tous ses déplacements, ne connaissent pas ce voyage.
+origine: La plaquette signée « Blancasall », déposée à la Bibliothèque nationale en 1965, puis [[gerard-de-sede|Gérard de Sède]] en 1967.
+pour: [[emma-calve|Emma Calvé]] fréquentait réellement les occultistes parisiens, dont [[jules-bois|Jules Bois]].
+pour: [[emile-hoffet|Émile Hoffet]], à qui l'on fait déchiffrer les parchemins, a existé et s'intéressait aux sociétés secrètes.
+pour: Le décor de l'église serait trop étrange pour un curé ordinaire.
+contre: Aucun voyage à Paris ne figure dans les carnets de 1891-1892 ni dans la liste de ses déplacements de 1896 à 1915.
+contre: En 1892, Hoffet a dix-neuf ans et fait son noviciat chez les oblats, aux Pays-Bas.
+contre: Aucune lettre de Calvé dans les registres de correspondance ; la liaison paraît pour la première fois en 1967.
+verdict: Un roman. Sa bibliothèque et son courrier sont ceux d'un curé de campagne conventionnel.
+texte: Le récit est connu. L'évêque envoie Saunière à [[saint-sulpice|Saint-Sulpice]] ; le directeur du séminaire le confie à un jeune érudit ; pendant qu'on déchiffre, le curé court les salons, séduit une diva et achète au Louvre trois reproductions, dont *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]*. [[noel-corbu|Noël Corbu]], qui parlait déjà d'un départ pour Paris, ajoutait en 1956 qu'il n'en avait « aucune confirmation ».
+texte: Tout, ici, a été choisi après coup. Hoffet parce que [[pierre-plantard|Plantard]] l'avait connu dans sa jeunesse ; Calvé parce qu'elle venait du Midi et qu'on la savait liée aux mages ; Debussy parce qu'il figure sur la liste des grands maîtres du [[prieure-de-sion|Prieuré]]. Une variante place à Lyon une initiation martiniste : les pièces n'en ont pas été publiées. Voir [[occultisme-fin-de-siecle|l'occultisme fin de siècle]].
+voir: emma-calve, emile-hoffet, jules-bois, saint-sulpice, occultisme-fin-de-siecle, carnets-de-sauniere, gerard-de-sede

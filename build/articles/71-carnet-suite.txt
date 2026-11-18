@@ -1,0 +1,102 @@
+# Fiches tirées du carnet NotebookLM de l'auteur, suite : six pistes de plus.
+# Mêmes réserves que pour 70-carnet.txt : source seconde, à recouper.
+
+@ piste-chanterac
+cat: hypotheses
+groupe: argent
+nom: La piste Chantérac
+alias: trésor de l'évêché d'Alet, Mgr de Chantérac, dépôt de 1792
+statut: fragile
+def: Les biens du dernier évêque d'Alet, disparus du palais épiscopal en 1792, auraient été cachés dans l'église de Rennes, où Saunière les aurait retrouvés : la disparition est un fait, le transport à Rennes une supposition.
+origine: Michel Vallet, qui signe [[pierre-jarnac|Pierre Jarnac]], avec Michel Azens, dans des conférences des années 2010.
+pour: Mgr de La Cropte de Chantérac, dernier évêque d'[[alet-les-bains|Alet]], part pour l'Espagne en 1792 ; l'inventaire dressé en octobre trouve le palais vidé de ses richesses.
+pour: Deux de ses neveux font, en août 1792, un détour par Alet avant d'émigrer, ce que rien d'autre n'explique.
+pour: Un dépôt d'église — argenterie, vases sacrés — est le genre de trouvaille qu'un curé peut faire et taire.
+contre: Rien n'atteste que ces biens aient été portés à Rennes plutôt que cachés sur place, comme il était d'usage.
+contre: Les comptes de [[berenger-sauniere|Saunière]] ne montrent aucune vente d'objets anciens.
+contre: L'inventaire de l'église de Rennes, le 8 octobre 1792, ne signale rien de valeur.
+verdict: Fragile, mais d'un autre ordre que les légendes : elle part d'archives réelles et ne suppose qu'un dépôt d'église. Il lui manque le chaînon qui mène d'Alet à Rennes.
+texte: C'est une hypothèse d'archiviste. Rennes dépendait du [[diocese-d-alet|diocèse d'Alet]], supprimé à la Révolution. Son dernier évêque refuse le serment et s'exile. Quand les commissaires viennent inventorier son palais, ils n'y trouvent presque plus rien de ce que décrivaient les inventaires précédents.
+texte: Où est passé le mobilier ? Les auteurs de la piste croient suivre des hommes de confiance montant de nuit à Rennes, avec des mulets chargés, à la fin d'août 1792. Un siècle plus tard, en refaisant le sol de l'église, Saunière aurait trouvé la cache. La thèse rejoint celle du [[magot-de-l-abbe-bigou|magot de l'abbé Bigou]], en remplaçant le curé par l'évêque, et celle de la [[crypte-des-seigneurs|crypte des seigneurs]] pour le lieu.
+texte: Elle a contre elle le silence des comptes, et pour elle sa modestie : elle n'explique pas des milliards, mais un appoint. Ce dossier la rapporte d'après la synthèse des sources de son auteur, sans avoir pu en contrôler les pièces.
+voir: pierre-jarnac, alet-les-bains, diocese-d-alet, magot-de-l-abbe-bigou, crypte-des-seigneurs, revolution-en-razes
+
+@ protochretiens-du-razes
+cat: hypotheses
+groupe: secrets
+nom: Les protochrétiens du Razès
+alias: Marie-Madeleine à Narbonne, tombeau de Marie-Madeleine, thèse Doumergue, Vindicta Salvatoris
+statut: legende
+def: Marie-Madeleine aurait débarqué à Narbonne et une communauté de premiers chrétiens aurait gardé, près de Rennes-les-Bains, son tombeau ou celui de Jésus : la thèse de Christian Doumergue, que ses sources ne portent pas.
+origine: [[christian-doumergue|Christian Doumergue]], dans plusieurs livres et conférences des années 2000 et 2010.
+pour: Narbonne était un grand port romain, où vivait une communauté juive ancienne.
+pour: Un apocryphe du haut Moyen Âge, la *Vindicta Salvatoris*, mêle une sainte femme, l'empereur Tibère et la Gaule du Sud.
+pour: Des occultistes de la fin du XIXe siècle, autour de [[jules-doinel|Jules Doinel]], ont déjà placé dans le Midi un tombeau du Christ.
+contre: La *Vindicta Salvatoris* est un récit légendaire, sans valeur de témoignage pour le Ier siècle ; Tibère n'est jamais venu en Narbonnaise.
+contre: Aucune tradition locale, médiévale ou moderne, ne place Marie-Madeleine dans le Razès avant la fin du XXe siècle.
+contre: L'idée descend en droite ligne de *[[l-enigme-sacree|L'Énigme sacrée]]* et des faux de Plantard.
+verdict: Une légende savante. Elle habille de textes anciens une idée née en 1982.
+texte: La légende provençale fait aborder [[marie-madeleine|Marie-Madeleine]] aux Saintes-Maries et la fait mourir à la Sainte-Baume. Doumergue déplace le débarquement vers l'ouest : Narbonne, puis la haute vallée de l'Aude, où les eaux chaudes de [[rennes-les-bains|Rennes-les-Bains]] auraient attiré une communauté de fidèles. Le tombeau serait sous le [[pech-cardou|Cardou]] ou dans ses environs.
+texte: L'auteur est aussi l'un de ceux qui ont le mieux dépouillé les papiers de Saunière, et ses livres documentaires restent utiles. C'est sur ce point qu'il quitte les documents. La thèse prolonge le [[tombeau-du-christ|tombeau du Christ]] et la [[lignee-de-jesus|lignée de Jésus]], avec plus d'érudition et pas plus de preuves.
+voir: christian-doumergue, marie-madeleine, tombeau-du-christ, lignee-de-jesus, rennes-les-bains, pech-cardou, jules-doinel
+
+@ bornes-meridiennes
+cat: hypotheses
+groupe: paysage
+nom: Les bornes méridiennes
+alias: bornes du Haut-Razès, sanctuaire géodésique, méridienne de Cassini, méridienne verte
+statut: legende
+def: Des bornes de pierre du Haut-Razès baliseraient un sanctuaire secret le long du méridien de Paris : ce sont des repères d'arpenteurs, lus comme des signes.
+origine: Jean-Pierre Garcia, à partir de 2010, dans des conférences et des publications en ligne.
+pour: Le méridien de Paris traverse bien le pays, et les Cassini y ont réellement travaillé.
+pour: On trouve sur les hauteurs des bornes anciennes, dont certaines portent un repère de métal.
+contre: La triangulation des Cassini répondait à des besoins de cartographie, militaires et fiscaux.
+contre: Bornes de commune, repères de nivellement et bornes géodésiques existent partout en France.
+contre: Les écarts entre le tracé ancien et le tracé moderne tiennent aux instruments, non à une intention.
+verdict: Une légende, variante de la géométrie sacrée : le fait de départ est exact, l'intention prêtée ne l'est pas.
+texte: La méridienne de France est une entreprise de savants. Décidée sous Louis XIV, mesurée par triangulation de Dunkerque à Perpignan par les Cassini entre la fin du XVIIe siècle et 1718, vérifiée en 1739-1740, reprise par Delambre et Méchain pour définir le mètre. Dans l'Aude, elle passe à l'est de [[rennes-le-chateau|Rennes-le-Château]]. En l'an 2000, une « Méridienne verte » l'a matérialisée par des plantations et des bornes.
+texte: Sur ce fond, on a cherché des bornes qui diraient autre chose. Celles que l'on signale près du [[bugarach|Bugarach]] ou dans les collines sont rangées en figures, et l'on y voit le marquage d'un lieu caché. C'est la démarche du [[meridien-de-paris|méridien et de la « Rose Ligne »]] et de la [[geometrie-sacree|géométrie sacrée]], portée du papier au terrain.
+voir: meridien-de-paris, geometrie-sacree, bugarach, tombeau-des-pontils
+
+@ colline-envoutee
+cat: hypotheses
+groupe: marges
+nom: La colline envoûtée
+alias: Jean Robin, fin des temps, contre-initiation, René Guénon et Rennes-le-Château, Grand Monarque
+statut: legende
+def: Rennes-le-Château serait un centre spirituel disputé entre des forces occultes, promis à un rôle à la fin des temps : la lecture de Jean Robin, qui applique au village les notions de René Guénon.
+origine: Jean Robin, *Rennes-le-Château, la colline envoûtée*, 1982, puis *Le Royaume du Graal*, 1992.
+pour: L'auteur connaît bien l'œuvre de Guénon, et il a su voir une partie des impostures de [[pierre-plantard|Plantard]].
+pour: Le site est ancien, et il a concentré en un siècle un nombre peu commun de récits.
+contre: Ni « centre spirituel » ni « contre-initiation » ne sont des notions vérifiables.
+contre: Des lecteurs de Guénon eux-mêmes ont reproché à Robin d'en faire un usage sensationnel.
+contre: Sa construction repose sur le matériel mérovingien des années 1960, qu'elle interprète sans le discuter.
+verdict: Une lecture métaphysique, hors du champ de la preuve. Elle dit ce que le lieu inspire, non ce qui s'y est passé.
+texte: Robin écrit au moment où paraît *[[l-enigme-sacree|L'Énigme sacrée]]*, et il en est l'envers. Les auteurs anglais cherchent un secret historique ; lui cherche un sens. La France aurait une mission, le méridien en serait l'axe, et Rennes un pôle où se joue, depuis la fin des Capétiens directs en 1328, une lutte entre une tradition légitime et ses contrefaçons.
+texte: La thèse annonce un « Grand Monarque » et rejoint par là les attentes [[legitimisme|légitimistes]] du XIXe siècle, transposées en mystique. Elle appartient à l'histoire du [[realisme-fantastique|réalisme fantastique]] et de ses suites plus qu'à celle du village.
+voir: realisme-fantastique, pierre-plantard, legitimisme, meridien-de-paris, l-enigme-sacree
+
+@ n-inverses
+cat: pieces
+groupe: signes
+nom: Les N inversés
+alias: N inversé, étoiles à six branches, sceau de Salomon, INRI inversé
+statut: discute
+def: Des N gravés à l'envers et des étoiles à six branches, relevés sur des croix et dans des églises du pays : on y a vu la signature d'un cercle d'initiés, là où les historiens voient l'habitude des graveurs.
+texte: Le relevé est exact. Sur l'inscription INRI de la croix du [[cimetiere|cimetière]] de Rennes, le N est tracé à l'envers ; on en signale d'autres sur des calvaires de [[campagne-sur-aude|Campagne-sur-Aude]], d'[[antugnac|Antugnac]], du Bugarach, et jusque sur des peintures de [[saint-sulpice|Saint-Sulpice]], à Paris. Des étoiles à six branches ornent des églises de Limoux et d'[[alet-les-bains|Alet]].
+texte: De là l'idée d'un signe de reconnaissance, que se seraient passé des prêtres ou des artistes affiliés à une société discrète. Les auteurs qui la défendent y joignent le sceau de Salomon, et relient le tout à l'[[eglise-codee|église lue comme un rébus]].
+texte: L'objection tient à ce que l'on sait des ateliers. Les tailleurs de pierre de campagne, peu lettrés, inversaient couramment les lettres dissymétriques, le N et le S surtout : on en trouve dans toute la France, sans rapport avec Rennes. Quant à l'étoile à six branches, c'est un motif ordinaire du décor religieux du XIXe siècle, qui rappelle la lignée de David. La [[stele-de-la-marquise|stèle de la marquise]] offre les mêmes maladresses, et la même tentation de les croire voulues.
+voir: eglise-codee, stele-de-la-marquise, cimetiere, chemin-de-croix, histoire-et-pseudo-histoire
+
+@ cercle-catholique-de-narbonne
+cat: contexte
+groupe: siecle
+nom: Le Cercle catholique de Narbonne
+alias: cercle catholique, royalistes de Narbonne, famille de Chefdebien, Beauxhostes
+an: 1886
+def: Cercle de notables catholiques et royalistes de Narbonne, par lequel passèrent, grâce à son frère Alfred, les premiers bienfaiteurs de l'abbé Saunière.
+texte: Les cercles catholiques naissent après 1870, dans le sillage de la défaite et de la Commune. Ils réunissent des notables, des prêtres, des ouvriers encadrés, et mêlent œuvres sociales et espoir d'une restauration. Celui de Narbonne est [[legitimisme|légitimiste]] : on y attendait le [[comte-de-chambord|comte de Chambord]], et, après sa mort, on y reste fidèle à la cause.
+texte: [[alfred-sauniere|Alfred Saunière]], prêtre et précepteur dans des familles nobles, y a ses entrées. C'est par lui que son frère y est introduit, au moment où la République vient de lui couper son traitement. Voir [[eglise-et-republique|l'Église contre la République]]. Les familles que citent les études — les Chefdebien, les Beauxhostes — sont de ce milieu, comme Mme Cavailhé, de Coursan, qui offre en 1887 le maître-autel de l'église.
+texte: C'est le fond réel de l'hypothèse des [[dons-et-bienfaiteurs|dons]] : entre 1886 et 1897, un jeune curé sanctionné pour ses opinions reçoit l'aide de gens qui les partagent. Les montants avancés reposent pour l'essentiel sur ce que [[berenger-sauniere|Saunière]] a déclaré à ses juges. Aller plus loin, et faire du cercle le commanditaire du domaine, c'est passer au [[reseau-royaliste|réseau royaliste]], que rien n'établit.
+texte: On a voulu lire dans la devise du bénitier, « [[par-ce-signe-tu-le-vaincras|Par ce signe tu le vaincras]] », la signature du cercle. C'est la parole de la vision de Constantin, que portent des centaines d'églises.
+voir: alfred-sauniere, legitimisme, dons-et-bienfaiteurs, reseau-royaliste, comtesse-de-chambord, eglise-et-republique

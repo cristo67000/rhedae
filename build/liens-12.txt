@@ -1,0 +1,29 @@
+# Liens « Pour aller plus loin » des fiches de build/articles/12-personnages-mythe.txt.
+noel-corbu: wp Noël Corbu | url https://priory-of-sion.com/rlc/seeds.html = Paul Smith : pièces sur Noël Corbu et les débuts du récit (en anglais)
+pierre-plantard: wp Pierre Plantard | wp Prieuré de Sion
+philippe-de-cherisey: wp Philippe de Chérisey | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/Le_Codex_Biaise.pdf = RLCdoc : « Le Codex biaisé », la source des parchemins
+gerard-de-sede: en Gérard de Sède | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/GdS_a_RLC_1962.pdf = RLCdoc : Gérard de Sède et Rennes-le-Château
+robert-charroux: wp Robert Charroux
+henry-lincoln: en Henry Lincoln
+baigent-et-leigh: en The Holy Blood and the Holy Grail
+dan-brown: -
+andre-douzet: -
+david-wood: -
+andrews-et-schellenberger: -
+henri-buthion: -
+jacques-cholet: url https://renneslechateau.nl/mystery/the-cholet-report = renneslechateau.nl : le rapport Cholet (en anglais) | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/Acces_au_tombeau_des_Seigneurs.pdf = RLCdoc : l'accès au tombeau des seigneurs
+deodat-roche: -
+roger-rene-dagobert: -
+guy-tarade: -
+rene-descadeillas: -
+jean-jacques-bedu: -
+pierre-jarnac: -
+corbu-et-captier: -
+bruno-de-monts: -
+jean-luc-chaumeil: -
+putnam-et-wood: -
+paul-smith: url https://priory-of-sion.com/ = priory-of-sion.com, le site de Paul Smith (en anglais)
+octonovo: url https://priory-of-sion.com/rlc/sauniereswealth.html = Paul Smith : les ressources de Saunière d'après ses registres (en anglais)
+christian-doumergue: -
+paul-saussez: url https://portail-rennes-le-chateau.com/la-crypte-de-leglise-de-rennes-le-chateau-de-paul-saussez/ = Gazette de Rennes-le-Château : « La Crypte oubliée » de Paul Saussez
+patrick-mensior: url https://www.rennes-le-chateau-doc.fr/ = RLCdoc : les documents d'époque en fac-similé

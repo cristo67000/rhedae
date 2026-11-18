@@ -1,0 +1,6 @@
+node_modules/
+captures/
+*.log
+build/.sources-images/
+build/.sources-carte/
+build/.recherche/

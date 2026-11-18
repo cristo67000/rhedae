@@ -1,0 +1,27 @@
+# Liens « Pour aller plus loin » des fiches de 10-personnages-razes.txt (personnages du temps de Saunière).
+henri-boudet: wp Henri Boudet | ia abbeboudetlavraielangueceltique = La Vraie Langue celtique (1886), numérisée
+antoine-gelis: url https://www.rennes-le-chateau-doc.fr/pressetmagazines/ExpressduMidi/Images/Express_du_Midi_Gelis_1897.pdf = RLCdoc : le crime dans L'Express du Midi, novembre 1897 | wp Coustaussa
+alfred-sauniere: url https://www.rennes-le-chateau-doc.fr/lespersonnages/sauniere/images2/BS_a_Narbonne.pdf = RLCdoc : Saunière au petit séminaire de Narbonne
+antoine-bigou: url https://renneslechateau.nl/man/antoine-bigou = renneslechateau.nl : Antoine Bigou (en anglais)
+eugene-grassaud: -
+joseph-rescanieres: -
+jean-riviere: -
+joseph-courtauly: url https://www.rennes-le-chateau-doc.fr/elements_insolites/images/A_propos_de_pierres_gravees_du_Languedoc.pdf = RLCdoc : à propos de Pierres gravées du Languedoc
+marie-denarnaud: wp Noël Corbu
+elie-bot: url https://renneslechateau.nl/man/elie-bot = renneslechateau.nl : Élie Bot (en anglais)
+tiburce-caminade: -
+maison-giscard: -
+paul-courrent: -
+antoine-captier: -
+comtesse-de-chambord: -
+ernest-cros: url https://renneslechateau.nl/man/ernest-cros = renneslechateau.nl : Ernest Cros (en anglais)
+mgr-billard: wp Félix Arsène Billard | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/Deplacement_Berenger_Sauniere_1899.pdf = RLCdoc : le personnat de 1899
+mgr-de-beausejour: wp Paul-Félix Beuvain de Beauséjour
+eugene-huguet: url https://renneslechateau.nl/man/saunieres-trial = renneslechateau.nl : le procès de Saunière (en anglais)
+emile-hoffet: wp Émile Hoffet | url https://renneslechateau.nl/man/emile-hoffet = renneslechateau.nl : Émile Hoffet (en anglais)
+nicolas-pavillon: -
+marie-de-negre-d-ables: url https://www.rennes-le-chateau-doc.fr/lespersonnages/blanchefort/la_stele_de_marie_de_negre_dables.pdf = RLCdoc : la stèle de Marie de Nègre d'Ables
+famille-d-hautpoul: url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/Acces_au_tombeau_des_Seigneurs.pdf = RLCdoc : l'accès au tombeau des seigneurs | url https://www.rennes-le-chateau-doc.fr/etudes%20et%20articles/images/La_dalle.pdf = RLCdoc : la dalle de l'ossuaire
+pierre-de-voisins: wp Comté de Razès
+paul-urbain-de-fleury: -
+bertrand-de-blanquefort: wp Bertrand de Blanquefort

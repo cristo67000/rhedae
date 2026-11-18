@@ -1,0 +1,509 @@
+# Les pièces du dossier : les objets, les pierres, les papiers et les signes sur
+# lesquels s'appuie toute l'affaire. Pour chacune : ce que c'est matériellement,
+# d'où on la connaît, ce que la légende lui fait dire, ce qu'en dit l'examen.
+# Quatre groupes : l'église et son décor, pierres et tombes, papiers, signes.
+
+# ───────────────────────── L'église et son décor ─────────────────────────
+
+@ asmodee
+cat: pieces
+groupe: eglise
+nom: Le diable du bénitier
+alias: Asmodée, diable de Rennes-le-Château, bénitier au diable, démon du bénitier, bénitier avec diable
+dates: 1897
+an: 1897
+statut: authentique
+def: Groupe de terre cuite peinte livré en 1897 pour l'église restaurée : un démon ployé porte le bénitier, sous quatre anges qui font le signe de la croix. Le nom d'Asmodée ne lui est donné qu'en 1967.
+texte: C'est un groupe de terre cuite peinte, sorti des ateliers toulousains de la [[maison-giscard|maison Giscard]]. Un démon accroupi, grimaçant, porte la vasque d'eau bénite. Au-dessus de lui, deux animaux fabuleux — salamandres ou basilics, selon les descriptions — encadrent un cartouche aux initiales B.S. Au sommet, quatre anges décomposent le signe de la croix, chacun faisant l'un des gestes, avec la légende « [[par-ce-signe-tu-le-vaincras|Par ce signe tu le vaincras]] ». Le démon tenait à l'origine un trident, qu'on lui a retiré très tôt.
+texte: On le connaît par les papiers du curé. En novembre 1896, [[berenger-sauniere|Saunière]] passe marché avec Giscard pour tout le décor de l'[[eglise-sainte-marie-madeleine|église]] : 2 500 francs, payables par annuités. La facture du 30 juin 1897 désigne la pièce en trois mots, « bénitier avec diable ». Le reste — statues, chemin de croix — est du mobilier de série, choisi sur catalogue ; ce groupe-là paraît seul une commande particulière. [[mgr-billard|Mgr Billard]] bénit l'église restaurée le 6 juin 1897, jour de la Pentecôte.
+texte: Le sens n'est pas caché : l'eau bénite et le signe de croix terrassent le démon. Pour Saunière, ce démon a même un visage. Dans un prône d'octobre 1885, c'étaient les républicains qu'il appelait « le diable à vaincre », et le ministre des Cultes lui avait retiré son traitement pendant sept mois. Douze ans plus tard, le diable plie sous le bénitier. L'image appartient au catholicisme de combat de ces années-là, celui de [[eglise-et-republique|la guerre de l'Église et de la République]], hanté par la franc-maçonnerie ; elle ne doit rien à l'[[occultisme-fin-de-siecle|occultisme]]. Un diable comparable se voit à la collégiale Saint-Vincent de Montréal, dans l'Aude.
+texte: Aucun papier de Saunière ne lui donne de nom. Celui d'Asmodée lui vient de [[gerard-de-sede|Gérard de Sède]], qui en fait en 1967, dans *[[l-or-de-rennes|L'Or de Rennes]]*, le démon « gardien du trésor de Salomon » : le bénitier devient un indice, et le diable une sentinelle. Le nom n'était pourtant pas inconnu des catholiques de 1897. Dans la mystification antimaçonnique de Léo Taxil, avouée en public le 19 avril de cette année-là, une prétendue Diana Vaughan passait pour la fiancée du démon Asmodée. Rien ne montre que le curé y ait songé.
+texte: La statue a payé sa célébrité. En avril 1996, elle est décapitée et la tête volée ; on la refait. Le 23 avril 2017, jour du premier tour de l'élection présidentielle, une femme l'attaque à la hache, ainsi que le [[autel-de-marie-madeleine|bas-relief de l'autel]]. Jugée à Carcassonne le 27 octobre, elle est condamnée à deux mois de prison avec sursis, avec obligation de soins et interdiction de paraître dans la commune. Les deux œuvres ont été restaurées. Depuis 1996, la tête du diable n'est plus celle de Giscard.
+repere: octobre 1885 — Saunière prêche contre les républicains, « le diable à vaincre ».
+repere: novembre 1896 — Marché avec la maison Giscard pour le décor de l'église.
+repere: 6 juin 1897 — Mgr Billard bénit l'église restaurée.
+repere: 30 juin 1897 — La facture Giscard mentionne un « bénitier avec diable ».
+repere: 1967 — Gérard de Sède lui donne le nom d'Asmodée.
+repere: avril 1996 — La statue est décapitée et la tête volée ; elle est refaite.
+repere: 23 avril 2017 — Attaque à la hache ; la statue est restaurée.
+voir: par-ce-signe-tu-le-vaincras, maison-giscard, eglise-sainte-marie-madeleine, eglise-et-republique, art-saint-sulpicien, eglise-codee, gerard-de-sede, autel-de-marie-madeleine
+
+@ terribilis-est-locus-iste
+cat: pieces
+groupe: eglise
+nom: « Terribilis est locus iste »
+alias: Terribilis est locus iste, inscription du porche, tympan de l'église, Ce lieu est terrible, Ce lieu est redoutable
+statut: authentique
+def: Inscription latine du porche de l'église, tirée de la Genèse : « Ce lieu est redoutable ». Ce sont les premiers mots de la messe de dédicace des églises, et on les lit sur des centaines de portails.
+texte: Le tympan du porche porte les armes du pape Léon XIII et une phrase latine : « Terribilis est locus iste ». Elle vient de la Genèse (XXVIII, 17) ; c'est l'exclamation de Jacob à son réveil, et l'inscription la continue comme le verset — c'est ici la maison de Dieu et la porte du ciel. [[berenger-sauniere|Saunière]] la fait inscrire pendant la restauration de l'[[eglise-sainte-marie-madeleine|église]], achevée en 1897.
+texte: Lue en français, la phrase sonne comme une mise en garde : ce lieu est terrible. C'est ainsi que la cite la légende. Mais *terribilis* veut dire ici « redoutable », qui inspire une crainte sacrée. Et le curé n'a rien choisi de singulier : ces mots ouvrent l'introït de la messe de la dédicace d'une église. On les lit sur des centaines de portails.
+texte: Le reste du porche est du même ton. D'autres inscriptions rappellent que la maison de Dieu est une maison de prière et, avec l'office des saintes femmes, le mépris des parures du monde ; la devise de Léon XIII, « Lumen in coelo », accompagne ses armes ; une statue de [[marie-madeleine|Marie-Madeleine]], patronne du lieu, complète l'ensemble. C'est le programme attendu d'une église que son curé vient de refaire, non un rébus. Voir [[eglise-codee|l'église, carte au trésor]].
+voir: eglise-sainte-marie-madeleine, asmodee, eglise-codee, art-saint-sulpicien, marie-madeleine, berenger-sauniere
+
+@ par-ce-signe-tu-le-vaincras
+cat: pieces
+groupe: eglise
+nom: « Par ce signe tu le vaincras »
+alias: Par ce signe tu le vaincras, In hoc signo vinces, les quatre anges du bénitier, les anges au signe de croix, cartouche B.S.
+dates: 1897
+an: 1897
+statut: authentique
+def: Légende qui accompagne les quatre anges du bénitier, dont chacun fait un geste du signe de croix : la devise de Constantin, augmentée d'un « le » qui désigne le diable placé au-dessous.
+texte: Au-dessus du [[asmodee|diable du bénitier]], quatre anges de terre cuite se partagent le signe de la croix : chacun en fait un geste. Une légende les accompagne, « Par ce signe tu le vaincras ». Entre les anges et le démon, deux animaux fabuleux tiennent un cartouche aux initiales B.S. Le tout sort de la [[maison-giscard|maison Giscard]], de Toulouse ; la facture est du 30 juin 1897.
+texte: La formule démarque la devise de Constantin, *In hoc signo vinces* : par ce signe tu vaincras. Le « le » ajouté est ce que retient la légende : une faute voulue, donc un signal. L'examen est plus court. Le pronom a un antécédent, et il est juste en dessous : c'est le démon, que terrassent l'eau bénite et le signe de croix.
+texte: [[berenger-sauniere|Saunière]] avait déjà employé le mot. En octobre 1885, entre les deux tours des élections législatives, il désigne en chaire les républicains : « voilà le diable à vaincre », et qui doit plier le genou sous le poids de la religion. La phrase lui vaut la suspension de son traitement. Le bénitier de 1897 la met en image, dans le style du catholicisme de combat de son temps. Voir [[eglise-et-republique|l'Église contre la République]].
+voir: asmodee, eglise-et-republique, maison-giscard, eglise-codee, berenger-sauniere
+
+@ chemin-de-croix
+cat: pieces
+groupe: eglise
+nom: Le chemin de croix
+alias: chemin de croix de Rennes-le-Château, les quatorze stations, stations du chemin de croix, chemin de croix Giscard
+dates: 1897
+an: 1897
+statut: authentique
+def: Quatorze stations en relief peint, livrées par la maison Giscard pour l'église restaurée : un modèle de catalogue, où la légende relève depuis 1967 des anomalies qu'elle croit voulues.
+texte: Quatorze stations en relief, peintes, dans le goût [[art-saint-sulpicien|saint-sulpicien]] du temps. Elles viennent de Toulouse, de la [[maison-giscard|maison Giscard]], manufacture de statues et d'ornements d'église en terre cuite fondée en 1855. [[berenger-sauniere|Saunière]] les commande avec le reste du décor — statues, grand relief du fond, bénitier — par un marché de novembre 1896 : 2 500 francs pour le tout, payables par annuités de cinq cents francs à partir de la fin de 1897. La notice des Monuments historiques retient deux commandes, le 20 novembre 1896 et le 18 mars 1897. [[mgr-billard|Mgr Billard]] bénit l'[[eglise-sainte-marie-madeleine|église]] ainsi parée le 6 juin 1897.
+texte: C'est un modèle de série. Giscard vend sur catalogue, et le même chemin de croix a été livré à d'autres paroisses : on cite souvent Mouthoumet et Rocamadour, rapprochements qui restent à vérifier sur place. Le curé a choisi un modèle et arrêté un programme ; il n'a pas dessiné les scènes. Deux statues, [[statues-de-l-eglise|saint Roch et sainte Germaine]], sont intercalées dans le parcours.
+texte: La lecture à énigme commence en 1967, avec *[[l-or-de-rennes|L'Or de Rennes]]* de [[gerard-de-sede|Gérard de Sède]] : le décor de l'église y devient une suite d'allégories à déchiffrer. Depuis, la liste des « anomalies » du chemin de croix n'a cessé de s'allonger. Trois reviennent toujours. Le parcours se lirait à l'envers de l'usage. À la huitième station, un enfant porte une étoffe à carreaux où l'on veut reconnaître un tartan. À la quatorzième, celle de la mise au tombeau, on remarque une lune.
+texte: L'examen tient en une question : ces détails sont-ils propres à Rennes ? Ils ne le sont pas. Ce sont des détails du modèle, sortis du moule de l'atelier et livrés tels quels à toutes les paroisses clientes, ou des lectures forcées, qui prêtent une intention à ce qui n'est qu'un parti de décorateur. Un indice coulé dans un moule de série ne désignerait aucun lieu en particulier.
+texte: La part du curé est réelle, mais d'une autre nature : le choix des modèles et l'ordonnance de l'ensemble. Ses papiers gardent le marché et la facture ; ils ne disent rien d'un sens caché. Ils ne montrent pas davantage l'abbé [[henri-boudet|Boudet]] en inspirateur du décor, comme le veut une variante de la légende : de 1894 à 1915, les carnets n'enregistrent entre les deux prêtres que des envois de messes et quelques politesses. Voir [[eglise-codee|l'église, carte au trésor]].
+repere: novembre 1896 — Marché avec la maison Giscard : 2 500 francs pour le décor de l'église.
+repere: 6 juin 1897 — Bénédiction de l'église restaurée.
+repere: 1967 — *L'Or de Rennes* lance la lecture du décor comme un rébus.
+voir: maison-giscard, art-saint-sulpicien, eglise-codee, statues-de-l-eglise, bas-relief-du-sermon, eglise-sainte-marie-madeleine, l-or-de-rennes
+
+@ bas-relief-du-sermon
+cat: pieces
+groupe: eglise
+nom: Le bas-relief du Sermon sur la montagne
+alias: Venez à moi, la fresque du fond, le Sermon sur la montagne, le sac percé, la bourse percée, le grand bas-relief
+dates: 1897
+an: 1897
+statut: authentique
+def: Grand relief peint du fond de l'église, compris dans la commande passée à la maison Giscard : le Christ sur un tertre fleuri, avec les mots « Venez à moi ». La légende s'attache à un sac percé posé au premier plan.
+texte: Au fond de l'[[eglise-sainte-marie-madeleine|église]], un grand relief peint montre le Christ sur un tertre fleuri. On l'appelle souvent « la fresque » ; c'est un haut-relief, compris dans le marché que [[berenger-sauniere|Saunière]] passe en novembre 1896 avec la [[maison-giscard|maison Giscard]], de Toulouse, pour le décor de l'église. L'inscription qui l'accompagne commence par les mots « Venez à moi, vous tous qui souffrez… » : c'est l'appel du Christ aux affligés.
+texte: Le traitement est celui de tout le décor, dans le goût [[art-saint-sulpicien|saint-sulpicien]] : un sujet de consolation, une polychromie complète. Le curé en a voulu le programme ; l'exécution est toulousaine.
+texte: La légende ne regarde pas le Christ, mais le bas de la scène. Au premier plan est posé un sac, ou une bourse, dont le fond est percé : certains y voient un indice. Comme le reste du décor, hors le bénitier, le relief passe pour un modèle de série ; le détail viendrait alors de l'atelier, non du curé. Aux pieds de celui qui appelle les pauvres, une bourse vide se comprend d'ailleurs sans trésor. Voir [[eglise-codee|l'église, carte au trésor]].
+voir: maison-giscard, art-saint-sulpicien, eglise-codee, chemin-de-croix, statues-de-l-eglise, eglise-sainte-marie-madeleine
+
+@ statues-de-l-eglise
+cat: pieces
+groupe: eglise
+nom: Les statues
+alias: statues de l'église, statues de Rennes-le-Château, saint Antoine ermite, saint Antoine de Padoue, saint Roch, sainte Germaine de Pibrac, les deux enfants Jésus
+statut: authentique
+def: Les statues de terre cuite peinte que Saunière place dans son église de 1891 à 1897 : des saints choisis sur le catalogue d'un fabricant toulousain. La légende y cherche des signes, à commencer par « les deux enfants Jésus ».
+texte: On y voit saint Antoine ermite, saint Antoine de Padoue, sainte Germaine de Pibrac, saint Roch, sainte [[marie-madeleine|Marie-Madeleine]], patronne du lieu, ainsi que saint Joseph et la Vierge. Ce sont des statues de série en terre cuite peinte, choisies sur le catalogue de la [[maison-giscard|maison Giscard]], à Toulouse. [[berenger-sauniere|Saunière]] en commande à partir de 1891 ; le marché d'ensemble pour le décor est de novembre 1896. Deux d'entre elles, saint Roch et sainte Germaine, prennent place dans le parcours du [[chemin-de-croix|chemin de croix]]. Rien n'y sort de l'ordinaire d'une église redécorée dans le goût [[art-saint-sulpicien|saint-sulpicien]].
+texte: La légende s'arrête sur deux points. Saint Joseph et la Vierge portent chacun un Enfant : de là vient la glose des « deux enfants Jésus », que les livres à énigme chargent de sous-entendus. L'explication est dans le catalogue : chaque statue est un modèle à part, et l'Enfant y figure deux fois parce qu'on a acheté deux statues.
+texte: Saint Antoine ermite, lui, est fêté le [[17-janvier|17 janvier]], jour de la mort de la marquise de Blanchefort et du malaise de Saunière : sa statue entre ainsi dans la série des coïncidences du dossier. Les faussaires des années 1960 s'en sont souvenus. Le message du grand [[parchemins|parchemin]], avec son « pas de tentation » et son [[david-teniers|Teniers]], ramène, dit-on, à un saint Antoine de ce peintre.
+voir: maison-giscard, chemin-de-croix, art-saint-sulpicien, 17-janvier, eglise-codee, marie-madeleine, david-teniers
+
+@ autel-de-marie-madeleine
+cat: pieces
+groupe: eglise
+nom: Le bas-relief de Marie-Madeleine
+alias: autel de Marie-Madeleine, le maître-autel, Marie-Madeleine dans la grotte, bas-relief de l'autel, la Madeleine pénitente
+dates: 1887
+an: 1887
+statut: authentique
+def: Relief peint du maître-autel posé en 1887 : Marie-Madeleine en prière dans une grotte, devant une croix de branchages et un crâne. Saunière l'aurait peint lui-même ; l'œuvre a été attaquée à la hache en 2017, puis restaurée.
+texte: Le maître-autel est le premier grand achat de [[berenger-sauniere|Saunière]] pour son [[eglise-sainte-marie-madeleine|église]]. Il sort de la maison Monna, à Toulouse, et il est posé le 27 juillet 1887. Une donatrice de Coursan, Marie Cavailhé, l'a offert : sept cents francs, 770 selon une autre source. Le remplacement de l'ancien autel était envisagé dès 1883, deux ans avant l'arrivée du curé.
+texte: Le relief montre la patronne du lieu, [[marie-madeleine|Marie-Madeleine]], en prière dans une grotte, devant une croix faite de branches et un crâne. C'est l'image traditionnelle de la pénitente retirée à la Sainte-Baume. La tradition veut que le curé l'ait peint de sa main. Une inscription latine l'accompagne.
+texte: Depuis *[[l-enigme-sacree|L'Énigme sacrée]]* (1982), qui fait de la sainte la compagne du Christ, l'image est l'une des plus regardées de l'église : la dédicace à Marie-Madeleine sert d'argument à la thèse de la [[lignee-de-jesus|lignée de Jésus]]. Mais l'église porte ce vocable depuis le Moyen Âge — elle est citée sous ce nom dès 1185 — et le relief ne montre rien d'autre que la pénitente de la légende provençale.
+texte: Le 23 avril 2017, la femme qui s'en prend à la hache au [[asmodee|diable du bénitier]] frappe aussi ce relief. La commune lance un appel d'offres de restauration le 27 juin ; l'œuvre a été restaurée.
+repere: 27 juillet 1887 — Pose du nouveau maître-autel, offert par Marie Cavailhé, de Coursan.
+repere: 23 avril 2017 — Le relief est attaqué à la hache, en même temps que le diable du bénitier.
+voir: marie-madeleine, eglise-sainte-marie-madeleine, asmodee, lignee-de-jesus, pilier-sculpte, berenger-sauniere
+
+@ dallage-en-damier
+cat: pieces
+groupe: eglise
+nom: Le dallage en damier
+alias: le damier, l'échiquier, carrelage noir et blanc, le pavé de l'église, les soixante-quatre cases
+statut: authentique
+def: Le carrelage noir et blanc de l'église, posé pendant la restauration. La légende y voit un échiquier de soixante-quatre cases ; l'idée vient du chiffre des faux parchemins, qui se lit au saut du cavalier.
+texte: Le sol de l'[[eglise-sainte-marie-madeleine|église]] est un damier de carreaux noirs et blancs. Il remplace un vieux pavé que chacun savait à refaire : [[mgr-billard|Mgr Billard]] le fait noter au procès-verbal de sa visite du 1er juillet 1889. [[berenger-sauniere|Saunière]] a un reçu pour la réfection du sol dès le 5 juin 1887 ; l'ancien dallage est déposé en septembre 1891. C'est alors, le 21, qu'il écrit dans son [[carnets-de-sauniere|carnet]] « Découverte d'un tombeau ». Le chantier reprend le 14 octobre, avec une autre équipe.
+texte: Ce qui intéresse l'histoire est donc dessous : sans doute l'accès du caveau des seigneurs, que les registres placent dans l'église, près du balustre. Voir [[crypte-des-seigneurs|la crypte des seigneurs]]. Le dallage neuf l'a recouvert, et les fouilleurs l'ont rouvert plus d'une fois : en mars 1956, puis à partir de 1959, quand l'ingénieur [[jacques-cholet|Jacques Cholet]] fait décarreler la nef en partant de la chaire. On n'en a tiré qu'un [[crane-a-l-entaille|crâne]].
+texte: La légende, elle, regarde le dessus. Le damier serait un échiquier de soixante-quatre cases, laissé là comme une grille de lecture. L'idée ne vient pas de l'église mais des [[parchemins|parchemins]] fabriqués vers 1965, dont le chiffre s'achève par une marche du cavalier sur l'échiquier : c'est le faux qui a fait regarder le sol, non l'inverse.
+voir: crypte-des-seigneurs, parchemins, eglise-sainte-marie-madeleine, fouilles, jacques-cholet, crane-a-l-entaille, eglise-codee
+
+@ piece-secrete
+cat: pieces
+groupe: eglise
+nom: La pièce secrète
+alias: pièce secrète, le réduit de la sacristie, la chambre secrète, la sacristie
+statut: authentique
+def: Réduit ménagé derrière la sacristie de l'église, que les livres sur l'affaire appellent « la pièce secrète ». L'endroit existe ; les fouilles menées sous la sacristie n'ont rien donné.
+texte: Derrière la sacristie de l'[[eglise-sainte-marie-madeleine|église]] se trouve un réduit que les livres sur l'affaire appellent « la pièce secrète ». L'endroit est réel ; c'est le nom qui promet plus que le lieu.
+texte: Les chercheurs ont regardé dessous. À partir de 1959, l'ingénieur [[jacques-cholet|Jacques Cholet]], autorisé par le conseil municipal, creuse sous l'autel, sous la chaire et sous la sacristie, où il dégage une amorce d'escalier, puis ouvre une tranchée de dix-huit mètres dans le roc. Son rapport du 25 avril 1967 conclut qu'il n'a rien trouvé. Voir [[fouilles|les fouilles]].
+texte: Le seul souterrain que les textes attestent dans l'église est ailleurs. C'est le tombeau des seigneurs, que l'acte d'une inhumation de 1705 place « auprès du balustre », du côté du chœur. C'est là aussi, et non sous la sacristie, que le géoradar a relevé en 2001 une anomalie. Voir [[crypte-des-seigneurs|la crypte des seigneurs]].
+voir: eglise-sainte-marie-madeleine, crypte-des-seigneurs, fouilles, jacques-cholet, dallage-en-damier, eglise-codee
+
+# ───────────────────────── Pierres et tombes ─────────────────────────
+
+@ pilier-sculpte
+cat: pieces
+groupe: pierres
+nom: Le pilier sculpté
+alias: pilier wisigothique, pilier carolingien, pilier de l'autel, pilier de Notre-Dame de Lourdes, pilier de la Vierge
+dates: VIIIe ou IXe siècle
+an: 800
+statut: authentique
+def: Pilier de pierre sculpté d'une croix et de rinceaux, l'un des deux supports de l'ancien autel de l'église. Carolingien et non wisigothique, il porte depuis 1891, retourné, la Vierge de Lourdes ; la légende y a logé les parchemins.
+texte: C'est un pilier de pierre, orné d'une croix pattée à pendeloques et de rinceaux. Avec un second pilier, lisse, il portait la table de l'ancien autel de l'[[eglise-sainte-marie-madeleine|église]]. L'usage l'a baptisé « wisigothique » ; les spécialistes le rattachent à la sculpture carolingienne, VIIIe ou IXe siècle, et le rapprochent des pièces de Saint-Guilhem-le-Désert. C'est, avec la [[dalle-des-chevaliers|dalle des Chevaliers]], l'une des deux pièces carolingiennes sorties de l'édifice.
+texte: L'ancien autel disparaît en 1887 : le 27 juillet, [[berenger-sauniere|Saunière]] fait poser un [[autel-de-marie-madeleine|maître-autel neuf]], offert par une donatrice de Coursan. Le pilier sculpté ne quitte pas la paroisse. Le 21 juin 1891, jour de première communion pour vingt-quatre enfants et de clôture d'une mission, on bénit devant l'église une statue de Notre-Dame de Lourdes. Elle est posée sur le vieux pilier, dressé à l'envers et gravé de deux inscriptions : « [[penitence-penitence|Pénitence ! Pénitence !]] » et « Mission 1891 ». Voir [[jardin-du-calvaire|le jardin du calvaire]].
+texte: La légende en fait une cachette. Selon [[noel-corbu|Noël Corbu]], dont *La Dépêche du Midi* rapporte le récit le 12 janvier 1956, le curé découvre en déplaçant la table d'autel « des rouleaux de bois contenant des parchemins rédigés en latin ». La vulgate précise ensuite que le pilier était creux. Les versions ne s'accordent ni sur la date — 1887, 1891, février 1892 chez Corbu — ni sur le contenant, ni sur le contenu.
+texte: L'objet répond de lui-même. Il n'offre pour tout creux qu'une mortaise à son sommet, de la taille d'une boîte d'allumettes : des rouleaux de parchemin n'y entrent pas. Quant aux [[parchemins|parchemins]] publiés en 1967, ce sont des faux fabriqués vers 1965. La version la plus sobre de la découverte ne passe d'ailleurs pas par l'autel : c'est celle de la famille Captier, une [[balustre-et-fiole|fiole dans un balustre]] de l'ancienne chaire.
+texte: Le 29 mai 1993, l'original est mis à l'abri et une copie le remplace sous la Vierge. On le voit au musée du [[presbytere|presbytère]], près de la dalle des Chevaliers. Le second pilier, le lisse, serait celui qui se dresse à l'entrée du cimetière de [[rennes-les-bains|Rennes-les-Bains]] : l'identification n'est donnée qu'au conditionnel.
+repere: IXe siècle — Époque carolingienne, à laquelle les spécialistes rattachent la sculpture.
+repere: 27 juillet 1887 — Pose du nouveau maître-autel ; l'ancien est démonté.
+repere: 21 juin 1891 — Le pilier, retourné, reçoit la statue de Notre-Dame de Lourdes.
+repere: 12 janvier 1956 — *La Dépêche du Midi* publie le récit des parchemins trouvés sous l'autel.
+repere: 29 mai 1993 — L'original est mis à l'abri au musée ; une copie le remplace.
+voir: dalle-des-chevaliers, penitence-penitence, jardin-du-calvaire, parchemins, balustre-et-fiole, presbytere, eglise-sainte-marie-madeleine, noel-corbu
+
+@ dalle-des-chevaliers
+cat: pieces
+groupe: pierres
+nom: La dalle des Chevaliers
+alias: dalle du Chevalier, dalle des chevaliers, dalle carolingienne, dalle aux cavaliers
+dates: époque carolingienne
+an: 800
+statut: authentique
+def: Dalle de pierre sculptée de deux arcades abritant des cavaliers. Carolingienne, trouvée face contre terre devant l'autel pendant les travaux de Saunière, elle est aujourd'hui au musée du village.
+texte: La dalle mesure 1,30 mètre sur 0,72. Elle est sculptée de deux arcatures : sous l'une, un cavalier ; sous l'autre, deux personnages sur une même monture, ou un cavalier et un enfant — les descriptions divergent. Les archéologues la datent de l'époque carolingienne ; certains la disent wisigothique, du VIIIe siècle.
+texte: [[berenger-sauniere|Saunière]] la trouve pendant la restauration de l'église, posée face sculptée contre terre devant l'autel : en 1887 selon les uns, en 1891 selon les autres, quand il fait déposer le [[dallage-en-damier|dallage]]. Il la remploie comme marche du calvaire, dans le [[jardin-du-calvaire|jardin]]. On l'y « redécouvre » en 1926, et la Société d'études scientifiques de l'Aude en publie un relevé dans son bulletin de 1927. Photographiée en 1935, classée parmi les monuments historiques en 1947 ou en 1950 selon les sources, elle est déposée au musée de [[carcassonne|Carcassonne]], puis revient au village en 1970. Elle est exposée au musée du [[presbytere|presbytère]].
+texte: La tradition a mis un pot sous la pierre. Des ouvriers auraient aperçu une « oule » pleine d'objets brillants, que le curé aurait fait passer pour des médailles de Lourdes : ces témoignages ont été recueillis après 1956. La légende écrite va plus loin. Les *[[dossiers-secrets|Dossiers secrets]]* y lisent la fuite du petit [[sigebert-iv|Sigebert IV]] vers Rhedae, et prêtent à l'abbé [[antoine-bigou|Bigou]] le soin d'avoir retourné la dalle : rien ne le documente. D'autres y voient un sceau templier, d'autres une scène de chasse. La pierre est antérieure de plusieurs siècles à l'ordre du Temple, et Sigebert IV n'a pas existé.
+repere: 1887 ou 1891 — Saunière la trouve, face contre terre, devant l'autel.
+repere: 1926 — « Redécouverte » de la dalle, remployée comme marche du calvaire.
+repere: 1927 — Un relevé paraît dans le bulletin de la Société d'études scientifiques de l'Aude.
+repere: 1947 ou 1950 — Classement au titre des monuments historiques.
+repere: 1970 — Retour à Rennes-le-Château, après un dépôt au musée de Carcassonne.
+voir: pilier-sculpte, presbytere, jardin-du-calvaire, dallage-en-damier, sigebert-iv, dossiers-secrets, pillage-des-tombes, crypte-des-seigneurs
+
+@ stele-de-la-marquise
+cat: pieces
+groupe: pierres
+nom: La stèle de la marquise
+alias: stèle de Marie de Nègre d'Ables, stèle de Blanchefort, épitaphe de la marquise, pierre tombale de la marquise, Requies catin pace, Mortépée
+dates: 1781
+an: 1781
+statut: disparu
+def: Pierre dressée sur la tombe de Marie de Nègre d'Ables, morte en 1781, au cimetière de Rennes. Son épitaphe maladroite, dessinée en 1905 et publiée en 1906, est authentique ; la pierre a disparu, et les faussaires des années 1960 ont bâti leur chiffre sur ce dessin.
+texte: [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], veuve de François d'Hautpoul, marquis de Blanchefort, meurt à Rennes le 17 janvier 1781. Le caveau seigneurial de l'église est fermé depuis un demi-siècle ; on l'enterre au [[cimetiere|cimetière]]. Sa tombe reçoit une stèle au sommet en pointe, gravée d'une épitaphe en français que ferment une date en chiffres romains et une formule latine.
+texte: On ne la connaît que par un dessin. Le 25 juin 1905, la Société d'études scientifiques de l'Aude visite le village ; le compte rendu d'Élie Tisseyre, publié en 1906, reproduit l'épitaphe à la page 101 du bulletin. Voir [[bulletin-de-la-sesa-1906|l'excursion de 1905]]. Qui a fait le relevé, on l'ignore. Le texte décrit de son côté, dans un coin du cimetière, « une large dalle brisée en son milieu », de 1,30 mètre sur 0,65, à l'inscription « gravée très grossièrement ». Est-ce la même pierre ? L'abbé [[bruno-de-monts|Bruno de Monts]] le pensait ; l'association RLCdoc observe que les proportions du dessin ne s'accordent pas avec ces mesures.
+texte: Ce dessin étonne. On y lit « CT GIT » pour « ci-gît ». Le prénom est coupé, un M seul en bout de ligne, « ARIE » à la suivante. Le nom devient « DARLES », celui du mari « DHAUPOUL ». De petites lettres se glissent dans quatre mots. Le millésime, « MDCOLXXXI », contient un O qui n'est pas un chiffre romain. La formule finale est découpée en « REQUIES CATIN PACE ».
+texte: En 1905, personne n'y voit malice. Soixante ans plus tard, le relevé reparaît dans une plaquette déposée à la Bibliothèque nationale sous le nom de Madeleine Blancasall (1965), puis dans *[[l-or-de-rennes|L'Or de Rennes]]* (1967). [[gerard-de-sede|Gérard de Sède]] y affirme que l'abbé [[antoine-bigou|Bigou]] a mis deux ans à composer ce texte, où chaque faute serait voulue, et que [[berenger-sauniere|Saunière]] l'a effacé. Les huit lettres « fautives » donnent le mot MORTEPEE, clef du grand [[parchemins|parchemin]].
+texte: L'examen défait la construction. Une étude de Tony Bontempi (RLCdoc, 2023) a réuni des pierres comparables : le même M isolé en fin de ligne sur une tombe de 1622 à Carcassonne ; le même « Requies catin pace » sur une tombe relevée près de Namur vers 1850 ; le même O dans un millésime, « MDCCOLXVII », sur un calvaire audois de 1867. Ce sont les maladresses ordinaires des lapicides de province. Les Hautpoul de Rennes signaient eux-mêmes « Haupoul ». Le dessinateur de 1905, sans doute carcassonnais, a pu lire ARLES pour ABLES sur une pierre usée. Et une épitaphe se commande à un tailleur de pierre par la famille, non par le curé.
+texte: Le chiffre, lui, est moderne. Les cent vingt-huit lettres utiles du grand parchemin sont l'anagramme exacte de l'épitaphe telle que le bulletin l'a imprimée, erreurs de relevé comprises, augmentée de « PS PRAECUM » : le faux a été bâti sur la page de 1906, non sur la pierre. La stèle n'est pas codée ; elle a servi à un codage. Quant à l'effacement, rien ne l'atteste : l'accusation vient de [[noel-corbu|Noël Corbu]], en 1962, et l'on lisait encore l'épitaphe dix ans après les [[plaintes-de-1895|plaintes de 1895]]. [[rene-descadeillas|René Descadeillas]] note que la pierre a disparu en 1906 ; il écrira plus tard que des gens soucieux de la sauver l'avaient recueillie. On ne l'a pas revue.
+repere: 17 janvier 1781 — Mort de Marie de Nègre d'Ables, inhumée au cimetière.
+repere: 25 juin 1905 — L'épitaphe est relevée lors de l'excursion de la Société d'études scientifiques de l'Aude.
+repere: 1906 — Le dessin paraît dans le bulletin ; la pierre disparaît vers cette date.
+repere: 1962 — Noël Corbu accuse Saunière d'avoir effacé l'inscription.
+repere: août 1965 — Le relevé reparaît dans la plaquette « Blancasall ».
+repere: 1967 — *L'Or de Rennes* en fait une pierre codée.
+repere: 2023 — Étude de Tony Bontempi sur les « anomalies » de l'épitaphe.
+attention: Ne pas confondre la stèle, dressée et relevée en 1905, avec la [[dalle-de-la-marquise|dalle « Et in Arcadia ego »]], couchée, connue seulement par un recueil apocryphe de 1966 ; ni avec la grande dalle sans inscription de l'ossuaire, que des vandales ont taillée en pointe vers 1970 pour lui donner la forme de la stèle.
+voir: dalle-de-la-marquise, marie-de-negre-d-ables, bulletin-de-la-sesa-1906, parchemins, cimetiere, antoine-bigou, plaintes-de-1895, atelier-des-faux, pierres-gravees-du-languedoc
+
+@ dalle-de-la-marquise
+cat: pieces
+groupe: pierres
+nom: La dalle « Et in Arcadia ego »
+alias: dalle de la marquise, dalle de Blanchefort, dalle horizontale, Reddis regis cellis arcis, Prae-cum, seconde pierre tombale de la marquise
+dates: 1965
+an: 1965
+statut: faux
+def: Dalle gravée que la légende couche sur la tombe de la marquise de Blanchefort, à côté de la stèle. Aucune source ne la connaît avant 1965 : elle apparaît dans des plaquettes apocryphes déposées à la Bibliothèque nationale.
+texte: La légende donne deux pierres à la tombe de [[marie-de-negre-d-ables|Marie de Nègre d'Ables]] : la [[stele-de-la-marquise|stèle]] dressée, relevée en 1905, et une dalle couchée. Sur cette dalle, le dessin qui circule montre la devise « [[et-in-arcadia-ego|Et in Arcadia ego]] » en caractères grecs, les mots latins « Reddis regis cellis arcis », la mention « Prae-cum » et une petite bête, araignée ou pieuvre.
+texte: Aucune source ne la mentionne avant les années 1960. Le bulletin de 1906 ne donne qu'une épitaphe, celle de la stèle. La dalle fait son entrée en août 1965, dans une plaquette signée « Madeleine Blancasall », puis, le 20 juin 1966, dans un recueil intitulé *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]*, donné pour la reproduction d'un ouvrage paru à Limoux en 1884 sous le nom de l'érudit [[eugene-stublein|Eugène Stüblein]]. Elle en occupe la planche XXII. [[gerard-de-sede|Gérard de Sède]] la publie en 1967 dans *[[l-or-de-rennes|L'Or de Rennes]]*.
+texte: Ce recueil est un faux, et il se trahit de partout. Aucun exemplaire de l'édition de 1884 n'a jamais été retrouvé. La lettre qui l'accompagne est signée de « l'abbé Joseph Courtaly » : le prêtre s'appelait [[joseph-courtauly|Courtauly]], et il était mort en 1964. La signature de Stüblein portée sur les planches n'est pas celle qu'on lui connaît par une brochure de 1877. Surtout, les planches authentiques sont prises à des publications postérieures à sa mort, survenue le 2 février 1899 : la stèle vient du bulletin de 1906, la [[dalle-des-chevaliers|dalle des Chevaliers]] de celui de 1927. Un homme mort en 1899 n'a pu signer ni l'une ni l'autre.
+texte: La dalle a sa fonction dans la machine. Ses lettres complètent la clef tirée de la stèle pour le chiffre du grand [[parchemins|parchemin]]. Elle installe aussi, sur une tombe de 1781, la devise des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]*, que [[pierre-plantard|Pierre Plantard]] adopte vers 1964 comme devise de sa famille : la pierre relie d'un trait Rennes, Poussin et le prétendant. Une tradition tardive veut même qu'elle ait été apportée des Pontils, où se trouvait le [[tombeau-des-pontils|tombeau]] qu'on rapproche du tableau ; ce récit sort des mêmes apocryphes.
+texte: Le « [[rapport-cros|rapport Cros]] », qui en donne une lecture, passe pour un témoignage plus ancien ; il n'est connu que par des dactylographies tardives, jamais authentifiées. Quant aux pierres du cimetière, aucune n'est la dalle. Celle qui couvrait l'ossuaire, photographiée intacte en 1962, ne porte aucune gravure sur aucune de ses faces ; des vandales l'ont taillée en pointe au début des années 1970 pour qu'elle ressemble à la stèle du bulletin. L'association RLCdoc suggère qu'elle couvrait la tombe d'Élisabeth d'Hautpoul, morte en 1820.
+repere: août 1965 — Première apparition de la dalle, dans la plaquette « Blancasall ».
+repere: 20 juin 1966 — Dépôt à la Bibliothèque nationale des *Pierres gravées du Languedoc*.
+repere: 1967 — *L'Or de Rennes* la reproduit.
+attention: Ne pas la confondre avec la stèle de la marquise, pierre dressée dont l'épitaphe, relevée en 1905, est authentique.
+voir: stele-de-la-marquise, pierres-gravees-du-languedoc, eugene-stublein, joseph-courtauly, et-in-arcadia-ego, parchemins, atelier-des-faux, rapport-cros, marie-de-negre-d-ables
+
+@ pierre-de-coumesourde
+cat: pieces
+groupe: pierres
+nom: La pierre de Coumesourde
+alias: pierre de Coume-Sourde, Coumesourde, pierre gravée de Coumesourde
+dates: 1928
+an: 1928
+statut: discute
+def: Pierre gravée que l'ingénieur Ernest Cros aurait trouvée en 1928. Elle n'est connue que par le « rapport Cros », texte dactylographié tardif et jamais authentifié : aucune autre source ne l'atteste.
+texte: La pierre de Coumesourde tient tout entière dans un document : le « [[rapport-cros|rapport Cros]] ». Ce texte la dit « trouvée en 1928 » et l'attribue à [[ernest-cros|Ernest Cros]], ingénieur en chef des chemins de fer retiré à Ginoles en 1924, amateur d'antiquités, qui avait connu [[berenger-sauniere|Saunière]]. Il la présente à la suite d'une lecture de la [[dalle-de-la-marquise|dalle de la marquise]].
+texte: Or ce rapport n'existe qu'en deux dactylographies tardives, l'une venue de [[noel-corbu|Noël Corbu]], l'autre retrouvée par René Chesa ; l'une recopie l'autre. Le compilateur serait l'abbé Maurice Mazières, et les papiers de l'ingénieur auraient disparu dans un cambriolage en 1960. Rien d'autre n'atteste la pierre.
+texte: Son voisinage est en revanche connu. Elle côtoie, dans le rapport, une dalle qui n'apparaît nulle part avant 1965, et une planche du recueil apocryphe des *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]* (1966) est reprise du même rapport, avec des ajouts. Tant qu'on n'aura montré ni la pierre ni un écrit de la main de Cros, son existence reste invérifiable.
+voir: rapport-cros, ernest-cros, dalle-de-la-marquise, pierres-gravees-du-languedoc, atelier-des-faux, noel-corbu
+
+@ balustre-et-fiole
+cat: pieces
+groupe: pierres
+nom: Le balustre et la fiole
+alias: le balustre, la fiole, balustre de la chaire, la découverte du carillonneur, version Captier
+statut: discute
+def: Selon la tradition de la famille Captier, le carillonneur de Saunière aurait trouvé une fiole de verre contenant un papier dans le chapiteau creux d'un balustre de bois de l'ancienne chaire. Le balustre est conservé ; le contenu du papier n'est pas connu.
+texte: C'est la version la plus sobre de la découverte. Dans la famille Captier, on raconte que l'aïeul, [[antoine-captier|Antoine Captier]], carillonneur de [[berenger-sauniere|Saunière]], trouva une fiole de verre dans le chapiteau creux d'un balustre de bois venu de l'ancienne chaire. La fiole contenait un papier ; il la remit au curé. Le récit s'est transmis jusqu'à son descendant et homonyme, gendre de [[noel-corbu|Noël Corbu]] et coauteur de *[[l-heritage-de-l-abbe-sauniere|L'Héritage de l'abbé Saunière]]*. Le balustre est conservé au musée.
+texte: Ce récit a pour lui sa modestie : ni rouleaux, ni [[pilier-sculpte|pilier creux]], ni message. Il ne dit rien du contenu du papier, et il ne porte pas de date ; on sait seulement, par le procès-verbal de la visite de [[mgr-billard|Mgr Billard]], que la chaire était déjà enlevée le 1er juillet 1889. C'est une tradition orale, sans pièce d'époque.
+texte: L'association RLCdoc en a tiré l'hypothèse la plus économe du dossier. Au XVIIIe siècle, le caveau des seigneurs, dans l'église, est condamné ; un écrit signalant son accès aurait été glissé dans la colonne de bois de la chaire installée par-dessus. Saunière, qui détenait le vieux registre paroissial où ce tombeau est mentionné, l'aurait trouvé en démontant la chaire et aurait su où chercher : le 21 septembre 1891, son [[carnets-de-sauniere|carnet]] note la « découverte d'un tombeau ». L'enchaînement est plausible ; il reste une hypothèse. Voir [[crypte-des-seigneurs|la crypte des seigneurs]].
+voir: antoine-captier, corbu-et-captier, crypte-des-seigneurs, pilier-sculpte, parchemins, carnets-de-sauniere, presbytere
+
+@ crane-a-l-entaille
+cat: pieces
+groupe: pierres
+nom: Le crâne à l'entaille
+alias: crâne de 1956, crâne entaillé, crâne de l'église
+dates: 1956
+an: 1956
+statut: authentique
+def: Crâne humain marqué d'une entaille, seule trouvaille des fouilles de 1956 dans l'église. Le carbone 14 l'a daté entre 1281 et 1396 ; il a été rendu à la commune en 2014.
+texte: En janvier 1956, *La Dépêche du Midi* lance l'histoire du « curé aux milliards ». De mars à mai, une équipe venue de [[carcassonne|Carcassonne]], où figure le docteur André Malacan, fouille le sol de l'[[eglise-sainte-marie-madeleine|église]]. Elle suit les indications d'un ancien enfant de chœur, Antoine Fages, qui dit avoir vu l'abbé ouvrir le dallage de la nef et dégager dans l'allée centrale, à hauteur de la chaire, l'entrée d'une crypte. Elle ne trouve pas la crypte. Elle trouve un crâne, marqué d'une entaille.
+texte: Il faut attendre un demi-siècle pour savoir ce qu'il est. L'analyse au carbone 14, menée entre 2009 et 2014, y reconnaît un homme d'une cinquantaine d'années, mort entre 1281 et 1396. Le crâne est restitué à la commune en mai 2014. Rien ne le rattache à Saunière, sinon le sol où il reposait : on enterrait dans cette église, qui abritait le [[crypte-des-seigneurs|tombeau de ses seigneurs]].
+texte: Une autre découverte de 1956 lui est souvent mêlée. Le 1er avril, le *Midi libre* rapporte que des squelettes ont été exhumés dans le jardin du domaine : trois corps, récents ceux-là, que l'enquête rattache à des maquisards espagnols tués en 1945, selon Christiane Amiel. Les deux affaires n'ont rien de commun. Voir [[fouilles|les fouilles]].
+repere: mars 1956 — Des chercheurs de Carcassonne fouillent l'église et trouvent le crâne.
+repere: mai 2014 — Daté au carbone 14 entre 1281 et 1396, il est rendu à la commune.
+voir: fouilles, crypte-des-seigneurs, naissance-du-mythe, eglise-sainte-marie-madeleine, dallage-en-damier, articles-de-la-depeche
+
+# ───────────────────────── Papiers, comptes et parchemins ─────────────────────────
+
+@ parchemins
+cat: pieces
+groupe: papiers
+nom: Les parchemins
+alias: parchemins de Saunière, petit parchemin, grand parchemin, petit manuscrit, grand manuscrit, Bergère pas de tentation, À Dagobert II roi et à Sion
+dates: vers 1965
+an: 1965
+statut: faux
+def: Deux textes latins des Évangiles, semés de lettres qui cachent des messages en français, donnés depuis 1967 pour les documents trouvés par Saunière. Ce sont des faux modernes : Philippe de Chérisey a reconnu les avoir fabriqués.
+texte: Personne n'a jamais vu de parchemin. Ce qui existe, ce sont deux feuilles de papier, connues par les photographies que publie pour la première fois *[[l-or-de-rennes|L'Or de Rennes]]*, en 1967 ; des « originaux » de la main de [[philippe-de-cherisey|Philippe de Chérisey]] sont chez [[jean-luc-chaumeil|Jean-Luc Chaumeil]]. La légende les fait sortir d'un [[pilier-sculpte|pilier]] de l'autel. Le thème vient de [[noel-corbu|Noël Corbu]], qui parle en 1956 de rouleaux de bois contenant des parchemins en latin, puis, en 1962, de versets d'Évangile. Dès janvier 1964, une plaquette déposée à la Bibliothèque nationale invoque dans son titre « les parchemins de l'abbé Saunière ». Voir [[atelier-des-faux|l'atelier des faux]].
+texte: Le petit parchemin recopie l'épisode des épis arrachés le jour du sabbat. Des lettres surélevées y forment une phrase : « A DAGOBERT II ROI ET A SION EST CE TRESOR ET IL EST LA MORT ». Les dernières lignes s'achèvent sur les lettres du mot SION. Le modèle a été identifié en 2003 par Wieland Willker : c'est le texte de Luc (VI, 1-4) dans le Codex Bezae, manuscrit du Ve siècle conservé à Cambridge. Le faussaire n'a pas eu à y aller. Le *Dictionnaire de la Bible* de l'abbé Fulcran Vigouroux (tome I, 1895) reproduit en fac-similé une page de ce codex, le folio 186, et c'est son onciale, la plus facile à imiter, qu'il a recopiée. Une étude de François Lange (RLCdoc, 2023-2024) a relevé d'autres emprunts au même tome, et un clin d'œil : trois lettres retouchées pour former le nombre 186.
+texte: Le grand parchemin donne l'onction de Béthanie, d'après l'Évangile de Jean (XII, 1-11). Selon [[putnam-et-wood|Putnam et Wood]], son texte suit la Vulgate éditée à Oxford par Wordsworth et White à partir de 1889. Cent quarante lettres parasites y sont glissées. Leur déchiffrement, tel que l'ont exposé Chérisey puis [[henry-lincoln|Henry Lincoln]], enchaîne plusieurs substitutions, avec pour clef le mot MORTEPEE tiré de la [[stele-de-la-marquise|stèle de la marquise]], et s'achève par une marche du cavalier sur l'échiquier. Il en sort : « BERGERE PAS DE TENTATION QUE POUSSIN TENIERS GARDENT LA CLEF PAX DCLXXXI PAR LA CROIX ET CE CHEVAL DE DIEU J'ACHEVE CE DAEMON DE GARDIEN A MIDI POMMES BLEUES ». On y reconnaît [[nicolas-poussin|Poussin]], [[david-teniers|Teniers]], l'an 681 où la légende fait arriver [[sigebert-iv|Sigebert IV]] à Rhedae, et les « [[pommes-bleues|pommes bleues]] ».
+texte: Tout y trahit le XXe siècle. Le français du message et la graphie « Dagobert II » excluent le XVIIIe siècle. L'alphabet du chiffre a vingt-cinq lettres, sans W. Les deux modèles sont des éditions savantes de 1889 et de 1895, postérieures à l'arrivée de [[berenger-sauniere|Saunière]] à Rennes. Enfin les cent vingt-huit lettres retenues sont l'anagramme exacte de l'épitaphe de la marquise telle que la Société d'études scientifiques de l'Aude l'a imprimée en 1906, erreurs de relevé comprises : le message a été composé le bulletin sous les yeux. Il ne peut venir de l'abbé [[antoine-bigou|Bigou]], mort en 1794.
+texte: L'auteur s'est nommé. Dans une lettre du 29 janvier 1974 à [[pierre-jarnac|Pierre Jarnac]], Chérisey dit avoir composé les manuscrits en 1965 ; il le répète dans *L'Énigme de Rennes* (1978), où il les dit faits d'abord pour un feuilleton radiophonique, et dans *Pierre et papier*, qui expose son chiffre. [[pierre-plantard|Pierre Plantard]] l'a dit à Lincoln, puis écrit en 1989. Chaumeil détient plus de cent lettres échangées entre Plantard, Chérisey et de Sède, qui décrivent le canular. Chérisey croyait avoir copié le dictionnaire de dom Cabrol : il se trompait d'ouvrage. L'année reste discutée, 1961 selon un de ses textes, 1965 selon sa lettre. Voir [[aveux|les aveux]].
+texte: Ses défenseurs se replient sur une dernière ligne : Chérisey aurait copié, en les altérant, de vrais documents vendus à des Anglais. Les lettres produites à l'appui figurent dans les *[[dossiers-secrets|Dossiers secrets]]* ; ce sont des faux reconnus, l'une sur un papier à en-tête périmé depuis 1950.
+repere: 1895 — Le *Dictionnaire de la Bible* de Vigouroux reproduit le folio 186 du Codex Bezae.
+repere: 1906 — Le bulletin de la Société d'études scientifiques de l'Aude imprime l'épitaphe de la marquise, future clef du chiffre.
+repere: 12 janvier 1956 — *La Dépêche du Midi* rapporte le récit de Corbu : des parchemins trouvés sous l'autel.
+repere: 18 janvier 1964 — Une plaquette déposée à la Bibliothèque nationale invoque « les parchemins de l'abbé Saunière ».
+repere: 1967 — *L'Or de Rennes* publie les deux textes.
+repere: 1969 — Henry Lincoln repère le message du petit parchemin.
+repere: 29 janvier 1974 — Chérisey s'en reconnaît l'auteur dans une lettre à Pierre Jarnac.
+repere: 2003 — Wieland Willker identifie le modèle du petit parchemin : le Codex Bezae.
+voir: philippe-de-cherisey, pierre-plantard, atelier-des-faux, aveux, stele-de-la-marquise, l-or-de-rennes, dossiers-secrets, pommes-bleues, pilier-sculpte, emile-hoffet
+
+@ carnets-de-sauniere
+cat: pieces
+groupe: papiers
+nom: Les carnets et les comptes
+alias: carnets de Saunière, carnets de messes, registre de correspondance, livres de comptes, journal de l'abbé Saunière, Découverte d'un tombeau, Arrête là
+dates: 1891 – 1917
+an: 1891
+statut: authentique
+def: Les papiers personnels de Saunière : carnets de messes, registre de correspondance de 820 pages, livres de comptes, journal. Tenus au jour le jour de 1891 à 1917, ils sont la source la plus sûre du dossier, et la plus contraire à la légende.
+texte: [[berenger-sauniere|Saunière]] écrivait tout. Il en reste deux carnets de messes, du 9 juillet 1891 au 29 novembre 1897, un carnet de 1891-1892, un registre de correspondance de huit cent vingt pages qui court de 1896 à 1915, des livres de comptes tenus de juillet 1895 à novembre 1915, un journal pour 1901-1905 et un cahier de correspondance pour 1915-1917. S'y ajoutent les carnets de chantier de l'entrepreneur [[elie-bot|Élie Bot]] et les copies des pièces du [[dossier-du-proces|procès]].
+texte: Ces papiers sont aujourd'hui entre les mains de la famille Corbu-Captier et du chercheur [[octonovo|Laurent Buchholtzer]] ; le registre de correspondance est microfilmé aux Archives de l'Aude. On en a publié des parties : [[corbu-et-captier|Claire Corbu et Antoine Captier]] en 1985, [[pierre-jarnac|Pierre Jarnac]] en 1997, [[patrick-mensior|Patrick Mensior]] en 2017. L'association RLCdoc en donne des fac-similés.
+texte: Le carnet de messes est un tableau : la date de réception, le donateur, l'intention, l'honoraire — un à deux francs —, le jour où la messe est dite. Dès la première page, le retard se voit : en mai 1892, le curé acquitte les messes reçues en juillet 1891. Les demandes enflent, vingt-six pages en 1892, quatre-vingt-trois en 1895. Le 6 septembre 1893, il écrit « Arrête là » et laisse désormais vide la colonne de l'acquit ; il continue pourtant d'enregistrer chaque intention et de la rayer d'une croix. Devant ses juges, il soutiendra qu'il ne notait ses messes que sur des feuilles volantes : les carnets prouvent le contraire. Voir [[trafic-de-messes|le trafic de messes]].
+texte: Le registre de correspondance et les livres de comptes montrent la même chose en grand : des mandats de un à cinquante francs, des centaines de correspondants, prêtres, couvents, particuliers, des lettres types, des annonces dans la presse pieuse. Aucun versement massif, aucun compte à l'étranger. Les recettes font en moyenne 915 francs par mois de 1895 à 1915, avec un sommet de 25 004,70 francs en 1901.
+texte: Ils valent aussi par ce qu'ils ne contiennent pas. Aucun voyage à Paris : la liste des déplacements que Buchholtzer en a tirée mène à Carcassonne, Narbonne, Toulouse, Lourdes, jamais à [[saint-sulpice|Saint-Sulpice]]. Rien sur [[emma-calve|Emma Calvé]]. De l'abbé [[henri-boudet|Boudet]], des envois de messes à un franc cinquante — 290 francs en tout de 1896 à 1900 —, puis, en 1907 et 1908, la réponse « n'a pas de messes ». Aucune commande à une fonderie d'Aix en 1916, où la légende place la « [[maquette-de-sauniere|maquette]] ».
+texte: Et une seule découverte. Au 21 septembre 1891, pendant qu'on dépose le dallage de l'église : « Lettre de Granès. Découverte d'un tombeau. Le soir, pluie. » Pas un mot de plus. Le 29, il note des visites, dont une « chez Gélis », et les mots « Vu Cros et Secret », où Cros est très probablement le vicaire général Guillaume Cros. C'est tout ce que le curé a consigné de ce que la légende appelle son trésor ; le plus simple est qu'il venait de retrouver le [[crypte-des-seigneurs|caveau des seigneurs]]. Restent des lacunes : rien avant 1891, des livres de comptes manquants. C'est là, et non dans ce qui est écrit, que les hypothèses se logent.
+repere: 9 juillet 1891 — Début du premier carnet de messes conservé.
+repere: 21 septembre 1891 — Il note : « Lettre de Granès. Découverte d'un tombeau. Le soir, pluie. »
+repere: 6 septembre 1893 — « Arrête là » : il cesse de pointer les messes une à une.
+repere: juillet 1895 — Début des livres de comptes conservés.
+repere: 1896 — Début du registre de correspondance, tenu jusqu'en 1915.
+repere: 1985 — Claire Corbu et Antoine Captier publient les papiers de famille.
+repere: 1997 — Pierre Jarnac édite le cahier de correspondance de 1915-1917.
+repere: 2017 — Patrick Mensior édite le journal de 1901-1905.
+voir: berenger-sauniere, trafic-de-messes, dossier-du-proces, octonovo, corbu-et-captier, patrick-mensior, crypte-des-seigneurs, honoraires-de-messes, jean-jacques-bedu, proces-de-sauniere
+
+@ dossier-du-proces
+cat: pieces
+groupe: papiers
+nom: Le dossier du procès
+alias: pièces du procès, dossier de l'officialité, liste des donateurs, les soixante et une factures, état des dépenses de 1911
+dates: 1910 – 1911
+an: 1910
+statut: authentique
+def: Les pièces de la procédure menée contre Saunière devant l'officialité de Carcassonne en 1910 et 1911 : acte d'accusation, sentences, mémoire en défense, soixante et une factures, et la liste de donateurs par laquelle le curé prétendait justifier 193 150 francs de ressources.
+texte: Le dossier a deux versants. Celui des juges est le dossier de l'officialité, que [[rene-descadeillas|René Descadeillas]] a pu consulter pour son livre de 1974. Celui de l'accusé est resté dans les papiers de [[berenger-sauniere|Saunière]], que [[corbu-et-captier|Claire Corbu et Antoine Captier]] ont publiés en 1985. Le récit suivi de la procédure est dans [[proces-de-sauniere|le procès de l'abbé Saunière]] ; on ne retient ici que les pièces.
+texte: La première est l'acte d'accusation du 27 mai 1910, qui retient trois chefs : trafic d'honoraires de messes, désobéissance, dépenses exagérées et non justifiées. Le 15 juillet, Saunière répond par un mémoire où il refuse de nommer ses donateurs. Suivent trois sentences. Celle du 23 juillet 1910, par contumace, le suspend un mois. Celle du 5 novembre ne retient pas le trafic au sens strict, faute de preuve complète, mais la désobéissance et le désordre des comptes : dix jours d'exercices spirituels, un mois pour produire ses livres. Celle du 5 décembre 1911, de nouveau par contumace, le déclare coupable d'avoir dilapidé et détourné des fonds dont il était dépositaire, et le suspend *a divinis* pour trois mois, à prolonger jusqu'à restitution.
+texte: Entre les deux dernières viennent les pièces de la défense, cœur du dossier. Sommé de montrer ses livres, Saunière envoie le 13 mars 1911 soixante et une factures, pour 36 000 francs environ, et assure ne rien garder au-delà de deux ans. Le 25 mars, il adresse une lettre et une « liste des donateurs » : 193 150 francs de ressources en vingt ans. On y trouve les troncs de l'église, comptés à 1 200 francs par an, une loterie de 1887, les dons que lui aurait transmis son frère [[alfred-sauniere|Alfred]], mort en 1905, des pensionnaires, la vente de cartes postales, de timbres et de meubles, la famille Dénarnaud. Le 14 juillet, il remet un état de ses dépenses : 193 050 francs, dont 90 000 pour la [[villa-bethanie|villa]] et 40 000 pour la [[tour-magdala|tour]].
+texte: Les juges ne le croient pas. La commission d'enquête du chanoine Saglio rend son rapport le 4 octobre 1911 : seuls 36 000 francs environ sont justifiés ; le reste tient en sept postes sans pièces. Les historiens leur ont donné raison par un autre chemin. Les factures retrouvées donnent 26 417 francs pour le domaine, terrains compris, et l'abbé [[bruno-de-monts|Bruno de Monts]] a montré que les dépenses déclarées en 1911 avaient été gonflées pour égaler la liste des dons. Saunière a aussi menti sur ses écritures : ses [[carnets-de-sauniere|carnets]] existaient.
+texte: Le dossier garde la trace de ce qui se passe au-dehors. Le 14 décembre 1910, entre deux sentences, une annonce de l'abbé demande encore des messes dans le supplément des *Veillées des chaumières*. L'évêché réplique par un avertissement dans *La Semaine religieuse de Carcassonne* du 3 février 1911, que *La Croix* reprend le 9 : l'ancien curé de Rennes n'est pas autorisé à recevoir des honoraires. Un recours à Rome, déposé en décembre 1910, est renvoyé à Carcassonne en février ; l'abbé [[eugene-huguet|Huguet]] suit les suivants, dont l'issue est mal établie.
+texte: Deux choses restent ouvertes. La liste des donateurs n'a jamais pu être vérifiée nom par nom : hors l'autel offert par une fidèle de Coursan, les montants ne reposent que sur la parole de l'accusé, et le don même de la [[comtesse-de-chambord|comtesse de Chambord]], trois mille francs dans ses listes, n'a pas de pièce retrouvée. Le compte exact des messes, lui, n'a pas été fait par ses juges. Voir [[dons-et-bienfaiteurs|les dons et les bienfaiteurs]].
+repere: 27 mai 1910 — Acte d'accusation devant l'officialité de Carcassonne.
+repere: 15 juillet 1910 — Mémoire en défense : il refuse de nommer ses donateurs.
+repere: 23 juillet 1910 — Première sentence, par contumace : un mois de suspense.
+repere: 5 novembre 1910 — Deuxième sentence : dix jours d'exercices spirituels, un mois pour produire ses comptes.
+repere: 13 mars 1911 — Envoi de soixante et une factures.
+repere: 25 mars 1911 — Lettre et liste des donateurs : 193 150 francs.
+repere: 14 juillet 1911 — État des dépenses : 193 050 francs.
+repere: 4 octobre 1911 — Rapport de la commission d'enquête.
+repere: 5 décembre 1911 — Sentence définitive : suspense *a divinis* jusqu'à restitution.
+voir: proces-de-sauniere, trafic-de-messes, dons-et-bienfaiteurs, carnets-de-sauniere, mgr-de-beausejour, eugene-huguet, bruno-de-monts, rene-descadeillas, alfred-sauniere, carcassonne
+
+@ plaintes-de-1895
+cat: pieces
+groupe: papiers
+nom: Les plaintes de 1895
+alias: plaintes de mars 1895, plaintes au préfet, fouilles nocturnes du cimetière, pétitions de 1895, plainte Sarda
+dates: mars 1895
+an: 1895
+statut: authentique
+def: Deux plaintes d'habitants de Rennes au préfet, des 12 et 14 mars 1895, contre le curé qui bouleverse le cimetière et déplace croix, pierres et ossements. C'est le seul fondement écrit des « fouilles nocturnes » ; il n'y est pas question de trésor.
+texte: En mars 1895, le [[cimetiere|cimetière]] de Rennes est en chantier depuis l'automne. Les carnets de [[berenger-sauniere|Saunière]] y montrent des travaux de septembre à novembre 1894, avec des tailleurs de pierre : sans doute la construction de l'ossuaire. Le conseil municipal se réunit le 10 mars ; les 12 et 14, deux plaintes d'habitants partent pour la préfecture. Elles reprochent au curé de déplacer les croix, les pierres tombales et les ossements. Lui s'en explique par l'ossuaire et par la place à faire pour de nouvelles sépultures. Les pièces sont publiées en fac-similé par l'association RLCdoc.
+texte: L'affaire rebondit. Le 24 avril 1899, un propriétaire du village, Jean Sarda, écrit au procureur de la République que le curé « fait des travaux dans le cimetière sans autorisation aucune ». Le maire, Pierre Sauzède, confirme les faits le 19 mai ; mais le conseil municipal prend cette fois le parti du curé, qui paie les travaux, et Sarda écrit en vain au préfet le 15 juin. Saunière projette alors une chapelle au cimetière, qui ne sera jamais bâtie ; en 1900, le conseil l'autorise à y creuser un caveau.
+texte: De ces lettres, la légende a fait un curé enfermé la nuit dans le cimetière, occupé à effacer l'épitaphe de la marquise de Blanchefort : c'est le récit de [[gerard-de-sede|Gérard de Sède]] en 1967. Les plaintes ne parlent pas de trésor. Et l'épitaphe n'a pas été effacée : dix ans plus tard, le 25 juin 1905, des visiteurs la relèvent encore. Voir [[stele-de-la-marquise|la stèle de la marquise]]. Qu'il ait pu tirer quelques objets de vieilles tombes est possible, et n'est pas prouvé. Voir [[pillage-des-tombes|les tombes fouillées]].
+repere: septembre 1894 — Début de travaux au cimetière ; construction probable de l'ossuaire.
+repere: 12 mars 1895 — Première plainte au préfet ; une seconde suit le 14.
+repere: 24 avril 1899 — Jean Sarda se plaint au procureur de la République.
+repere: 1900 — Le conseil municipal autorise le curé à creuser un caveau au cimetière.
+repere: 25 juin 1905 — L'épitaphe de la marquise est encore lisible.
+voir: cimetiere, stele-de-la-marquise, pillage-des-tombes, berenger-sauniere, crypte-des-seigneurs, tombe-de-sauniere, gerard-de-sede
+
+@ lettre-de-louis-fouquet
+cat: pieces
+groupe: papiers
+nom: La lettre de Louis Fouquet
+alias: lettre de l'abbé Fouquet, lettre de 1656, lettre de Rome, Fouquet et Poussin
+dates: 17 avril 1656
+an: 1656
+statut: authentique
+def: Lettre écrite de Rome, le 17 avril 1656, par l'abbé Louis Fouquet à son frère Nicolas, le surintendant : il y parle de projets formés avec Poussin et d'avantages que les rois eux-mêmes auraient peine à obtenir. La pièce est authentique ; son rapport avec Rennes est une lecture du XXe siècle.
+texte: Le document existe, et il est connu de longue date : il a été publié au XIXe siècle dans les *Archives de l'art français*. L'abbé Louis Fouquet est à Rome, où vit [[nicolas-poussin|Nicolas Poussin]]. Il rend compte à son frère, [[nicolas-fouquet|Nicolas Fouquet]], de projets arrêtés avec le peintre, et use d'une formule qui a fait fortune : ces projets vaudraient au surintendant des avantages que les rois auraient grand-peine à tirer de Poussin.
+texte: Les historiens de l'art lisent la lettre dans son contexte : il s'agit d'acquérir des antiques et des œuvres pour un grand collectionneur. La phrase vante une affaire rare, non un secret.
+texte: La légende l'en détache. [[gerard-de-sede|Gérard de Sède]], puis [[henry-lincoln|Henry Lincoln]], y voient la preuve que Poussin détenait un secret, celui que cacheraient *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]* et que désignerait le message du grand [[parchemins|parchemin]] : « Poussin Teniers gardent la clef ». Mais ce message est un faux des années 1960, le lien avec le Razès une surinterprétation, et Poussin n'a jamais mis les pieds en Languedoc. Voir [[secret-de-poussin|le secret de Poussin]].
+voir: nicolas-fouquet, nicolas-poussin, les-bergers-d-arcadie, secret-de-poussin, et-in-arcadia-ego, gerard-de-sede
+
+@ rapport-cros
+cat: pieces
+groupe: papiers
+nom: Le « rapport Cros »
+alias: rapport Cros, rapport d'Ernest Cros, notes de l'ingénieur Cros
+statut: discute
+def: Texte attribué à l'ingénieur Ernest Cros, qui a connu Saunière : il donne une lecture de la dalle de la marquise et signale la pierre de Coumesourde. Il n'est connu que par deux dactylographies tardives, dont aucune n'a été authentifiée.
+texte: [[ernest-cros|Ernest Cros]] est un personnage réel : ingénieur en chef des chemins de fer, né en 1857, il se retire en 1924 à Ginoles, s'intéresse aux antiquités du pays et meurt en 1945 ou 1946. Il a connu [[berenger-sauniere|Saunière]]. On lui attribue un rapport sur les pierres gravées de Rennes : une lecture de la [[dalle-de-la-marquise|dalle de la marquise]] et la mention d'une autre pierre, celle de [[pierre-de-coumesourde|Coumesourde]], « trouvée en 1928 ».
+texte: Le texte n'a pas d'original. Il circule sous la forme de deux dactylographies tardives : l'une vient de [[noel-corbu|Noël Corbu]], l'autre a été retrouvée par René Chesa, et l'une copie l'autre. Le compilateur en serait l'abbé Maurice Mazières. Les papiers de l'ingénieur auraient disparu lors d'un cambriolage, en 1960 : on ne peut rien confronter à sa main.
+texte: Son contenu aggrave le doute. La dalle qu'il décrit n'est attestée par aucune source avant 1965, et l'une des planches du recueil apocryphe *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]* (1966) lui est empruntée, avec des ajouts. En 1967, [[gerard-de-sede|Gérard de Sède]] met en scène l'ingénieur reprochant à Saunière d'avoir effacé « cette antique inscription » : le dialogue est imaginaire. Quant au « Vu Cros et Secret » que le curé note dans son [[carnets-de-sauniere|carnet]] le 29 septembre 1891, il désigne très probablement le vicaire général Guillaume Cros, non l'ingénieur.
+voir: ernest-cros, pierre-de-coumesourde, dalle-de-la-marquise, pierres-gravees-du-languedoc, noel-corbu, atelier-des-faux
+
+@ maquette-de-sauniere
+cat: pieces
+groupe: papiers
+nom: La « maquette de Saunière »
+alias: maquette de Saunière, maquette de Périllos, maquette de Douzet, Saunière's Model, relief de Jérusalem
+dates: 1995
+an: 1995
+statut: faux
+def: Relief de plâtre révélé en 1995 par André Douzet, qui y voit une carte du secret commandée par Saunière en 1916 et le paysage de Périllos. L'objet porte des légendes de Jérusalem et a un jumeau dans un musée franciscain de cette ville ; les papiers du curé n'en gardent aucune trace.
+texte: En 1995, [[andre-douzet|André Douzet]] fait connaître un relief de plâtre, sorte de carte d'état-major en volume, dans un cadre de bois. Il dit l'avoir retrouvé en 1991 dans une fonderie désaffectée de la région d'Aix-en-Provence, démolie depuis. [[berenger-sauniere|Saunière]] l'aurait commandé pour léguer son secret : fin 1916 dans la première version du récit, puis, le curé étant alors mourant, en janvier 1916. Le relief figurerait le site de [[perillos|Périllos]], dans les Pyrénées-Orientales, et deux tombeaux, celui du Christ et celui de Joseph d'Arimathie. C'est la [[piste-de-perillos|piste de Périllos]].
+texte: [[patrick-mensior|Patrick Mensior]], qui a pu examiner longuement l'objet, en a publié la critique de 2002 à 2012. Les inscriptions qu'il porte sont celles des lieux saints : « Golgotha », « Jardin de Gethsémani », « Tombeau du Christ », « Tombeau de Joseph d'Arimathie », une citerne et, presque effacé, le mot « Sépulcre ». Un relief tout semblable, cadre compris, est photographié dans un livre de piété, *L'Évangile de Jésus*, paru en français en 1975 : il appartient au musée des franciscains de Jérusalem, où le frère Émile Dubois en a réalisé deux dans la première moitié du XXe siècle. Le rapprochement était signalé dès 1996.
+texte: Du côté des preuves, rien. Les lettres échangées avec le fondeur n'ont jamais été montrées en entier ; le seul extrait publié n'est pas daté. Le cahier où Saunière note sa correspondance de 1915 à 1917 n'enregistre, en janvier 1916, qu'une commande à une maison de Castres où il achetait du tissu. Aucun permis de démolir une fonderie n'a été retrouvé, et l'archiviste du diocèse d'Aix ne connaît pas d'atelier de ce genre. Le relief est un authentique plan des lieux saints ; ce qui est faux, c'est son attribution.
+voir: andre-douzet, perillos, piste-de-perillos, tombeau-du-christ, patrick-mensior, carnets-de-sauniere
+
+@ statuts-de-1956
+cat: pieces
+groupe: papiers
+nom: Les statuts de 1956
+alias: statuts du Prieuré de Sion, déclaration du 25 juin 1956, Journal officiel du 20 juillet 1956, CIRCUIT
+dates: 1956
+an: 1956
+statut: authentique
+def: Les statuts de l'association « Prieuré de Sion », datés du 7 mai 1956 et déclarés le 25 juin à la sous-préfecture de Saint-Julien-en-Genevois. L'acte est authentique, et il date l'ordre prétendument millénaire : une association de Haute-Savoie, alors sans aucun lien avec Rennes.
+texte: Le [[prieure-de-sion|Prieuré de Sion]] a un acte de naissance, et il est banal. Des statuts datés du 7 mai 1956 sont déposés le 25 juin à la sous-préfecture de Saint-Julien-en-Genevois ; le *Journal officiel* publie la déclaration le 20 juillet. C'est une association de la loi de 1901, fondée à [[annemasse|Annemasse]]. Son bureau compte quatre hommes : André Bonhomme, président ; Jean Deleaval, vice-président ; [[pierre-plantard|Pierre Plantard]], secrétaire général ; Armand Defago, trésorier.
+texte: Le texte lui donne un sous-titre de chevalerie, « Chevalerie d'institution et règle catholique et d'union indépendante traditionaliste », dont les initiales forment CIRCUIT. C'est le nom de son bulletin, qui paraît à partir du 27 mai 1956 et compte douze numéros : on y défend les locataires des HLM d'Annemasse. Le nom de Sion vient d'une colline voisine, le mont Sion. L'association cesse toute activité avant la fin de l'année.
+texte: En 1956, le Prieuré n'a aucun rapport avec Rennes-le-Château. L'ordre « fondé en 1099 par Godefroy de Bouillon », ses grands maîtres et ses archives n'apparaissent que dans les années 1960, avec les plaquettes déposées à la Bibliothèque nationale. Voir [[atelier-des-faux|l'atelier des faux]] et les *[[dossiers-secrets|Dossiers secrets]]*. En 1973, André Bonhomme, le président de 1956, se désolidarise publiquement.
+repere: 7 mai 1956 — Date portée par les statuts.
+repere: 27 mai 1956 — Premier numéro du bulletin *Circuit*.
+repere: 25 juin 1956 — Déclaration à la sous-préfecture de Saint-Julien-en-Genevois.
+repere: 20 juillet 1956 — Insertion au *Journal officiel*.
+repere: 1973 — André Bonhomme se désolidarise publiquement.
+voir: prieure-de-sion, pierre-plantard, annemasse, atelier-des-faux, dossiers-secrets, aveux, descendance-merovingienne
+
+# ───────────────────────── Dates, devises et signes ─────────────────────────
+
+@ et-in-arcadia-ego
+cat: pieces
+groupe: signes
+nom: « Et in Arcadia ego »
+alias: Et in Arcadia ego, Moi aussi en Arcadie, devise des Bergers d'Arcadie, I tego arcana Dei
+dates: XVIIe siècle
+an: 1620
+statut: authentique
+def: Devise latine inscrite sur le tombeau des tableaux du Guerchin et de Poussin : la mort est présente même en Arcadie. Les faussaires des années 1960 l'ont gravée sur une dalle imaginaire de Rennes, et Pierre Plantard en a fait la devise de sa famille.
+texte: Quatre mots latins, sans verbe : « Et in Arcadia ego », moi aussi, en Arcadie. Le thème vient du Guerchin, qui le peint vers 1618-1622 ; son tableau est à Rome, au palais Barberini. [[nicolas-poussin|Nicolas Poussin]] le reprend deux fois. Une première version, vers 1628-1630, est à Chatsworth House ; la seconde, vers 1638-1640, entre en 1685 dans la collection de Louis XIV et se trouve au Louvre. Ce sont *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]* : la devise y est gravée sur un tombeau.
+texte: Les historiens de l'art y lisent un *memento mori* : même en Arcadie, la mort est là. C'est la lecture classique, celle de Panofsky (1936, 1955). Rien, chez Poussin, ne renvoie au Languedoc, où il n'est jamais allé ; son paysage est composé en atelier.
+texte: La devise entre dans l'affaire de Rennes par une pierre que personne n'a vue. En 1965 et 1966, deux plaquettes déposées à la Bibliothèque nationale montrent, sur la tombe de la marquise de Blanchefort, une [[dalle-de-la-marquise|dalle]] où elle serait gravée en caractères grecs. La dalle est apocryphe. Vers 1964, [[pierre-plantard|Pierre Plantard]] a fait de ces mots la devise de sa famille : ils signent la série des faux. Le message du grand [[parchemins|parchemin]], sorti du même atelier, nomme Poussin et sa « clef ». En 1967, *[[l-or-de-rennes|L'Or de Rennes]]* rassemble le tout.
+texte: Il manquait un tombeau réel. On le trouve au début des années 1970 : au bord de la route d'Arques, le [[tombeau-des-pontils|tombeau des Pontils]] ressemble à celui du tableau, et [[henry-lincoln|Henry Lincoln]] le montre à la BBC en 1974. Il a été bâti en 1903 : il est plus jeune que la toile de deux cent soixante-dix ans.
+texte: Restait à faire parler les lettres. *[[l-enigme-sacree|L'Énigme sacrée]]* propose en 1982 l'anagramme « I ! Tego arcana Dei » — va ! je recèle les secrets de Dieu. En 1996, [[andrews-et-schellenberger|Andrews et Schellenberger]] ajoutent un mot, « sum », pour obtenir « Arcam Dei tango, Iesu », je touche le tombeau de Dieu, Jésus ; ils le placent au [[pech-cardou|Pech Cardou]]. Quatorze lettres se prêtent à bien des arrangements, et devoir en ajouter trois pour atteindre le résultat voulu dit assez la méthode.
+texte: La devise reste ce qu'elle était au XVIIe siècle : une méditation sur la mort, devant un tombeau peint. Voir [[secret-de-poussin|le secret de Poussin]]. Le même tableau a fait entrer dans le dossier le monument des Bergers de Shugborough et son [[inscription-de-shugborough|inscription]].
+repere: vers 1618-1622 — Le Guerchin peint le sujet.
+repere: vers 1628-1630 — Première version de Poussin, aujourd'hui à Chatsworth House.
+repere: vers 1638-1640 — Seconde version de Poussin, aujourd'hui au Louvre.
+repere: 1685 — Le tableau entre dans la collection de Louis XIV.
+repere: vers 1964 — Pierre Plantard adopte la devise pour sa famille.
+repere: août 1965 — La devise apparaît sur le dessin d'une dalle prêtée à la tombe de la marquise.
+repere: 1982 — *L'Énigme sacrée* en tire l'anagramme « I tego arcana Dei ».
+voir: les-bergers-d-arcadie, nicolas-poussin, dalle-de-la-marquise, tombeau-des-pontils, secret-de-poussin, pierre-plantard, inscription-de-shugborough, lettre-de-louis-fouquet
+
+@ 17-janvier
+cat: pieces
+groupe: signes
+nom: Le 17 janvier
+alias: 17 janvier, la Saint-Antoine, la Saint-Sulpice, date fétiche de l'affaire, Cercle du 17 janvier
+statut: discute
+def: La date qui revient dans l'affaire : mort de la marquise de Blanchefort en 1781, malaise de Saunière en 1917, fête de saint Antoine et de saint Sulpice. Deux de ces rencontres sont réelles ; les autres ont été choisies par les faussaires pour faire série.
+texte: Le 17 janvier est le fil que suivent les amateurs d'énigme. L'inventaire se fait vite, à condition de ranger les occurrences en deux colonnes : celles que personne n'a choisies, et les autres.
+texte: Deux événements du dossier tombent ce jour-là sans que nul l'ait voulu. [[marie-de-negre-d-ables|Marie de Nègre d'Ables]], marquise de Blanchefort, meurt à Rennes le 17 janvier 1781, et sa [[stele-de-la-marquise|stèle]] en portait la date. Cent trente-six ans plus tard, [[berenger-sauniere|Saunière]] est frappé d'un malaise sur sa terrasse ; il meurt le 22 janvier 1917. La date du malaise, le 17, est celle que donnent tous ses biographes ; elle est transmise par la tradition.
+texte: Le calendrier ajoute deux saints. Le 17 janvier est la fête de saint Antoine ermite, qui a sa [[statues-de-l-eglise|statue]] dans l'église de Rennes, et celle de saint Sulpice, patron de l'église parisienne où la légende envoie le curé faire lire ses parchemins. Voir [[saint-sulpice|Saint-Sulpice]]. Ce sont des faits de calendrier, vrais de toute éternité et pour toutes les paroisses.
+texte: Le reste a été mis là exprès. *[[le-serpent-rouge|Le Serpent rouge]]* porte la date du 17 janvier 1967 ; or la plaquette n'a reçu le tampon de la Bibliothèque nationale que le 20 mars, et les trois hommes dont elle porte la signature s'étaient pendus les 6 et 7 mars : la date est fausse, donc choisie. Le message du grand [[parchemins|parchemin]], composé vers 1965, s'achève sur « à midi pommes bleues » ; on en a fait le rendez-vous du 17 janvier, quand le soleil d'hiver projette des taches de couleur dans l'église. Voir [[pommes-bleues|les pommes bleues]]. En 1989 enfin, quand [[pierre-plantard|Pierre Plantard]] réécrit l'histoire de son Prieuré et le fait naître à Rennes en 1681, il choisit un 17 janvier.
+texte: Sur ces six rencontres, deux seulement sont des événements antérieurs à 1956 et indépendants des faussaires ; la fête des saints est affaire de calendrier ; les trois dernières ont été fabriquées. Deux coïncidences sur un même jour n'ont rien de rare dans un dossier qui brasse plusieurs milliers de dates : on ne relève que celle qui revient. Les autres ne prouvent que le soin des faussaires, qui connaissaient l'épitaphe de 1781 et le récit de la mort du curé, et ont aligné leurs inventions dessus. Voir [[histoire-et-pseudo-histoire|histoire et pseudo-histoire]].
+texte: La date a pris depuis une vie propre. L'observation des pommes bleues, chaque 17 janvier, est un rite récent, né dans les années 1980-1990 et entretenu par un « Cercle du 17 janvier ».
+repere: 17 janvier 1781 — Mort de Marie de Nègre d'Ables.
+repere: 17 janvier 1917 — Malaise de Saunière, qui meurt le 22.
+repere: 20 mars 1967 — La Bibliothèque nationale enregistre *Le Serpent rouge*, daté du 17 janvier.
+repere: 1989 — Plantard place un 17 janvier la fondation de son Prieuré, qu'il date désormais de 1681.
+voir: marie-de-negre-d-ables, pommes-bleues, le-serpent-rouge, saint-sulpice, statues-de-l-eglise, stele-de-la-marquise, atelier-des-faux, histoire-et-pseudo-histoire
+
+@ pommes-bleues
+cat: pieces
+groupe: signes
+nom: Les pommes bleues
+alias: pommes bleues, à midi pommes bleues, taches de lumière du 17 janvier, effet du vitrail
+statut: authentique
+def: Taches de lumière colorée que le soleil bas de l'hiver projette dans l'église de Rennes, vers midi, autour du 17 janvier, en traversant un vitrail du mur sud. L'effet est réel et banal ; son nom vient du message du grand parchemin, écrit vers 1965.
+texte: Ce ne sont pas des fruits. Autour du 17 janvier, vers le milieu du jour, le soleil encore bas traverse un vitrail du mur sud de l'[[eglise-sainte-marie-madeleine|église]] et jette sur le mur d'en face des taches rondes, colorées, qui se déplacent quelques minutes. On les dit bleues ; elles sont de plusieurs couleurs. Le vitrail date de 1887 : il est de ceux que [[berenger-sauniere|Saunière]] commande au verrier bordelais Henri Feur, pour 1 350 francs payés en quatre fois.
+texte: Le nom vient d'ailleurs. Le message tiré du grand [[parchemins|parchemin]] s'achève sur les mots « à midi pommes bleues ». Ce texte est un faux composé vers 1965 par [[philippe-de-cherisey|Philippe de Chérisey]] : celui qui l'a écrit connaissait l'effet du vitrail, ou l'a deviné. C'est la formule qui a fait chercher les taches, non les taches qui garantissent la formule.
+texte: L'examen est simple. Toute église à vitraux offre le même jeu de lumière. À Rennes, il s'observe plusieurs jours avant et après le [[17-janvier|17 janvier]] : la date n'a rien d'un réglage. L'habitude de venir le guetter ce jour-là remonte aux années 1980-1990 ; un « Cercle du 17 janvier » l'entretient. Voir [[eglise-codee|l'église, carte au trésor]].
+voir: 17-janvier, parchemins, eglise-sainte-marie-madeleine, eglise-codee, philippe-de-cherisey
+
+@ penitence-penitence
+cat: pieces
+groupe: signes
+nom: « Pénitence ! Pénitence ! »
+alias: Pénitence Pénitence, Mission 1891, inscription du pilier, Notre-Dame de Lourdes
+dates: 21 juin 1891
+an: 1891
+statut: authentique
+def: Inscription gravée en 1891, avec les mots « Mission 1891 », sur le pilier qui porte la statue de Notre-Dame de Lourdes devant l'église. C'est le mot d'ordre des missions paroissiales et des apparitions mariales du siècle.
+texte: Le 21 juin 1891, la paroisse de Rennes clôt une mission et fait faire leur première communion à vingt-quatre enfants. Ce jour-là, on bénit dans le [[jardin-du-calvaire|jardin]], devant l'église, une statue de Notre-Dame de Lourdes. [[berenger-sauniere|Saunière]] l'a fait poser sur l'ancien [[pilier-sculpte|pilier de l'autel]], retourné, où sont gravées deux inscriptions : « Pénitence ! Pénitence ! » et « Mission 1891 ».
+texte: Les deux formules appartiennent au catholicisme du temps. L'appel à la pénitence est celui des apparitions mariales du siècle — La Salette en 1846, Lourdes en 1858 — et des missions paroissiales. Sous une Vierge de Lourdes, il est à sa place.
+texte: La légende s'attache moins aux mots qu'au support : un pilier dressé à l'envers, où le curé aurait trouvé ses parchemins. Le pilier n'a pour tout creux qu'une mortaise de la taille d'une boîte d'allumettes. Et l'inscription est une date de paroisse : la seule découverte que le curé ait notée dans son [[carnets-de-sauniere|carnet]], celle d'un tombeau, est du 21 septembre 1891, trois mois après la mission. L'original du pilier est au musée depuis 1993 ; une copie porte aujourd'hui la statue.
+voir: pilier-sculpte, jardin-du-calvaire, carnets-de-sauniere, eglise-codee, presbytere
+
+@ inscription-de-shugborough
+cat: pieces
+groupe: signes
+nom: L'inscription de Shugborough
+alias: inscription de Shugborough, O U O S V A V V, monument des Bergers
+statut: authentique
+def: Suite de huit lettres, O U O S V A V V, gravée sur le monument des Bergers de Shugborough. La pièce est réelle ; elle ne touche à l'affaire de Rennes que par le tableau de Poussin.
+texte: À [[shugborough|Shugborough]], un monument dit « des Bergers » porte une suite de huit lettres : O U O S V A V V. L'inscription existe et se lit sur la pierre.
+texte: Elle n'appartient pas à l'histoire de [[berenger-sauniere|Saunière]]. Elle est entrée dans le dossier par ricochet, comme tout ce qui touche aux *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* depuis que les faussaires des années 1960 ont mis [[nicolas-poussin|Poussin]] au centre de l'énigme, avec la devise « [[et-in-arcadia-ego|Et in Arcadia ego]] ».
+texte: Huit initiales se prêtent à toutes les lectures, comme les anagrammes tirées de la devise : ce sont des jeux de lettres, qui trouvent ce qu'ils cherchent. Rien, dans les pièces du dossier, ne relie celles-ci à Rennes. Voir [[secret-de-poussin|le secret de Poussin]].
+voir: shugborough, les-bergers-d-arcadie, et-in-arcadia-ego, nicolas-poussin, secret-de-poussin

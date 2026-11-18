@@ -1,0 +1,129 @@
+/*
+ * Rhedae — la carte.
+ *
+ * Le dessin est en SVG : un groupe « monde » que l'on déplace et que l'on
+ * grossit, et par-dessus, à l'écran, les points et les noms. Les traits gardent
+ * leur épaisseur quelle que soit l'échelle (`vector-effect`). Trois paliers de
+ * détail, posés en classes par js/carte.js : n-razes, n-detail, n-village.
+ */
+
+.carte-cadre {
+  position: relative; margin: 0 0 .7rem; border: 1px solid var(--trait-fort); border-radius: var(--rayon);
+  overflow: hidden; background: var(--trait); box-shadow: var(--ombre);
+}
+.carte-svg { display: block; width: 100%; height: auto; touch-action: none; user-select: none; -webkit-user-select: none; cursor: grab; }
+.carte-svg.saisie { cursor: grabbing; }
+.carte-svg:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.plan-cadre .carte-svg { cursor: default; touch-action: auto; }
+.carte-panne { padding: 1rem; }
+
+.monde path, .monde rect { vector-effect: non-scaling-stroke; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+
+/* Le relief : la région toujours, le Haut-Razès puis les abords du village à mesure qu'on approche. */
+.relief-razes, .relief-village { display: none; }
+.n-moyen .relief-razes { display: inline; }
+.n-proche .relief-village { display: inline; }
+
+.couche-razes, .couche-village { display: none; }
+.n-razes .couche-razes { display: inline; }
+.n-village .couche-village { display: inline; }
+.n-village .couche-razes .t-route, .n-village .couche-razes .t-bord { display: none; }
+
+/* Les eaux. */
+.t-eau { stroke: var(--eau); }
+.t-riviere { stroke-width: 1.5; }
+.couche-region .t-riviere { stroke-width: 1.1; opacity: .9; }
+.n-razes .couche-region .t-riviere { opacity: 0; }
+.t-ruisseau { stroke-width: .8; opacity: .8; display: none; }
+.n-detail .t-ruisseau { display: inline; }
+.n-detail .t-riviere { stroke-width: 2.2; }
+.t-lac { fill: var(--eau) !important; stroke: var(--eau); stroke-width: .6; fill-opacity: .55; }
+
+/* Les routes : un liseré clair, puis le trait. */
+.t-bord { stroke: var(--route-bord); opacity: .85; }
+.t-route { stroke: var(--route); }
+.t-nationale.t-bord { stroke-width: 3.6; } .t-nationale.t-route { stroke-width: 1.7; }
+.t-departementale.t-bord { stroke-width: 3; } .t-departementale.t-route { stroke-width: 1.3; }
+.t-locale.t-bord { stroke-width: 2.4; } .t-locale.t-route { stroke-width: 1; opacity: .9; }
+.t-chemin { stroke: var(--chemin); stroke-width: .8; display: none; }
+.n-detail .t-chemin { display: inline; }
+.couche-region .t-nationale.t-bord { stroke-width: 2.6; } .couche-region .t-nationale.t-route { stroke-width: 1.1; }
+.n-razes .couche-region .t-route, .n-razes .couche-region .t-bord { opacity: .45; }
+.t-rail { stroke: var(--rail); stroke-width: 1.3; stroke-dasharray: 5 4; stroke-linecap: butt !important; }
+
+/* Le cadre du Haut-Razès, vu de loin. */
+.cadre-razes { stroke: var(--accent); stroke-width: 1.4; stroke-dasharray: 5 4; fill: var(--accent) !important; fill-opacity: .05; }
+.n-razes .cadre-razes { display: none; }
+
+/* Le village : les enclos, les voies, les murs, les maisons. */
+.t-jardin { fill: var(--enclos) !important; fill-opacity: .55; stroke: none; }
+.t-cimetiere { fill: var(--enclos) !important; fill-opacity: .8; stroke: var(--bati-bord); stroke-width: .8; stroke-dasharray: 2 3; }
+.t-bord-rue { stroke: var(--bati-bord); opacity: .55; }
+.t-rue { stroke: var(--carte); }
+.t-bord-rue.t-ruelle { stroke-width: 4.4; } .t-rue.t-ruelle { stroke-width: 3; }
+.t-bord-rue.t-rue, .t-bord-rue.t-locale, .t-bord-rue.t-departementale { stroke-width: 6.6; }
+.t-rue.t-rue, .t-rue.t-locale, .t-rue.t-departementale { stroke-width: 5; }
+.t-sentier { stroke: var(--chemin); stroke-width: 1.2; stroke-dasharray: 4 3; }
+.t-mur { stroke: var(--bati-bord); stroke-width: 1.2; }
+.t-bati { fill: var(--bati) !important; stroke: var(--bati-bord); stroke-width: .8; }
+.t-bati-fort { fill: var(--bati-fort) !important; fill-opacity: .8; stroke: var(--bati-fort); stroke-width: 1.2; }
+
+/* Les points et les noms, posés à l'écran. */
+.noms { pointer-events: none; }
+.nom-texte {
+  fill: var(--bourg); paint-order: stroke; stroke: var(--halo); stroke-width: 3px; stroke-linejoin: round;
+  font: 11px system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+.nom-ville .nom-texte { font-weight: 600; font-size: 12px; }
+.nom-hameau .nom-texte { font-size: 10px; opacity: .85; }
+.nom-sommet .nom-texte { font: italic 10.5px Georgia, "Palatino Linotype", serif; fill: var(--sommet); }
+.nom-eau .nom-texte { font: italic 11px Georgia, "Palatino Linotype", serif; fill: var(--eau-nom); }
+.nom-rue .nom-texte { font-size: 10px; fill: var(--encre-douce); stroke-width: 2.5px; }
+.nom-lieu .nom-texte { font: 600 12.5px Georgia, "Palatino Linotype", serif; fill: var(--encre); stroke-width: 3.5px; }
+.nom-point { fill: var(--halo); stroke: var(--bourg); stroke-width: 1.2; }
+.nom-triangle { fill: var(--sommet); stroke: var(--halo); stroke-width: .8; }
+
+.point-fond { fill: var(--carte); stroke: var(--c-lieux); stroke-width: 1.6; }
+.point-signe { fill: none; stroke: var(--c-lieux); stroke-width: 1.35; stroke-linecap: round; stroke-linejoin: round; }
+.type-village .point-signe, .type-ville .point-signe, .type-sommet .point-signe { fill: var(--c-lieux); fill-rule: evenodd; stroke-width: .6; }
+.point-mini { display: none; fill: var(--c-lieux); stroke: var(--halo); stroke-width: 1; }
+.point-lieu.mini .point-fond, .point-lieu.mini .point-signe, .point-lieu.mini .nom-texte { display: none; }
+.point-lieu.mini .point-mini { display: inline; }
+.point-lieu.choisi .point-fond { fill: var(--accent); stroke: var(--halo); stroke-width: 2.4; r: 12px; }
+.point-lieu.choisi .point-signe { stroke: var(--sur-accent); }
+.point-lieu.choisi.type-village .point-signe, .point-lieu.choisi.type-ville .point-signe, .point-lieu.choisi.type-sommet .point-signe { fill: var(--sur-accent); }
+.point-lieu.choisi .nom-texte { fill: var(--accent-fort); font-size: 13.5px; }
+
+.moi-halo { fill: var(--position); fill-opacity: .2; }
+.moi-point { fill: var(--position); stroke: #fff; stroke-width: 2; }
+
+.echelle-trait { fill: none; stroke: var(--encre); stroke-width: 1.5; }
+.echelle-texte { fill: var(--encre); font: 600 10px system-ui, sans-serif; text-anchor: middle; paint-order: stroke; stroke: var(--halo); stroke-width: 3px; }
+
+/* Les commandes, posées sur la carte. */
+.carte-commandes { position: absolute; top: .6rem; right: .6rem; display: flex; flex-direction: column; gap: .35rem; }
+.carte-bouton {
+  width: 2.6rem; height: 2.6rem; border-radius: 10px; border: 1px solid var(--trait-fort);
+  background: var(--carte); color: var(--encre); font: 600 1.3rem/1 var(--sans); cursor: pointer; box-shadow: var(--ombre);
+}
+.carte-bouton:hover { border-color: var(--accent); color: var(--accent); }
+.carte-bouton:active { transform: scale(.95); }
+
+#carte-cadres { flex-wrap: nowrap; }
+#carte-cadres button { flex: 1 1 0; min-width: 0; }
+#carte-cadres .bouton-situer { flex: 0 0 2.75rem; font-size: 1.15rem; padding: 0; }
+#carte-cadres .bouton-situer.actif { background: var(--position); border-color: var(--position); color: #fff; }
+
+/* La carte de visite du lieu touché. */
+#carte-choix {
+  margin: 0 0 .8rem; padding: .8rem .9rem .9rem; background: var(--carte);
+  border: 1px solid var(--trait); border-left: 4px solid var(--c-lieux); border-radius: var(--rayon); box-shadow: var(--ombre);
+  animation: fondu .2s ease;
+}
+.choix-tete { display: flex; align-items: flex-start; gap: .6rem; }
+.choix-titre { flex: 1; min-width: 0; }
+.choix-nom { margin: 0; font: 600 1.25rem/1.2 var(--serif); }
+.choix-lieu { margin: .1rem 0 0; font-size: .85rem; color: var(--encre-legere); }
+.choix-def { margin: .5rem 0 .7rem; font: .98rem/1.5 var(--texte); color: var(--encre-douce); }
+.signe-choix { width: 1.6rem; height: 1.6rem; margin-top: .15rem; }
+.carte-sources { margin: 1.4rem 0 0; font-size: .78rem; }

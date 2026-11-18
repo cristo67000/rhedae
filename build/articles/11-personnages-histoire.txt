@@ -1,0 +1,450 @@
+# Figures de l'histoire et de la légende, artistes et écrivains, ombres portées du XXe siècle.
+# Chaque fiche tient en deux temps : qui était vraiment la personne, puis ce que l'affaire de
+# Rennes-le-Château lui fait dire ou faire, depuis quand, sous la plume de qui, et ce qu'il en reste.
+
+@ alaric
+cat: personnages
+groupe: histoire
+nom: Alaric
+alias: Alaric Ier, Alaric II, roi des Wisigoths
+dates: Ve – VIe siècle
+an: 410
+role: Nom de deux rois des Wisigoths : Alaric Ier prend Rome en 410, Alaric II est battu par Clovis à Vouillé en 507
+def: Deux rois wisigoths que près d'un siècle sépare : le premier pille Rome en 410, le second perd la Gaule en 507. La légende fait voyager de l'un à l'autre, jusqu'au Razès, un trésor que les textes envoient ailleurs.
+texte: Il y a deux Alaric, et près d'un siècle entre eux. Le premier conduit les Wisigoths qui entrent dans Rome le 24 août 410 et la pillent trois jours durant. En 418, son peuple s'établit en Aquitaine : c'est le royaume de Toulouse. Le second en est le roi quand Clovis le bat à Vouillé, en 507. Les Wisigoths ne gardent alors, au nord des Pyrénées, que la Septimanie, de Narbonne et Carcassonne à Nîmes, simple province d'un royaume dont le centre est désormais Tolède. Le Razès en fait partie. Voir [[wisigoths-en-septimanie|les Wisigoths en Septimanie]].
+texte: La légende relie les deux dates par un trésor. À Rome, Alaric Ier aurait saisi le butin que Titus avait rapporté de Jérusalem en l'an 70 : le chandelier et la table du Temple. Après Vouillé, les Wisigoths l'auraient caché à [[rhedae|Rhedae]], l'ancienne Rennes. Le cadre vient de l'érudit Louis Fédié, qui fait de Rhedae, en 1880, une capitale wisigothique de trente mille habitants (*[[le-comte-de-razes-fedie|Le Comté de Razès]]*). [[gerard-de-sede|Gérard de Sède]] y loge le trésor en 1967, et [[henry-lincoln|Henry Lincoln]] en tire en 1972 le titre de son premier [[films-de-la-bbc|film pour la BBC]] : *The Lost Treasure of Jerusalem… ?*
+texte: Les sources racontent autre chose. Selon Procope, le trésor du Temple quitte Rome en 455, emporté par les Vandales ; Bélisaire le leur reprend et l'envoie à Constantinople en 534. Le trésor des rois wisigoths, lui, est mis à l'abri à Carcassonne en 507, part pour Ravenne, puis revient à Tolède, où les Arabes le prennent en 711. Aucun texte ne fait de Rhedae une capitale, et aucun objet wisigothique de prix n'a été trouvé à Rennes : le [[pilier-sculpte|pilier]] de l'église que l'on dit « wisigothique » est carolingien. Voir [[tresor-des-wisigoths|le trésor des Wisigoths]].
+repere: 24 août 410 — Alaric Ier prend Rome, pillée trois jours durant.
+repere: 418 — Les Wisigoths s'établissent en Aquitaine : royaume de Toulouse.
+repere: 455 — Selon Procope, les Vandales emportent de Rome le trésor du Temple.
+repere: 507 — Clovis bat Alaric II à Vouillé ; les Wisigoths ne gardent en Gaule que la Septimanie.
+repere: 711 — Les Arabes prennent à Tolède le trésor des rois wisigoths.
+repere: 1880 — Louis Fédié fait de Rhedae une capitale wisigothique.
+repere: 1972 — Le premier film d'Henry Lincoln pour la BBC reprend le thème du trésor de Jérusalem.
+attention: Alaric Ier (Rome, 410) et Alaric II (Vouillé, 507) sont deux rois distincts. La légende du trésor a besoin des deux, et les fond souvent en un seul.
+voir: tresor-des-wisigoths, wisigoths-en-septimanie, rhedae, le-comte-de-razes-fedie, pilier-sculpte, arche-d-alliance, films-de-la-bbc
+
+@ dagobert-ii
+cat: personnages
+groupe: histoire
+nom: Dagobert II
+alias: saint Dagobert, Dagobert II d'Austrasie, roi d'Austrasie
+dates: vers 652 – 679
+an: 652
+role: Roi mérovingien d'Austrasie de 676 à 679, assassiné près de [[stenay|Stenay]]
+def: Roi d'Austrasie revenu d'un exil irlandais et assassiné en 679 près de Stenay. Les faussaires des années 1960 lui ont donné un fils survivant et en ont fait l'ancêtre d'une dynastie cachée dans le Razès.
+texte: Dagobert II naît vers 652. Encore enfant, il est exilé en Irlande en 656 ; il n'en revient que vingt ans plus tard, pour régner sur l'Austrasie de 676 à 679. Le 23 décembre 679, il est assassiné près de [[stenay|Stenay]], dans la forêt de Woëvre. Un culte local lui est rendu à Stenay depuis 872. On ne sait guère davantage de lui, et aucun texte ancien ne le rattache au Razès.
+texte: Le lien est fabriqué à Paris, au début des années 1960. [[pierre-plantard|Pierre Plantard]] part d'un article de Louis Saurel, paru en 1960 dans le premier numéro des *Cahiers de l'histoire*, et en tire une généalogie qui fait de lui-même un descendant du roi. Il lui faut un chaînon : ce sera [[sigebert-iv|Sigebert IV]], un fils qu'aucune source ne connaît, réfugié en 681 à [[rhedae|Rhedae]]. Le 18 janvier 1964, une *Généalogie des rois mérovingiens* signée « Henri Lobineau » est déposée à la Bibliothèque nationale ; son titre invoque déjà « les parchemins de l'abbé Saunière ». C'est le premier produit de [[atelier-des-faux|l'atelier des faux]].
+texte: Le roi entre ensuite dans les pièces mêmes de l'énigme. Dans le petit des deux [[parchemins|parchemins]], que fabrique [[philippe-de-cherisey|Philippe de Chérisey]], des lettres surélevées forment une phrase : « A DAGOBERT II ROI ET A SION EST CE TRESOR ET IL EST LA MORT ». Sion, c'est le [[prieure-de-sion|prieuré de Sion]], l'association que Plantard a déclarée en 1956 et qu'il donne désormais pour un ordre millénaire. Le français du message est moderne, et la graphie « Dagobert II » suffit à exclure le XVIIIe siècle, où la légende place la rédaction du document. [[henry-lincoln|Henry Lincoln]] dit avoir repéré seul cette phrase en 1969, en lisant le livre de Gérard de Sède en édition de poche : c'est par elle que l'affaire passe en Angleterre.
+texte: Les faussaires multiplient les rappels. Le grand parchemin porte « PAX DCLXXXI » : 681, l'année du refuge. En mai 1966, une plaquette signée « Antoine l'Ermite » s'intitule *Un trésor mérovingien à Rennes-le-Château* ; le mois suivant, le recueil prêté à [[eugene-stublein|Eugène Stüblein]] montre, près de Rennes-les-Bains, un rocher sculpté d'une « tête de Dagobert ». Le rocher n'existe pas.
+texte: En 1982, *[[l-enigme-sacree|L'Énigme sacrée]]* ajoute un étage : les Mérovingiens se seraient unis à une descendance de Jésus et de [[marie-madeleine|Marie-Madeleine]]. Plantard refuse cette greffe, puis défait lui-même l'édifice : en 1989, il renie les *[[dossiers-secrets|Dossiers secrets]]* ; en 1993, entendu sous serment par un juge, il reconnaît avoir tout inventé.
+texte: Il reste un roi d'Austrasie tué à Stenay, et un « trésor de Dagobert » dont aucune pièce d'archive ne parle. Voir [[descendance-merovingienne|la survivance mérovingienne]].
+repere: vers 652 — Naissance.
+repere: 656 — Exil en Irlande.
+repere: 676 — Il devient roi d'Austrasie.
+repere: 23 décembre 679 — Assassiné près de Stenay, dans la forêt de Woëvre.
+repere: 872 — Un culte lui est rendu à Stenay.
+repere: 1960 — Article de Louis Saurel dans *Les Cahiers de l'histoire*, dont Plantard tire sa généalogie.
+repere: 18 janvier 1964 — Dépôt à la Bibliothèque nationale de la *Généalogie des rois mérovingiens* d'« Henri Lobineau ».
+repere: 1967 — *L'Or de Rennes* publie le parchemin qui le nomme.
+repere: 1993 — Plantard reconnaît sous serment avoir tout inventé.
+voir: sigebert-iv, stenay, descendance-merovingienne, pierre-plantard, dossiers-secrets, parchemins, atelier-des-faux, prieure-de-sion, l-enigme-sacree
+
+@ sigebert-iv
+cat: personnages
+groupe: histoire
+nom: Sigebert IV
+alias: Sigisbert IV, le rejeton ardent, fils de Dagobert II
+dates: personnage inventé dans les années 1960
+an: 681
+role: Fils prétendu de [[dagobert-ii|Dagobert II]], inventé pour relier les Mérovingiens au Razès et à la famille Plantard
+def: Fils que les faussaires des années 1960 donnent à Dagobert II : réfugié à Rhedae en 681, il y aurait fondé la lignée des comtes de Razès, d'où sortirait Pierre Plantard. Aucun texte ancien ne le connaît.
+texte: Sigebert IV n'a pas de biographie : il n'a pas existé. Aucune chronique, aucune charte ne le nomme. Il apparaît dans les années 1960, dans les plaquettes dactylographiées que [[pierre-plantard|Pierre Plantard]] et ses amis déposent à la Bibliothèque nationale sous des noms d'emprunt, et dont la série se clôt en avril 1967 avec les *[[dossiers-secrets|Dossiers secrets d'Henri Lobineau]]*.
+texte: Le récit tient en trois phrases. Dagobert II, roi d'Austrasie, est assassiné près de Stenay le 23 décembre 679 — cela est vrai. Son fils Sigebert se réfugie en 681 à [[rhedae|Rhedae]], la future Rennes-le-Château. Il y fait souche : de lui descendraient les comtes de Razès, puis, de génération en génération, la famille Plantard. Les plaquettes le surnomment le « rejeton ardent », où l'on entend, par à-peu-près, le nom de celui qui l'invente.
+texte: On sait d'où vient l'idée. En 1960, le premier numéro des *Cahiers de l'histoire* publie un article de Louis Saurel ; Plantard, né à Paris et que rien ne rattache au Razès, s'en inspire pour bâtir la généalogie qui fait de lui l'héritier de Dagobert. Le 18 janvier 1964, elle est déposée sous le nom d'« Henri Lobineau », avec une fausse adresse à Genève et une date de 1956. En août 1965, une seconde plaquette, signée « Madeleine Blancasall », s'intitule *Les Descendants mérovingiens ou l'énigme du Razès wisigoth*. Voir [[atelier-des-faux|l'atelier des faux]].
+texte: Il fallait ensuite des preuves sur place. Le grand des deux [[parchemins|parchemins]] porte « PAX DCLXXXI » : 681, l'année du refuge. La [[dalle-des-chevaliers|dalle des Chevaliers]], relief carolingien trouvé dans l'église, montre sous l'une de ses arcatures deux personnages sur une même monture — ou un cavalier et un enfant : les *Dossiers secrets* y lisent la fuite de Sigebert. Et [[guillaume-de-gellone|Guillaume de Gellone]], dont une tradition locale faisait le premier comte de Razès, est greffé sur la lignée, alors que le premier comte attesté par les actes est un certain Bera, au début du IXe siècle. Voir [[comte-de-razes|le comté de Razès]].
+texte: En 1982, *[[l-enigme-sacree|L'Énigme sacrée]]* prend cette généalogie pour un document et lui ajoute une origine : les Mérovingiens se seraient unis à une descendance de Jésus. Plantard dément à la radio, le 18 février 1982 : il n'a jamais prétendu descendre du Christ. En 1989, il renie les *Dossiers secrets* eux-mêmes et propose une autre histoire, qui commence cette fois en 1681, à Rennes-le-Château. En 1993, une perquisition ordonnée par un juge fait trouver chez lui des liasses de faux qui le proclament « vrai roi de France » ; entendu sous serment, il reconnaît avoir tout inventé. Voir [[aveux|les aveux]].
+texte: Sigebert IV montre la méthode à l'état pur : un personnage sans source, adossé à un roi réel, puis des « preuves » fabriquées ou relues après coup pour le rejoindre. Voir [[descendance-merovingienne|la survivance mérovingienne]].
+repere: 681 — Date que la fable donne à son arrivée à Rhedae.
+repere: 1960 — Article de Louis Saurel dans *Les Cahiers de l'histoire*, point de départ de Plantard.
+repere: 18 janvier 1964 — Dépôt de la *Généalogie des rois mérovingiens* signée « Henri Lobineau ».
+repere: août 1965 — Plaquette « Blancasall » : *Les Descendants mérovingiens ou l'énigme du Razès wisigoth*.
+repere: 27 avril 1967 — Dépôt des *Dossiers secrets d'Henri Lobineau*.
+repere: 1982 — *L'Énigme sacrée* rattache sa lignée à celle de Jésus.
+repere: 1989 — Plantard renie les *Dossiers secrets*.
+repere: 1993 — Il reconnaît sous serment avoir tout inventé.
+attention: Ne pas le chercher dans une liste de rois : le personnage sort des plaquettes déposées à la Bibliothèque nationale de 1964 à 1967, non d'une source médiévale.
+voir: dagobert-ii, descendance-merovingienne, pierre-plantard, dossiers-secrets, atelier-des-faux, rhedae, comte-de-razes, dalle-des-chevaliers, guillaume-de-gellone, aveux
+
+@ blanche-de-castille
+cat: personnages
+groupe: histoire
+nom: Blanche de Castille
+alias: la reine Blanche, mère de Saint Louis, régente de France
+dates: 1188 – 1252
+an: 1188
+role: Reine de France, mère de Louis IX et deux fois régente ; [[noel-corbu|Noël Corbu]] lui attribue en 1956 le trésor de Rennes
+def: Reine de France, mère de Saint Louis et deux fois régente, morte en 1252. Noël Corbu fait d'elle, en 1956, la propriétaire du trésor qu'aurait trouvé Saunière ; aucun texte ne la fait venir à Rennes.
+texte: Née le 4 mars 1188 à Palencia, fille du roi de Castille Alphonse VIII, Blanche épouse en 1200 le futur Louis VIII. Veuve en 1226, elle gouverne pour son fils Louis IX, sacré à douze ans, et tient tête aux barons révoltés. C'est sous sa régence que le traité de Meaux-Paris, le 12 avril 1229, met fin à la [[croisade-des-albigeois|croisade contre les Albigeois]] : les anciennes terres des Trencavel deviennent des sénéchaussées royales, dont celle de Carcassonne. Elle reprend la régence en 1248, quand le roi part en croisade, affronte en 1251 le soulèvement des Pastoureaux et meurt à Paris en novembre 1252.
+texte: Son trésor naît sept siècles plus tard. Dans le [[recit-de-noel-corbu|récit]] que Noël Corbu compose pour les clients de son hôtel, et que *La Dépêche du Midi* publie en janvier 1956, la régente aurait mis à l'abri à Rennes, pendant la révolte des Pastoureaux, le trésor de la couronne : dix-huit millions et demi de pièces d'or, cent quatre-vingts tonnes, que Saunière aurait retrouvées grâce à des parchemins. Voir [[tresor-de-blanche-de-castille|le trésor de Blanche de Castille]].
+texte: Rien ne l'appuie. Aucune archive, aucune chronique ne signale un passage de la reine à Rennes ; le Trésor royal est alors au Temple de Paris ; un tel tonnage dépasse ce que le royaume comptait de monnaie. Corbu lui-même y renonce en 1962. Reste le choix du nom. Le pays avait déjà sa légende — en 1832, un trésor de dix-neuf millions et demi que [[tresor-du-diable-de-blanchefort|le diable garde à Blanchefort]] — et, à Rennes-les-Bains, un [[sources-de-rennes-les-bains|« Bain de la Reine »]] que la tradition rattache à une reine Blanche : Blanche de Castille pour les uns, Blanche de Bourbon, morte en 1361, pour les autres. Une autre piste, non vérifiée, invoque Blanche de France, fille de Saint Louis, qu'une tradition locale fait se réfugier en Razès vers 1280.
+repere: 4 mars 1188 — Naissance à Palencia.
+repere: 1200 — Mariage avec le futur Louis VIII.
+repere: 1226 — Veuve ; première régence, pour Louis IX.
+repere: 12 avril 1229 — Traité de Meaux-Paris, fin de la croisade contre les Albigeois.
+repere: 1248 — Seconde régence, pendant la croisade du roi.
+repere: novembre 1252 — Mort à Paris ; elle est inhumée à l'abbaye de Maubuisson.
+repere: janvier 1956 — *La Dépêche du Midi* publie le récit de Noël Corbu, qui lui attribue le trésor de Rennes.
+repere: 1962 — Corbu abandonne cette attribution.
+voir: tresor-de-blanche-de-castille, noel-corbu, recit-de-noel-corbu, articles-de-la-depeche, naissance-du-mythe, croisade-des-albigeois, sources-de-rennes-les-bains, tresor-du-diable-de-blanchefort, jules-doinel
+
+@ marie-madeleine
+cat: personnages
+groupe: histoire
+nom: Marie-Madeleine
+alias: Marie de Magdala, sainte Marie-Madeleine, la Madeleine
+dates: Ier siècle
+an: 30
+role: Disciple de Jésus dans les Évangiles, sainte patronne de l'[[eglise-sainte-marie-madeleine|église de Rennes-le-Château]]
+def: Disciple de Jésus, que l'Évangile de Jean montre seule au tombeau, et patronne de l'église de Rennes-le-Château. Une légende médiévale la fait finir ses jours en Provence ; des auteurs modernes en ont tiré une épouse et une lignée.
+texte: Les Évangiles ne s'accordent pas sur les femmes présentes au pied de la Croix et au tombeau. Marie de Magdala est la seule que tous nomment, et Jean la montre seule au tombeau. C'est tout ce que disent d'elle les textes les plus anciens.
+texte: La suite est une tradition médiévale, et provençale. Une barque sans voile ni rame aurait porté de Palestine en Camargue Marie Jacobé, Marie Salomé, leur servante Sara, Lazare, Marthe, Maximin — et Marie-Madeleine, qui finit ses jours en pénitente à la Sainte-Baume. Formé entre le XIe et le XIIIe siècle, le récit se répand avec la *Légende dorée* de Jacques de Voragine. Il ne dit rien du Razès.
+texte: À Rennes, elle est d'abord un vocable : l'église, mentionnée dès 1185, lui est dédiée, comme tant d'autres. Saunière prolonge ce culte avec la piété de son siècle. Il place sa statue au porche. Il orne le devant de l'autel d'un [[autel-de-marie-madeleine|bas-relief]] qu'il aurait peint lui-même : la sainte en prière dans une grotte, devant une croix de branchages et un crâne, telle qu'on la figure à la Sainte-Baume. Il appelle sa tour [[tour-magdala|Magdala]] et sa villa [[villa-bethanie|Béthanie]].
+texte: Les faussaires des années 1960 s'en servent comme d'un décor. Le grand des deux [[parchemins|parchemins]] recopie l'onction de Béthanie, dans l'Évangile de Jean ; l'une de leurs plaquettes est signée « Madeleine Blancasall » ; et [[philippe-de-cherisey|Philippe de Chérisey]] écrit le 2 avril 1965 qu'il part quatre jours dans les Pyrénées avec [[pierre-plantard|Pierre Plantard]] « pour voir si on peut s'approcher de Marie-Madeleine ». Mais leur roman est mérovingien : il n'y est pas question d'une épouse du Christ.
+texte: Le pas est franchi en 1982. Dans *[[l-enigme-sacree|L'Énigme sacrée]]*, Baigent, Leigh et Lincoln soutiennent que Jésus et Marie-Madeleine ont eu une descendance, passée en Gaule et unie aux Mérovingiens ; le « Saint Graal » serait le « sang réal ». Ils s'appuient sur la légende provençale, sur des évangiles gnostiques — ceux de Philippe et de Marie —, sur la dédicace de l'église de Rennes et sur les *Dossiers secrets*. Margaret Starbird en 1993, puis [[dan-brown|Dan Brown]] en 2003, donnent à l'idée son public. Une variante récente, restée marginale, fait de Sara, la servante de la barque, leur fille.
+texte: L'histoire n'en retient rien. La légende provençale est postérieure de plus de mille ans à ce qu'elle raconte ; aucun texte ancien ne parle d'un enfant ; l'étage mérovingien repose sur des faux, et Plantard a lui-même récusé la thèse à la radio, le 18 février 1982. Voir [[lignee-de-jesus|la lignée de Jésus]]. D'autres auteurs, dont [[christian-doumergue|Christian Doumergue]], ont cherché dans le pays non plus une lignée mais le tombeau de la sainte. Le 23 avril 2017, une femme armée d'une hache s'en est prise au bas-relief de l'autel ; il a été restauré.
+repere: Ier siècle — Disciple de Jésus ; l'Évangile de Jean la montre seule au tombeau.
+repere: 1185 — Première mention de l'église de Rennes, qui lui est dédiée.
+repere: XIIIe siècle — La *Légende dorée* de Jacques de Voragine répand le récit de sa venue en Provence.
+repere: 1901 — Saunière entreprend la villa Béthanie et la tour Magdala.
+repere: 2 avril 1965 — Chérisey part dans les Pyrénées avec Plantard « pour voir si on peut s'approcher de Marie-Madeleine ».
+repere: 1982 — *L'Énigme sacrée* lui prête une descendance de Jésus.
+repere: 2003 — Le *Da Vinci Code* popularise la thèse.
+repere: 23 avril 2017 — Le bas-relief de l'autel est attaqué à la hache.
+voir: eglise-sainte-marie-madeleine, autel-de-marie-madeleine, lignee-de-jesus, tombeau-du-christ, l-enigme-sacree, da-vinci-code, tour-magdala, villa-bethanie, christian-doumergue, statues-de-l-eglise
+
+@ comte-de-chambord
+cat: personnages
+groupe: histoire
+nom: Le comte de Chambord
+alias: Henri d'Artois, Henri V, comte de Chambord
+dates: 1820 – 1883
+an: 1820
+role: Prétendant au trône de France, « Henri V » pour les [[legitimisme|légitimistes]]
+def: Henri d'Artois, « Henri V » pour les légitimistes, mort en 1883 sans postérité. Saunière était de son parti ; c'est sa veuve qui aurait donné trois mille francs pour l'église de Rennes.
+texte: Henri d'Artois, comte de Chambord, naît en 1820. Pour les [[legitimisme|légitimistes]], il est « Henri V ». En octobre 1873, la restauration de la monarchie paraît possible ; elle échoue sur l'affaire du drapeau blanc. Il meurt à Frohsdorf le 24 août 1883, sans postérité, et ses fidèles se divisent : les uns se rallient aux Orléans, les autres forment les « Blancs d'Espagne ».
+texte: Il n'a rien su de Rennes-le-Château : il meurt deux ans avant que [[berenger-sauniere|Saunière]] y arrive. Mais le curé est de son camp. Son prône d'octobre 1885 contre les républicains lui coûte sept mois de traitement, et l'Aude compte alors des notables légitimistes actifs, autour des cercles catholiques de Narbonne et de Carcassonne. C'est à ce monde qu'appartient le don le plus fameux du dossier : trois mille francs que la [[comtesse-de-chambord|comtesse de Chambord]], sa veuve, aurait fait tenir au jeune curé pour son église. Le chiffre vient des listes de donateurs dressées par Saunière lui-même ; une autre version parle de mille francs en deux versements ; la pièce n'a pas été retrouvée, et la comtesse meurt le 25 mars 1886.
+texte: La légende a tiré de ce don un réseau : Saunière serait l'agent des royalistes, payé pour une mission. Rien ne l'établit. Ce que montrent les documents est plus simple : un prêtre militant et, dans ses premières années, quelques bienfaiteurs de son bord, avant que les messes ne fournissent l'essentiel. Voir [[reseau-royaliste|l'argent des royalistes]] et [[dons-et-bienfaiteurs|les dons et les bienfaiteurs]].
+repere: 1820 — Naissance d'Henri d'Artois.
+repere: octobre 1873 — La restauration échoue sur l'affaire du drapeau blanc.
+repere: 24 août 1883 — Mort à Frohsdorf, sans postérité.
+repere: 1er juin 1885 — Saunière s'installe à Rennes-le-Château.
+repere: 25 mars 1886 — Mort de la comtesse de Chambord, à Goritz.
+voir: comtesse-de-chambord, legitimisme, reseau-royaliste, dons-et-bienfaiteurs, eglise-et-republique, berenger-sauniere, jean-salvator-de-habsbourg
+
+@ nicolas-fouquet
+cat: personnages
+groupe: histoire
+nom: Nicolas Fouquet
+alias: le surintendant Fouquet, Louis Fouquet, abbé Fouquet
+dates: 1615 – 1680
+an: 1615
+role: Surintendant des finances, destinataire de la [[lettre-de-louis-fouquet|lettre de 1656]] où son frère lui parle de Poussin
+def: Surintendant des finances à qui son frère, l'abbé Louis Fouquet, écrit de Rome le 17 avril 1656 une lettre sur des projets formés avec Poussin. La légende y lit l'aveu d'un secret ; les historiens de l'art, des achats d'œuvres.
+texte: Nicolas Fouquet (1615-1680), surintendant des finances, n'entre dans l'affaire de Rennes que par une lettre qu'il a reçue. Elle est authentique : son frère, l'abbé Louis Fouquet, la lui écrit de Rome le 17 avril 1656, et elle a été publiée au XIXe siècle dans les *Archives de l'art français*. Louis y rapporte qu'il a formé avec [[nicolas-poussin|Poussin]] des projets dont le surintendant tirerait des avantages que les rois eux-mêmes auraient grand-peine à obtenir du peintre. Voir [[lettre-de-louis-fouquet|la lettre de Louis Fouquet]].
+texte: Les historiens de l'art y lisent des affaires d'acquisition : des antiques et des œuvres pour le surintendant. [[gerard-de-sede|Gérard de Sède]], puis [[henry-lincoln|Henry Lincoln]], en ont fait la preuve que Poussin détenait un secret — celui que désignerait le message « Poussin Teniers gardent la clef », tiré des [[parchemins|parchemins]].
+texte: Le rapprochement ne tient pas. Le message a été fabriqué dans les années 1960 : il ne peut rien confirmer d'une lettre de 1656, et elle ne peut rien confirmer de lui. Le lien avec le Razès n'est pas dans la lettre ; il y a été mis par ses lecteurs modernes. Quant aux *[[les-bergers-d-arcadie|Bergers d'Arcadie]]*, ils n'entrent dans la collection de Louis XIV qu'en 1685, cinq ans après la mort de Fouquet. Voir [[secret-de-poussin|le secret de Poussin]].
+repere: 1615 — Naissance.
+repere: 17 avril 1656 — L'abbé Louis Fouquet lui écrit de Rome au sujet de Poussin.
+repere: 1665 — Mort de Poussin, à Rome.
+repere: 1680 — Mort de Nicolas Fouquet.
+repere: 1685 — *Les Bergers d'Arcadie* entrent dans la collection de Louis XIV.
+voir: lettre-de-louis-fouquet, nicolas-poussin, secret-de-poussin, les-bergers-d-arcadie, david-teniers, parchemins, gerard-de-sede
+
+@ jean-salvator-de-habsbourg
+cat: personnages
+groupe: histoire
+nom: Jean-Salvator de Habsbourg
+alias: Johann Orth, Jean Orth, archiduc Jean-Salvator, Jean-Salvator de Habsbourg-Toscane, Jean de Habsbourg, Monsieur Guillaume
+dates: 1852 – disparu en 1890
+an: 1852
+role: Archiduc de la maison de Habsbourg-Toscane, devenu « Johann Orth » en 1889 et disparu en mer en 1890
+def: Archiduc de la maison de Habsbourg-Toscane, qui prend en 1889 le nom de Johann Orth et disparaît en mer l'année suivante. La légende en fait un visiteur de Saunière, « Monsieur Guillaume » ; aucune pièce ne l'atteste.
+texte: L'archiduc réel tient en trois dates. Jean-Salvator de Habsbourg-Toscane naît en 1852, la même année que [[berenger-sauniere|Bérenger Saunière]]. En 1889, il devient « Johann Orth ». En 1890, il disparaît en mer : de là le point d'interrogation qui suit d'ordinaire l'année de sa mort.
+texte: Le personnage de la légende est d'une autre étoffe. Les *[[dossiers-secrets|Dossiers secrets]]* et [[gerard-de-sede|Gérard de Sède]] font monter à Rennes un « archiduc Jean de Habsbourg », dit « Monsieur Guillaume », qui aurait ouvert au curé un compte en banque — à Budapest, précisent certains. Une chronologie en ligne date même la visite de février 1890, sans donner de source. En 1988, quand de Sède se retourne contre [[pierre-plantard|Plantard]] et dénonce ses faux, c'est la piste qu'il garde pour lui : l'argent de Saunière serait venu des Habsbourg.
+texte: Aucune pièce ne l'appuie. Les [[carnets-de-sauniere|carnets et les registres]] du curé enregistrent au jour le jour des mandats de un à cinquante francs ; on n'y trouve ni versement massif, ni compte à l'étranger, ni archiduc. Disparu en 1890, Jean-Salvator n'aurait de toute façon rien pu financer du domaine, bâti de 1901 à 1906. La seule Habsbourg que nomment les listes de donateurs de Saunière est la [[comtesse-de-chambord|comtesse de Chambord]], archiduchesse d'Autriche-Este, pour un don de 1886. Voir [[reseau-royaliste|l'argent des royalistes]].
+repere: 1852 — Naissance.
+repere: 1889 — Il prend le nom de Johann Orth.
+repere: 1890 — Il disparaît en mer.
+repere: 1988 — Gérard de Sède, qui dénonce les faux de Plantard, maintient la thèse d'un argent venu des Habsbourg.
+voir: reseau-royaliste, comtesse-de-chambord, comte-de-chambord, dons-et-bienfaiteurs, gerard-de-sede, dossiers-secrets, carnets-de-sauniere
+
+@ guillaume-de-gellone
+cat: personnages
+groupe: histoire
+nom: Guillaume de Gellone
+alias: comte Guillaume, Guillaume comte de Toulouse
+dates: vers 750 – 812
+an: 750
+role: Cousin de Charlemagne, comte de Toulouse, fondateur de l'abbaye de Gellone
+def: Cousin de Charlemagne et comte de Toulouse, fondateur de l'abbaye de Gellone en 804. Une tradition locale en fait le premier comte de Razès ; les Dossiers secrets l'ont greffé sur leur lignée mérovingienne.
+texte: Guillaume naît vers 750. Cousin de Charlemagne, il est comte de Toulouse ; en 804, il fonde l'abbaye de Gellone, et il meurt en 812.
+texte: C'est l'érudit Louis Fédié qui, en 1880, dans *[[le-comte-de-razes-fedie|Le Comté de Razès]]*, fait de lui le premier comte du pays. Les actes disent autre chose : le premier comte attesté est Bera, au début du IXe siècle ; viennent ensuite Argila, en 830, et Bera II, en 846. Voir [[comte-de-razes|le comté de Razès]].
+texte: Les *[[dossiers-secrets|Dossiers secrets]]* se sont servis de la tradition de Fédié. Il leur fallait conduire la lignée de [[sigebert-iv|Sigebert IV]], le fils qu'ils inventent à [[dagobert-ii|Dagobert II]], jusqu'aux comtes de Razès, puis jusqu'à [[pierre-plantard|Pierre Plantard]]. Guillaume, grand personnage carolingien déjà attaché au pays par un livre local, faisait un maillon présentable : ils l'ont greffé sur l'arbre. La greffe n'a pas d'autre source que les plaquettes déposées à la Bibliothèque nationale de 1964 à 1967. Voir [[descendance-merovingienne|la survivance mérovingienne]].
+repere: vers 750 — Naissance.
+repere: 804 — Il fonde l'abbaye de Gellone.
+repere: 812 — Mort.
+repere: 1880 — Louis Fédié en fait le premier comte de Razès.
+repere: 1967 — Les *Dossiers secrets* le rattachent à la lignée de Sigebert IV.
+voir: comte-de-razes, le-comte-de-razes-fedie, sigebert-iv, dagobert-ii, descendance-merovingienne, dossiers-secrets, rhedae
+
+@ nicolas-poussin
+cat: personnages
+groupe: artistes
+nom: Nicolas Poussin
+alias: Poussin, le peintre des Bergers d'Arcadie
+dates: 1594 – 1665
+an: 1594
+role: Peintre, né aux Andelys et mort à Rome, auteur des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]*
+def: Peintre né aux Andelys en 1594 et mort à Rome en 1665, auteur de deux tableaux des Bergers d'Arcadie. Depuis 1967, la légende veut qu'il ait connu le secret de Rennes et l'ait caché dans le second ; il n'est jamais venu en Languedoc.
+texte: Nicolas Poussin naît aux Andelys en 1594 et meurt à Rome le 19 novembre 1665. Il peint deux fois *[[les-bergers-d-arcadie|Les Bergers d'Arcadie]]* : une première version vers 1628-1630, aujourd'hui à Chatsworth ; une seconde vers 1638-1640, celle du Louvre, entrée en 1685 dans la collection de Louis XIV. Sur le tombeau qu'entourent les bergers se lit la devise « [[et-in-arcadia-ego|Et in Arcadia ego]] ». Le thème vient du Guerchin, qui l'avait peint une dizaine d'années plus tôt, et la lecture classique, celle de Panofsky, y voit un *memento mori*, un rappel de la mort.
+texte: Poussin n'a jamais mis les pieds en Languedoc. Le seul document qui le rapproche du dossier, et de très loin, est une [[lettre-de-louis-fouquet|lettre du 17 avril 1656]] : de Rome, l'abbé Louis Fouquet y parle à son frère, le surintendant [[nicolas-fouquet|Nicolas Fouquet]], de projets formés avec le peintre. Les historiens de l'art y lisent des achats d'antiques et d'œuvres.
+texte: Il entre dans l'affaire de Rennes entre 1965 et 1967, par trois portes à la fois. Le grand des deux [[parchemins|parchemins]], fabriqué par [[philippe-de-cherisey|Philippe de Chérisey]], livre une fois déchiffré : « BERGERE PAS DE TENTATION QUE POUSSIN TENIERS GARDENT LA CLEF ». Une [[dalle-de-la-marquise|dalle]] prêtée à la tombe de la marquise de Blanchefort, connue par les seules plaquettes des faussaires, porte la devise du tableau. Et *[[l-or-de-rennes|L'Or de Rennes]]* raconte que Saunière, de passage à Paris, aurait acheté au Louvre une reproduction des *Bergers*, avec celles d'un [[david-teniers|Teniers]] et d'un portrait de Célestin V. Vers 1964, [[pierre-plantard|Pierre Plantard]] avait fait d'« Et in Arcadia ego » la devise de sa famille.
+texte: La pièce maîtresse vient ensuite : le [[tombeau-des-pontils|tombeau des Pontils]], sur la route d'Arques, qui ressemble à celui du tableau. Le rapprochement est signalé au début des années 1970 dans l'entourage de [[gerard-de-sede|Gérard de Sède]], et [[henry-lincoln|Henry Lincoln]] le porte à l'écran en 1974, dans *The Priest, the Painter and the Devil*. Lincoln voit de plus un pentacle caché dans la composition ; en 1982, *[[l-enigme-sacree|L'Énigme sacrée]]* tire de la devise une anagramme latine, « I tego arcana Dei ». On est allé jusqu'à trouver le peintre dans le livre de l'abbé Boudet, où le mot anglais « chick » le désignerait.
+texte: L'examen ne laisse rien debout. Le tombeau des Pontils a été bâti en 1903 : il a deux cent soixante-dix ans de moins que le tableau, et l'on ne connaît aucun monument plus ancien au même endroit. Le paysage de Poussin est composé en atelier ; la silhouette du fond a été identifiée tour à tour à Blanchefort, au Cardou et à Rennes, selon le point de vue que chacun choisissait. Le message qui nomme le peintre est un faux des années 1960. Quant aux carnets de Saunière, ils ne gardent trace d'aucun voyage à Paris. Voir [[secret-de-poussin|le secret de Poussin]].
+repere: 1594 — Naissance aux Andelys.
+repere: vers 1628 — Première version des *Bergers d'Arcadie*, aujourd'hui à Chatsworth.
+repere: vers 1638 — Seconde version, aujourd'hui au Louvre.
+repere: 17 avril 1656 — Lettre de l'abbé Louis Fouquet, de Rome, sur des projets formés avec lui.
+repere: 19 novembre 1665 — Mort à Rome.
+repere: 1685 — Le tableau entre dans la collection de Louis XIV.
+repere: 1967 — *L'Or de Rennes* publie le message « Poussin Teniers gardent la clef ».
+repere: 1974 — Henry Lincoln rapproche à la BBC le tableau et le tombeau des Pontils.
+repere: 9 avril 1988 — Le tombeau des Pontils est détruit par son propriétaire.
+voir: les-bergers-d-arcadie, et-in-arcadia-ego, secret-de-poussin, tombeau-des-pontils, lettre-de-louis-fouquet, nicolas-fouquet, david-teniers, parchemins, dalle-de-la-marquise, shugborough, geometrie-sacree
+
+@ david-teniers
+cat: personnages
+groupe: artistes
+nom: David Teniers
+alias: David Teniers le Jeune, Teniers, Téniers
+dates: 1610 – 1690
+an: 1610
+role: Peintre du XVIIe siècle, nommé avec [[nicolas-poussin|Poussin]] dans le message du grand parchemin
+def: Peintre (1610-1690) que le message tiré du grand parchemin associe à Poussin : « Poussin Teniers gardent la clef ». On n'a jamais su de quel tableau il s'agirait, et le message est un faux des années 1960.
+texte: De David Teniers le Jeune (1610-1690), l'affaire de Rennes ne retient qu'un nom, pris dans une phrase. Le grand des deux [[parchemins|parchemins]], une fois décodé, commence ainsi : « BERGERE PAS DE TENTATION QUE POUSSIN TENIERS GARDENT LA CLEF ». La « tentation » absente désignerait, selon ses lecteurs, un tableau de Teniers où saint Antoine n'est pas tenté : un *Saint Antoine et saint Paul au désert*. L'identification varie d'un auteur à l'autre, et aucune pièce ne la fixe.
+texte: [[gerard-de-sede|Gérard de Sède]] complète l'histoire en 1967 : à Paris, Saunière aurait acheté au Louvre la reproduction d'un Teniers, avec celles des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* et d'un portrait de Célestin V. [[putnam-et-wood|Bill Putnam et John Edwin Wood]] objectent que le Louvre ne possédait pas le Teniers décrit — l'argument reste à vérifier —, et les carnets du curé ne connaissent aucun voyage à Paris.
+texte: Le fil qui tient l'ensemble est saint Antoine ermite. Il a sa statue dans l'église, et sa fête tombe le [[17-janvier|17 janvier]], date que les faussaires ont multipliée dans leurs écrits. Le message, lui, a été composé par [[philippe-de-cherisey|Philippe de Chérisey]] : ses lettres sont l'anagramme de l'épitaphe de la marquise telle qu'un bulletin savant l'a imprimée en 1906. Teniers n'y « garde » donc rien que l'on puisse chercher dans son œuvre. Voir [[secret-de-poussin|le secret de Poussin]].
+repere: 1610 — Naissance.
+repere: 1690 — Mort.
+repere: 1967 — *L'Or de Rennes* publie le message qui le nomme.
+voir: nicolas-poussin, parchemins, secret-de-poussin, 17-janvier, statues-de-l-eglise, saint-sulpice, les-bergers-d-arcadie
+
+@ emma-calve
+cat: personnages
+groupe: artistes
+nom: Emma Calvé
+alias: Rosa-Emma Calvet, Emma Calvet, la Calvé
+dates: 1858 – 1942
+an: 1858
+role: Cantatrice, interprète célèbre de *Carmen*, châtelaine de [[chateau-de-cabrieres|Cabrières]] ; la légende en fait la maîtresse de Saunière
+def: Soprano née à Decazeville, qui chanta Carmen plus de mille fois et fréquenta les occultistes parisiens des années 1890. Sa liaison avec Saunière, lancée en 1967 par Gérard de Sède, ne repose sur aucun document.
+texte: Rosa-Emma Calvet naît le 15 août 1858 à Decazeville, dans l'Aveyron. Elle débute à Bruxelles en 1882, chante à la Scala en 1887, puis à Londres et à New York à partir de 1892. *Carmen* fait sa gloire : elle le chante plus de mille fois. En 1894, elle achète près de Millau le [[chateau-de-cabrieres|château de Cabrières]], qu'elle fait restaurer l'année suivante et où elle ouvre en 1898 un sanatorium pour enfants pauvres. Elle quitte les grandes scènes dans les années 1900 — en 1904 ou vers 1910, selon les sources —, vend Cabrières en 1929, ruinée, et meurt le 6 janvier 1942. Elle repose à Millau.
+texte: Elle a réellement fréquenté le Paris occultiste de la fin du siècle. Vers 1891-1895, elle a une liaison avec l'écrivain [[jules-bois|Jules Bois]]. Papus la reçoit vers 1893 dans son ordre martiniste, avec le grade de « Supérieur inconnu », sans qu'on lui connaisse beaucoup d'assiduité. Elle se lie à Chicago avec le swami Vivekananda, qu'elle accompagne en 1900, avec Bois, de Constantinople à l'Égypte. Voir [[occultisme-fin-de-siecle|l'occultisme fin de siècle]].
+texte: Sa carrière est celle d'une vedette internationale. Outre *Carmen*, elle est la Santuzza de *Cavalleria rusticana*, crée à Rome en 1891 *L'Amico Fritz* de Mascagni, puis deux rôles que Massenet écrit pour elle : *La Navarraise*, à Londres en 1894, et *Sapho*, à Paris en 1897. Après l'opéra, elle donne des récitals dans le monde entier jusqu'au milieu des années 1920. De Vivekananda, elle écrit dans ses mémoires qu'il fut pour elle un saint et un ami ; elle se rend après sa mort au monastère de Belur, en Inde. Son nom figure aussi parmi les sympathisants de la Rose-Croix de Péladan, sans qu'aucune initiation soit attestée : le maître n'admettait pas les femmes. Elle revient au catholicisme à la fin de sa vie. Les sources divergent sur le lieu de sa mort, Millau ou une clinique de Montpellier.
+texte: C'est ce versant de sa vie qui la fait entrer dans l'affaire. En 1967, dans *[[l-or-de-rennes|L'Or de Rennes]]*, [[gerard-de-sede|Gérard de Sède]] raconte que Saunière, monté à Paris pour faire lire ses parchemins à [[saint-sulpice|Saint-Sulpice]], y aurait été présenté à la cantatrice par le jeune [[emile-hoffet|Émile Hoffet]] et serait devenu son intime ; ils se seraient revus dans l'Aude, et elle aurait aidé le curé de son argent. [[henry-lincoln|Henry Lincoln]] reprend l'histoire. Elle s'orne avec le temps de détails : un cœur gravé aux deux initiales, des villageois qui auraient entendu une voix d'opéra à la [[villa-bethanie|villa Béthanie]].
+texte: Rien ne le confirme. Il n'existe ni lettre, ni photographie, ni témoignage d'époque d'une rencontre. Les [[carnets-de-sauniere|registres de correspondance]] du curé, tenus de 1896 à 1915, ne la nomment pas, et ses carnets ne gardent trace d'aucun voyage à Paris. En 1892, date que donne la légende, Hoffet n'a pas vingt ans et fait son noviciat chez les oblats, aux Pays-Bas. Le cœur gravé et la voix dans la villa sont des récits tardifs, que personne n'a sourcés.
+texte: Par elle, la légende introduit le curé dans un Paris d'initiés : Jules Bois, Debussy, les martinistes. Mais la bibliothèque et la correspondance de Saunière sont celles d'un curé de campagne des plus conventionnels, et ses comptes ne montrent aucun versement venu d'une mécène. Voir [[piste-occultiste|Saunière chez les occultistes]].
+repere: 15 août 1858 — Naissance à Decazeville.
+repere: 1882 — Débuts à Bruxelles.
+repere: 1892 — Premiers engagements à Londres et à New York.
+repere: 1894 — Elle achète le château de Cabrières.
+repere: 1900 — Voyage de Constantinople à l'Égypte avec Vivekananda et Jules Bois.
+repere: 1929 — Elle vend Cabrières.
+repere: 1940 — Elle publie ses mémoires, *Sous tous les ciels j'ai chanté*.
+repere: 6 janvier 1942 — Mort ; elle est inhumée à Millau.
+repere: 1967 — *L'Or de Rennes* lui prête une liaison avec Saunière.
+oeuvres: My Life ; Sous tous les ciels j'ai chanté (Plon, 1940)
+voir: chateau-de-cabrieres, jules-bois, piste-occultiste, occultisme-fin-de-siecle, emile-hoffet, saint-sulpice, gerard-de-sede, l-or-de-rennes, maurice-leblanc
+
+@ jules-bois
+cat: personnages
+groupe: artistes
+nom: Jules Bois
+alias: Bois
+dates: 1868 – 1943
+an: 1868
+role: Écrivain et journaliste, familier des occultistes parisiens, amant d'[[emma-calve|Emma Calvé]]
+def: Écrivain et journaliste né à Marseille, auteur du *Satanisme et la Magie* (1895), amant d'Emma Calvé et ami de Maurice Leblanc. L'affaire de Rennes ne le connaît que par eux.
+texte: Jules Bois naît à Marseille en 1868. Journaliste, dramaturge, essayiste, il se fait une spécialité de l'invisible : *Le Satanisme et la Magie*, en 1895, paraît avec une préface de Huysmans. Il est mêlé de près aux querelles des mages parisiens. En janvier 1893, après la mort à Lyon de l'abbé Boullan, prêtre interdit, il accuse dans *Gil Blas* Stanislas de Guaita et Papus de l'avoir tué par envoûtement ; il s'ensuit un duel au pistolet avec le premier, puis un autre avec le second, dont Papus sort légèrement blessé. On le range parfois, à tort, dans l'ordre kabbalistique de la Rose-Croix : il en combattait le chef. Plus tard, il se fera le théoricien du « superconscient ».
+texte: Vers 1891-1895, il a une liaison avec Emma Calvé. À l'automne 1900, il héberge à Paris le swami Vivekananda, puis voyage avec lui et la cantatrice à Constantinople, à Athènes et au Caire. On le donne aussi pour un ami de [[maurice-leblanc|Maurice Leblanc]].
+texte: C'est par ces deux amitiés qu'il touche au dossier, et par elles seulement. Depuis *[[l-or-de-rennes|L'Or de Rennes]]*, en 1967, la légende fait de Calvé la maîtresse de Saunière ; Bois devient alors un maillon de la chaîne qui relierait le curé aux occultistes de la capitale. Les lecteurs ésotériques d'Arsène Lupin voient de leur côté en lui celui qui aurait fourni ses secrets à Leblanc, et lui prêtent un mot sur l'œuvre de son ami — « du fantastique exact » — dont la source reste à vérifier. Aucun document ne le met en rapport avec Saunière ni avec Rennes. Voir [[piste-occultiste|Saunière chez les occultistes]] et [[romanciers-inities|les romanciers initiés]].
+repere: 1868 — Naissance à Marseille.
+repere: janvier 1893 — Il accuse Guaita et Papus d'envoûtement ; deux duels s'ensuivent.
+repere: 1895 — *Le Satanisme et la Magie*, préfacé par Huysmans.
+repere: 1900 — Voyage à Constantinople, Athènes et Le Caire avec Vivekananda et Emma Calvé.
+repere: 1943 — Mort.
+oeuvres: Le Satanisme et la Magie (1895) ; L'Au-delà et les forces inconnues
+voir: emma-calve, maurice-leblanc, occultisme-fin-de-siecle, piste-occultiste, romanciers-inities, jules-doinel
+
+@ maurice-leblanc
+cat: personnages
+groupe: artistes
+nom: Maurice Leblanc
+alias: Arsène Lupin, le père d'Arsène Lupin
+dates: 1864 – 1941
+an: 1864
+role: Romancier, créateur d'Arsène Lupin, auteur de *[[l-aiguille-creuse|L'Aiguille creuse]]*
+def: Romancier né à Rouen, créateur d'Arsène Lupin en 1905. Des auteurs lisent ses romans comme un message codé sur Rennes-le-Château ; l'examen suggère l'inverse : ce sont les fabricants du mythe qui ont puisé chez lui.
+texte: Maurice Leblanc naît à Rouen en 1864. Admirateur de Flaubert et de Maupassant, il crée Arsène Lupin en 1905, à la demande de l'éditeur Pierre Lafitte, pour le magazine *Je sais tout* : il s'agit de répondre à Sherlock Holmes. Suivent *[[l-aiguille-creuse|L'Aiguille creuse]]* en 1909, *813* en 1910, *L'Île aux trente cercueils* en 1919, *La Comtesse de Cagliostro* en 1924. Sa sœur Georgette, cantatrice, est la compagne de Maeterlinck ; on le dit ami de l'écrivain occultiste [[jules-bois|Jules Bois]]. Il meurt en 1941.
+texte: Le rapprochement entre *L'Aiguille creuse* et l'Aude apparaît dès *[[l-or-de-rennes|L'Or de Rennes]]*, en 1967. D'autres en ont fait un système. Pour Patrick Ferté (*Arsène Lupin, supérieur inconnu*), Leblanc pratique un double langage et savait tout : la crypte d'Ambrumésy, mise au jour pendant des travaux, répondrait à celle de l'église de Saunière ; le document chiffré du roman, aux [[parchemins|parchemins]] ; l'aiguille d'Étretat, au [[bugarach|pic de Bugarach]] ; le « secret des rois de France », à celui du Razès ; et le titre *813*, à la date traditionnelle de fondation de l'abbaye d'[[alet-les-bains|Alet]]. Arphaÿs (*Le Code Arsène Lupin*), Richard Khaitzine, Alexandra Schreyer ont prolongé cette lecture.
+texte: Elle ne résiste pas. Aucun document ne montre que Leblanc ait connu Saunière ou entendu parler de lui, ni qu'il ait appartenu à une société initiatique. En 1909, il n'y a d'ailleurs rien à coder : Saunière est un curé en conflit avec son évêque, et le « mystère » de Rennes ne naît qu'en 1956. Dans le roman, le nombre 813 n'a aucun rapport avec Alet, dont la charte de 813 est du reste tenue pour un faux du XIe siècle. Les coïncidences sont relevées après coup, et plusieurs reposent sur des erreurs : on prête à *813* un chandelier à sept branches qui appartient à *La Comtesse de Cagliostro* ; on rapproche le « roi du monde » d'un roman de 1909 d'un livre de René Guénon paru en 1927. Le biographe de Leblanc, Jacques Derouard, a établi que les initiales gravées dans la roche d'Étretat l'avaient été à l'initiative du romancier lui-même. Un critique de la *Gazette de Rennes-le-Château* parle, à propos de Ferté, de « salmigondis indigeste ».
+texte: La filiation existe pourtant, mais dans l'autre sens. Un article de la même *Gazette*, « Arsène Lupin : l'As de Rennes », soutient que [[pierre-plantard|Pierre Plantard]] a emprunté à Leblanc. Dans *La Comtesse de Cagliostro*, sept abbayes normandes dessinent sur le pays de Caux la Grande Ourse et désignent un trésor : c'est déjà la [[geometrie-sacree|géométrie sacrée]] que l'on plaquera sur le Razès. La « belle endormie » du *[[le-serpent-rouge|Serpent rouge]]* ressemble de près à une scène de *L'Île aux trente cercueils*. Leblanc avait fourni la recette : un lieu, une figure tracée sur la carte, de vieilles légendes, un secret. Plantard et [[gerard-de-sede|Gérard de Sède]], déjà associés à [[gisors|Gisors]], l'ont appliquée à un nouveau terrain.
+texte: C'est l'hypothèse la mieux argumentée : ce n'est pas Leblanc qui savait, c'est Plantard qui avait lu Leblanc. Voir [[romanciers-inities|les romanciers initiés]].
+repere: 1864 — Naissance à Rouen.
+repere: 1905 — Première aventure d'Arsène Lupin, dans *Je sais tout*.
+repere: 1909 — *L'Aiguille creuse*.
+repere: 1910 — *813*.
+repere: 1924 — *La Comtesse de Cagliostro*.
+repere: 1941 — Mort.
+repere: 1967 — *L'Or de Rennes* rapproche *L'Aiguille creuse* et l'Aude.
+oeuvres: L'Aiguille creuse (1909) ; 813 (1910) ; L'Île aux trente cercueils (1919) ; La Comtesse de Cagliostro (1924)
+voir: l-aiguille-creuse, romanciers-inities, jules-verne, jules-bois, pierre-plantard, le-serpent-rouge, geometrie-sacree, gisors, bugarach, alet-les-bains
+
+@ jules-verne
+cat: personnages
+groupe: artistes
+nom: Jules Verne
+alias: Verne
+dates: 1828 – 1905
+an: 1828
+role: Romancier, auteur des *Voyages extraordinaires* et de *[[clovis-dardentor|Clovis Dardentor]]*
+def: Romancier né à Nantes, auteur des *Voyages extraordinaires*. Un de ses romans, *Clovis Dardentor* (1896), a un capitaine Bugarach : des auteurs en ont conclu qu'il connaissait le secret de Rennes.
+texte: Jules Verne naît à Nantes en 1828, dans une famille catholique, et meurt en 1905. À partir de 1862, l'éditeur Pierre-Jules Hetzel publie ses *Voyages extraordinaires*. En 1896 paraît *[[clovis-dardentor|Clovis Dardentor]]*, où un capitaine porte le nom de Bugarach — celui du [[bugarach|pic]] qui domine le Haut-Razès.
+texte: C'est le point de départ d'une lecture que Michel Lamy développe en 1984 dans *Jules Verne, initié et initiateur* : le romancier aurait appartenu à des sociétés secrètes — on cite une « Société angélique », une « Société du Brouillard » — et glissé dans ses livres ce qu'il savait. Alexandra Schreyer, en 1999, réunit dans la même thèse Verne et Arsène Lupin.
+texte: Aucun registre de loge, aucune lettre n'atteste que Verne ait été franc-maçon ou initié ; José Gregorio Parada Ramirez, qui a défendu l'idée, conclut lui-même qu'on ne peut rien affirmer. L'universitaire Simone Vierne a montré dès 1973 que ses romans suivent un schéma d'initiation — séparation, épreuves, mort symbolique, renaissance — ; c'est une structure de récit, non un message. Reste un nom de montagne donné à un capitaine en 1896, soixante ans avant que naisse l'affaire. Voir [[romanciers-inities|les romanciers initiés]].
+repere: 1828 — Naissance à Nantes.
+repere: 1862 — Début de sa collaboration avec l'éditeur Hetzel.
+repere: 1896 — *Clovis Dardentor*.
+repere: 1905 — Mort.
+repere: 1984 — Michel Lamy publie *Jules Verne, initié et initiateur*.
+voir: clovis-dardentor, romanciers-inities, bugarach, maurice-leblanc, bugarach-et-les-ovnis
+
+@ clovis-lassalle
+cat: personnages
+groupe: artistes
+nom: Clovis Lassalle
+alias: Clovis Marie Charles Lassalle
+dates: 1864 – 1937
+an: 1864
+role: Photographe et éditeur à Toulouse, que l'ordre rosicrucien AMORC donne pour le guide de son fondateur
+def: Photographe et éditeur toulousain, collaborateur d'archivistes et de savants, que l'ordre rosicrucien AMORC donne pour le guide de son fondateur en 1909. Son « amitié » avec Saunière ne repose que sur une seule source, faible.
+texte: Clovis Marie Charles Lassalle naît à Alès le 9 juin 1864 et meurt à Prat-Bonrepaux, en Ariège, le 13 septembre 1937. Il est photographe et éditeur à Toulouse. En 1912, il publie avec l'archiviste François Galabert un *Album de paléographie et de diplomatique*, recueil de fac-similés en phototypie de documents du Midi. Une lettre de 1899 le montre en relation avec le préhistorien Émile Cartailhac — celui-là même qui, en 1892, avait dit ses réserves sur le livre de l'abbé [[henri-boudet|Boudet]].
+texte: Sa seconde vie est rosicrucienne, et elle n'est connue que par une source intéressée. Selon Christian Rebisse, historien de l'AMORC, l'Américain Harvey Spencer Lewis, venu en France en 1909 chercher un contact avec la Rose-Croix, rencontre à Toulouse, dans la salle des Illustres du Capitole, un « éminent photographe » ; une lettre de Lassalle à Lewis, datée du 26 août 1909 et conservée dans les archives de celui-ci, permet de l'identifier. Un portrait de 1915 le légende « Grand Maître des Rosicruciens de France ». Le titre vient peut-être de Lewis, qui fondait son ordre et avait besoin d'une filiation : il se lit avec recul.
+texte: Le lien avec Saunière est plus fragile encore. Un seul site, Regards du Pilat, affirme que le nom de Clovis Lassalle figure dans la correspondance du curé comme celui d'un « ami proche », et l'identifie au photographe. La pièce n'est pas produite, et l'affirmation n'a pas été vérifiée. On voit bien, en revanche, ce qui rend le personnage désirable : un homme cultivé, discret, de la région, lié à un ordre initiatique — le chaînon qui manquerait entre le curé et les Rose-Croix. Voir [[piste-occultiste|Saunière chez les occultistes]].
+repere: 9 juin 1864 — Naissance à Alès.
+repere: 1899 — Lettre au préhistorien Émile Cartailhac.
+repere: 26 août 1909 — Lettre à Harvey Spencer Lewis, futur fondateur de l'AMORC.
+repere: 1912 — *Album de paléographie et de diplomatique*, avec François Galabert.
+repere: 13 septembre 1937 — Mort à Prat-Bonrepaux.
+voir: piste-occultiste, occultisme-fin-de-siecle, henri-boudet, carnets-de-sauniere, jules-doinel
+
+@ jules-doinel
+cat: personnages
+groupe: artistes
+nom: Jules Doinel
+alias: Jules-Benoît Doinel du Val-Michel, Valentin II, Jean Kostka, Doisnel
+dates: 1842 – 1902
+an: 1842
+role: Archiviste départemental de l'Aude de 1896 à 1902, fondateur de l'Église gnostique
+def: Archiviste-paléographe, fondateur en 1890 d'une Église gnostique qui se réclamait des cathares, puis directeur des Archives de l'Aude de 1896 à sa mort. Aucun document ne le relie à Saunière, dont il fut le contemporain à Carcassonne.
+texte: Jules-Benoît Doinel du Val-Michel naît à Moulins le 8 décembre 1842. Ancien élève de l'École des chartes, il est archiviste du Cantal, puis dirige les Archives du Loiret de 1875 à 1895. Il est franc-maçon, spirite, membre du conseil suprême de l'ordre martiniste de Papus. À l'automne 1890, à la suite de visions, il fonde l'Église gnostique : il en est le patriarche sous le nom de Valentin II, « évêque de Montségur et primat des Albigeois », et lui donne des sacrements repris des cathares, dont le *consolamentum*. Papus compte parmi ses évêques.
+texte: En 1895, il abjure et publie sous le nom de Jean Kostka un pamphlet, *Lucifer démasqué*. L'année suivante, il prend à [[carcassonne|Carcassonne]] la direction des Archives départementales de l'Aude. En 1900, il renoue avec son Église, qui le reconsacre « évêque d'Alet et de Mirepoix ». Il meurt à Carcassonne le 16 mars 1902.
+texte: Ces six années sont celles où Saunière achève son église et commence son domaine. Un archiviste départemental qui se dit évêque gnostique d'[[alet-les-bains|Alet]] : la coïncidence a tenté plus d'un auteur. Aucun document ne le met en rapport avec le curé de Rennes. Ce que sa présence établit est plus modeste et plus sûr : l'occultisme parisien avait des relais dans l'Aude du temps de Saunière, et [[deodat-roche|Déodat Roché]], d'Arques, sera évêque de la même Église. Dernier hasard : Doinel est l'auteur, en 1870, d'une *Histoire de Blanche de Castille* — la [[blanche-de-castille|reine]] à qui Noël Corbu prêtera le trésor. Voir [[occultisme-fin-de-siecle|l'occultisme fin de siècle]].
+repere: 8 décembre 1842 — Naissance à Moulins.
+repere: 1875 — Directeur des Archives du Loiret.
+repere: 1890 — Fondation de l'Église gnostique.
+repere: 1895 — Abjuration ; *Lucifer démasqué*, sous le nom de Jean Kostka.
+repere: 1896 — Directeur des Archives départementales de l'Aude.
+repere: 1900 — Réintégré dans son Église comme « évêque d'Alet et de Mirepoix ».
+repere: 16 mars 1902 — Mort à Carcassonne.
+oeuvres: Histoire de Blanche de Castille (1870) ; Lucifer démasqué (1895, sous le nom de Jean Kostka)
+voir: occultisme-fin-de-siecle, piste-occultiste, deodat-roche, carcassonne, alet-les-bains, blanche-de-castille, tresor-des-cathares, jules-bois
+
+@ eugene-stublein
+cat: personnages
+groupe: artistes
+nom: Eugène Stüblein
+alias: Eugène Stublein, Stüblein, Stublein
+dates: mort en 1899
+an: 1877
+role: Érudit du pays de Limoux, à qui les faussaires ont attribué en 1966 le recueil *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]*
+def: Érudit audois mort en 1899, auteur réel d'une description d'établissements thermaux. Son nom et une fausse signature ont servi en 1966 à authentifier *Pierres gravées du Languedoc*, recueil apocryphe où figure la dalle « Et in Arcadia ego ».
+texte: Eugène Stüblein est un personnage réel, et modeste. Fils d'un principal de collège, il fait imprimer à Limoux, en 1877, une *Description d'un voyage aux établissements thermaux*. Il meurt le 2 février 1899 aux Sauzils, hameau de Fa. Son frère cadet Émile, agent d'assurances, mort à Alet en 1910, figure dans les registres de correspondance de Saunière entre 1897 et 1903, pour des affaires d'assurance : c'est le seul Stüblein que connaissent les papiers du curé.
+texte: Soixante-sept ans après sa mort, le 20 juin 1966, un recueil de planches intitulé *Pierres gravées du Languedoc* est déposé à la Bibliothèque nationale. Il se donne pour la reproduction, due à un abbé « Joseph Courtaly », d'un ouvrage de Stüblein paru à Limoux en 1884. On y voit la [[dalle-de-la-marquise|dalle « Et in Arcadia ego »]] prêtée à la tombe de la marquise de Blanchefort et, près de Rennes-les-Bains, un rocher sculpté d'une tête de [[dagobert-ii|Dagobert]], avec un carré magique au revers.
+texte: Tout y est faux, sauf le nom. Aucun exemplaire de l'édition de 1884 n'a jamais été retrouvé. Le prêtre invoqué s'appelait [[joseph-courtauly|Courtauly]], non Courtaly, et il était mort en 1964. La signature portée sur les planches n'est pas celle que Stüblein a laissée dans son livre de 1877. Plusieurs dessins sont démarqués d'autres publications : un recueil d'inscriptions des Pyrénées paru en 1892 et, ce qui trahit le montage, des bulletins de la Société d'études scientifiques de l'Aude de 1906 et de 1927, postérieurs de sept et de vingt-huit ans à la mort du prétendu dessinateur. Le rocher de Dagobert n'existe pas. Ces points ont été établis par l'association RLCdoc ; le dépôt prend place dans la série des plaquettes de [[atelier-des-faux|l'atelier des faux]].
+repere: 1877 — Il fait imprimer à Limoux sa *Description d'un voyage aux établissements thermaux*.
+repere: 2 février 1899 — Mort aux Sauzils, hameau de Fa.
+repere: 20 juin 1966 — *Pierres gravées du Languedoc*, qui lui est attribué, est déposé à la Bibliothèque nationale.
+voir: pierres-gravees-du-languedoc, dalle-de-la-marquise, joseph-courtauly, atelier-des-faux, et-in-arcadia-ego, rapport-cros, bulletin-de-la-sesa-1906
+
+@ otto-rahn
+cat: personnages
+groupe: politique
+nom: Otto Rahn
+alias: Rahn
+dates: 1904 – 1939
+an: 1904
+role: Écrivain allemand, auteur de *Croisade contre le Graal*, membre de la SS ; aucun séjour connu à Rennes-le-Château
+def: Écrivain allemand qui chercha le Graal à Montségur au début des années 1930, entra dans la SS et mourut en montagne en 1939. Des auteurs l'ont rattaché après coup à Rennes-le-Château, où rien n'atteste qu'il soit jamais venu.
+texte: Otto Rahn naît le 18 février 1904 à Michelstadt, en Hesse. Philologue de formation, il séjourne en Ariège au tournant des années 1930 : Ussat-les-Bains, les grottes du Sabarthès, [[montsegur|Montségur]], où le guide un érudit local, Antonin Gadal. Il en tire en 1933 *Kreuzzug gegen den Gral*, *Croisade contre le Graal*. Sa thèse : les cathares étaient les gardiens du Graal, et Montségur est le Munsalvaesche du *Parzival* de Wolfram von Eschenbach. Les historiens la rejettent : c'est lire à la lettre un roman médiéval.
+texte: Le livre le fait remarquer de Himmler. Rahn entre dans la SS en 1935-1936, reçoit des missions de recherche et publie en 1937 *Luzifers Hofgesind*, *La Cour de Lucifer*. La même année vient la disgrâce, suivie d'une affectation punitive à Dachau. Il démissionne en février 1939. Le 13 mars, il meurt de froid en montagne, dans le Kaisergebirge, au Tyrol ; la version officielle parle de suicide, et d'autres hypothèses ont couru depuis.
+texte: Rien, dans cette vie, ne passe par Rennes-le-Château ni par Rennes-les-Bains. Rahn a travaillé en Ariège, à une quarantaine de kilomètres ; aucun séjour dans le Razès n'est documenté. Quand il meurt, l'affaire Saunière n'existe pas : elle naît en 1956.
+texte: Le rapprochement se fait par étapes. Le thème du [[tresor-des-cathares|trésor des cathares]], que la légende de Rennes annexe dans les années 1960 — [[gerard-de-sede|Gérard de Sède]] publie *Le Trésor cathare* en 1966 —, s'est développé dans le sillage de Rahn et de Maurice Magre. Dans l'Aude même, [[deodat-roche|Déodat Roché]], d'Arques, fait lui aussi de Montségur le château du Graal. Puis vient, des années 1970 aux années 1990, une littérature du « Graal nazi » : des Allemands auraient fouillé les Corbières en 1943-1944, un commando de Skorzeny serait monté à Montségur. *[[l-enigme-sacree|L'Énigme sacrée]]* cite Rahn à son tour. À force de voisinage, il devient un chercheur du secret de Rennes.
+texte: Les objections sont simples. Rahn est mort quatre ans avant les fouilles que l'on prête aux Allemands. Aucune archive, allemande ou française, ne signale de recherches à Rennes-le-Château sous l'Occupation. Et les dépositions faites devant l'Inquisition, d'où vient l'idée d'un trésor sorti de Montségur, l'envoient vers le Sabarthès, en haute Ariège, non vers le Razès. Voir [[or-du-reich|les nazis et le Graal]].
+repere: 18 février 1904 — Naissance à Michelstadt.
+repere: vers 1930 — Séjours en Ariège : Ussat, le Sabarthès, Montségur.
+repere: 1933 — *Kreuzzug gegen den Gral* (*Croisade contre le Graal*).
+repere: 1936 — Il est membre de la SS.
+repere: 1937 — *Luzifers Hofgesind* (*La Cour de Lucifer*) ; disgrâce.
+repere: février 1939 — Il démissionne de la SS.
+repere: 13 mars 1939 — Mort en montagne, au Tyrol.
+attention: On lit qu'il serait mort le jour anniversaire du bûcher de Montségur. Le bûcher est du 16 mars 1244 ; Rahn meurt un 13 mars.
+voir: or-du-reich, montsegur, tresor-des-cathares, deodat-roche, l-enigme-sacree, croisade-des-albigeois, realisme-fantastique
+
+@ francois-mitterrand
+cat: personnages
+groupe: politique
+nom: François Mitterrand
+alias: Mitterrand
+an: 1981
+role: Homme politique, candidat à la présidence de la République lors de sa visite à Rennes-le-Château, le 2 mars 1981
+def: Candidat à l'élection présidentielle, il visite Rennes-le-Château le 2 mars 1981 et monte à la tour Magdala. C'est le seul fait ; le « pèlerinage d'un initié » est une lecture ajoutée après coup.
+texte: Le fait tient en une ligne. Le 2 mars 1981, en pleine campagne présidentielle, François Mitterrand est en tournée dans l'Aude. Après une réunion publique dans la région, il visite [[rennes-le-chateau|Rennes-le-Château]] et monte à la [[tour-magdala|tour Magdala]], où il est photographié ; l'étape ne figurait pas à son programme officiel. Son ami [[roger-patrice-pelat|Roger-Patrice Pelat]] l'accompagne. Les sources ne disent rien de plus de cette visite.
+texte: Des auteurs y ont vu un pèlerinage : le futur président serait venu en initié, pour le trésor des Wisigoths, le [[prieure-de-sion|prieuré de Sion]] ou le Graal. Deux livres ont construit cette figure, *Mitterrand, le grand initié*, de Nicolas Bonnal, et *François Mitterrand, Grand Architecte de l'Univers*, de Dominique Setzepfandt, qui lisent de la même façon la pyramide du Louvre et la Grande Arche. Aucune archive, aucune lettre n'établit qu'il ait appartenu à un ordre initiatique.
+texte: La suite a compté davantage. En 1989, [[pierre-plantard|Pierre Plantard]] inscrit Pelat, qui vient de mourir, sur une liste de grands maîtres de son prieuré ; en 1993, entendu par un juge, il reconnaît avoir tout inventé. Le nom du compagnon de 1981, accolé à celui de Sion, a fait après coup de la visite un indice. Voir [[prieure-a-l-elysee|le prieuré à l'Élysée]].
+repere: 2 mars 1981 — Visite de Rennes-le-Château, avec Roger-Patrice Pelat.
+repere: 1989 — Pierre Plantard inscrit Pelat parmi les grands maîtres du prieuré de Sion.
+repere: 1993 — Entendu par un juge, Plantard reconnaît avoir inventé ce rôle.
+voir: roger-patrice-pelat, prieure-a-l-elysee, pierre-plantard, tour-magdala, prieure-de-sion, aveux
+
+@ roger-patrice-pelat
+cat: personnages
+groupe: politique
+nom: Roger-Patrice Pelat
+alias: Patrice Pelat, Pelat
+dates: 1918 – 1989
+an: 1918
+role: Homme d'affaires, ami de [[francois-mitterrand|François Mitterrand]] ; inscrit après sa mort par Pierre Plantard parmi les grands maîtres du prieuré de Sion
+def: Ancien résistant, homme d'affaires et ami de François Mitterrand, qu'il accompagne à Rennes-le-Château le 2 mars 1981. Après sa mort, en 1989, Pierre Plantard en fait un grand maître du prieuré de Sion : cela conduira Plantard devant un juge, et à l'aveu.
+texte: Roger-Patrice Pelat est un ancien résistant devenu homme d'affaires, et un ami intime de François Mitterrand. Il meurt le 7 mars 1989, alors qu'il est inculpé de délit d'initié dans l'affaire Pechiney-Triangle.
+texte: Un seul fait le relie à Rennes-le-Château. Le 2 mars 1981, il accompagne le candidat Mitterrand, en tournée électorale dans l'Aude, dans sa visite du village et de la [[tour-magdala|tour Magdala]]. Les sources ne disent rien de plus de cette journée. On a supposé qu'il avait pu connaître [[noel-corbu|Noël Corbu]] ou [[marie-denarnaud|Marie Dénarnaud]] : la conjecture ne s'appuie sur aucune pièce, et la servante était morte depuis 1953, l'hôtelier depuis 1968.
+texte: Son nom entre dans l'affaire après sa mort, et sans lui. En 1989, [[pierre-plantard|Pierre Plantard]] tente de relancer son [[prieure-de-sion|prieuré de Sion]]. Il fait reparaître son bulletin *Vaincre*, renie les *[[dossiers-secrets|Dossiers secrets]]* déposés vingt ans plus tôt à la Bibliothèque nationale, qu'il attribue désormais à d'autres, et propose une nouvelle histoire de l'ordre, fondé cette fois en 1681 à Rennes-le-Château, avec une nouvelle liste de grands maîtres. Il y inscrit Pelat. Comme plusieurs des noms dont Plantard s'était déjà servi, celui-là appartenait à un mort.
+texte: L'opération se retourne contre son auteur. En 1993, le juge Thierry Jean-Pierre, qui instruit le volet Pelat de l'affaire Pechiney-Triangle, fait perquisitionner chez Plantard. On y trouve des liasses de faux, dont certains le proclament « vrai roi de France ». Entendu sous serment, Plantard reconnaît avoir tout inventé, y compris le rôle de Pelat. La famille Pelat le menace de poursuites ; il se retire dans le Midi. La presse rapporte l'épisode à l'automne 1993 et en janvier 1994 ; la date exacte de la perquisition n'est pas établie par les sources consultées.
+texte: Pelat n'a donc été « grand maître » que sur une liste dressée après sa mort. Mais c'est son nom qui a obtenu ce que la critique n'avait pas obtenu : l'aveu sous serment, devant un magistrat, de l'auteur de la mystification. Voir [[prieure-a-l-elysee|le prieuré à l'Élysée]] et [[aveux|les aveux]].
+repere: 1918 — Naissance.
+repere: 2 mars 1981 — Il accompagne François Mitterrand à Rennes-le-Château.
+repere: 7 mars 1989 — Mort, en pleine affaire Pechiney-Triangle.
+repere: 1989 — Pierre Plantard l'inscrit sur sa nouvelle liste de grands maîtres du prieuré de Sion.
+repere: 1993 — Perquisition chez Plantard, qui reconnaît sous serment avoir inventé ce rôle.
+voir: francois-mitterrand, prieure-a-l-elysee, pierre-plantard, prieure-de-sion, aveux, dossiers-secrets, atelier-des-faux

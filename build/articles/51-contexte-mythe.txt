@@ -1,0 +1,177 @@
+# Le contexte historique, fin : la fabrique d'un mythe, de 1956 à aujourd'hui.
+
+@ naissance-du-mythe
+cat: contexte
+groupe: mythe
+nom: 1956 : le curé aux milliards
+alias: naissance du mythe, le curé aux milliards, hôtel de la Tour
+an: 1956
+def: En janvier 1956, trois articles de La Dépêche du Midi révèlent au public l'histoire d'un curé enrichi par un trésor : le récit vient de l'hôtelier qui a repris son domaine, et tout le reste en découle.
+texte: Pendant quarante ans, personne ne parle de mystère. [[berenger-sauniere|Saunière]] meurt en 1917 ; sa servante vieillit dans un domaine invendable ; un guide de 1936 mentionne en passant un curé bâtisseur et une rumeur de trésor, un journaliste belge de 1948 décrit un quêteur infatigable. Rien de plus.
+texte: Tout change avec [[noel-corbu|Noël Corbu]]. Héritier de [[marie-denarnaud|Marie Dénarnaud]], il ouvre à Pâques 1955, dans la villa, l'hôtel-restaurant de la Tour. Le village est au bout d'une route en lacets : il faut une raison d'y monter. Corbu compose un récit de quelques pages et l'enregistre sur bande pour ses clients. Voir [[recit-de-noel-corbu|le récit de Noël Corbu]].
+texte: Les 12, 13 et 14 janvier 1956, le journaliste Albert Salamon en tire une série pour *La Dépêche du Midi* : le curé aux milliards, le trésor de [[tresor-de-blanche-de-castille|Blanche de Castille]], dix-huit millions et demi de pièces d'or. Voir [[articles-de-la-depeche|les articles de La Dépêche]]. Le succès est immédiat. Dès le printemps, des chercheurs de Carcassonne fouillent l'église ; en octobre, Corbu creuse à son tour.
+texte: Ce premier récit contient déjà les ressorts de tous les suivants : des parchemins trouvés dans un pilier, un voyage à Paris, une richesse sans cause, une servante qui emporte le secret. Il ne lui manque que les Mérovingiens. La Société des arts et des sciences de Carcassonne enquête de 1956 à 1958 et conclut qu'il n'y a aucun indice d'un trésor ; sa conclusion a moins de lecteurs que le journal.
+repere: Pâques 1955 — Noël Corbu ouvre l'hôtel de la Tour.
+repere: 12 janvier 1956 — Premier des trois articles de *La Dépêche du Midi*.
+repere: mars 1956 — Une équipe de Carcassonne fouille l'église.
+repere: 1958 — La Société des arts et des sciences de Carcassonne conclut qu'il n'y a pas de trésor.
+repere: avril 1961 — Une émission de télévision reprend l'histoire.
+voir: noel-corbu, recit-de-noel-corbu, articles-de-la-depeche, tresor-de-blanche-de-castille, marie-denarnaud, chasseurs-de-tresors, fouilles
+
+@ chasseurs-de-tresors
+cat: contexte
+groupe: mythe
+nom: La France des chasseurs de trésors
+alias: chasse au trésor, Club international des chercheurs de trésors, détecteurs de métaux
+an: 1958
+def: Dans les années 1950 et 1960, la chasse au trésor est une passion populaire, avec son club, ses détecteurs et sa presse : c'est le public qui attendait l'affaire de Rennes.
+texte: L'après-guerre a ses trésors : ceux que l'on a cachés pendant l'Occupation, ceux que l'on croit retrouver dans les châteaux, ceux dont parlent les journaux du dimanche. Les surplus militaires mettent sur le marché des détecteurs de mines, que l'on reconvertit. Une presse populaire à gros tirage, et les pages régionales des quotidiens, cherchent de « bons sujets ».
+texte: [[robert-charroux|Robert Charroux]] donne à cette vogue une organisation, le Club international des chercheurs de trésors. Il vient à Rennes en 1958 avec un détecteur, y revient pour la radio, et consacre à l'histoire de Corbu un chapitre de *[[tresors-du-monde|Trésors du monde]]*, en 1962. La même année, [[gerard-de-sede|Gérard de Sède]] raconte l'affaire de [[gisors|Gisors]], où un gardien dit avoir vu une crypte pleine de coffres.
+texte: À Rennes, cela donne dix ans de trous. Des particuliers creusent dans l'église, au cimetière, sous les rochers ; on emploie la dynamite ; un éboulement blesse un fouilleur en 1965. La commune finit par tout interdire. Voir [[fouilles|les fouilles]].
+texte: Ce public explique le succès. Il ne demandait pas une preuve : il demandait une piste. L'affaire lui en offrait une, avec un lieu précis, un personnage, et un trésor que personne n'avait encore trouvé.
+voir: robert-charroux, tresors-du-monde, gisors, gerard-de-sede, fouilles, naissance-du-mythe, realisme-fantastique
+
+@ fouilles
+cat: contexte
+groupe: mythe
+nom: Les fouilles
+alias: fouilles de Rennes-le-Château, arrêté de 1965, géoradar, sondages de 2025
+an: 1959
+def: De 1956 à aujourd'hui, on a creusé à Rennes dans l'église, au cimetière et sous la tour : rien n'a été trouvé qu'un crâne médiéval, et la commune interdit les fouilles depuis 1965.
+texte: Les premières fouilles suivent de peu les articles de 1956. Au printemps, une équipe de Carcassonne, guidée par un ancien enfant de chœur, ouvre le sol de l'église. Elle ne trouve qu'un [[crane-a-l-entaille|crâne à l'entaille]], que le carbone 14 datera du XIVe siècle. La même année, on exhume dans le jardin du domaine trois corps récents, que l'enquête rattache à des maquisards espagnols tués en 1945.
+texte: Le 31 mai 1959, le conseil municipal autorise l'ingénieur [[jacques-cholet|Jacques Cholet]] à fouiller dans l'église. Aidé de radiesthésistes, il creuse sous l'autel, la chaire et la sacristie, où il trouve l'amorce d'un escalier, puis ouvre une tranchée de dix-huit mètres dans le roc. Son rapport, en 1967, constate qu'il n'a rien découvert. Pendant ce temps, les fouilleurs clandestins se multiplient ; le 28 juillet 1965, un arrêté municipal interdit toute fouille sur le territoire de la commune. Il est toujours en vigueur. Des tombes sont encore profanées au cimetière en novembre 1968.
+texte: La technique prend le relais. En 2001, une équipe américaine promène un géoradar dans l'église et à la [[tour-magdala|tour Magdala]]. À la tour, elle ne relève que le litage de la roche ; dans l'église, une anomalie sous le chœur, au-delà de trois mètres, qui pourrait être une cavité. En août 2003, le maire fait ouvrir le sol de la tour : rien. L'État, qui n'avait pas été consulté, refuse la fouille demandée dans l'église. En 2004, pour le soustraire aux curieux, on déplace le corps de l'abbé dans un [[tombe-de-sauniere|sarcophage de béton]].
+texte: Les clandestins n'ont pas désarmé : dans la nuit du 29 au 30 décembre 2017, quelqu'un creuse au pied de l'église jusqu'aux fondations. C'est du reste l'état du bâtiment qui commande les dernières interventions. En septembre 2025, des carottages sont faits autour de l'édifice pour le diagnostic de ses fondations ; depuis le 16 novembre 2026, l'église est fermée pour une seconde tranche d'investigations, à l'intérieur. Ce sont des sondages de sécurité, préalables à une restauration, et non une chasse au trésor ; leurs résultats ne sont pas publiés à la date où ce dossier est écrit.
+texte: Le bilan de soixante-dix ans tient en peu de mots. On a trouvé des os, de la roche, et l'indice d'un vide là où les textes placent le [[crypte-des-seigneurs|caveau des seigneurs]].
+repere: mars 1956 — Fouilles de l'équipe de Carcassonne dans l'église.
+repere: 31 mai 1959 — Jacques Cholet est autorisé à fouiller l'église.
+repere: 28 juillet 1965 — Arrêté municipal interdisant les fouilles.
+repere: 2001 — Campagne de géoradar dans l'église et à la tour.
+repere: août 2003 — Le sol de la tour Magdala est ouvert : rien.
+repere: 14 septembre 2004 — Translation du corps de Saunière.
+repere: décembre 2017 — Fouille clandestine au pied de l'église.
+repere: septembre 2025 — Carottages autour de l'église.
+repere: 16 novembre 2026 — L'église ferme pour des investigations à l'intérieur.
+voir: jacques-cholet, crane-a-l-entaille, crypte-des-seigneurs, tour-magdala, tombe-de-sauniere, chasseurs-de-tresors, rennes-aujourd-hui, eglise-sainte-marie-madeleine
+
+@ atelier-des-faux
+cat: contexte
+groupe: mythe
+nom: L'atelier des faux
+alias: dépôts à la Bibliothèque nationale, Henri Lobineau, Madeleine Blancasall, Antoine l'Ermite
+an: 1964
+def: De 1964 à 1967, Pierre Plantard et ses amis déposent à la Bibliothèque nationale, sous de faux noms, une série de plaquettes qui donnent à l'affaire de Rennes un passé de mille ans.
+texte: La méthode est simple et elle a fait école. La Bibliothèque nationale reçoit, au titre du dépôt légal, tout ce qu'on lui remet ; elle le catalogue et le conserve, sans rien garantir de son contenu. Un texte déposé peut ensuite être cité avec sa cote, comme une archive. [[pierre-plantard|Pierre Plantard]] l'a compris.
+texte: Le premier dépôt est du 18 janvier 1964. Sous le nom d'Henri Lobineau, avec une fausse adresse à Genève et une date antérieure de huit ans, paraît une généalogie des rois mérovingiens « d'après les parchemins de l'abbé Saunière » : ces parchemins n'existent pas encore, mais ils sont annoncés. En août 1965, une « Madeleine Blancasall » — le nom joue sur la Blanque et la Sals, les rivières de Rennes-les-Bains — introduit la tombe de la marquise, l'abbé [[antoine-bigou|Bigou]], le rôle d'[[emile-hoffet|Hoffet]]. En mai 1966, un « Antoine l'Ermite » démarque un chapitre de Charroux.
+texte: Le 20 juin 1966 vient le recueil des *[[pierres-gravees-du-languedoc|Pierres gravées du Languedoc]]*, mis sous le nom d'un érudit mort en 1899 et « reproduit » par un prêtre mort depuis peu : voir [[eugene-stublein|Eugène Stüblein]] et [[joseph-courtauly|Joseph Courtauly]]. En mars 1967, *[[le-serpent-rouge|Le Serpent rouge]]*, signé de trois hommes qui venaient de se pendre et dont on avait pris les noms dans les journaux. Le 27 avril 1967, enfin, les *[[dossiers-secrets|Dossiers secrets d'Henri Lobineau]]*, avec la liste des grands maîtres du [[prieure-de-sion|Prieuré]].
+texte: L'année s'achève par un livre de librairie, *[[l-or-de-rennes|L'Or de Rennes]]*, où [[gerard-de-sede|Gérard de Sède]] reproduit les deux [[parchemins|parchemins]] composés par [[philippe-de-cherisey|Philippe de Chérisey]]. Chaque pièce renvoie aux autres ; aucune n'a de source hors de l'atelier. Les morts y sont utiles : on leur fait signer ce qu'ils ne peuvent plus démentir.
+repere: 18 janvier 1964 — Première plaquette, sous le nom d'Henri Lobineau.
+repere: août 1965 — Plaquette signée Madeleine Blancasall.
+repere: 20 juin 1966 — Dépôt des *Pierres gravées du Languedoc*.
+repere: 20 mars 1967 — Dépôt du *Serpent rouge*.
+repere: 27 avril 1967 — Dépôt des *Dossiers secrets*.
+repere: 1967 — *L'Or de Rennes* reproduit les parchemins.
+voir: pierre-plantard, philippe-de-cherisey, dossiers-secrets, le-serpent-rouge, pierres-gravees-du-languedoc, parchemins, l-or-de-rennes, aveux, histoire-et-pseudo-histoire
+
+@ realisme-fantastique
+cat: contexte
+groupe: mythe
+nom: Le réalisme fantastique
+alias: Le Matin des magiciens, revue Planète, L'Aventure mystérieuse
+an: 1960
+def: Courant d'édition né en 1960 avec Le Matin des magiciens, qui mêle science, histoire secrète et paranormal : il fournit à l'affaire de Rennes ses lecteurs, sa collection de poche et son ton.
+texte: En 1960, Louis Pauwels et Jacques Bergier publient *Le Matin des magiciens*. Le livre propose de regarder l'histoire comme un tissu de secrets : civilisations disparues, savoirs perdus, sociétés cachées derrière les événements. L'année suivante, la revue *Planète* en fait un programme. Le succès est considérable.
+texte: Ce courant ne crée pas l'affaire de Rennes, mais il lui donne un cadre. Un curé de village enrichi ne suffirait pas ; un curé dépositaire d'un secret millénaire entre dans le genre. Les auteurs passent de l'un à l'autre : [[robert-charroux|Robert Charroux]] écrit sur les trésors puis sur les anciens astronautes, [[guy-tarade|Guy Tarade]] sur les soucoupes puis sur les lieux magiques.
+texte: L'édition de poche fait le reste. En 1968, *L'Or de Rennes* reparaît sous le titre *Le Trésor maudit de Rennes-le-Château* dans la collection à couverture rouge « L'Aventure mystérieuse », vendue dans les gares. C'est ce volume qu'[[henry-lincoln|Henry Lincoln]] achète pendant ses vacances, en 1969 : voir [[vague-anglaise|la vague anglaise]].
+voir: robert-charroux, guy-tarade, l-or-de-rennes, chasseurs-de-tresors, vague-anglaise, bugarach-et-les-ovnis
+
+@ vague-anglaise
+cat: contexte
+groupe: mythe
+nom: La vague anglaise
+alias: Chronicle, BBC, The Holy Blood and the Holy Grail, version anglo-saxonne
+an: 1972
+def: De 1972 à 1982, trois films de la BBC puis un livre à succès portent l'affaire dans le monde anglophone et lui donnent sa forme définitive : celle d'un secret sur les origines du christianisme.
+texte: En 1969, un scénariste anglais en vacances dans les Cévennes lit en poche le livre de [[gerard-de-sede|Gérard de Sède]]. [[henry-lincoln|Henry Lincoln]] croit y découvrir seul le message du petit [[parchemins|parchemin]], que l'auteur français n'avait pas signalé. Il propose le sujet à la BBC.
+texte: Trois films suivent, dans la série documentaire *Chronicle* : en 1972, en 1974, en 1979. Voir [[films-de-la-bbc|les films de la BBC]]. Chacun élargit le propos : le trésor de Jérusalem, puis [[secret-de-poussin|Poussin]] et la [[geometrie-sacree|géométrie]] du paysage, puis les Templiers et le [[prieure-de-sion|Prieuré]]. Le public britannique découvre le Razès ; des lecteurs s'y installent.
+texte: En 1982, Lincoln et deux coauteurs, [[baigent-et-leigh|Michael Baigent et Richard Leigh]], publient *[[l-enigme-sacree|The Holy Blood and the Holy Grail]]*. La thèse dépasse tout ce que [[pierre-plantard|Plantard]] avait prévu : une [[lignee-de-jesus|descendance de Jésus]], protégée par un ordre secret. Le livre est un succès mondial, et il ne repose, pour le Prieuré, que sur les *Dossiers secrets*.
+texte: Ce détour par l'anglais a deux effets. Il coupe l'affaire de ses critiques : les travaux de [[rene-descadeillas|Descadeillas]], parus en 1974 dans les mémoires d'une société savante de Carcassonne, ne sont pas traduits. Et il la rend à la France transformée, puis au monde, par le roman de 2003. C'est aussi la BBC qui, en 1996, fera le chemin inverse : voir *[[history-of-a-mystery|The History of a Mystery]]*.
+repere: 1969 — Henry Lincoln lit *Le Trésor maudit* en poche.
+repere: 1972 — Premier film de la BBC.
+repere: 1974 — Deuxième film : Poussin et le pentacle.
+repere: 1979 — Troisième film.
+repere: 1982 — *The Holy Blood and the Holy Grail*.
+repere: 1996 — La BBC démonte l'affaire dans *The History of a Mystery*.
+voir: henry-lincoln, films-de-la-bbc, l-enigme-sacree, baigent-et-leigh, lignee-de-jesus, history-of-a-mystery, effet-da-vinci-code
+
+@ aveux
+cat: contexte
+groupe: mythe
+nom: Les aveux
+alias: aveux de Chérisey, aveux de Plantard, lettre à Jarnac, audition de 1993
+an: 1974
+def: Les auteurs de la mystification l'ont reconnue eux-mêmes, par écrit puis sous serment : Chérisey dès 1974 pour les parchemins, Plantard en 1993 pour le Prieuré.
+texte: L'affaire de Rennes a ceci de particulier que ses faux ont des auteurs connus, et que ces auteurs ont parlé. Le premier est [[philippe-de-cherisey|Philippe de Chérisey]]. Le 29 janvier 1974, il écrit à [[pierre-jarnac|Pierre Jarnac]] qu'il a composé lui-même les [[parchemins|parchemins]] ; il le redit en 1978 dans un texte où il explique sa méthode, et le confie à [[jean-luc-chaumeil|Jean-Luc Chaumeil]], qui détient les originaux de sa main.
+texte: Les motifs sont en partie de boutique. Chérisey et [[pierre-plantard|Plantard]] reprochent à [[gerard-de-sede|Gérard de Sède]] d'avoir publié leurs documents sans les payer ; pour faire valoir leurs droits, il leur faut s'en dire les auteurs. Chaumeil conserve plus de cent lettres échangées entre les trois hommes, qui décrivent le montage. Dès 1973, l'ancien président de l'association de 1956 s'était publiquement désolidarisé de ce que l'on faisait de son nom.
+texte: Une preuve se passe d'ailleurs de tout aveu. Le grand parchemin est l'anagramme exacte de l'épitaphe de la marquise telle qu'un bulletin savant l'a imprimée en 1906, fautes de relevé comprises. Il a donc été fabriqué après 1906, d'après ce bulletin. Et le petit recopie une page d'un manuscrit reproduite dans un dictionnaire de la Bible paru en 1895.
+texte: Plantard résiste plus longtemps. En 1989, il renie ses premiers documents et réécrit l'histoire du [[prieure-de-sion|Prieuré]], en y inscrivant un ami du président de la République : voir [[prieure-a-l-elysee|le prieuré à l'Élysée]]. En 1993, un juge fait perquisitionner chez lui et l'entend. Sous serment, il reconnaît avoir tout inventé. En 1988, de Sède lui-même avait dénoncé les impostures de l'affaire.
+texte: Ces aveux n'ont pas arrêté le mythe. Ils ont été publiés en français, dans des livres de petits éditeurs, quand la légende se vendait par millions en anglais. Et une légende sait se nourrir de ses démentis : si les faussaires avouent, dit-on, c'est qu'on les y a contraints.
+repere: 1973 — Le président de l'association de 1956 se désolidarise.
+repere: 29 janvier 1974 — Lettre de Chérisey à Pierre Jarnac.
+repere: 1978 — Chérisey expose la fabrication des parchemins.
+repere: 1988 — Gérard de Sède dénonce les impostures de l'affaire.
+repere: 1989 — Plantard renie les *Dossiers secrets*.
+repere: 1993 — Plantard reconnaît sous serment avoir tout inventé.
+voir: philippe-de-cherisey, pierre-plantard, pierre-jarnac, jean-luc-chaumeil, parchemins, atelier-des-faux, prieure-a-l-elysee, histoire-et-pseudo-histoire, stele-de-la-marquise
+
+@ effet-da-vinci-code
+cat: contexte
+groupe: mythe
+nom: L'effet Da Vinci Code
+alias: après Da Vinci Code, procès de Londres, tourisme du Da Vinci Code
+an: 2003
+def: En 2003, un roman vendu à des dizaines de millions d'exemplaires reprend la légende du Prieuré et la présente comme un fait : Rennes-le-Château, qu'il ne nomme pas, y gagne une célébrité mondiale.
+texte: *[[da-vinci-code|The Da Vinci Code]]* paraît le 18 mars 2003. L'action ne passe pas par l'Aude, mais le roman recycle les noms de l'affaire : le conservateur assassiné s'appelle Jacques Saunière, un érudit porte le nom de Leigh et, en anagramme, celui de Baigent, un policier se nomme Bézu. Une page liminaire affirme que le [[prieure-de-sion|Prieuré de Sion]] est une organisation réelle. [[dan-brown|Dan Brown]] écrit une fiction ; il la donne pour documentée.
+texte: Les lecteurs remontent à la source. On visite le Louvre, [[saint-sulpice|Saint-Sulpice]], [[rosslyn|Rosslyn]], puis ce village dont le curé portait le nom de la victime. La fréquentation de Rennes atteint alors son sommet ; les estimations, peu sûres, parlent de cent mille visiteurs et plus par an au milieu des années 2000.
+texte: En 2006, [[baigent-et-leigh|Baigent et Leigh]] attaquent l'éditeur du roman pour plagiat de *[[l-enigme-sacree|L'Énigme sacrée]]*. Le juge les déboute le 7 avril : on ne peut pas présenter une thèse comme historique et la revendiquer ensuite comme une création. Le procès a au moins cet effet de faire dire en audience ce que valent les sources du livre.
+texte: La réaction suit le succès. Les Églises publient des mises au point ; des documentaires de démystification passent sur les grandes chaînes en 2005 et 2006, et montrent au public américain que le Prieuré est un canular. Ils entretiennent, du même coup, la notoriété de ce qu'ils réfutent. Voir [[rennes-aujourd-hui|Rennes-le-Château aujourd'hui]].
+repere: 18 mars 2003 — Parution de *The Da Vinci Code*.
+repere: 14 septembre 2004 — Le corps de Saunière est mis à l'abri des fouilleurs.
+repere: 7 avril 2006 — Jugement de Londres : Baigent et Leigh sont déboutés.
+repere: mai 2006 — Sortie du film tiré du roman.
+voir: da-vinci-code, dan-brown, baigent-et-leigh, l-enigme-sacree, prieure-de-sion, saint-sulpice, rosslyn, rennes-aujourd-hui, vague-anglaise
+
+@ rennes-aujourd-hui
+cat: contexte
+groupe: mythe
+nom: Rennes-le-Château aujourd'hui
+alias: visiter Rennes-le-Château, Domaine de l'abbé Saunière, tourisme à Rennes-le-Château
+an: 2026
+def: Un village de moins de cent habitants, propriétaire du domaine de son ancien curé, qui vit du mystère tout en s'en protégeant, et dont l'église attend sa restauration.
+texte: La commune compte 89 habitants en 2023 ; elle en avait 474 en 1851 et 63 seulement en 1982. Depuis 2000, elle est propriétaire du domaine : la [[villa-bethanie|villa]], la [[tour-magdala|tour]], les jardins, le [[presbytere|presbytère]] où un musée a ouvert en 1989. L'ensemble se visite sous le nom de Domaine de l'abbé Saunière. L'église est inscrite au titre des monuments historiques depuis 1994 ; le village et ses abords sont un site protégé.
+texte: Combien de visiteurs ? Il n'existe pas de statistique sûre. On lit « plus de trente mille par an », sans doute les entrées payantes du domaine, et « cent à cent vingt mille » pour le village au plus fort de l'[[effet-da-vinci-code|effet Da Vinci Code]]. Pour une commune de cette taille, c'est la principale ressource. Le bourg est piéton en été, et le stationnement payant.
+texte: De là une politique à deux visages. D'un côté, protéger : l'arrêté de 1965 interdit toujours les [[fouilles|fouilles]], le [[cimetiere|cimetière]] est fermé aux visiteurs, le corps de l'abbé repose depuis 2004 sous une dalle de béton. De l'autre, accueillir ceux qui viennent pour l'énigme. Les atteintes n'ont pas cessé : le [[asmodee|diable du bénitier]] a été décapité en 1996 et attaqué à la hache en 2017 ; une fouille clandestine a mis à nu les fondations de l'église en décembre 2017.
+texte: Le souci du moment est le bâtiment lui-même. Des fissures et de l'humidité ont été signalées à la voûte ; des carottages ont été faits autour de l'édifice en septembre 2025, et le coût d'une restauration, évoqué au conseil municipal, serait de l'ordre d'un million d'euros. Depuis le 16 novembre 2026, l'[[eglise-sainte-marie-madeleine|église]] est fermée au public jusqu'à la fin de l'année, pour des investigations à l'intérieur. Cet état des lieux est celui de novembre 2026.
+texte: Autour, le pays a pris le pli. On vient à [[rennes-les-bains|Rennes-les-Bains]], où [[henry-lincoln|Henry Lincoln]] a fini ses jours en 2022, au [[bugarach|Bugarach]], aux ruines de [[coustaussa|Coustaussa]]. Une association, Terre de Rhedae, organise des colloques ; une autre, RLCdoc, publie les documents. Le mystère est devenu, selon le mot d'une ethnologue, un « or fantôme » : il n'a jamais été trouvé, et il fait vivre.
+repere: mai 1989 — Ouverture du musée dans le presbytère.
+repere: 26 juillet 1994 — L'église est inscrite au titre des monuments historiques.
+repere: 2000 — La commune devient propriétaire du domaine.
+repere: 2016 — Le musée rénové prend le nom de Domaine de l'abbé Saunière.
+repere: 2017 — Centenaire de la mort de Saunière.
+repere: septembre 2025 — Carottages autour de l'église.
+repere: 16 novembre 2026 — L'église est fermée pour investigations.
+voir: rennes-le-chateau, fouilles, eglise-sainte-marie-madeleine, presbytere, tour-magdala, effet-da-vinci-code, patrick-mensior, asmodee, tombe-de-sauniere
+
+@ histoire-et-pseudo-histoire
+cat: contexte
+groupe: mythe
+nom: Histoire et pseudo-histoire
+alias: méthode historique, critique des sources, comment reconnaître un faux
+an: 2000
+def: Ce qui sépare, dans ce dossier, un fait d'une légende : quelques règles de méthode, illustrées par les pièces mêmes de l'affaire.
+texte: La première règle est de dater ses sources. Un document vaut pour l'époque où il a été écrit, non pour celle dont il parle. Les carnets de [[berenger-sauniere|Saunière]] sont de 1891 : ils disent ce qu'il faisait en 1891. Le récit de sa découverte est de 1956 : il dit ce que l'on racontait en 1956. Entre les deux, il y a soixante-cinq ans et la mort de tous les témoins. Quand une « tradition immémoriale » n'a pas de trace avant un livre précis, elle a l'âge de ce livre.
+texte: La deuxième est de demander la pièce. Les « comptes de Boudet », la commande de la maquette, les lettres vendues à des Anglais, le devis de huit millions : tout cela est cité, rien n'est montré. À l'inverse, les registres de correspondance du curé existent, sont microfilmés aux Archives de l'Aude, et chacun peut les lire. Un fait se reconnaît à ce qu'on peut aller y voir.
+texte: La troisième est de ne pas confondre le lieu où dort un papier avec ce qu'il vaut. Les *[[dossiers-secrets|Dossiers secrets]]* sont à la Bibliothèque nationale, sous une cote : cela prouve qu'on les y a déposés en 1967, et rien d'autre. Voir [[atelier-des-faux|l'atelier des faux]]. De même, une inscription latine au porche d'une église n'est pas un message parce qu'elle est en latin : celle de Rennes est dans le missel.
+texte: La quatrième est de se méfier des coïncidences que l'on a cherchées. Dans un dossier de plusieurs milliers de dates, quelques-unes tomberont un [[17-janvier|17 janvier]] ; dans un pays de crêtes, cinq sommets formeront à peu près un [[geometrie-sacree|pentagone]]. Une coïncidence ne pèse que si l'on avait dit d'avance ce que l'on cherchait.
+texte: Une dernière remarque. La pseudo-histoire ne se réfute pas une fois pour toutes, parce qu'elle absorbe ses réfutations : les [[aveux|aveux]] deviennent des pressions, l'absence de preuve une preuve du secret. L'histoire, elle, accepte de dire qu'elle ne sait pas. Elle ne sait pas qui donnait à Saunière, ni ce qu'il a vu sous le dallage en 1891. C'est peu, et c'est ce qui reste d'ouvert.
+voir: aveux, atelier-des-faux, carnets-de-sauniere, dossiers-secrets, 17-janvier, geometrie-sacree, crypte-des-seigneurs, rene-descadeillas

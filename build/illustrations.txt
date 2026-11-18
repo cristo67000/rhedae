@@ -1,0 +1,281 @@
+# Les illustrations de l'application, et d'où elles viennent.
+#
+#     python build/illustrer.py      télécharge, vérifie la licence, convertit en WebP
+#                                    dans img/ et écrit build/illustrations.json
+#     node build/construire.mjs      rattache ensuite chaque image à ses fiches
+#
+# Toutes viennent de Wikimedia Commons et sont dans le domaine public (ou sous
+# CC0) : le script refuse toute autre licence.
+#
+#   = identifiant          le fichier sera img/identifiant.webp
+#   commons: Fichier.jpg   le fichier sur Wikimedia Commons, sans « File: »
+#   legende: …             ce qu'on lit sous l'image (*italique* permise)
+#   credit: …              l'auteur, la date, le fonds — la licence s'ajoute seule
+#   pour: fiche, fiche     les fiches où elle paraît, en tête
+#   largeur: 520           (facultatif) largeur en pixels, 440 par défaut
+#   recadrer: 0 0 1 1      (facultatif) gauche haut droite bas, en fractions
+#   page: 7                (facultatif) la page d'un livre numérisé
+
+= portrait-sauniere
+commons: Pastoor Saunières, gestorven in 1917, de man die naar men zegt wist waar in kasteel, SFA002011574.jpg
+legende: L'abbé Bérenger Saunière
+credit: Photographie, avant 1917 ; collection Spaarnestad
+pour: berenger-sauniere
+
+= portrait-marie-denarnaud
+commons: Marie Desnandeau hoorde naar men zegt van pastoor Saunières, gestorven in 1917, waar In kasteel, SFA002011575.jpg
+legende: Marie Dénarnaud
+credit: Photographie, avant 1917 ; collection Spaarnestad
+pour: marie-denarnaud
+
+= plaque-tombe-sauniere
+commons: Plaque tombe abbe sauniere.jpg
+legende: La plaque de la tombe de l'abbé Saunière
+credit: Photographie, 2005
+pour: tombe-de-sauniere
+largeur: 560
+
+= fouilles-interdites
+commons: Fouilles interdites.jpg
+legende: À l'entrée du village : les fouilles sont interdites depuis 1965
+credit: Photographie
+pour: fouilles, rennes-le-chateau
+largeur: 520
+
+= portrait-boudet
+commons: Boudet.jpg
+legende: L'abbé Henri Boudet
+credit: Photographie, vers 1887
+pour: henri-boudet, la-vraie-langue-celtique
+largeur: 343
+
+= portrait-beausejour
+commons: Paul-Félix Beuvain de Beauséjour 2.jpg
+legende: Mgr de Beauséjour, évêque de Carcassonne
+credit: Photographie
+pour: mgr-de-beausejour
+
+= comtesse-de-chambord
+commons: Marie-Thérèse de Modène, Comtesse de Chambord.png
+legende: Marie-Thérèse de Modène, comtesse de Chambord
+credit: Photographie, années 1880
+pour: comtesse-de-chambord
+largeur: 340
+
+= comte-de-chambord
+commons: Portrait d'Henri Charles Dieudonné d'Artois, comte de Chambord (1820-1883), PH38054.jpg
+legende: Henri d'Artois, comte de Chambord
+credit: Photographie, avant 1883 ; musée Carnavalet
+pour: comte-de-chambord, legitimisme
+
+= bergers-arcadie
+commons: Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg
+legende: Nicolas Poussin, *Les Bergers d'Arcadie*, vers 1638-1640
+credit: Musée du Louvre
+pour: les-bergers-d-arcadie, secret-de-poussin, et-in-arcadia-ego
+largeur: 640
+
+= arcadie-guercino
+commons: Guercino Et in Arcadia ego (detail).jpg
+legende: Le Guerchin, *Et in Arcadia ego*, vers 1618-1622 : la première apparition de la devise
+credit: Rome, palais Barberini
+pour: et-in-arcadia-ego
+largeur: 560
+
+= poussin-autoportrait
+commons: Poussin - Autoportrait, 1650, INV 7302 ; MR 2329.jpg
+legende: Nicolas Poussin, autoportrait, 1650
+credit: Musée du Louvre
+pour: nicolas-poussin
+
+= teniers-antoine-paul
+commons: David Teniers - Saint Anthony abbot meets Saint Paul the hermit.jpg
+legende: David Teniers le Jeune, *Saint Antoine abbé et saint Paul ermite*, années 1660
+credit: David Teniers le Jeune
+pour: david-teniers
+largeur: 600
+
+= fouquet-le-brun
+commons: Nicolas Fouquet par Charles Le Brun.jpg
+legende: Nicolas Fouquet, par Charles Le Brun
+credit: Charles Le Brun, XVIIe siècle
+pour: nicolas-fouquet, lettre-de-louis-fouquet
+
+= pavillon
+commons: Nicolas Pavillon-gravure.jpg
+legende: Nicolas Pavillon, évêque d'Alet
+credit: Gravure du XVIIe siècle
+pour: nicolas-pavillon
+
+= diocese-d-alet
+commons: Carte du diocèse d'Alet.jpg
+legende: Carte du diocèse d'Alet, 1781 : Rennes en dépendait
+credit: Bibliothèque nationale de France, 1781
+pour: diocese-d-alet
+largeur: 720
+
+= alet-ruines
+commons: Ensemble des ruines, Alet-les-Bains, 20 juin 1898 - btv1b105788860.jpg
+legende: Les ruines de l'abbaye-cathédrale d'Alet, le 20 juin 1898
+credit: Bibliothèque nationale de France
+pour: alet-les-bains
+largeur: 600
+
+= arques-donjon
+commons: Donjon d' Arques, Aude - btv1b10574192k.jpg
+legende: Le donjon d'Arques
+credit: Photographie ancienne ; Bibliothèque nationale de France
+pour: arques
+
+= quillan
+commons: Quillan - Promenade.jpg
+legende: Quillan, la promenade, au début du XXe siècle
+credit: Carte postale ancienne
+pour: quillan
+largeur: 600
+
+= carcassonne-cite
+commons: Carcassonne. La Cité - Fonds Trutat - 51Fi371.jpg
+legende: La Cité de Carcassonne en 1897
+credit: Eugène Trutat, 1897 ; archives municipales de Toulouse
+pour: carcassonne
+largeur: 600
+
+= bugarach-pech
+commons: Pech de Bugarach 27072014 02.jpg
+legende: Le pic de Bugarach
+credit: Photographie, 2014
+pour: bugarach, bugarach-et-les-ovnis
+largeur: 640
+
+= sac-de-rome
+commons: Sack of Rome by Alaric - sacred vessels are brought to a church for safety (2nd of 2).jpg
+legende: Le sac de Rome par Alaric : on porte les vases sacrés à l'abri dans une église
+credit: Enluminure, vers 1475
+pour: alaric, tresor-des-wisigoths
+largeur: 560
+
+= blanche-de-castille
+commons: Blancheofcastile.jpg
+legende: Blanche de Castille
+credit: Enluminure du XIIIe siècle
+pour: blanche-de-castille, tresor-de-blanche-de-castille
+
+= dagobert-ii
+commons: Emile Signol (1804-1892) - Dagobert II, roi des Francs (vers 699-715).jpg
+legende: Dagobert II, tel que l'imagine le XIXe siècle
+credit: Émile Signol ; château de Versailles
+pour: dagobert-ii, descendance-merovingienne
+
+= madeleine-penitente
+commons: The Penitent Magdalen MET DT7252.jpg
+legende: Georges de La Tour, *La Madeleine pénitente*
+credit: Metropolitan Museum of Art, New York
+pour: marie-madeleine, lignee-de-jesus
+
+= montsegur
+commons: Montsegur1.JPG
+legende: Le château de Montségur sur son pog
+credit: Photographie
+pour: montsegur, tresor-des-cathares
+largeur: 600
+
+= emma-calve
+commons: Emma Calvé, by Théobald Chartran.jpg
+legende: Emma Calvé, par Théobald Chartran
+credit: Théobald Chartran
+pour: emma-calve
+
+= jules-bois
+commons: Jules Bois, 1906 - btv1b53220033z.jpg
+legende: Jules Bois en 1906
+credit: Bibliothèque nationale de France
+pour: jules-bois
+
+= maurice-leblanc
+commons: Maurice Leblanc - photographie Henri Manuel.jpg
+legende: Maurice Leblanc
+credit: Photographie d'Henri Manuel
+pour: maurice-leblanc, romanciers-inities
+
+= aiguille-document
+commons: Leblanc - L’Aiguille creuse, 1912 (page 93 crop).jpg
+legende: Le document chiffré de *L'Aiguille creuse*, édition de 1912
+credit: Maurice Leblanc, *L'Aiguille creuse*, 1912
+pour: l-aiguille-creuse
+largeur: 600
+
+= jules-verne
+commons: Félix Nadar 1820-1910 portraits Jules Verne (restoration).jpg
+legende: Jules Verne, par Nadar
+credit: Félix Nadar
+pour: jules-verne
+
+= clovis-dardentor
+commons: 'Clovis Dardentor' by Léon Benett 01.jpg
+legende: *Clovis Dardentor*, illustration de Léon Benett, 1896
+credit: Léon Benett, édition Hetzel, 1896
+pour: clovis-dardentor
+
+= jules-doinel
+commons: Doinel, Jules.jpg
+legende: Jules Doinel
+credit: Photographie
+pour: jules-doinel
+
+= codex-bezae
+commons: Codex Bezae - Latin Luke 23-47-24-1 (The S.S. Teacher's Edition-The Holy Bible - Plate XXVI).jpg
+legende: Une page latine du Codex Bezae : c'est l'écriture qu'a imitée l'auteur du petit parchemin
+credit: Fac-similé ancien du manuscrit de Cambridge, Ve siècle
+pour: parchemins
+
+= saint-sulpice
+commons: Saint-Sulpice Paris April 2006 016.jpg
+legende: L'église Saint-Sulpice, à Paris
+credit: Photographie, 2006
+pour: saint-sulpice, meridien-de-paris
+
+= stenay
+commons: Stenay - btv1b53144128w (2 of 3).jpg
+legende: Stenay
+credit: Bibliothèque nationale de France
+pour: stenay
+largeur: 600
+
+= gisors
+commons: Gravure ruines du Château Gisors.jpg
+legende: Les ruines du château de Gisors
+credit: Gravure ancienne
+pour: gisors
+largeur: 560
+
+= shugborough
+commons: Shepherd's Monument, Shugborough Estate - Staffordshire, England - DSC00182.jpg
+legende: Le monument des Bergers, à Shugborough
+credit: Photographie
+pour: shugborough, inscription-de-shugborough
+
+= rosslyn
+commons: Roslin Chapel, South Porch MET DP107956.jpg
+legende: La chapelle de Rosslyn, porche sud
+credit: Metropolitan Museum of Art, New York
+pour: rosslyn
+
+= asmodee-plancy
+commons: Asmodeus.jpg
+legende: Asmodée, dans le *Dictionnaire infernal* de Collin de Plancy, 1863
+credit: Louis Le Breton, 1863
+pour: asmodee
+
+= menorah-titus
+commons: Menorah (Arc de Titus, Rome).jpg
+legende: Le butin du Temple de Jérusalem, sur l'arc de Titus à Rome
+credit: Relief de l'arc de Titus
+pour: arche-d-alliance
+largeur: 560
+
+= templiers-bucher
+commons: Templars on Stake.jpg
+legende: Templiers sur le bûcher
+credit: Enluminure médiévale
+pour: tresor-des-templiers, templiers-en-razes
