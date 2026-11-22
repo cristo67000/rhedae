@@ -2,8 +2,10 @@
 /*
  * Les illustrations : portraits, cartes postales anciennes, tableaux.
  *
- * Toutes viennent de Wikimedia Commons et sont dans le domaine public (ou sous
- * CC0) ; build/illustrations.txt dit d'où vient chacune, build/illustrer.py les
+ * Les anciennes viennent de Wikimedia Commons et sont dans le domaine public (ou
+ * sous CC0) ; les vues d'aujourd'hui sont des photographies de Cristo6772 (août
+ * 2024, tous droits réservés), sans lien de source. build/illustrations.txt dit
+ * d'où vient chacune, build/illustrer.py les
  * réduit et les range dans img/. Une fiche en porte en tête (`im`).
  *
  * Une image touchée s'ouvre en grand par-dessus la fiche, avec sa légende, son

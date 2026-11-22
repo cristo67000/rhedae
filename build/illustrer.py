@@ -27,13 +27,16 @@ import time
 import urllib.parse
 import urllib.request
 
-from PIL import Image
+from PIL import Image, ImageOps
 
 ICI = os.path.dirname(os.path.abspath(__file__))
 RACINE = os.path.dirname(ICI)
 SOURCE = os.path.join(ICI, 'illustrations.txt')
 SORTIE = os.path.join(ICI, 'illustrations.json')
 ORIGINAUX = os.path.join(ICI, '.sources-images')
+# Les photographies personnelles (champ « photo: ») : les originaux, hors du dépôt eux aussi.
+PHOTOS = os.path.join(ORIGINAUX, 'photos')
+LICENCE_PHOTO = 'Tous droits réservés'
 DOSSIER_IMG = os.path.join(RACINE, 'img')
 
 AGENT = {'User-Agent': 'illustrations/1.0 (script de construction ; usage ponctuel)'}
@@ -46,7 +49,7 @@ LARGEUR_SOURCE = 1280
 # Les fichiers d'img/ qui ne sont pas des illustrations : le relief de la carte.
 RESERVES = ('relief-',)
 
-CHAMPS = {'commons', 'legende', 'credit', 'pour', 'largeur', 'recadrer', 'qualite', 'page'}
+CHAMPS = {'commons', 'photo', 'legende', 'credit', 'pour', 'largeur', 'recadrer', 'qualite', 'page'}
 
 sys.stdout.reconfigure(encoding='utf-8')
 erreurs = []
@@ -164,6 +167,7 @@ def original(info):
 def convertir(chemin, image, sortie):
     with Image.open(chemin) as im:
         im.load()
+        im = ImageOps.exif_transpose(im)      # une photo de téléphone dit son sens dans ses métadonnées
         if im.mode in ('P', 'LA', 'RGBA') or 'transparency' in im.info:
             fond = Image.new('RGB', im.size, (255, 255, 255))
             im = im.convert('RGBA')
@@ -196,9 +200,11 @@ def main():
         if image['id'].startswith(RESERVES):
             erreur(image['lieu'], 'identifiant réservé au relief de la carte : ' + image['id'])
         vus.add(image['id'])
-        for champ in ('commons', 'legende', 'credit', 'pour'):
+        for champ in ('legende', 'credit', 'pour'):
             if not image.get(champ):
                 erreur(image['lieu'], 'pas de « ' + champ + ': » pour « ' + image['id'] + ' »')
+        if bool(image.get('commons')) == bool(image.get('photo')):
+            erreur(image['lieu'], 'il faut « commons: » ou « photo: », un seul des deux, pour « ' + image['id'] + ' »')
         if image.get('recadrer') and not re.fullmatch(r'[\d.]+ [\d.]+ [\d.]+ [\d.]+', image['recadrer']):
             erreur(image['lieu'], 'recadrage illisible « ' + image['recadrer'] + ' »')
     if erreurs:
@@ -209,7 +215,7 @@ def main():
     telecharges = convertis = 0
     for image in images:
         sortie = os.path.join(DOSSIER_IMG, image['id'] + '.webp')
-        signature = '|'.join([image['commons'], image.get('recadrer', ''), str(image.get('largeur') or LARGEUR_DEFAUT),
+        signature = '|'.join([image.get('commons') or 'photo:' + image['photo'], image.get('recadrer', ''), str(image.get('largeur') or LARGEUR_DEFAUT),
                               str(image.get('qualite') or QUALITE)] + (['p' + image['page']] if image.get('page') else []))
         ancien = precedent.get(image['id'])
         if ancien and ancien.get('sig') == signature and os.path.exists(sortie):
@@ -217,6 +223,29 @@ def main():
         else:
             if verifier:
                 erreur(image['lieu'], 'image à (re)faire : ' + image['id'])
+                continue
+            if image.get('photo'):
+                # Une photographie personnelle : rien à télécharger, pas de page d'origine.
+                # Le WebP est écrit sans métadonnées (ni lieu, ni appareil).
+                chemin = os.path.join(PHOTOS, image['photo'])
+                if not os.path.exists(chemin):
+                    erreur(image['lieu'], 'photographie absente de build/.sources-images/photos/ : ' + image['photo'])
+                    continue
+                try:
+                    w, h = convertir(chemin, image, sortie)
+                except Exception as e:
+                    erreur(image['lieu'], 'image illisible, ' + image['photo'] + ' : ' + str(e))
+                    continue
+                convertis += 1
+                licence, source = LICENCE_PHOTO, ''
+                print('  ✓', image['id'], w, '×', h, round(os.path.getsize(sortie) / 1024), 'Ko', '(photographie personnelle)')
+                with open(sortie, 'rb') as f:
+                    empreinte = hashlib.sha1(f.read()).hexdigest()[:10]
+                resultat.append({
+                    'id': image['id'], 'legende': image['legende'], 'credit': image['credit'] + ' · tous droits réservés',
+                    'licence': licence, 'source': source, 'largeur': w, 'hauteur': h, 'empreinte': empreinte,
+                    'pour': [x.strip() for x in image.get('pour', '').split(',') if x.strip()], 'sig': signature,
+                })
                 continue
             try:
                 info = informations(image['commons'], image.get('page'))
@@ -243,7 +272,7 @@ def main():
             empreinte = hashlib.sha1(f.read()).hexdigest()[:10]
         resultat.append({
             'id': image['id'], 'legende': image['legende'],
-            'credit': image['credit'] + ' · ' + ('domaine public' if licence.lower().startswith(('public', 'pd')) else licence),
+            'credit': image['credit'] + ' · ' + ('domaine public' if licence.lower().startswith(('public', 'pd')) else 'tous droits réservés' if licence == LICENCE_PHOTO else licence),
             'licence': licence, 'source': source, 'largeur': w, 'hauteur': h, 'empreinte': empreinte,
             'pour': [x.strip() for x in image.get('pour', '').split(',') if x.strip()],
             'sig': signature,

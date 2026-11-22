@@ -43,19 +43,34 @@
    "sig": "Plaque tombe abbe sauniere.jpg||560|76"
   },
   {
+   "id": "domaine-d-en-bas",
+   "legende": "Le domaine de l'abbé Saunière vu d'en bas : l'orangerie, le belvédère et la tour Magdala",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "9890e46a48",
+   "pour": [
+    "rennes-le-chateau",
+    "belvedere-et-orangerie"
+   ],
+   "sig": "photo:PXL_20240828_070443921.jpg||640|76"
+  },
+  {
    "id": "fouilles-interdites",
-   "legende": "À l'entrée du village : les fouilles sont interdites depuis 1965",
-   "credit": "Photographie · domaine public",
-   "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Fouilles_interdites.jpg",
-   "largeur": 520,
-   "hauteur": 390,
-   "empreinte": "3264199e3b",
+   "legende": "À l'entrée du village : les fouilles sont interdites depuis l'arrêté du 28 juillet 1965",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 560,
+   "hauteur": 315,
+   "empreinte": "e4b3f1145c",
    "pour": [
     "fouilles",
     "rennes-le-chateau"
    ],
-   "sig": "Fouilles interdites.jpg||520|76"
+   "sig": "photo:PXL_20240828_081208740.jpg||560|76"
   },
   {
    "id": "portrait-boudet",
@@ -204,17 +219,17 @@
   },
   {
    "id": "arques-donjon",
-   "legende": "Le donjon d'Arques",
-   "credit": "Photographie ancienne ; Bibliothèque nationale de France · domaine public",
-   "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Donjon_d%27_Arques,_Aude_-_btv1b10574192k.jpg",
-   "largeur": 440,
-   "hauteur": 584,
-   "empreinte": "25298622ef",
+   "legende": "Le château d'Arques : le donjon aux quatre tourelles dans son enceinte",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "4208682db8",
    "pour": [
     "arques"
    ],
-   "sig": "Donjon d' Arques, Aude - btv1b10574192k.jpg||440|76"
+   "sig": "photo:PXL_20240830_135603684.jpg||640|76"
   },
   {
    "id": "quillan",
@@ -232,18 +247,18 @@
   },
   {
    "id": "bugarach-pech",
-   "legende": "Le pic de Bugarach",
-   "credit": "Photographie, 2014 · CC0",
-   "licence": "CC0",
-   "source": "https://commons.wikimedia.org/wiki/File:Pech_de_Bugarach_27072014_02.jpg",
+   "legende": "Le pic de Bugarach, vu de Rennes-le-Château",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
    "largeur": 640,
-   "hauteur": 424,
-   "empreinte": "53ef9e0250",
+   "hauteur": 360,
+   "empreinte": "ac15a2c802",
    "pour": [
     "bugarach",
     "bugarach-et-les-ovnis"
    ],
-   "sig": "Pech de Bugarach 27072014 02.jpg||640|76"
+   "sig": "photo:PXL_20240826_174503798.jpg||640|76"
   },
   {
    "id": "blanche-de-castille",
@@ -259,6 +274,21 @@
     "tresor-de-blanche-de-castille"
    ],
    "sig": "Blancheofcastile.jpg||440|76"
+  },
+  {
+   "id": "dagobert-ii",
+   "legende": "Dagobert II, tel que l'imagine le XIXe siècle",
+   "credit": "Émile Signol ; château de Versailles · domaine public",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Emile_Signol_(1804-1892)_-_Dagobert_II,_roi_des_Francs_(vers_699-715).jpg",
+   "largeur": 440,
+   "hauteur": 540,
+   "empreinte": "ed076aff07",
+   "pour": [
+    "dagobert-ii",
+    "descendance-merovingienne"
+   ],
+   "sig": "Emile Signol (1804-1892) - Dagobert II, roi des Francs (vers 699-715).jpg||440|76"
   },
   {
    "id": "madeleine-penitente",
@@ -419,6 +449,20 @@
    "sig": "Roslin Chapel, South Porch MET DP107956.jpg||440|76"
   },
   {
+   "id": "diable-du-benitier",
+   "legende": "Le diable du bénitier, sous sa vitre",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "55949b7254",
+   "pour": [
+    "asmodee"
+   ],
+   "sig": "photo:PXL_20240826_160913449.jpg||440|76"
+  },
+  {
    "id": "asmodee-plancy",
    "legende": "Asmodée, dans le *Dictionnaire infernal* de Collin de Plancy, 1863",
    "credit": "Louis Le Breton, 1863 · domaine public",
@@ -460,6 +504,446 @@
     "templiers-en-razes"
    ],
    "sig": "Templars on Stake.jpg||440|76"
+  },
+  {
+   "id": "tour-magdala",
+   "legende": "La tour Magdala, au bord de la falaise",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "ca83213e93",
+   "pour": [
+    "tour-magdala"
+   ],
+   "sig": "photo:PXL_20240826_155330342.jpg||640|76"
+  },
+  {
+   "id": "tour-magdala-bibliotheque",
+   "legende": "Dans la tour Magdala : les boiseries de la bibliothèque",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "4e21e77b80",
+   "pour": [
+    "tour-magdala"
+   ],
+   "sig": "photo:PXL_20240827_155448445.jpg||440|76"
+  },
+  {
+   "id": "villa-bethanie",
+   "legende": "La villa Béthanie et sa véranda",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "564ea9431d",
+   "pour": [
+    "villa-bethanie"
+   ],
+   "sig": "photo:PXL_20240827_161044177.jpg||440|76"
+  },
+  {
+   "id": "villa-bethanie-salon",
+   "legende": "Un salon de la villa Béthanie",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 600,
+   "hauteur": 338,
+   "empreinte": "83899bbddb",
+   "pour": [
+    "villa-bethanie"
+   ],
+   "sig": "photo:PXL_20240827_161159340.jpg||600|76"
+  },
+  {
+   "id": "belvedere-orangerie",
+   "legende": "Le belvédère, en chemin de ronde, et l'orangerie vitrée",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "0f5feede1a",
+   "pour": [
+    "belvedere-et-orangerie"
+   ],
+   "sig": "photo:PXL_20240827_155347256.jpg||640|76"
+  },
+  {
+   "id": "eglise-exterieur",
+   "legende": "L'église Sainte-Marie-Madeleine, son porche et le jardin du calvaire",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "9eaa298d20",
+   "pour": [
+    "eglise-sainte-marie-madeleine"
+   ],
+   "sig": "photo:PXL_20240826_162311609.jpg||640|76"
+  },
+  {
+   "id": "eglise-nef",
+   "legende": "La nef et le chœur, dans le décor peint voulu par Saunière",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "7aeacb65ba",
+   "pour": [
+    "eglise-sainte-marie-madeleine",
+    "eglise-codee"
+   ],
+   "sig": "photo:PXL_20240826_160840714.jpg||440|76"
+  },
+  {
+   "id": "porche-tympan",
+   "legende": "Le tympan du porche : la statue de Marie-Madeleine et, dessous, *Terribilis est locus iste*",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "52542c8c8f",
+   "pour": [
+    "terribilis-est-locus-iste"
+   ],
+   "sig": "photo:PXL_20240831_070521447.jpg||640|76"
+  },
+  {
+   "id": "benitier-anges",
+   "legende": "Les quatre anges du bénitier et leur légende : « Par ce signe tu le vaincras »",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "8acbd4389a",
+   "pour": [
+    "par-ce-signe-tu-le-vaincras"
+   ],
+   "sig": "photo:PXL_20240826_160919566.jpg||440|76"
+  },
+  {
+   "id": "bas-relief-sermon",
+   "legende": "Le grand relief du fond de l'église : « Venez à moi… »",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "dddcf5f6ba",
+   "pour": [
+    "bas-relief-du-sermon",
+    "maison-giscard"
+   ],
+   "sig": "photo:PXL_20240826_161018097.jpg||640|76"
+  },
+  {
+   "id": "statue-germaine",
+   "legende": "Sainte Germaine entre deux stations du chemin de croix",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "c6238a7578",
+   "pour": [
+    "statues-de-l-eglise",
+    "chemin-de-croix"
+   ],
+   "sig": "photo:PXL_20240826_161328059.jpg||440|76"
+  },
+  {
+   "id": "statue-madeleine",
+   "legende": "Sainte Madeleine, patronne de l'église, avec la croix et le crâne",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "15b58df488",
+   "pour": [
+    "statues-de-l-eglise"
+   ],
+   "sig": "photo:PXL_20240828_142126924.jpg||440|76"
+  },
+  {
+   "id": "bapteme-du-christ",
+   "legende": "Le baptême du Christ, dans l'église de Rennes-le-Château : terre cuite peinte, dans le goût du temps",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "55d45d9a1b",
+   "pour": [
+    "art-saint-sulpicien"
+   ],
+   "sig": "photo:PXL_20240826_161109189.jpg||440|76"
+  },
+  {
+   "id": "autel-relief",
+   "legende": "Le relief du maître-autel : Marie-Madeleine en prière dans la grotte",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 560,
+   "hauteur": 501,
+   "empreinte": "6fc5ed4765",
+   "pour": [
+    "autel-de-marie-madeleine"
+   ],
+   "sig": "photo:PXL_20240828_142606553.jpg||560|76"
+  },
+  {
+   "id": "autel-choeur",
+   "legende": "Le maître-autel dans le chœur",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 600,
+   "hauteur": 338,
+   "empreinte": "d6aff2bb54",
+   "pour": [
+    "autel-de-marie-madeleine"
+   ],
+   "sig": "photo:PXL_20240828_142333889.jpg||600|76"
+  },
+  {
+   "id": "vitrail-bethanie",
+   "legende": "Le vitrail du chœur : une femme aux pieds du Christ, qu'elle essuie de ses cheveux",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 600,
+   "hauteur": 338,
+   "empreinte": "0e16ec206d",
+   "pour": [
+    "marie-madeleine"
+   ],
+   "sig": "photo:PXL_20240828_142532383.jpg||600|76"
+  },
+  {
+   "id": "pilier-original",
+   "legende": "Le pilier sculpté, au musée : la croix est à l'envers, comme Saunière l'a fait dresser",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "f1c5777d40",
+   "pour": [
+    "pilier-sculpte"
+   ],
+   "sig": "photo:PXL_20240827_153458292.jpg||440|76"
+  },
+  {
+   "id": "vierge-au-pilier",
+   "legende": "Notre-Dame de Lourdes sur la copie du pilier, devant l'église",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "712cdef208",
+   "pour": [
+    "penitence-penitence",
+    "pilier-sculpte",
+    "jardin-du-calvaire"
+   ],
+   "sig": "photo:PXL_20240831_073127236.jpg||440|76"
+  },
+  {
+   "id": "balustre",
+   "legende": "Le balustre de bois de l'ancienne chaire, au musée",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "30d217ccd1",
+   "pour": [
+    "balustre-et-fiole"
+   ],
+   "sig": "photo:PXL_20240827_154512387.jpg||440|76"
+  },
+  {
+   "id": "calvaire",
+   "legende": "Le calvaire de 1897, dans le jardin devant l'église",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "c621700c71",
+   "pour": [
+    "jardin-du-calvaire"
+   ],
+   "sig": "photo:PXL_20240826_162203495.jpg||440|76"
+  },
+  {
+   "id": "chateau-hautpoul",
+   "legende": "Le château des Hautpoul, dans le village",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "6930766bb9",
+   "pour": [
+    "chateau-des-hautpoul",
+    "famille-d-hautpoul"
+   ],
+   "sig": "photo:PXL_20240826_171307928.jpg||640|76"
+  },
+  {
+   "id": "coustaussa-chateau",
+   "legende": "Les ruines du château de Coustaussa",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "da18179c5f",
+   "pour": [
+    "coustaussa"
+   ],
+   "sig": "photo:PXL_20240830_155238444.LONG_EXPOSURE-01.COVER.jpg||640|76"
+  },
+  {
+   "id": "porte-cimetiere",
+   "legende": "La porte du cimetière et sa tête de mort sur deux tibias",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "322af01356",
+   "pour": [
+    "cimetiere"
+   ],
+   "sig": "photo:PXL_20240826_162056860.jpg||440|76"
+  },
+  {
+   "id": "pontils",
+   "legende": "Aux Pontils, au bord de la D613 : le paysage où se dressait le tombeau, détruit en 1988",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "b4d87b723f",
+   "pour": [
+    "tombeau-des-pontils"
+   ],
+   "sig": "photo:PXL_20240830_153334439.jpg||640|76"
+  },
+  {
+   "id": "montee-eglise",
+   "legende": "La ruelle qui monte à l'église, un matin d'août 2024",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 640,
+   "hauteur": 360,
+   "empreinte": "125d69d2e0",
+   "pour": [
+    "rennes-aujourd-hui"
+   ],
+   "sig": "photo:PXL_20240831_070003026.jpg||640|76"
+  },
+  {
+   "id": "enseigne-domaine",
+   "legende": "Une ancienne enseigne du domaine : musée, tour Magdala, villa Béthanie, bar-restaurant dans le parc",
+   "credit": "Photographie : Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "7dda11e068",
+   "pour": [
+    "henri-buthion"
+   ],
+   "sig": "photo:PXL_20240827_162546637.jpg||440|76"
+  },
+  {
+   "id": "dallage-damier",
+   "legende": "Le damier noir et blanc de la nef, à l'entrée de l'église ; à gauche, le bénitier",
+   "credit": "Image tirée d'une vidéo de Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "0c5d4dd6c4",
+   "pour": [
+    "dallage-en-damier"
+   ],
+   "sig": "photo:VID_20240831_073614391_dallage.jpg||440|76"
+  },
+  {
+   "id": "dalle-chevaliers",
+   "legende": "La dalle des Chevaliers, au musée : un détail des arcatures",
+   "credit": "Image tirée d'une vidéo de Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "1b0e49da80",
+   "pour": [
+    "dalle-des-chevaliers"
+   ],
+   "sig": "photo:VID_20240827_162308073_dalle.jpg||440|76"
+  },
+  {
+   "id": "crane-entaille",
+   "legende": "Le crâne à l'entaille, sous sa vitrine du musée",
+   "credit": "Image tirée d'une vidéo de Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 454,
+   "empreinte": "7f12c4b961",
+   "pour": [
+    "crane-a-l-entaille"
+   ],
+   "sig": "photo:VID_20240827_162308073_crane.jpg|0 0.42 1 1|440|76"
+  },
+  {
+   "id": "pierre-tombale-sauniere",
+   "legende": "La pierre tombale d'origine de l'abbé Saunière, brisée en deux, conservée au musée",
+   "credit": "Image tirée d'une vidéo de Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "5d320575dc",
+   "pour": [
+    "tombe-de-sauniere"
+   ],
+   "sig": "photo:VID_20240827_162308073_pierre.jpg||440|76"
+  },
+  {
+   "id": "stele-reproduction",
+   "legende": "L'épitaphe de la marquise, regravée de nos jours d'après le relevé de 1905 : la reproduction du musée",
+   "credit": "Image tirée d'une vidéo de Cristo6772, août 2024 · tous droits réservés",
+   "licence": "Tous droits réservés",
+   "source": "",
+   "largeur": 440,
+   "hauteur": 782,
+   "empreinte": "8741605db8",
+   "pour": [
+    "stele-de-la-marquise"
+   ],
+   "sig": "photo:VID_20240827_162151211_stele.jpg||440|76"
   }
  ]
 }

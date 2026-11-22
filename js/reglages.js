@@ -88,7 +88,7 @@
 
     const sources = bloc('Sources et crédits');
     sources.appendChild(element('p', null, 'La carte est dessinée par l’application elle-même et ne charge aucune tuile. Le relief vient des « Terrain Tiles » (Mapzen, programme Open Data d’Amazon), qui assemblent des modèles numériques de terrain ouverts ; les rivières, les routes, les villages et le bâti du village viennent d’OpenStreetMap (© les contributeurs d’OpenStreetMap, licence ODbL).'));
-    sources.appendChild(element('p', null, 'Les illustrations viennent de Wikimedia Commons et sont dans le domaine public ; chacune porte son crédit et un lien vers sa source.'));
+    sources.appendChild(element('p', null, 'Les illustrations anciennes — portraits, tableaux, gravures, cartes postales — viennent de Wikimedia Commons et sont dans le domaine public ; chacune porte son crédit et un lien vers sa source. Les photographies des lieux tels qu’ils sont aujourd’hui ont été prises sur place en août 2024 par Cristo6772 : tous droits réservés.'));
     sources.appendChild(element('p', null, 'Rhedae est le nom que portait, dit-on, la cité du haut Moyen Âge qui a donné son nom au Razès.'));
     zone.appendChild(sources);
 

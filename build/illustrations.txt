@@ -4,11 +4,15 @@
 #                                    dans img/ et écrit build/illustrations.json
 #     node build/construire.mjs      rattache ensuite chaque image à ses fiches
 #
-# Toutes viennent de Wikimedia Commons et sont dans le domaine public (ou sous
-# CC0) : le script refuse toute autre licence.
+# Celles de Wikimedia Commons sont dans le domaine public (ou sous CC0) : le
+# script refuse toute autre licence. Les autres sont des photographies
+# personnelles (« photo: »), prises sur place en août 2024 par Cristo6772, tous
+# droits réservés : les originaux sont dans build/.sources-images/photos/, hors
+# du dépôt, et l'image publiée ne garde aucune métadonnée.
 #
 #   = identifiant          le fichier sera img/identifiant.webp
 #   commons: Fichier.jpg   le fichier sur Wikimedia Commons, sans « File: »
+#   photo: Fichier.jpg     ou bien : une photographie personnelle, dans build/.sources-images/photos/
 #   legende: …             ce qu'on lit sous l'image (*italique* permise)
 #   credit: …              l'auteur, la date, le fonds — la licence s'ajoute seule
 #   pour: fiche, fiche     les fiches où elle paraît, en tête
@@ -35,12 +39,19 @@ credit: Photographie, 2005
 pour: tombe-de-sauniere
 largeur: 560
 
+= domaine-d-en-bas
+photo: PXL_20240828_070443921.jpg
+legende: Le domaine de l'abbé Saunière vu d'en bas : l'orangerie, le belvédère et la tour Magdala
+credit: Photographie : Cristo6772, août 2024
+pour: rennes-le-chateau, belvedere-et-orangerie
+largeur: 640
+
 = fouilles-interdites
-commons: Fouilles interdites.jpg
-legende: À l'entrée du village : les fouilles sont interdites depuis 1965
-credit: Photographie
+photo: PXL_20240828_081208740.jpg
+legende: À l'entrée du village : les fouilles sont interdites depuis l'arrêté du 28 juillet 1965
+credit: Photographie : Cristo6772, août 2024
 pour: fouilles, rennes-le-chateau
-largeur: 520
+largeur: 560
 
 = portrait-boudet
 commons: Boudet.jpg
@@ -122,10 +133,11 @@ pour: alet-les-bains
 largeur: 600
 
 = arques-donjon
-commons: Donjon d' Arques, Aude - btv1b10574192k.jpg
-legende: Le donjon d'Arques
-credit: Photographie ancienne ; Bibliothèque nationale de France
+photo: PXL_20240830_135603684.jpg
+legende: Le château d'Arques : le donjon aux quatre tourelles dans son enceinte
+credit: Photographie : Cristo6772, août 2024
 pour: arques
+largeur: 640
 
 = quillan
 commons: Quillan - Promenade.jpg
@@ -142,9 +154,9 @@ pour: carcassonne
 largeur: 600
 
 = bugarach-pech
-commons: Pech de Bugarach 27072014 02.jpg
-legende: Le pic de Bugarach
-credit: Photographie, 2014
+photo: PXL_20240826_174503798.jpg
+legende: Le pic de Bugarach, vu de Rennes-le-Château
+credit: Photographie : Cristo6772, août 2024
 pour: bugarach, bugarach-et-les-ovnis
 largeur: 640
 
@@ -261,6 +273,12 @@ legende: La chapelle de Rosslyn, porche sud
 credit: Metropolitan Museum of Art, New York
 pour: rosslyn
 
+= diable-du-benitier
+photo: PXL_20240826_160913449.jpg
+legende: Le diable du bénitier, sous sa vitre
+credit: Photographie : Cristo6772, août 2024
+pour: asmodee
+
 = asmodee-plancy
 commons: Asmodeus.jpg
 legende: Asmodée, dans le *Dictionnaire infernal* de Collin de Plancy, 1863
@@ -279,3 +297,205 @@ commons: Templars on Stake.jpg
 legende: Templiers sur le bûcher
 credit: Enluminure médiévale
 pour: tresor-des-templiers, templiers-en-razes
+
+# ——— Sur place, août 2024 : photographies de Cristo6772 ———
+
+= tour-magdala
+photo: PXL_20240826_155330342.jpg
+legende: La tour Magdala, au bord de la falaise
+credit: Photographie : Cristo6772, août 2024
+pour: tour-magdala
+largeur: 640
+
+= tour-magdala-bibliotheque
+photo: PXL_20240827_155448445.jpg
+legende: Dans la tour Magdala : les boiseries de la bibliothèque
+credit: Photographie : Cristo6772, août 2024
+pour: tour-magdala
+
+= villa-bethanie
+photo: PXL_20240827_161044177.jpg
+legende: La villa Béthanie et sa véranda
+credit: Photographie : Cristo6772, août 2024
+pour: villa-bethanie
+
+= villa-bethanie-salon
+photo: PXL_20240827_161159340.jpg
+legende: Un salon de la villa Béthanie
+credit: Photographie : Cristo6772, août 2024
+pour: villa-bethanie
+largeur: 600
+
+= belvedere-orangerie
+photo: PXL_20240827_155347256.jpg
+legende: Le belvédère, en chemin de ronde, et l'orangerie vitrée
+credit: Photographie : Cristo6772, août 2024
+pour: belvedere-et-orangerie
+largeur: 640
+
+= eglise-exterieur
+photo: PXL_20240826_162311609.jpg
+legende: L'église Sainte-Marie-Madeleine, son porche et le jardin du calvaire
+credit: Photographie : Cristo6772, août 2024
+pour: eglise-sainte-marie-madeleine
+largeur: 640
+
+= eglise-nef
+photo: PXL_20240826_160840714.jpg
+legende: La nef et le chœur, dans le décor peint voulu par Saunière
+credit: Photographie : Cristo6772, août 2024
+pour: eglise-sainte-marie-madeleine, eglise-codee
+
+= porche-tympan
+photo: PXL_20240831_070521447.jpg
+legende: Le tympan du porche : la statue de Marie-Madeleine et, dessous, *Terribilis est locus iste*
+credit: Photographie : Cristo6772, août 2024
+pour: terribilis-est-locus-iste
+largeur: 640
+
+= benitier-anges
+photo: PXL_20240826_160919566.jpg
+legende: Les quatre anges du bénitier et leur légende : « Par ce signe tu le vaincras »
+credit: Photographie : Cristo6772, août 2024
+pour: par-ce-signe-tu-le-vaincras
+
+= bas-relief-sermon
+photo: PXL_20240826_161018097.jpg
+legende: Le grand relief du fond de l'église : « Venez à moi… »
+credit: Photographie : Cristo6772, août 2024
+pour: bas-relief-du-sermon, maison-giscard
+largeur: 640
+
+= statue-germaine
+photo: PXL_20240826_161328059.jpg
+legende: Sainte Germaine entre deux stations du chemin de croix
+credit: Photographie : Cristo6772, août 2024
+pour: statues-de-l-eglise, chemin-de-croix
+
+= statue-madeleine
+photo: PXL_20240828_142126924.jpg
+legende: Sainte Madeleine, patronne de l'église, avec la croix et le crâne
+credit: Photographie : Cristo6772, août 2024
+pour: statues-de-l-eglise
+
+= bapteme-du-christ
+photo: PXL_20240826_161109189.jpg
+legende: Le baptême du Christ, dans l'église de Rennes-le-Château : terre cuite peinte, dans le goût du temps
+credit: Photographie : Cristo6772, août 2024
+pour: art-saint-sulpicien
+
+= autel-relief
+photo: PXL_20240828_142606553.jpg
+legende: Le relief du maître-autel : Marie-Madeleine en prière dans la grotte
+credit: Photographie : Cristo6772, août 2024
+pour: autel-de-marie-madeleine
+largeur: 560
+
+= autel-choeur
+photo: PXL_20240828_142333889.jpg
+legende: Le maître-autel dans le chœur
+credit: Photographie : Cristo6772, août 2024
+pour: autel-de-marie-madeleine
+largeur: 600
+
+= vitrail-bethanie
+photo: PXL_20240828_142532383.jpg
+legende: Le vitrail du chœur : une femme aux pieds du Christ, qu'elle essuie de ses cheveux
+credit: Photographie : Cristo6772, août 2024
+pour: marie-madeleine
+largeur: 600
+
+= pilier-original
+photo: PXL_20240827_153458292.jpg
+legende: Le pilier sculpté, au musée : la croix est à l'envers, comme Saunière l'a fait dresser
+credit: Photographie : Cristo6772, août 2024
+pour: pilier-sculpte
+
+= vierge-au-pilier
+photo: PXL_20240831_073127236.jpg
+legende: Notre-Dame de Lourdes sur la copie du pilier, devant l'église
+credit: Photographie : Cristo6772, août 2024
+pour: penitence-penitence, pilier-sculpte, jardin-du-calvaire
+
+= balustre
+photo: PXL_20240827_154512387.jpg
+legende: Le balustre de bois de l'ancienne chaire, au musée
+credit: Photographie : Cristo6772, août 2024
+pour: balustre-et-fiole
+
+= calvaire
+photo: PXL_20240826_162203495.jpg
+legende: Le calvaire de 1897, dans le jardin devant l'église
+credit: Photographie : Cristo6772, août 2024
+pour: jardin-du-calvaire
+
+= chateau-hautpoul
+photo: PXL_20240826_171307928.jpg
+legende: Le château des Hautpoul, dans le village
+credit: Photographie : Cristo6772, août 2024
+pour: chateau-des-hautpoul, famille-d-hautpoul
+largeur: 640
+
+= coustaussa-chateau
+photo: PXL_20240830_155238444.LONG_EXPOSURE-01.COVER.jpg
+legende: Les ruines du château de Coustaussa
+credit: Photographie : Cristo6772, août 2024
+pour: coustaussa
+largeur: 640
+
+= porte-cimetiere
+photo: PXL_20240826_162056860.jpg
+legende: La porte du cimetière et sa tête de mort sur deux tibias
+credit: Photographie : Cristo6772, août 2024
+pour: cimetiere
+
+= pontils
+photo: PXL_20240830_153334439.jpg
+legende: Aux Pontils, au bord de la D613 : le paysage où se dressait le tombeau, détruit en 1988
+credit: Photographie : Cristo6772, août 2024
+pour: tombeau-des-pontils
+largeur: 640
+
+= montee-eglise
+photo: PXL_20240831_070003026.jpg
+legende: La ruelle qui monte à l'église, un matin d'août 2024
+credit: Photographie : Cristo6772, août 2024
+pour: rennes-aujourd-hui
+largeur: 640
+
+= enseigne-domaine
+photo: PXL_20240827_162546637.jpg
+legende: Une ancienne enseigne du domaine : musée, tour Magdala, villa Béthanie, bar-restaurant dans le parc
+credit: Photographie : Cristo6772, août 2024
+pour: henri-buthion
+
+= dallage-damier
+photo: VID_20240831_073614391_dallage.jpg
+legende: Le damier noir et blanc de la nef, à l'entrée de l'église ; à gauche, le bénitier
+credit: Image tirée d'une vidéo de Cristo6772, août 2024
+pour: dallage-en-damier
+
+= dalle-chevaliers
+photo: VID_20240827_162308073_dalle.jpg
+legende: La dalle des Chevaliers, au musée : un détail des arcatures
+credit: Image tirée d'une vidéo de Cristo6772, août 2024
+pour: dalle-des-chevaliers
+
+= crane-entaille
+photo: VID_20240827_162308073_crane.jpg
+legende: Le crâne à l'entaille, sous sa vitrine du musée
+credit: Image tirée d'une vidéo de Cristo6772, août 2024
+pour: crane-a-l-entaille
+recadrer: 0 0.42 1 1
+
+= pierre-tombale-sauniere
+photo: VID_20240827_162308073_pierre.jpg
+legende: La pierre tombale d'origine de l'abbé Saunière, brisée en deux, conservée au musée
+credit: Image tirée d'une vidéo de Cristo6772, août 2024
+pour: tombe-de-sauniere
+
+= stele-reproduction
+photo: VID_20240827_162151211_stele.jpg
+legende: L'épitaphe de la marquise, regravée de nos jours d'après le relevé de 1905 : la reproduction du musée
+credit: Image tirée d'une vidéo de Cristo6772, août 2024
+pour: stele-de-la-marquise

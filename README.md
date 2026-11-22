@@ -34,8 +34,10 @@ ce qui est discuté et ce qui a été fabriqué.
 - des **parcours guidés** : l'affaire en seize étapes, d'où venait l'argent, une
   journée sur place, lire l'église, la fabrique d'un faux, les trésors du Razès,
   Poussin et l'Arcadie, l'abbé Boudet, ceux qui ont enquêté ;
-- des **illustrations** du domaine public (portraits, cartes postales anciennes,
-  tableaux), avec leur crédit et leur source ;
+- des **illustrations** : des images anciennes du domaine public (portraits,
+  cartes postales, tableaux), avec leur crédit et leur source, et une trentaine
+  de photographies des lieux tels qu'ils sont, prises sur place en août 2024
+  par Cristo6772 (tous droits réservés) ;
 - des renvois partout : chaque fiche mène aux autres et dit qui la cite ; les
   dates de la chronologie où elle paraît ; des liens « Pour aller plus loin » ;
 - deux thèmes, « vélin » et « nuit », quatre tailles de texte, une police à
@@ -141,6 +143,14 @@ public ou CC0**, recadre, réduit, convertit en WebP et écrit
 `build/illustrations.json`, que `construire.mjs` rattache aux fiches. Le service
 worker range les illustrations dans un cache à part, `rhedae-images`, où chacune
 entre la première fois qu'on la voit.
+
+Une entrée peut porter `photo:` au lieu de `commons:` : c'est alors une
+photographie personnelle, prise sur place en août 2024 par Cristo6772 et
+créditée « Photographie : Cristo6772 · tous droits réservés ». Les originaux
+sont dans `build/.sources-images/photos/`, hors du dépôt ; l'image publiée est
+réduite, convertie en WebP et ne garde aucune métadonnée (ni lieu, ni appareil).
+Ces photographies ne sont pas sous licence libre : on ne les réutilise pas sans
+l'accord de leur auteur.
 
 ## Épreuves
 
