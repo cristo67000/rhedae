@@ -17,7 +17,7 @@
  * `build/essais_statiques.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.1.0';
+const VERSION = 'v1.2.0';
 const COQUILLE = 'rhedae-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -37,6 +37,8 @@ const FICHIERS = [
   'js/carte.js',
   'js/maquette.js',
   'js/eglise.js',
+  'js/village-plan.js',
+  'js/village.js',
   'js/visite.js',
   'js/fiche.js',
   'js/liste.js',

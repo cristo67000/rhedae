@@ -135,7 +135,7 @@
   gap: 4px;
   pointer-events: auto;
 }
-.mq-groupe:empty { display: none; }
+.mq-groupe:empty, .mq-groupe[hidden] { display: none; }
 
 .mq-pastille {
   appearance: none;

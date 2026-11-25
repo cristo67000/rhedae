@@ -40,7 +40,10 @@ function epreuve(nom, condition, detail) {
 const dossier = JSON.parse(fs.readFileSync(path.join(RACINE, 'data/dossier.json'), 'utf8'));
 const fiches = new Set(dossier.articles.map((a) => a.id));
 const visite = fs.readFileSync(path.join(RACINE, 'js/visite.js'), 'utf8');
-const entrees = Array.from(/const ENTREES = \{([\s\S]*?)\};/.exec(visite)[1].matchAll(/'([^']+)':\s*(null|'([^']+)')/g)).map((m) => [m[1], m[3] || null]);
+const entrees = Array.from(/const ENTREES = \{([\s\S]*?)\};/.exec(visite)[1].matchAll(/'([^']+)':\s*\['(\w+)',\s*(?:null|'([^']+)')\]/g)).map((m) => [m[1], m[3] || null, m[2]]);
+require(path.join(RACINE, 'js/village-plan.js'));
+require(path.join(RACINE, 'js/village.js'));
+const { Village, VillagePlan } = globalThis;
 
 const etats = {};
 for (const { annee } of Eglise.EPOQUES) {
@@ -79,9 +82,50 @@ epreuve('1885 : pas de diable', !etats[1885].reperes.some((r) => r.id === 'diabl
 epreuve('1885 : la dalle des Chevaliers devant l\'autel', etats[1885].reperes.some((r) => r.id === 'dalle'));
 epreuve('1892 : le dallage, pas encore le chemin de croix', etats[1892].reperes.some((r) => r.id === 'damier') && !etats[1892].reperes.some((r) => r.id === 'stations'));
 epreuve('2026 : le diable, le chemin de croix, le calvaire', ['diable', 'stations', 'calvaire'].every((id) => etats[2026].reperes.some((r) => r.id === id)));
-for (const [fiche, repere] of entrees) {
+/* ── Le village ──────────────────────────────────────────────────────────── */
+
+const villages = {};
+for (const { annee } of Village.EPOQUES) {
+  const m = Village.construire(annee);
+  villages[annee] = m;
+  let triangles = 0;
+  for (const [nom, g] of Object.entries(m.groupes)) {
+    triangles += g.triangles();
+    epreuve('village ' + annee + ' · ' + nom + ' : des triangles, des nombres partout', g.triangles() > 0 && g.pos.every(Number.isFinite) && g.nor.every(Number.isFinite));
+    let dehors = 0;
+    for (let i = 0; i < g.pos.length; i += 3) {
+      if (g.pos[i] < -190 || g.pos[i] > 290 || g.pos[i + 1] < -75 || g.pos[i + 1] > 40 || g.pos[i + 2] < -120 || g.pos[i + 2] > 210) dehors += 1;
+    }
+    epreuve('village ' + annee + ' · ' + nom + ' : tout tient dans le cadre', dehors === 0, dehors + ' sommet(s) dehors');
+  }
+  epreuve('village ' + annee + ' : une maquette légère', triangles < 60000, triangles + ' triangles');
+  const ids = new Set();
+  for (const r of m.reperes) {
+    epreuve('village ' + annee + ' · repère ' + r.id + ' : unique', !ids.has(r.id));
+    ids.add(r.id);
+    epreuve('village ' + annee + ' · repère ' + r.id + ' : sa fiche existe', !r.fiche || fiches.has(r.fiche), r.fiche);
+    epreuve('village ' + annee + ' · repère ' + r.id + ' : sa vue existe', !r.vue || !!m.vues[r.vue], r.vue);
+    epreuve('village ' + annee + ' · repère ' + r.id + ' : posé au-dessus du sol', r.p[1] > m.sol(r.p[0], r.p[2]), r.p.join(' '));
+    epreuve('village ' + annee + ' · repère ' + r.id + ' : un nom et un texte', !!r.nom && !!r.texte);
+  }
+  epreuve('village ' + annee + ' : le sol est à zéro sous l\'église', Math.abs(m.sol(8, 0)) < 0.3 && Math.abs(m.sol(0, 6)) < 0.3);
+  epreuve('village ' + annee + ' : une vue d\'ensemble et une vue à pied', !!m.vues.ensemble && m.vues.rues.dist < 1);
+  console.log('village ' + annee + ' : ' + triangles + ' triangles, ' + m.reperes.length + ' repères');
+}
+// ce qui est daté ne paraît qu'à sa date
+const a = (annee, id) => villages[annee].reperes.some((r) => r.id === id);
+epreuve('village 1781 et 1897 : ni villa ni tour', !a(1781, 'villa') && !a(1781, 'tour') && !a(1897, 'villa') && !a(1897, 'tour'));
+epreuve('village 1910 : la villa, la tour, le belvédère', a(1910, 'villa') && a(1910, 'tour') && a(1910, 'belvedere'));
+epreuve('village : le calvaire dès 1897, pas avant', !a(1781, 'calvaire') && a(1897, 'calvaire'));
+epreuve('village : le réservoir seulement aujourd\'hui', !a(1910, 'reservoir') && a(2026, 'reservoir'));
+epreuve('village : le domaine ajoute du bâti', villages[1910].groupes.bati.triangles() > villages[1897].groupes.bati.triangles());
+epreuve('le plan du village : du bâti, des voies, un relief', VillagePlan.batis.length > 80 && VillagePlan.voies.length > 30 && VillagePlan.relief.h.length === VillagePlan.relief.nx * VillagePlan.relief.nz);
+
+for (const [fiche, repere, quoi] of entrees) {
   epreuve('visite : la fiche ' + fiche + ' existe', fiches.has(fiche));
-  epreuve('visite : le repère ' + repere + ' existe en 2026', !repere || etats[2026].reperes.some((r) => r.id === repere));
+  const m = quoi === 'village' ? villages[2026] : etats[2026];
+  epreuve('visite : une maquette pour ' + fiche, quoi === 'village' || quoi === 'eglise', quoi);
+  epreuve('visite : le repère ' + repere + ' existe en 2026', !repere || m.reperes.some((r) => r.id === repere));
 }
 epreuve('visite : des entrées', entrees.length > 5);
 // le caveau : sous le sol, à part, et montré seulement le sol ôté
@@ -135,7 +179,7 @@ function glb(modele) {
     asset: { version: '2.0', generator: 'Rhedae — build/maquette.mjs' },
     extras: { titre: 'Église Sainte-Marie-Madeleine de Rennes-le-Château', annee: modele.annee, unites: 'mètres', axes: 'x est, y haut, z sud' },
     scene: 0,
-    scenes: [{ name: 'eglise-' + modele.annee, nodes: noeuds.map((x, i) => i) }],
+    scenes: [{ name: 'maquette-' + modele.annee, nodes: noeuds.map((x, i) => i) }],
     nodes: noeuds, meshes: maillages, accessors: acces, bufferViews: vues,
     materials: [{ name: 'couleurs-aux-sommets', pbrMetallicRoughness: { baseColorFactor: [1, 1, 1, 1], metallicFactor: 0, roughnessFactor: 0.9 }, doubleSided: true }],
     buffers: [{ byteLength: decalage }],
@@ -157,4 +201,9 @@ for (const [annee, m] of Object.entries(etats)) {
   const contenu = glb(m);
   fs.writeFileSync(fichier, contenu);
   console.log('build/maquette/eglise-' + annee + '.glb — ' + Math.round(contenu.length / 1024) + ' Ko');
+}
+for (const [annee, m] of Object.entries(villages)) {
+  const contenu = glb(m);
+  fs.writeFileSync(path.join(sortie, 'village-' + annee + '.glb'), contenu);
+  console.log('build/maquette/village-' + annee + '.glb — ' + Math.round(contenu.length / 1024) + ' Ko');
 }

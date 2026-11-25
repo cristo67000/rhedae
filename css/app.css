@@ -414,7 +414,8 @@ body.visite-ouverte { overflow: hidden; }
   flex: none; display: flex; align-items: center; gap: .7rem;
   padding: calc(env(safe-area-inset-top) + .5rem) .2rem .5rem;
 }
-.visite-titre { margin: 0; font-family: var(--serif); font-size: 1.05rem; color: var(--encre); }
+.visite-titre { flex: 1; min-width: 0; margin: 0; font-family: var(--serif); font-size: 1.05rem; color: var(--encre); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.visite-tete .segments { flex: none; margin: 0; flex-wrap: nowrap; }
 #visite-cadre { flex: 1 1 auto; min-height: 0; }
 .visite-note { flex: none; margin: .5rem .3rem 0; max-width: 60rem; }
 

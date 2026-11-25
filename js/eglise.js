@@ -101,7 +101,10 @@
 
   /* ── La maquette ─────────────────────────────────────────────────────────── */
 
-  function construire(annee) {
+  /* `options.sol: false` : sans le terrain alentour — la maquette du village
+   * pose l'église sur le sien. */
+  function construire(annee, options) {
+    const avecSol = !(options && options.sol === false);
     const an = annee || 2026;
     const Maillage = racine.Maquette.Maillage;
     const abords = new Maillage(), ext = new Maillage(), int = new Maillage(), mob = new Maillage();
@@ -129,7 +132,7 @@
     /* ═════════ Le dehors ═════════ */
 
     // le sol, le jardin, les allées
-    abords.quad([-30, -0.03, 30], [44, -0.03, 30], [44, -0.03, -24], [-30, -0.03, -24], T.sol, 8);
+    if (avecSol) abords.quad([-30, -0.03, 30], [44, -0.03, 30], [44, -0.03, -24], [-30, -0.03, -24], T.sol, 8);
     if (an >= 1891) {
       abords.quad([1.5, 0, 8.4], [19, 0, 8.4], [19, 0, 7.2], [1.5, 0, 6.6], T.gravier, 0);
       abords.tri([3, 0.0, 8.4], [12, 0.0, 22], [19.5, 0.0, 8.4], T.jardin, 8);

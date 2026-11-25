@@ -271,6 +271,93 @@
     }
   };
 
+  /* Découpe un polygone du plan ([[x, z], …], sans croisement) en triangles :
+   * rend des triplets d'indices. On coupe les « oreilles » une à une. */
+  function trianguler(pts) {
+    const n = pts.length;
+    const aire = (a, b, c) => (b[0] - a[0]) * (c[1] - a[1]) - (b[1] - a[1]) * (c[0] - a[0]);
+    let total = 0;
+    for (let i = 0; i < n; i += 1) total += pts[i][0] * pts[(i + 1) % n][1] - pts[(i + 1) % n][0] * pts[i][1];
+    const sens = total >= 0 ? 1 : -1;
+    const reste = pts.map((p, i) => i);
+    const tris = [];
+    let garde = 0;
+    while (reste.length > 3 && garde < 4 * n) {
+      let coupe = false;
+      for (let k = 0; k < reste.length; k += 1) {
+        const ia = reste[(k + reste.length - 1) % reste.length], ib = reste[k], ic = reste[(k + 1) % reste.length];
+        const a = pts[ia], b = pts[ib], c = pts[ic];
+        if (aire(a, b, c) * sens <= 1e-9) continue;          // un angle rentrant : pas une oreille
+        let libre = true;
+        for (const j of reste) {
+          if (j === ia || j === ib || j === ic) continue;
+          const p = pts[j];
+          if (aire(a, b, p) * sens >= 0 && aire(b, c, p) * sens >= 0 && aire(c, a, p) * sens >= 0) { libre = false; break; }
+        }
+        if (!libre) continue;
+        tris.push([ia, ib, ic]);
+        reste.splice(k, 1);
+        coupe = true;
+        break;
+      }
+      if (!coupe) reste.splice(0, 1);                         // polygone tordu : on avance quand même
+      garde += 1;
+    }
+    if (reste.length === 3) tris.push([reste[0], reste[1], reste[2]]);
+    return tris;
+  }
+
+  /* Un triangle à peu près horizontal, toujours vu du dessus. */
+  M.triDessus = function (a, b, c, couleur, matiere) {
+    const ny = (b[2] - a[2]) * (c[0] - a[0]) - (b[0] - a[0]) * (c[2] - a[2]);
+    if (ny * this.t.e >= 0) this.tri(a, b, c, couleur, matiere);
+    else this.tri(a, c, b, couleur, matiere);
+  };
+
+  /*
+   * Un volume dressé sur une emprise quelconque : `emprise` est [[x, z], …].
+   * Des murs de y0 à y1, puis un toit : plat, ou en croupe si `toit.h` — le
+   * faîte est l'emprise resserrée vers son centre (`toit.retrait`, de 0 à 1).
+   */
+  M.prisme = function (emprise, y0, y1, couleur, matiere, toit) {
+    let pts = emprise.slice();
+    let aire = 0;
+    for (let i = 0; i < pts.length; i += 1) aire += pts[i][0] * pts[(i + 1) % pts.length][1] - pts[(i + 1) % pts.length][0] * pts[i][1];
+    if (aire > 0) pts = pts.reverse();      // les murs regardent dehors (voir `paroi`)
+    const n = pts.length;
+    for (let i = 0; i < n; i += 1) {
+      const a = pts[i], b = pts[(i + 1) % n];
+      if (Math.hypot(b[0] - a[0], b[1] - a[1]) > 0.02) this.paroi(a, b, y0, y1, couleur, matiere);
+    }
+    const o = toit || {};
+    const ct = o.couleur || couleur, mt = o.matiere === undefined ? matiere : o.matiere;
+    let cx = 0, cz = 0;
+    for (const p of pts) { cx += p[0] / n; cz += p[1] / n; }
+    const k = o.h ? 1 - (o.retrait === undefined ? 0.62 : o.retrait) : 1;
+    const haut = pts.map((p) => [cx + (p[0] - cx) * k, cz + (p[1] - cz) * k]);
+    const yh = y1 + (o.h || 0);
+    if (o.h) {
+      const d = o.debord || 0;
+      for (let i = 0; i < n; i += 1) {
+        const a = pts[i], b = pts[(i + 1) % n], ha = haut[i], hb = haut[(i + 1) % n];
+        const ea = [a[0] + (a[0] - cx) * d, a[1] + (a[1] - cz) * d], eb = [b[0] + (b[0] - cx) * d, b[1] + (b[1] - cz) * d];
+        this.quad([ea[0], y1, ea[1]], [eb[0], y1, eb[1]], [hb[0], yh, hb[1]], [ha[0], yh, ha[1]], ct, mt);
+      }
+    }
+    for (const [a, b, c] of trianguler(haut)) {
+      this.triDessus([haut[a][0], yh, haut[a][1]], [haut[b][0], yh, haut[b][1]], [haut[c][0], yh, haut[c][1]], ct, mt);
+    }
+  };
+
+  /* Verse un autre maillage dans celui-ci, là où l'on est placé (voir `placer`). */
+  M.verser = function (autre) {
+    const p = autre.pos, c = autre.cou;
+    for (let i = 0; i < p.length; i += 9) {
+      const k = (i / 3) * 4;
+      this.tri([p[i], p[i + 1], p[i + 2]], [p[i + 3], p[i + 4], p[i + 5]], [p[i + 6], p[i + 7], p[i + 8]], [c[k], c[k + 1], c[k + 2]], c[k + 3]);
+    }
+  };
+
   M.triangles = function () { return this.pos.length / 9; };
 
   /* ══════════════ Un peu d'algèbre ══════════════ */
@@ -424,6 +511,7 @@
    *   vue       — le nom d'un point de vue du modèle ;
    *   ambiance  — jour, aube, soir, nuit ;
    *   textes: false — ne montrer que le nom des repères, pas leur notice ;
+   *   surMaquette(nom) — si présent, un repère qui mène à une autre maquette le propose ;
    *   surFiche(id) — si présent, la carte d'un repère propose d'ouvrir sa fiche ;
    *   libelleFiche — le texte de ce bouton.
    * Rend { detruire, regler({ annee, vue, ambiance }), voir(nomDeVue) }.
@@ -486,7 +574,17 @@
     let matrice = null;
     let reperes = [];
 
+    /* L'échelle de ce qu'on montre : une église ou un village n'ont ni le même
+     * recul, ni le même lointain, ni la même brume. */
+    let ech = { distMax: 90, loin: 400, brume: 0.0035, vitesse: 2.4 };
+
+    /* À pied, les yeux suivent le sol quand la maquette a du relief. */
+    function poserLesPieds() {
+      if (cam.dist < 1 && modele.sol && mode === 'dehors') cam.cible[1] = modele.sol(cam.cible[0], cam.cible[2]) + 1.65;
+    }
+
     function charger(m) {
+      ech = Object.assign({ distMax: 90, loin: 400, brume: 0.0035, vitesse: 2.4 }, m.echelle || {});
       for (const nom of Object.keys(tampons)) {
         gl.deleteBuffer(tampons[nom].pos); gl.deleteBuffer(tampons[nom].nor); gl.deleteBuffer(tampons[nom].cou);
       }
@@ -549,6 +647,12 @@
         b.addEventListener('click', () => voler(r.vue));
         boutons.appendChild(b);
       }
+      if (r.maquette && o.surMaquette) {
+        const b = el('button', 'mq-bouton', r.libelleMaquette || 'Y entrer');
+        b.type = 'button';
+        b.addEventListener('click', () => o.surMaquette(r.maquette));
+        boutons.appendChild(b);
+      }
       if (r.fiche && o.surFiche) {
         const b = el('button', 'mq-bouton fort', o.libelleFiche || 'Lire la fiche');
         b.type = 'button';
@@ -579,6 +683,7 @@
 
     function ecrireBarre() {
       for (const id of Object.keys(bMode)) bMode[id].setAttribute('aria-pressed', id === mode ? 'true' : 'false');
+      groupeMode.hidden = !modele.vues.coupe;       // une maquette sans dedans n'a pas à le proposer
       groupeVues.textContent = '';
       for (const nom of Object.keys(modele.vues)) {
         const v = modele.vues[nom];
@@ -650,10 +755,10 @@
 
     function borner() {
       cam.tangage = Math.max(-35, Math.min(89, cam.tangage));
-      cam.dist = Math.max(0.02, Math.min(90, cam.dist));
+      cam.dist = Math.max(0.02, Math.min(ech.distMax, cam.dist));
       const b = modele.bornes;
       cam.cible[0] = Math.max(b[0], Math.min(b[3], cam.cible[0]));
-      cam.cible[1] = Math.max(creuse ? b[1] : 0.3, Math.min(b[4], cam.cible[1]));
+      cam.cible[1] = Math.max(creuse || modele.sol ? b[1] : 0.3, Math.min(b[4], cam.cible[1]));
       cam.cible[2] = Math.max(b[2], Math.min(b[5], cam.cible[2]));
     }
 
@@ -675,14 +780,14 @@
       borner();
       const dir = direction(cam.lacet, cam.tangage);
       const oeil = [cam.cible[0] - dir[0] * cam.dist, cam.cible[1] - dir[1] * cam.dist, cam.cible[2] - dir[2] * cam.dist];
-      const pres = Math.max(0.05, Math.min(1, cam.dist * 0.05));
-      matrice = produit(perspective(cam.ouverture * Math.PI / 180, l / h, pres, 400), regarder(oeil, dir));
+      const pres = Math.max(0.05, Math.min(ech.loin / 400, cam.dist * 0.05));
+      matrice = produit(perspective(cam.ouverture * Math.PI / 180, l / h, pres, ech.loin), regarder(oeil, dir));
       gl.uniformMatrix4fv(U.uVue, false, matrice);
       const sl = Math.hypot(A.soleil[0], A.soleil[1], A.soleil[2]);
       gl.uniform3f(U.uSoleil, A.soleil[0] / sl, A.soleil[1] / sl, A.soleil[2] / sl);
       gl.uniform3fv(U.uFond, fond);
       gl.uniform1f(U.uVerre, A.verre);
-      gl.uniform1f(U.uBrume, dedans ? 0.0 : 0.0035);
+      gl.uniform1f(U.uBrume, dedans ? 0.0 : ech.brume);
 
       for (const nom of Object.keys(tampons)) {
         const g = modele.groupes[nom];
@@ -717,7 +822,7 @@
         x.b.hidden = !visible;
         if (visible) {
           x.b.style.transform = 'translate(' + ((sx * 0.5 + 0.5) * l).toFixed(1) + 'px,' + ((0.5 - sy * 0.5) * h).toFixed(1) + 'px)';
-          x.b.classList.toggle('loin', w > (dedans ? 26 : 60));
+          x.b.classList.toggle('loin', w > (dedans ? 26 : ech.distMax * 0.67));
         }
       }
     }
@@ -735,11 +840,12 @@
       if (pas.av) {
         if (aPied) {
           const a = cam.lacet * Math.PI / 180;
-          let x = cam.cible[0] + Math.cos(a) * pas.av * 2.4 * dt;
-          let z = cam.cible[2] + Math.sin(a) * pas.av * 2.4 * dt;
+          let x = cam.cible[0] + Math.cos(a) * pas.av * ech.vitesse * dt;
+          let z = cam.cible[2] + Math.sin(a) * pas.av * ech.vitesse * dt;
           // dedans, les murs arrêtent : la maquette dit où l'on peut poser le pied
           if (mode === 'dedans' && modele.marche) [x, z] = modele.marche(x, z, cam.cible[0], cam.cible[2]);
           cam.cible[0] = x; cam.cible[2] = z;
+          poserLesPieds();
         } else {
           cam.dist *= Math.exp(-pas.av * 1.1 * dt);
         }
@@ -810,6 +916,7 @@
         let x = cam.cible[0] + Math.cos(a) * pas, z = cam.cible[2] + Math.sin(a) * pas;
         if (mode === 'dedans' && modele.marche) [x, z] = modele.marche(x, z, cam.cible[0], cam.cible[2]);
         cam.cible[0] = x; cam.cible[2] = z;
+        poserLesPieds();
       } else {
         cam.dist *= facteur;
       }
