@@ -650,3 +650,118 @@ body.fiche-ouverte #annonce, body.fiche-ouverte #mise-a-jour { bottom: calc(env(
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
 }
+
+/* ═════════════ La présentation : le frontispice, les pictogrammes, le grain ═════════════ */
+
+/* Le papier : une lueur en haut de page, un grain à peine visible. */
+body::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background:
+    radial-gradient(120% 60% at 50% -10%, var(--lueur), transparent 70%),
+    repeating-linear-gradient(37deg, var(--grain) 0 1px, transparent 1px 9px);
+}
+
+/* L'en-tête : la marque, un filet d'or dessous. */
+#barre { position: relative; padding-bottom: .55rem; margin-bottom: .35rem; }
+#barre::after {
+  content: ""; position: absolute; left: 1rem; right: 1rem; bottom: 0; height: 1px;
+  background: linear-gradient(90deg, var(--or), var(--trait) 38%, transparent);
+  opacity: .7;
+}
+
+/* Les titres d'écran : un petit losange d'or au bout d'un filet. */
+.vue > h2 { position: relative; padding-bottom: .55rem; margin-bottom: 1rem; font-size: 1.6rem; letter-spacing: .005em; }
+.vue > h2::before {
+  content: ""; position: absolute; left: 0; bottom: 0; width: 3.2rem; height: 2px; border-radius: 2px; background: var(--or);
+}
+.vue > h2::after {
+  content: ""; position: absolute; left: 3.55rem; bottom: -.14rem; width: .42rem; height: .42rem;
+  background: var(--or); transform: rotate(45deg);
+}
+
+/* Les intertitres en petites capitales : un filet les prolonge. */
+.rubrique { display: flex; align-items: center; gap: .7rem; margin-top: 1.7rem; }
+.rubrique::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--trait-fort), transparent); }
+
+/* Le frontispice, en tête de « L'affaire en bref ». */
+.en-bref { padding: 0 0 1.05rem; overflow: hidden; border-top: 1px solid var(--trait); }
+.en-bref > :not(.frontispice) { margin-left: 1.05rem; margin-right: 1.05rem; }
+.frontispice { display: block; width: 100%; height: auto; aspect-ratio: 3 / 1; min-height: 8.2rem; max-height: 15rem; margin-bottom: .9rem; border-bottom: 3px solid var(--or); }
+.fr-ciel-haut { stop-color: var(--fr-ciel-haut); }
+.fr-ciel-bas { stop-color: var(--fr-ciel-bas); }
+.fr-astre { fill: var(--fr-astre); }
+.fr-halo { fill: var(--fr-halo); }
+.fr-etoile { fill: #fff; opacity: var(--fr-etoiles); }
+.fr-lointain { fill: var(--fr-lointain); }
+.fr-colline { fill: var(--fr-colline); }
+.fr-butte { fill: var(--fr-butte); }
+.fr-fenetre { fill: #f2c95f; opacity: var(--fr-fenetres); }
+.fr-pomme { fill: var(--accent); stroke: var(--fr-ciel-bas); stroke-width: 1; }
+@media (prefers-reduced-motion: no-preference) {
+  .fr-etoile:nth-of-type(3n) { animation: scintille 4.5s ease-in-out infinite; }
+  .fr-etoile:nth-of-type(3n + 1) { animation: scintille 6s ease-in-out 1.5s infinite; }
+}
+@keyframes scintille { 50% { opacity: calc(var(--fr-etoiles) * .35); } }
+.en-bref-titre + .en-bref-texte::first-letter {
+  float: left; font: 600 3.1rem/.82 var(--serif); padding: .28rem .5rem 0 0; color: var(--or);
+}
+
+/* Les pictogrammes. */
+.picto { display: block; width: 1.35rem; height: 1.35rem; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.porte-picto, .acces-picto {
+  flex: none; display: inline-flex; align-items: center; justify-content: center;
+  width: 2.3rem; height: 2.3rem; border-radius: 50%;
+  color: var(--cc, var(--accent));
+  background: var(--accent-clair);
+  background: color-mix(in srgb, var(--cc, var(--accent)) 13%, transparent);
+}
+
+/* Les six rubriques : une médaille, le nom, le compte. */
+.portes { grid-template-columns: repeat(auto-fill, minmax(9.8rem, 1fr)); gap: .5rem; }
+.porte {
+  justify-content: flex-start; gap: .55rem; min-height: 3.6rem; padding: .55rem .6rem .55rem .55rem;
+  border-left-width: 1px; border-radius: var(--rayon); box-shadow: var(--ombre);
+}
+.porte { position: relative; }
+.porte-nom { flex: 1; min-width: 0; line-height: 1.2; font-size: .96rem; overflow-wrap: anywhere; }
+.porte .porte-picto { width: 2.05rem; height: 2.05rem; }
+.porte .porte-nombre { position: absolute; top: .28rem; right: .4rem; font-size: .7rem; padding: 0 .42rem; }
+.porte-nombre { padding: .08rem .5rem; border-radius: 999px; background: var(--accent-clair); background: color-mix(in srgb, var(--cc) 11%, transparent); }
+@media (hover: hover) {
+  .porte:hover, .acces-bouton:hover, .carte-parcours:hover { transform: translateY(-2px); }
+}
+
+/* La chronologie, la carte, la maquette. */
+.acces { gap: .55rem; margin-top: .55rem; }
+.acces-bouton { flex-direction: row; align-items: center; gap: .7rem; padding: .7rem .8rem; border-radius: var(--rayon); box-shadow: var(--ombre); }
+.acces-mots { display: flex; flex-direction: column; gap: .12rem; min-width: 0; }
+.acces-bouton.large { grid-column: 1 / -1; background: linear-gradient(100deg, var(--carte) 55%, var(--or-clair)); border-color: var(--trait-fort); }
+.acces-bouton.large .acces-picto { color: var(--or); background: var(--or-clair); }
+.acces-bouton.large .acces-titre { color: var(--encre); }
+@media (max-width: 24rem) { .acces { grid-template-columns: 1fr; } }
+
+/* Les parcours : un chiffre romain en filigrane. */
+.carte-parcours { position: relative; overflow: hidden; padding-right: 3.2rem; box-shadow: var(--ombre); }
+.parcours-rang {
+  position: absolute; right: .7rem; top: .35rem; font: 600 1.9rem/1 var(--serif); letter-spacing: .02em;
+  color: var(--or); opacity: .38; pointer-events: none;
+}
+.parcours-pied { margin-right: -2.3rem; }
+
+/* La liste : une ligne respire mieux, la rubrique a son filet d'or. */
+.titre-rubrique { position: relative; border-bottom-width: 1px; padding-bottom: .5rem; font-size: 1.4rem; }
+.titre-rubrique::after { content: ""; position: absolute; left: 0; bottom: -2px; width: 3.2rem; height: 3px; border-radius: 2px; background: var(--cc); }
+.lettre { display: flex; align-items: center; gap: .6rem; }
+.lettre::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--trait), transparent); }
+.article-ligne { border-radius: 0 8px 8px 0; }
+
+/* La fiche : la définition comme un cartouche, les images encadrées. */
+.article-nom { letter-spacing: -.005em; }
+.definition { box-shadow: var(--ombre); }
+.illustration-bouton img, .illustration img { box-shadow: var(--ombre); }
+
+/* La barre d'onglets : un filet d'or, un verre dépoli. */
+#onglets { border-top: 1px solid var(--trait); }
+@supports ((backdrop-filter: blur(8px)) or (-webkit-backdrop-filter: blur(8px))) {
+  #onglets { background: color-mix(in srgb, var(--carte) 82%, transparent); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); }
+}

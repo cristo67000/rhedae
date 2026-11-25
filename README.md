@@ -47,6 +47,10 @@ ce qui est discuté et ce qui a été fabriqué.
   par Cristo6772 (tous droits réservés) ;
 - des renvois partout : chaque fiche mène aux autres et dit qui la cite ; les
   dates de la chronologie où elle paraît ; des liens « Pour aller plus loin » ;
+- un **frontispice** dessiné par l'application — le village sur sa butte, la tour
+  Magdala, l'église, le château, devant le Bugarach —, qui passe du jour à la
+  nuit avec le thème et allume alors ses fenêtres ; des pictogrammes pour les
+  six rubriques ;
 - deux thèmes, « vélin » et « nuit », quatre tailles de texte, une police à
   empattements ou non ; les fiches gardées et l'avancement de la lecture.
 

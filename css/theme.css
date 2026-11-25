@@ -69,6 +69,11 @@
   --halo: #fffbf2;
   --position: #2368c4;
 
+  /* le frontispice : le village sur sa butte */
+  --fr-ciel-haut: #bcd3e6; --fr-ciel-bas: #f6e3bf; --fr-astre: #f7d57e; --fr-halo: rgba(247, 213, 126, .32);
+  --fr-etoiles: 0; --fr-lointain: #aab7cf; --fr-colline: #c5bd98; --fr-butte: #2c3050; --fr-fenetres: 0;
+  --grain: rgba(138, 100, 16, .028); --lueur: rgba(255, 255, 255, .55);
+
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", P052, Georgia, "Noto Serif", "DejaVu Serif", serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
   --texte: var(--serif);
@@ -127,6 +132,9 @@
     --sommet: #d9c08f;
     --halo: #10131f;
     --position: #6aa8ff;
+    --fr-ciel-haut: #0b1024; --fr-ciel-bas: #2a3560; --fr-astre: #eceef8; --fr-halo: rgba(236, 238, 248, .12);
+    --fr-etoiles: .9; --fr-lointain: #27325a; --fr-colline: #1a2140; --fr-butte: #070a14; --fr-fenetres: 1;
+    --grain: rgba(157, 184, 245, .02); --lueur: rgba(157, 184, 245, .07);
     color-scheme: dark;
   }
 }
@@ -180,5 +188,8 @@
   --sommet: #d9c08f;
   --halo: #10131f;
   --position: #6aa8ff;
+  --fr-ciel-haut: #0b1024; --fr-ciel-bas: #2a3560; --fr-astre: #eceef8; --fr-halo: rgba(236, 238, 248, .12);
+  --fr-etoiles: .9; --fr-lointain: #27325a; --fr-colline: #1a2140; --fr-butte: #070a14; --fr-fenetres: 1;
+  --grain: rgba(157, 184, 245, .02); --lueur: rgba(157, 184, 245, .07);
   color-scheme: dark;
 }
