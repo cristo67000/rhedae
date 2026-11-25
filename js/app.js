@@ -60,6 +60,8 @@
     const s = e.state || {};
     // la visionneuse d'abord : « retour » referme l'image, pas la fiche dessous
     if (Illustrations.ouverte) { Illustrations.fermerSansHistorique(); return; }
+    // puis la maquette : elle est par-dessus la fiche d'où l'on vient
+    if (Visite.ouverte) { Visite.fermerSansHistorique(); return; }
     if (Fiche.ouverte) {
       if (s.fiche) Fiche.revenirA(s);
       else Fiche.fermerSansHistorique();
@@ -71,9 +73,11 @@
     if (e.defaultPrevented || e.altKey) return;
     if (e.key === 'Escape') {
       if (Illustrations.ouverte) { e.preventDefault(); Illustrations.fermer(); return; }
+      if (Visite.ouverte) { e.preventDefault(); Visite.fermer(); return; }
       if (Fiche.ouverte) { e.preventDefault(); Fiche.fermer(); }
       return;
     }
+    if (Visite.ouverte) return;
     const chercher = ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k')
       || (e.key === '/' && !e.ctrlKey && !e.metaKey && !Outils.saisieEnCours(e));
     if (!chercher) return;
@@ -90,6 +94,7 @@
     Illustrations.brancher();
     Frise.brancher();
     Lieux.brancher();
+    Visite.brancher();
     Hypotheses.brancher();
     Reglages.brancher({ manifeste: donnees.manifeste });
     Liste.brancher();

@@ -400,6 +400,38 @@ a.renvoi:hover, a.renvoi:focus-visible { color: var(--accent); }
 }
 .illustration.absente .illustration-bouton::after { content: "Image disponible une fois en ligne"; font-size: .8rem; color: var(--encre-legere); }
 
+/* ————— La visite : l'église en maquette (plein écran, par-dessus la fiche) ————— */
+
+#visite {
+  position: fixed; inset: 0; z-index: 40;
+  display: flex; flex-direction: column;
+  background: var(--fond);
+  padding: 0 .6rem calc(.5rem + env(safe-area-inset-bottom));
+}
+#visite[hidden] { display: none; }
+body.visite-ouverte { overflow: hidden; }
+.visite-tete {
+  flex: none; display: flex; align-items: center; gap: .7rem;
+  padding: calc(env(safe-area-inset-top) + .5rem) .2rem .5rem;
+}
+.visite-titre { margin: 0; font-family: var(--serif); font-size: 1.05rem; color: var(--encre); }
+#visite-cadre { flex: 1 1 auto; min-height: 0; }
+.visite-note { flex: none; margin: .5rem .3rem 0; max-width: 60rem; }
+
+.vers-maquette { margin: .2rem 0 1rem; }
+.vers-maquette-signe, .porte-maquette-signe { color: var(--or); margin-right: .45rem; }
+.porte-maquette {
+  display: flex; align-items: center; gap: .3rem; width: 100%; text-align: left;
+  margin: 0 0 .8rem; padding: .7rem .9rem;
+  border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--carte); color: var(--encre);
+  cursor: pointer; font: inherit;
+}
+.porte-maquette:hover { border-color: var(--accent); }
+.porte-maquette-signe { font-size: 1.5rem; line-height: 1; }
+.porte-maquette-texte { display: flex; flex-direction: column; gap: .1rem; }
+.porte-maquette-texte strong { font-family: var(--serif); font-size: 1.02rem; }
+.porte-maquette-texte span { font-size: .85rem; color: var(--encre-legere); }
+
 #visionneuse {
   position: fixed; inset: 0; z-index: 50;
   display: flex; flex-direction: column; align-items: center; justify-content: center;

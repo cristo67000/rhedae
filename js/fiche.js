@@ -243,6 +243,9 @@
     const images = Illustrations.bandeau(a.im);
     if (images) corps.appendChild(images);
 
+    const versMaquette = Visite.boutonPour(a.id);
+    if (versMaquette) corps.appendChild(versMaquette);
+
     if (a.c === 'hypotheses') corps.appendChild(blocHypothese(a));
 
     const texte = element('div', 'article-texte');

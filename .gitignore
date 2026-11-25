@@ -4,3 +4,5 @@ captures/
 build/.sources-images/
 build/.sources-carte/
 build/.recherche/
+build/maquette/
+.claude/

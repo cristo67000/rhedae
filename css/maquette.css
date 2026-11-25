@@ -1,0 +1,242 @@
+/*
+ * La maquette en trois dimensions (js/maquette.js) : la toile, les repères
+ * posés dessus, la barre des points de vue, la carte d'un repère.
+ *
+ * Ses couleurs sont les siennes — un cartouche sombre sur l'image — pour
+ * servir telles quelles dans Rhedae comme dans Terribilis. Ce fichier est le
+ * même dans les deux.
+ */
+
+.mq {
+  position: relative;
+  overflow: hidden;
+  background: #10131f;
+  border-radius: 12px;
+  -webkit-user-select: none;
+  user-select: none;
+  --mq-fond: rgba(16, 19, 31, .78);
+  --mq-encre: #f1ede2;
+  --mq-doux: #c9c5ba;
+  --mq-or: #e1bd62;
+  --mq-trait: rgba(241, 237, 226, .28);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
+}
+
+.mq-toile {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  touch-action: none;
+  cursor: grab;
+  outline-offset: -3px;
+}
+.mq-toile:active { cursor: grabbing; }
+
+.mq-sans {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  padding: 2rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  color: var(--mq-doux);
+}
+
+/* ── les repères ── */
+
+.mq-calque {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.mq-repere {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  pointer-events: auto;
+  cursor: pointer;
+  font: inherit;
+  color: var(--mq-encre);
+}
+.mq-repere[hidden] { display: none; }
+
+.mq-point {
+  position: absolute;
+  left: -8px;
+  top: -8px;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background: var(--mq-or);
+  border: 2px solid #10131f;
+  box-shadow: 0 0 0 2px rgba(225, 189, 98, .35);
+  transition: transform .15s;
+}
+/* une cible plus large que le point, pour le doigt */
+.mq-repere::before {
+  content: "";
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.mq-repere:hover .mq-point,
+.mq-repere:focus-visible .mq-point,
+.mq-repere.choisi .mq-point { transform: scale(1.3); background: #fff3c9; }
+.mq-repere:focus-visible { outline: none; }
+.mq-repere:focus-visible .mq-point { box-shadow: 0 0 0 3px #fff; }
+
+.mq-nom {
+  position: absolute;
+  left: 13px;
+  top: -11px;
+  white-space: nowrap;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--mq-fond);
+  font-size: .78rem;
+  line-height: 1.35;
+  pointer-events: none;
+}
+.mq-repere.loin .mq-nom { display: none; }
+.mq-repere.loin:hover .mq-nom,
+.mq-repere.loin:focus-visible .mq-nom,
+.mq-repere.choisi .mq-nom { display: block; }
+.mq-repere.choisi .mq-nom { background: var(--mq-or); color: #10131f; }
+
+/* ── la barre ── */
+
+.mq-barre {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  pointer-events: none;
+}
+.mq-groupe {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  pointer-events: auto;
+}
+.mq-groupe:empty { display: none; }
+
+.mq-pastille {
+  appearance: none;
+  border: 1px solid var(--mq-trait);
+  background: var(--mq-fond);
+  color: var(--mq-encre);
+  font: inherit;
+  font-size: .82rem;
+  line-height: 1.2;
+  padding: 7px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.mq-pastille.fine { padding: 6px 10px; font-size: .78rem; color: var(--mq-doux); }
+.mq-pastille:hover { border-color: var(--mq-or); color: var(--mq-encre); }
+.mq-pastille[aria-pressed="true"] { background: var(--mq-or); border-color: var(--mq-or); color: #10131f; font-weight: 600; }
+.mq-pastille:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
+
+/* ── la manette : avancer, reculer, tourner ── */
+
+.mq-manette {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 46px);
+  grid-template-rows: repeat(2, 46px);
+  gap: 5px;
+  touch-action: none;
+}
+.mq-carte-ouverte .mq-manette { display: none; }
+.mq-touche {
+  appearance: none;
+  border: 1px solid var(--mq-trait);
+  border-radius: 12px;
+  background: var(--mq-fond);
+  color: var(--mq-encre);
+  font: inherit;
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  touch-action: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.mq-gauche { grid-column: 1; grid-row: 1; }
+.mq-avant { grid-column: 2; grid-row: 1; }
+.mq-droite { grid-column: 3; grid-row: 1; }
+.mq-arriere { grid-column: 2; grid-row: 2; }
+.mq-touche:hover { border-color: var(--mq-or); }
+.mq-touche.tenue { background: var(--mq-or); border-color: var(--mq-or); color: #10131f; }
+.mq-touche:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
+
+/* ── la carte d'un repère ── */
+
+.mq-carte {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  bottom: 8px;
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--mq-fond);
+  border: 1px solid var(--mq-trait);
+  color: var(--mq-encre);
+  -webkit-user-select: text;
+  user-select: text;
+}
+.mq-carte[hidden] { display: none; }
+.mq-carte-tete { display: flex; align-items: flex-start; gap: 8px; }
+.mq-carte-nom { flex: 1; margin: 0; font-size: 1rem; font-weight: 600; color: var(--mq-or); }
+.mq-carte-texte { margin: 6px 0 0; font-size: .88rem; line-height: 1.45; color: var(--mq-encre); }
+.mq-carte-boutons { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.mq-fermer {
+  appearance: none;
+  border: 0;
+  background: none;
+  color: var(--mq-doux);
+  font: inherit;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 4px 6px;
+  cursor: pointer;
+}
+.mq-bouton {
+  appearance: none;
+  border: 1px solid var(--mq-trait);
+  background: none;
+  color: var(--mq-encre);
+  font: inherit;
+  font-size: .85rem;
+  padding: 7px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.mq-bouton.fort { background: var(--mq-or); border-color: var(--mq-or); color: #10131f; font-weight: 600; }
+.mq-bouton:hover { border-color: var(--mq-or); }
+.mq-bouton:focus-visible, .mq-fermer:focus-visible { outline: 2px solid #fff; outline-offset: 1px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .mq-point { transition: none; }
+}

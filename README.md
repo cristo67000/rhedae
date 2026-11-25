@@ -31,6 +31,11 @@ ce qui est discuté et ce qui a été fabriqué.
   lesquels on zoome continûment ; on touche un point, on lit sa fiche ; « Me
   situer », facultatif, pose un point bleu ; chaque fiche de lieu a son plan de
   situation, ses coordonnées et son itinéraire ;
+- l'**église en maquette**, en trois dimensions et hors ligne : on tourne autour,
+  on y entre, on la voit en coupe ou en plan, dans trois états — en 1885, en 1892,
+  aujourd'hui — et chaque repère (le diable du bénitier, le chemin de croix, le
+  tombeau des seigneurs…) mène à sa fiche. On y arrive par l'onglet « Carte » ou
+  par les fiches concernées ;
 - des **parcours guidés** : l'affaire en seize étapes, d'où venait l'argent, une
   journée sur place, lire l'église, la fabrique d'un faux, les trésors du Razès,
   Poussin et l'Arcadie, l'abbé Boudet, ceux qui ont enquêté ;
@@ -135,6 +140,37 @@ fiches prévues au plan et pas encore écrites).
 Les téléchargements restent dans `build/.sources-carte/` (hors du dépôt). Il faut
 Python avec `numpy` et `Pillow`.
 
+## La maquette de l'église
+
+Trois fichiers, sans aucune dépendance, les mêmes dans Rhedae et dans Terribilis
+(une épreuve de Terribilis le vérifie : on les retouche ici, puis on les recopie) :
+
+- `js/maquette.js` — un atelier de géométrie (boîtes, parois percées de baies,
+  berceaux, pièces tournées) et la visionneuse WebGL : `Maquette.poser(cadre, options)` ;
+- `js/eglise.js` — l'église elle-même : `Eglise.construire(annee)` rend les
+  triangles, les repères et les points de vue de l'état demandé. Ce qui est daté
+  ne paraît qu'à sa date : l'autel en 1887, le dallage et la chaire en 1891, le
+  décor Giscard, le porche et le calvaire en 1897 ;
+- `css/maquette.css`.
+
+`js/visite.js` est ce que Rhedae en fait : l'écran, et le lien entre fiches et repères.
+
+D'où viennent les mesures — c'est dit en tête de `js/eglise.js` : le **plan** suit
+le contour du cadastre (OpenStreetMap) et le relevé de Michel Verrot (1995) ; la
+**place du mobilier** vient des photographies et des films pris sur place en août
+2024 par Cristo6772, recoupés avec le plan publié par rennes-le-chateau-archive.com ;
+les **hauteurs**, que personne n'a publiées, sont estimées sur ces photographies, à
+un demi-mètre près. C'est une maquette, pas un relevé : les statues sont des
+quilles, et l'écran de visite le dit.
+
+    node build/maquette.mjs            # éprouve la maquette, puis l'exporte
+    node build/maquette.mjs --essai    # éprouve seulement
+
+L'export écrit `build/maquette/eglise-1885.glb`, `-1892.glb` et `-2026.glb` (glTF
+binaire, couleurs aux sommets, hors du dépôt) : de quoi reprendre la maquette dans
+Blender ou ailleurs. `build/maquette-essai.html` la montre seule, en grand
+(`?annee=1885`, `?vue=coupe`, `?ambiance=soir`).
+
 ## Les illustrations
 
 `python build/illustrer.py` lit `build/illustrations.txt`, télécharge chaque
@@ -157,6 +193,7 @@ l'accord de leur auteur.
 ```
 node build/construire.mjs          # le dossier, et build/rapport.txt
 node build/essais_statiques.mjs    # coquille, version, scripts, renvois, lieux dans leur cadre, images, parcours, carte
+node build/maquette.mjs --essai    # la maquette de l'église : ses trois états, ses repères, ses fiches
 node build/verifier_liens.mjs      # chaque lien répond (en ligne)
 python build/illustrer.py --verifier
 ```

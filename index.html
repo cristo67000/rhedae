@@ -10,7 +10,7 @@
   <meta name="description" content="Les mystères de Rennes-le-Château, pièce par pièce : les personnages, de l'abbé Saunière aux fabricants du mythe ; une chronologie qui distingue l'attesté, le discuté, la légende et le faux ; une carte détaillée du Haut-Razès, du village à la région, dessinée hors ligne ; les hypothèses, du trafic de messes au prieuré de Sion, avec leurs arguments et leurs objections ; le contexte historique. Hors ligne, sans compte, sans publicité.">
   <meta name="theme-color" content="#141a2e">
   <!-- La version de la coquille, la même que dans sw.js. -->
-  <meta name="application-version" content="v1.0.1">
+  <meta name="application-version" content="v1.1.0">
   <title>Rhedae — les mystères de Rennes-le-Château</title>
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="css/theme.css">
   <link rel="stylesheet" href="css/app.css">
   <link rel="stylesheet" href="css/carte.css">
+  <link rel="stylesheet" href="css/maquette.css">
 </head>
 <body>
 
@@ -102,6 +103,10 @@
     <section id="vue-carte" class="vue" hidden>
       <h2>Carte</h2>
       <p class="discret intro-vue">Trois cadres, du plus large au plus serré : la région, le Haut-Razès, le village. Touchez un point pour le nommer ; la carte se dessine sans connexion.</p>
+      <button id="b-visite" type="button" class="porte-maquette">
+        <span class="porte-maquette-signe" aria-hidden="true">◇</span>
+        <span class="porte-maquette-texte"><strong>L’église en maquette</strong><span>Tournez autour, entrez, touchez un repère : en trois dimensions, hors ligne.</span></span>
+      </button>
       <div id="carte-cadres" class="segments" role="group" aria-label="Choisir un cadre"></div>
       <div id="carte-cadre" class="carte-cadre"></div>
       <div id="carte-choix" hidden></div>
@@ -162,6 +167,15 @@
     <div id="fiche-contenu"></div>
   </aside>
 
+  <aside id="visite" hidden aria-modal="true" role="dialog" aria-label="L’église en maquette">
+    <div class="visite-tete">
+      <button id="visite-fermer" type="button" class="fiche-fermer">✕ Fermer</button>
+      <p class="visite-titre">L’église Sainte-Marie-Madeleine</p>
+    </div>
+    <div id="visite-cadre"></div>
+    <p class="visite-note discret petit">Une maquette, pas un relevé : le plan suit le cadastre et le relevé de Michel Verrot (1995) ; les hauteurs, que personne n’a publiées, sont estimées d’après des photographies. Glissez pour regarder autour de vous ; les flèches de l’écran ou du clavier font avancer, reculer et tourner.</p>
+  </aside>
+
   <div id="visionneuse" hidden aria-modal="true" role="dialog"></div>
 
   <script src="js/outils.js"></script>
@@ -170,6 +184,9 @@
   <script src="js/rendu.js"></script>
   <script src="js/illustrations.js"></script>
   <script src="js/carte.js"></script>
+  <script src="js/maquette.js"></script>
+  <script src="js/eglise.js"></script>
+  <script src="js/visite.js"></script>
   <script src="js/fiche.js"></script>
   <script src="js/liste.js"></script>
   <script src="js/frise.js"></script>
