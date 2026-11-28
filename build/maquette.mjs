@@ -27,6 +27,7 @@ import { fileURLToPath } from 'node:url';
 const RACINE = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const require = createRequire(import.meta.url);
 require(path.join(RACINE, 'js/maquette.js'));
+require(path.join(RACINE, 'js/eglise-decor.js'));
 require(path.join(RACINE, 'js/eglise.js'));
 const { Eglise } = globalThis;
 
@@ -77,6 +78,26 @@ for (const { annee } of Eglise.EPOQUES) {
   epreuve(annee + ' : les vues d\'arrivée', !!m.vues.ensemble && !!m.vues.coupe);
   console.log(annee + ' : ' + triangles + ' triangles, ' + m.reperes.length + ' repères');
 }
+// le décor d'après photographie : la table, l'image, et ce que la maquette en tire
+const { EgliseDecor } = globalThis;
+epreuve('décor : l\'image existe', fs.existsSync(path.join(RACINE, EgliseDecor.image)));
+for (const [nom, c] of Object.entries(EgliseDecor.cases)) {
+  epreuve('décor · ' + nom + ' : une case dans l\'image', c.length === 7 && c[0] >= 0 && c[1] >= 0 && c[2] <= 1 && c[3] <= 1 && c[0] < c[2] && c[1] < c[3]);
+}
+for (const [nom, f] of Object.entries(EgliseDecor.formes)) {
+  epreuve('décor · ' + nom + ' : une silhouette, du haut vers le bas', !!EgliseDecor.cases[nom] && f.length >= 3 && f.every((r, i) => r[1] < r[2] && (i === 0 || r[0] > f[i - 1][0])));
+}
+for (const [annee, m] of Object.entries(etats)) {
+  for (const [nom, g] of Object.entries(m.groupes)) {
+    epreuve(annee + ' · ' + nom + ' : un point d\'image par sommet', g.uv.length === g.pos.length / 3 * 2 && g.uv.every((v) => v >= 0 && v <= 1));
+  }
+  let plaques = 0;
+  for (const g of Object.values(m.groupes)) for (let i = 3; i < g.cou.length; i += 4) if (g.cou[i] === 11 || g.cou[i] === 12) plaques += 1;
+  epreuve(annee + ' : des photographies seulement une fois le décor posé', Number(annee) >= 1887 ? plaques > 0 : plaques === 0, plaques + ' sommet(s)');
+  epreuve(annee + ' : la maquette nomme son image', m.image === EgliseDecor.image);
+}
+epreuve('2026 : les statues ont du volume', etats[2026].groupes.mobilier.triangles() > 6000, etats[2026].groupes.mobilier.triangles() + ' triangles');
+epreuve('village : il porte l\'image du décor de l\'église', Village.construire(2026).image === EgliseDecor.image);
 // ce que la légende date : le décor de 1897 n'est pas dans l'église de 1885
 epreuve('1885 : pas de diable', !etats[1885].reperes.some((r) => r.id === 'diable'));
 epreuve('1885 : la dalle des Chevaliers devant l\'autel', etats[1885].reperes.some((r) => r.id === 'dalle'));

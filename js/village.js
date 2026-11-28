@@ -284,6 +284,7 @@
 
     return {
       annee: an,
+      image: E.image,           // le décor de l'église, pour ce qu'on en voit du dehors
       groupes: { terrain, bati, eglise },
       reperes,
       vues,

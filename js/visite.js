@@ -29,7 +29,7 @@
       nom: 'L’église',
       titre: 'L’église Sainte-Marie-Madeleine',
       objet: () => racine.Eglise,
-      note: 'Une maquette, pas un relevé : le plan suit le cadastre et le relevé de Michel Verrot (1995) ; les hauteurs, que personne n’a publiées, sont estimées d’après des photographies. Glissez pour regarder autour de vous ; les flèches de l’écran ou du clavier font avancer, reculer et tourner.',
+      note: 'Une maquette, pas un relevé : le plan suit le cadastre et le relevé de Michel Verrot (1995) ; les hauteurs, que personne n’a publiées, sont estimées d’après des photographies. Les statues, les stations, l’autel, les vitraux et le Sermon sont ceux des photographies prises sur place en août 2024, plaquées sur des volumes : justes de face, sommaires de profil. Glissez pour regarder autour de vous ; les flèches de l’écran ou du clavier font avancer, reculer et tourner.',
     },
   };
 

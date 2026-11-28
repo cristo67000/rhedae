@@ -44,6 +44,7 @@ for (const f of ['data/manifeste.json', 'data/dossier.json', 'data/carte.json'])
 const manifesteWeb = JSON.parse(lire('manifest.webmanifest'));
 for (const icone of manifesteWeb.icons) charges.add(icone.src);
 for (const cadre of ['region', 'razes', 'village']) for (const a of ['clair', 'nuit']) charges.add('img/relief-' + cadre + '-' + a + '.webp');
+charges.add('img/eglise-decor.webp');      // l'image du décor de la maquette (js/eglise-decor.js la nomme)
 for (const f of charges) epreuve('coquille : ' + f + ' est dans sw.js', coquille.has(f));
 for (const f of coquille) {
   epreuve('coquille : ' + f + ' est chargé par la page', charges.has(f));

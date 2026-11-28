@@ -15,15 +15,23 @@
  * — la place de chaque statue, de chaque station, du mobilier : les
  *   photographies et les films pris sur place en août 2024 par Cristo6772, et
  *   le plan du mobilier publié par rennes-le-chateau-archive.com ;
+ * — l'aspect des statues, des stations, de l'autel, des vitraux, du Sermon sur
+ *   la montagne et du tympan : ces mêmes photographies, découpées et rangées
+ *   dans img/eglise-decor.webp par build/decor_eglise.py (js/eglise-decor.js
+ *   dit où chaque morceau se trouve, et donne la silhouette des statues) ;
  * — les hauteurs : AUCUNE n'est publiée. Elles sont estimées sur ces mêmes
  *   photographies (un banc fait 0,95 m, une porte 2,9 m) : à ± 0,5 m près.
  *
- * C'est une maquette, pas un relevé : les statues sont des quilles, les
- * stations des cadres, et la sacristie n'a pas d'intérieur. Le repère : x vers
+ * C'est une maquette, pas un relevé. Une statue y est un volume tiré de sa
+ * silhouette — une section en ellipse à chaque hauteur — sur lequel sa
+ * photographie est projetée de face : juste vue de devant, sommaire de profil,
+ * et sans dos. Les stations sont des plaques découpées ; la première, qu'aucune
+ * photographie ne montre, reste nue. La sacristie n'a pas d'intérieur. Le repère : x vers
  * l'est (le chœur), y vers le haut, z vers le sud ; l'origine est au pied du
  * mur du fond, dans l'axe de la nef. Les longueurs sont en mètres.
  *
- * Ce fichier est le même dans Rhedae et dans Terribilis.
+ * Ce fichier est le même dans Rhedae et dans Terribilis, comme
+ * js/eglise-decor.js et img/eglise-decor.webp, qu'il lui faut.
  */
 (function (racine) {
 
@@ -59,7 +67,8 @@
 
   /* ── Les pièces qui reviennent ───────────────────────────────────────────── */
 
-  /* Une statue : une quille tournée, plus ou moins haute, vêtue de deux couleurs. */
+  /* Une figurine tournée, pour ce qui est trop petit pour une photographie
+   * (l'ange qui coiffe la chaire). */
   function statue(m, h, robe, manteau, cheveux) {
     const k = h / 1.5;
     m.tour(0, 0, [[0.22 * k, 0], [0.24 * k, 0.05 * k], [0.16 * k, 0.6 * k], [0.19 * k, 0.98 * k], [0.2 * k, 1.17 * k],
@@ -68,25 +77,37 @@
     { segments: 9, ez: 0.78 });
   }
 
-  /* La console d'une statue, son nom dessous ; `dais` : le petit toit doré. */
+  /* La console d'une statue : un cul-de-lampe peint, un socle noir, le nom en
+   * lettres d'or dessus ; `dais` : à cette hauteur, le petit clocheton doré. */
   function console3(m, dais) {
-    m.tour(0, 0, [[0.03, -0.5], [0.1, -0.3], [0.24, -0.1], [0.27, -0.08], [0.27, 0], [0, 0]],
-      [T.or, '#7a3b3b', T.noir, T.noir, T.noir], 0, { segments: 8, ez: 0.7 });
+    m.tour(0, 0.02, [[0.03, -0.66], [0.1, -0.56], [0.13, -0.42], [0.22, -0.3], [0.27, -0.2], [0.31, -0.17]],
+      ['#6f8a7a', '#8a4a3a', '#b9914a', '#7a3b3b', T.or], 0, { segments: 8, ez: 0.78 });
+    m.boite(-0.35, -0.17, -0.24, 0.35, -0.11, 0.31, '#3b5f8a', 0);
+    m.boite(-0.31, -0.11, -0.21, 0.31, 0, 0.27, T.noir, 0);
+    m.boite(-0.19, -0.09, 0.27, 0.19, -0.02, 0.285, T.or, 0, 'z-');
     if (dais) {
-      m.tour(0, 0, [[0, dais], [0.36, dais], [0.36, dais + 0.14], [0.2, dais + 0.3], [0.1, dais + 0.62], [0.02, dais + 0.9]],
-        [T.bois, T.or, T.or, T.bois, T.or], 0, { segments: 8, ez: 0.7 });
+      m.tour(0, 0.06, [[0.24, dais], [0.33, dais + 0.05], [0.33, dais + 0.17], [0.27, dais + 0.2], [0.2, dais + 0.4], [0.1, dais + 0.47],
+        [0.055, dais + 0.6], [0.09, dais + 0.64], [0, dais + 0.76]],
+      [T.or, '#2f5a55', T.or, '#b9914a', T.or, '#3f7f76', T.or, T.or], 0, { segments: 6, ez: 0.85 });
+      for (let k = 0; k < 6; k += 1) {
+        const a = (k * 60 + 30) * Math.PI / 180;
+        m.tour(0.31 * Math.cos(a), 0.06 + 0.26 * Math.sin(a), [[0.035, dais - 0.07], [0.04, dais + 0.2], [0, dais + 0.33]], T.or, 0, { segments: 4 });
+      }
     }
   }
 
-  /* Une station du chemin de croix : un cadre à pinacles, une scène peinte. */
-  function station(m, teinteScene) {
-    m.boite(-0.36, -0.52, 0, 0.36, 0.42, 0.08, T.creme, 0, 'z-');
-    m.boite(-0.27, -0.3, 0.08, 0.27, 0.34, 0.11, teinteScene, 0, 'z-');
-    m.boite(-0.3, -0.62, 0, 0.3, -0.52, 0.1, '#8a3030', 0, 'z-');
-    m.boite(-0.36, 0.42, 0, -0.26, 0.62, 0.07, T.creme, 0, 'z-');
-    m.boite(0.26, 0.42, 0, 0.36, 0.62, 0.07, T.creme, 0, 'z-');
-    m.boite(-0.04, 0.42, 0, 0.04, 0.86, 0.06, '#5b7fa8', 0, 'z-');
-    m.boite(-0.15, 0.66, 0, 0.15, 0.74, 0.06, '#5b7fa8', 0, 'z-');
+  /* Le pourtour d'une station du chemin de croix, dans sa photographie : la
+   * croix, le gâble entre deux pinacles, le cadre, le cul-de-lampe au chiffre. */
+  const DEMI_STATION = [[0.465, 0], [0.465, 0.035], [0.385, 0.035], [0.385, 0.09], [0.465, 0.09], [0.465, 0.15], [0.17, 0.265],
+    [0.14, 0.265], [0.14, 0.2], [0.085, 0.17], [0.03, 0.2], [0.03, 0.78], [0, 0.79], [0, 0.85], [0.1, 0.86], [0.14, 0.93], [0.3, 0.96], [0.42, 1]];
+  const CONTOUR_STATION = DEMI_STATION.concat(DEMI_STATION.slice().reverse().map(([u, v]) => [1 - u, v]));
+
+  /* Une station : 0,74 m sur 1,44, épaisse d'une main. Sans photographie, le
+   * cadre reste nu autour d'un panneau sombre. */
+  function station(m, cas) {
+    if (cas) { m.plaque(CONTOUR_STATION, cas, 0.74, 1.44, 0.09); return; }
+    m.plaque(CONTOUR_STATION, [0, 0, 0, 0, 216, 204, 178], 0.74, 1.44, 0.09, 0);
+    m.boite(-0.2, 0.36, 0.09, 0.2, 0.98, 0.1, '#8d8674', 0, 'z-');
   }
 
   function cypres(m, x, z, h) {
@@ -107,6 +128,11 @@
     const avecSol = !(options && options.sol === false);
     const an = annee || 2026;
     const Maillage = racine.Maquette.Maillage;
+    const DEC = racine.EgliseDecor;
+    if (!DEC) throw new Error('js/eglise-decor.js doit être chargé avant js/eglise.js');
+    const cas = (nom) => DEC.cases[nom];
+    /* Une statue, debout là où l'on est placé : sa silhouette, sa photographie. */
+    const figure = (m, nom, h, o) => m.silhouette(DEC.formes[nom], DEC.cases[nom], h, o);
     const abords = new Maillage(), ext = new Maillage(), int = new Maillage(), mob = new Maillage();
     ext.dedans = false; abords.dedans = false;
     int.dedans = true; int.interieur = true;
@@ -182,14 +208,18 @@
       ext.tri([b[0], cEgout, b[1]], [a[0], cEgout, a[1]], [cmx, cPointe, cmz], T.tuile, 2);
     }
     ext.tour(cmx, cmz, [[0.07, cPointe - 0.05], [0.07, cPointe + 0.35], [0, cPointe + 0.45]], T.tuile, 0, { segments: 6 });
-    // les abat-son : deux baies par face
+    // les abat-son : deux baies cintrées par face
     for (const dx of [-1.0, 1.0]) {
-      ext.boite(cmx + dx - 0.4, 10.3, cz0 - 0.03, cmx + dx + 0.4, 11.7, cz0 + 0.1, '#4b4037', 6);
-      ext.boite(cmx + dx - 0.4, 10.3, -C.zx + 1.0, cmx + dx + 0.4, 11.7, -C.zx + 1.13, '#4b4037', 6);
+      ext.boite(cmx + dx - 0.4, 10.3, cz0 - 0.03, cmx + dx + 0.4, 11.5, cz0 + 0.1, '#4b4037', 6);
+      ext.boite(cmx + dx - 0.4, 10.3, -C.zx + 1.0, cmx + dx + 0.4, 11.5, -C.zx + 1.13, '#4b4037', 6);
+      ext.medaillon([cmx + dx, 11.5, cz0 - 0.035], 0.4, [0, -1], '#4b4037', 6, 12);
+      ext.medaillon([cmx + dx, 11.5, -C.zx + 1.135], 0.4, [0, 1], '#4b4037', 6, 12);
     }
     for (const dzz of [-0.95, 0.95]) {
-      ext.boite(cx0 - 0.03, 10.3, cmz + dzz - 0.4, cx0 + 0.1, 11.7, cmz + dzz + 0.4, '#4b4037', 6);
-      ext.boite(cx1 - 0.1, 10.3, cmz + dzz - 0.4, cx1 + 0.03, 11.7, cmz + dzz + 0.4, '#4b4037', 6);
+      ext.boite(cx0 - 0.03, 10.3, cmz + dzz - 0.4, cx0 + 0.1, 11.5, cmz + dzz + 0.4, '#4b4037', 6);
+      ext.boite(cx1 - 0.1, 10.3, cmz + dzz - 0.4, cx1 + 0.03, 11.5, cmz + dzz + 0.4, '#4b4037', 6);
+      ext.medaillon([cx0 - 0.035, 11.5, cmz + dzz], 0.4, [-1, 0], '#4b4037', 6, 12);
+      ext.medaillon([cx1 + 0.035, 11.5, cmz + dzz], 0.4, [1, 0], '#4b4037', 6, 12);
     }
 
     // les trois contreforts du sud, coiffés de tuiles
@@ -230,9 +260,13 @@
       ext.quad([px + 1.5, 2.7, pz + 0.22], [px + 1.82, 2.7, pz + 0.22], [px, 5.18, pz + 0.22], [px, 4.72, pz + 0.22], T.jaune, 0, true);
       ext.tour(px, pz + 0.22, [[0.12, 5.1], [0.16, 5.3], [0.03, 5.55]], T.marbre, 0, { segments: 6 });
       // le tympan : Marie-Madeleine, et « Terribilis est locus iste » dessous
-      ext.tri([px - 1.45, 3.05, C.zx + 0.06], [px + 1.45, 3.05, C.zx + 0.06], [px, 4.85, C.zx + 0.06], T.creme, 0);
+      const ty = cas('tympan');
+      ext.tri([px - 1.45, 3.05, C.zx + 0.06], [px + 1.45, 3.05, C.zx + 0.06], [px, 4.85, C.zx + 0.06], [ty[4], ty[5], ty[6]], 11,
+        [[ty[0], ty[3]], [ty[2], ty[3]], [ty[0] + (ty[2] - ty[0]) * 0.483, ty[1]]]);
+      // le linteau et sa clef, au-dessus de l'arc de la porte
       ext.boite(px - 1.5, 2.9, C.zx, px + 1.5, 3.07, C.zx + 0.12, T.pierre, 0, 'z-');
-      ext.placer(px, 3.3, C.zx + 0.12, 0, 1, () => statue(ext, 0.95, '#b99a70', '#c8ad84', '#7a5a3a'));
+      ext.boite(px - 0.42, 2.72, C.zx, px + 0.42, 2.9, C.zx + 0.16, T.marbre, 0, 'z-');
+      ext.boite(px - 0.2, 2.5, C.zx, px + 0.2, 2.72, C.zx + 0.14, T.pierre, 0, 'z-');
     } else {
       // avant Saunière : un simple auvent
       for (const dx of [-1.1, 1.1]) ext.boite(px + dx - 0.15, 0, pz - 0.3, px + dx + 0.15, 2.9, pz, T.pierre, 0);
@@ -256,10 +290,22 @@
       const vz = an >= 1901 ? 11.95 : 10.5;
       abords.placer(-0.8, 0, vz, 180, 1, () => {
         abords.boite(-0.5, 0, -0.1, 0.5, 0.25, 0.6, T.pierre, 0);
-        abords.boite(-0.22, 0.25, 0, 0.22, 1.05, 0.42, '#cdbb97', 10);       // le pilier, posé à l'envers
-        abords.boite(-0.3, 1.05, -0.04, 0.3, 1.2, 0.48, T.pierre, 0);
-        abords.placer(0, 1.2, 0.2, 0, 1, () => statue(abords, 1.25, '#e8eef2', '#dfe8f0', '#e8eef2'));
-        abords.tour(0, 0.1, [[0.34, 2.5], [0.34, 2.62], [0.12, 2.95], [0, 3.1]], '#3c6a70', 0, { segments: 8 });
+        // le pilier, posé à l'envers : sa face sculptée, « MISSION 1891 »
+        abords.boite(-0.22, 0.25, 0, 0.22, 1.05, 0.42, '#cdbb97', 0, 'z+');
+        abords.tableau([-0.22, 0.25, 0.42], [0.22, 0.25, 0.42], [0.22, 1.05, 0.42], [-0.22, 1.05, 0.42], cas('pilier'));
+        abords.boite(-0.32, 1.05, -0.04, 0.32, 1.2, 0.5, T.pierre, 0);
+        // la niche, la Vierge dedans, son dais
+        abords.boite(-0.36, 1.2, -0.06, 0.36, 2.86, 0.03, '#8fa3a3', 0, 'z+');
+        abords.tableau([-0.36, 1.2, 0.03], [0.36, 1.2, 0.03], [0.36, 2.86, 0.03], [-0.36, 2.86, 0.03], cas('niche'));
+        abords.placer(0, 1.22, 0.22, 0, 1, () => figure(abords, 'lourdes', 1.12, { epais: 0.13 }));
+        abords.tour(0, 0.08, [[0.3, 2.62], [0.36, 2.66], [0.36, 2.86], [0.3, 2.9], [0.22, 3.08], [0.12, 3.1], [0, 3.3]],
+          ['#6a6f66', '#7d8478', '#6a6f66', '#7d8478', '#6a6f66', '#6a6f66'], 0, { segments: 8, a0: 0, a1: 180 });
+        // les deux vases de faïence, sur leurs consoles
+        for (const dx of [-0.85, 0.85]) {
+          abords.tour(dx, 0.06, [[0.03, 0.7], [0.17, 0.9], [0.17, 0.98]], ['#8f7d5a', '#a8926c'], 0, { segments: 7, a0: 0, a1: 180 });
+          abords.tour(dx, 0.14, [[0.09, 0.98], [0.07, 1.04], [0.13, 1.16], [0.07, 1.26], [0.16, 1.52], [0.14, 1.52]],
+            ['#dfe3e6', '#3f5f8a', '#3f5f8a', '#dfe3e6', '#c9d0d6'], 0, { segments: 9 });
+        }
       });
     }
     if (decor1897) {
@@ -272,7 +318,24 @@
         abords.boite(-0.62, 2.6, -0.62, 0.62, 2.8, 0.62, T.pierre, 0);
         abords.boite(-0.38, 1.2, 0.5, 0.38, 2.3, 0.53, T.marbre, 0);
         abords.placer(0, 2.8, 0, 0, 1, () => croix(abords, 3.6, 1.5, 0.2, '#7a5b46'));
-        abords.placer(0, 4.35, 0.12, 0, 1, () => statue(abords, 1.0, '#9aa6ad', '#9aa6ad', '#8a949a'));
+        // la gloire de terre cuite : des rayons autour de la tête
+        for (let k = 0; k < 18; k += 1) {
+          const a = k * Math.PI / 9, r = k % 2 ? 0.62 : 0.8;
+          const ca = Math.cos(a), sa = Math.sin(a), ta = 0.09;
+          abords.quad([0.16 * ca + ta * sa, 5.32 + 0.16 * sa - ta * ca, 0.11], [r * ca + 0.03 * sa, 5.32 + r * sa - 0.03 * ca, 0.11],
+            [r * ca - 0.03 * sa, 5.32 + r * sa + 0.03 * ca, 0.11], [0.16 * ca - ta * sa, 5.32 + 0.16 * sa + ta * ca, 0.11], '#a8563c', 0, true);
+        }
+        abords.boite(-0.11, 5.62, 0.1, 0.11, 5.86, 0.14, '#8a6a4a', 0);                 // INRI
+        // le Christ : le corps d'après sa photographie, les bras tendus
+        abords.placer(0, 4.32, 0.14, 0, 1, () => figure(abords, 'christ', 1.12, { epais: 0.09 }));
+        for (const sx of [-1, 1]) {
+          abords.quad([sx * 0.1, 5.1, 0.17], [sx * 0.66, 5.27, 0.13], [sx * 0.66, 5.34, 0.13], [sx * 0.1, 5.2, 0.17], '#9aa6ad', 0, true);
+        }
+        // les volutes de fer, de part et d'autre du socle
+        for (const sx of [-1, 1]) {
+          abords.quad([sx * 1.2, 0.9, 0.2], [sx * 1.27, 0.9, 0.2], [sx * 0.6, 2.3, 0.2], [sx * 0.53, 2.3, 0.2], T.fer, 0, true);
+          abords.quad([sx * 0.85, 0.9, 0.2], [sx * 0.91, 0.9, 0.2], [sx * 0.58, 1.7, 0.2], [sx * 0.53, 1.7, 0.2], T.fer, 0, true);
+        }
       });
       // la grotte de rocaille
       abords.tour(6.2, 15.4, [[1.9, 0], [2.0, 0.9], [1.5, 2.1], [0.8, 2.8], [0, 3.0]], T.roche, 8, { segments: 9, ex: 1.2 });
@@ -289,7 +352,13 @@
     abords.boite(19.9, 0, 7.25, 20.2, 2.9, 7.75, T.pierre, 0);
     abords.boite(18.9, 0, 7.45, 19.9, 2.5, 7.55, T.vert, 0);
     abords.boite(18.6, 2.9, 7.25, 20.2, 3.1, 7.75, T.pierre, 0);
-    abords.placer(19.4, 3.1, 7.5, 0, 1, () => croix(abords, 0.8, 0.45, 0.1, T.pierre));
+    abords.tri([18.75, 3.1, 7.76], [20.05, 3.1, 7.76], [19.4, 3.6, 7.76], T.pierre, 0);
+    abords.tri([20.05, 3.1, 7.24], [18.75, 3.1, 7.24], [19.4, 3.6, 7.24], T.pierre, 0);
+    abords.quad([18.75, 3.1, 7.76], [19.4, 3.6, 7.76], [19.4, 3.6, 7.24], [18.75, 3.1, 7.24], T.pierre, 0, true);
+    abords.quad([19.4, 3.6, 7.76], [20.05, 3.1, 7.76], [20.05, 3.1, 7.24], [19.4, 3.6, 7.24], T.pierre, 0, true);
+    abords.tour(19.4, 7.78, [[0.07, 3.16], [0.1, 3.24], [0.09, 3.34], [0, 3.38]], T.marbre, 0, { segments: 7, a0: 0, a1: 180 });   // le crâne
+    for (const x of [18.75, 20.05]) abords.tour(x, 7.5, [[0.08, 3.1], [0.05, 3.16], [0.14, 3.3], [0.12, 3.42], [0.04, 3.46], [0, 3.52]], T.pierre, 0, { segments: 7 });
+    abords.placer(19.4, 3.6, 7.5, 0, 1, () => croix(abords, 0.7, 0.4, 0.1, T.pierre));
     // le cimetière : son mur au nord et à l'est, des tombes, des cyprès
     abords.boite(-8, 0, -16.4, 39.6, 1.9, -16.0, T.moellon, 1, 'y-');
     abords.boite(39.2, 0, -16, 39.6, 1.9, 7.7, T.moellon, 1, 'y-');
@@ -356,9 +425,10 @@
     }
 
     // les murs de la nef : des arcades entre piliers, une baie au fond de chacune
-    const baieDedans = (u, bas, haut, l, aveugle) => ({
-      u, l: l || 0.9, bas, haut, cintre: true, prof: 0.55,
-      fond: aveugle ? '#2b2c34' : verre, fondMatiere: aveugle ? 0 : matVerre,
+    const baieDedans = (u, bas, haut, l, aveugle, vitrail) => ({
+      u, l: l || 0.8, bas, haut, cintre: true, prof: 0.55,
+      fond: aveugle ? '#2b2c34' : verre, fondMatiere: aveugle ? 0 : (autel1887 ? 12 : matVerre),
+      image: aveugle || !autel1887 ? null : cas(vitrail || 'vitrail'),
       joue: decor1897 ? T.bande : T.chaux, joueMatiere: decor1897 ? 9 : 0,
     });
     for (let i = 0; i < 4; i += 1) {
@@ -367,11 +437,11 @@
       // le sud (on le voit en regardant vers le sud : la paroi regarde le nord)
       int.paroi([x1, C.zp], [x0, C.zp], 0, C.imposte, mur, matMur, arcade);
       const sud = i === 0 ? [{ u: l / 2, l: 1.5, bas: 0, haut: 2.9, cintre: true, prof: 0.55, joue: T.pierre, joueMatiere: 0 }]
-        : [i === 3 ? baieDedans(l / 2, 3.45, 4.25, 0.8) : baieDedans(l / 2, 2.8, 4.2)];
+        : [i === 3 ? baieDedans(l / 2, 3.05, 4.3, 0.6, false, 'vitrail-histoire') : baieDedans(l / 2, 2.75, 4.3)];
       int.paroi([x1, C.zf], [x0, C.zf], 0, C.imposte, mur, matMur, sud);
       // le nord
       int.paroi([x0, -C.zp], [x1, -C.zp], 0, C.imposte, mur, matMur, arcade);
-      const nord = i === 1 ? [baieDedans(l / 2, 2.8, 4.2)] : (i === 2 ? [baieDedans(l / 2, 2.8, 4.2, 0.9, true)] : []);
+      const nord = i === 1 ? [baieDedans(l / 2, 2.75, 4.3)] : (i === 2 ? [baieDedans(l / 2, 2.75, 4.3, 0.8, true)] : []);
       int.paroi([x0, -C.zf], [x1, -C.zf], 0, C.imposte, i === 0 && decor1897 ? '#9fc0c9' : mur, i === 0 && decor1897 ? 0 : matMur, nord);
       // le lambris
       for (const s of [-1, 1]) {
@@ -392,8 +462,13 @@
     }
     // la frise, à la naissance de la voûte
     if (decor1897) {
-      int.boite(0, C.imposte - 0.08, C.zp - 0.06, C.arc[0], C.imposte + 0.1, C.zp, '#b9624a', 0);
-      int.boite(0, C.imposte - 0.08, -C.zp, C.arc[0], C.imposte + 0.1, -C.zp + 0.06, '#b9624a', 0);
+      // un bandeau rouge et or, des créneaux peints dessus
+      for (const s of [-1, 1]) {
+        const z0 = s === 1 ? C.zp - 0.06 : -C.zp, z1 = s === 1 ? C.zp : -C.zp + 0.06;
+        int.boite(0, C.imposte - 0.1, z0, C.arc[0], C.imposte + 0.04, z1, '#b9624a', 0);
+        int.boite(0, C.imposte - 0.03, s === 1 ? z0 - 0.005 : z0, C.arc[0], C.imposte, s === 1 ? z1 : z1 + 0.005, T.or, 0);
+        for (let x = 0.12; x < C.arc[0] - 0.2; x += 0.34) int.boite(x, C.imposte + 0.04, z0, x + 0.17, C.imposte + 0.15, z1, T.creme, 0, 'y-');
+      }
     }
     // la voûte en anse de panier et ses doubleaux
     int.berceau(0, C.arc[0], C.imposte, 0, C.zp, C.fleche, decor1897 ? T.voute : T.voutePale, 0, true, 18);
@@ -403,7 +478,7 @@
 
     // le mur du fond (ouest) : la grande arcade du Sermon sur la montagne
     int.paroi([0, C.zp], [0, -C.zp], 0, C.faite, mur, matMur, decor1897
-      ? [{ u: C.zp, l: 4.7, bas: 2.95, haut: 6.3, cintre: true, prof: 0.3, fond: '#9db6bd', joue: T.bande, joueMatiere: 9 }] : [], (u) => voute(u - C.zp));
+      ? [{ u: C.zp, l: 4.7, bas: 3.5, haut: 6.15, cintre: true, prof: 0.3, fond: '#9db6bd', fondMatiere: 11, image: cas('sermon'), joue: T.bande, joueMatiere: 9 }] : [], (u) => voute(u - C.zp));
     int.boite(0, 0, -C.zp, 0.04, C.lambris, C.zp, T.bois, 6, 'y- x-');
 
     // l'arc qui ouvre sur le chœur
@@ -431,7 +506,15 @@
     if (autel1887) {
       // la rose de l'axe (Marie-Madeleine aux pieds du Christ) et les deux baies de 1889
       int.medaillon([C.xa + C.ra - 0.04, 4.2, 0], 0.78, [-1, 0], T.or, 0);
-      int.medaillon([C.xa + C.ra - 0.07, 4.2, 0], 0.64, [-1, 0], '#c04a3a', 7);
+      // la rose : Marie-Madeleine aux pieds du Christ, chez Simon — le vitrail lui-même
+      const ro = cas('rose'), xr = C.xa + C.ra - 0.09, rr = 0.68;
+      const ru = (a) => [(ro[0] + ro[2]) / 2 + (ro[2] - ro[0]) / 2 * Math.cos(a), (ro[1] + ro[3]) / 2 - (ro[3] - ro[1]) / 2 * Math.sin(a)];
+      for (let k = 0; k < 24; k += 1) {
+        const a0 = k * Math.PI / 12, a1 = (k + 1) * Math.PI / 12;
+        // vue depuis la nef : le sud est à droite
+        int.tri([xr, 4.2, 0], [xr, 4.2 + rr * Math.sin(a0), rr * Math.cos(a0)], [xr, 4.2 + rr * Math.sin(a1), rr * Math.cos(a1)], [ro[4], ro[5], ro[6]], 12,
+          [[(ro[0] + ro[2]) / 2, (ro[1] + ro[3]) / 2], ru(a0), ru(a1)]);
+      }
       if (an >= 1889) {
         for (const s of [-1, 1]) {
           int.placer(C.xa + (C.ra - 0.05) * Math.cos(0.6), 3.6, s * (C.ra - 0.05) * Math.sin(0.6), s * 34.4 + 90, 1, () => {
@@ -465,13 +548,13 @@
     if (decor1897) {
       // les statues des murs, chacune sur sa console, entre deux stations
       const saints = [
-        [centres[1], -1, '#b5523c', '#e8dcc0', '#7a4a2a'],   // sainte Germaine
-        [centres[2], -1, '#6b4a2f', '#8a6a3f', '#b8b0a0'],   // saint Antoine ermite
-        [centres[1], 1, '#8a6a2f', '#c9a03c', '#5a3b24'],    // saint Roch
-        [centres[2], 1, '#c9a03c', '#a8563c', '#5a3b24'],    // sainte Marie-Madeleine
+        [centres[1], -1, 'germaine', 1.3],
+        [centres[2], -1, 'antoine-ermite', 1.42],
+        [centres[1], 1, 'roch', 1.36],
+        [centres[2], 1, 'madeleine', 1.38],
       ];
-      for (const [x, s, robe, manteau, cheveux] of saints) {
-        auMur(x, yStatue, s * (C.zf - 0.3), s === 1 ? SUD : NORD, () => { console3(mob); statue(mob, 1.35, robe, manteau, cheveux); });
+      for (const [x, s, nom, h] of saints) {
+        auMur(x, yStatue, s * (C.zf - 0.3), s === 1 ? SUD : NORD, () => { console3(mob); figure(mob, nom, h, { prof: 0.55, epais: 0.13 }); });
       }
       // le chemin de croix : il part de la chaire et tourne à l'envers des aiguilles
       const stations = [
@@ -481,66 +564,119 @@
         [centres[1] - 0.92, C.zf, SUD], [centres[1] + 0.92, C.zf, SUD],
         [centres[2] - 0.92, C.zf, SUD], [centres[2] + 0.92, C.zf, SUD], [10.0, C.zf, SUD],
       ];
-      stations.forEach(([x, z, face], i) => auMur(x, yStation, z, face, () => station(mob, scenes[i])));
+      stations.forEach(([x, z, face], i) => auMur(x, yStation - 0.62, z, face, () => station(mob, cas('station-' + (i + 1)))));
 
-      // saint Antoine de Padoue, sur son socle porté par des anges, face à la chaire
+      // saint Antoine de Padoue, sur son socle que portent quatre anges, face à la chaire
       auMur(11.55, 0, 2.2, SUD, () => {
-        mob.tour(0, 0, [[0.34, 0], [0.34, 0.25], [0.2, 0.4], [0.2, 1.1]], [T.creme, T.or, T.creme], 0, { segments: 8 });
-        for (const a of [45, 135, 225, 315]) {
-          mob.placer(0.26 * Math.cos(a * Math.PI / 180), 1.1, 0.26 * Math.sin(a * Math.PI / 180), 0, 1, () => statue(mob, 0.85, '#d9c9a8', '#e6dcc4', '#b08a4a'));
+        mob.tour(0, 0, [[0.4, 0], [0.4, 0.12], [0.3, 0.2], [0.3, 0.34], [0.2, 0.42]], [T.pierre, T.creme, '#d9a87a', T.or], 0, { segments: 6 });
+        mob.tour(0, 0, [[0.13, 0.42], [0.13, 1.08]], '#e6c9a0', 0, { segments: 6 });
+        for (const a of [30, 150, 270]) {
+          const ra = a * Math.PI / 180;
+          mob.tour(0.2 * Math.cos(ra), 0.2 * Math.sin(ra), [[0.05, 0.42], [0.04, 0.5], [0.04, 1.0], [0.06, 1.08]], [T.or, '#e6dcc4', T.or], 0, { segments: 5 });
         }
-        mob.tour(0, 0, [[0.4, 1.95], [0.42, 2.1], [0.3, 2.2]], [T.or, T.creme], 0, { segments: 8 });
-        mob.placer(0, 2.2, 0, 0, 1, () => statue(mob, 1.4, '#6b4a2f', '#8a6a3f', '#5a3b24'));
+        mob.tour(0, 0, [[0.2, 1.08], [0.3, 1.16], [0.32, 1.3], [0.22, 1.36]], [T.or, '#d9a87a', T.creme], 0, { segments: 6 });
+        // les anges, bras levés, qui portent le plateau
+        mob.placer(0, 1.34, 0, 0, 1, () => figure(mob, 'anges-padoue', 0.86, { prof: 0.9, epais: 0.27 }));
+        mob.tour(0, 0, [[0.3, 2.16], [0.4, 2.22], [0.4, 2.3], [0.3, 2.36], [0.24, 2.4]], [T.or, '#3f5f8a', T.or, T.noir], 0, { segments: 10 });
+        mob.disque(0, 2.4, 0, 0.24, T.noir, 0, { segments: 10 });
+        mob.placer(0, 2.4, 0, 0, 1, () => figure(mob, 'antoine-padoue', 1.34, { prof: 0.55, epais: 0.13 }));
       });
 
       // le diable du bénitier, les quatre anges au-dessus : à gauche en entrant
       auMur(0.55, 0, 2.15, -135, () => {
-        mob.tour(0, 0, [[0.36, 0], [0.4, 0.35], [0.3, 0.7], [0.2, 0.86], [0.14, 0.98], [0.16, 1.08], [0, 1.12]],
-          ['#5d6b46', '#7d4a33', '#8a4a33', '#8a4a33', '#6a3a2a', '#3a2a22'], 0, { segments: 9, ez: 0.9 });
-        for (const dx of [-0.07, 0.07]) mob.tour(dx, 0.02, [[0.035, 1.08], [0, 1.24]], '#3a2a22', 0, { segments: 5 });
-        mob.tour(0, 0, [[0.1, 1.12], [0.42, 1.28], [0.44, 1.36], [0, 1.3]], [T.marbre, T.marbre, '#9db6c9'], 0, { segments: 10 });
-        mob.boite(-0.4, 1.5, -0.3, 0.4, 1.72, 0.3, T.or, 0);
-        mob.boite(-0.14, 1.53, 0.3, 0.14, 1.69, 0.32, '#a8322a', 0);
-        for (const [dx, dzz] of [[-0.24, 0.1], [0.24, 0.1], [-0.13, -0.12], [0.13, -0.12]]) {
-          mob.placer(dx, 1.72, dzz, 0, 1, () => statue(mob, 0.9, dx < 0 ? '#5f9aa0' : '#d9a05a', dzz > 0 ? '#e6d9b8' : '#8fb0a0', '#c9a05a'));
-        }
-        mob.placer(0, 2.6, -0.1, 0, 1, () => croix(mob, 0.75, 0.42, 0.07, T.or));
+        // le démon ployé sous la vasque
+        mob.placer(0, 0, 0.02, 0, 1, () => figure(mob, 'diable', 1.16, { prof: 0.8, epais: 0.3 }));
+        // la vasque : une coquille
+        mob.tour(0, 0.06, [[0.12, 1.08], [0.4, 1.14], [0.46, 1.22], [0.44, 1.24], [0, 1.18]], ['#8d8f8a', '#b9bbb5', '#d6d4cc', '#9db6c9'], 0, { segments: 10, ez: 0.8 });
+        // les deux basilics et le cartouche « BS »
+        mob.boite(-0.42, 1.26, -0.3, 0.42, 1.46, 0.26, '#cfc6b0', 0);
+        for (const sx of [-1, 1]) mob.tour(sx * 0.2, 0.28, [[0.03, 1.27], [0.1, 1.31], [0.1, 1.39], [0.03, 1.44]], ['#c9a03c', '#5d8a6a', '#c9a03c'], 0, { segments: 6, ex: 1.6 });
+        mob.medaillon([0, 1.37, 0.33], 0.075, [0, 1], '#a8322a', 0, 10);
+        // « Par ce signe tu le vaincras »
+        mob.boite(-0.48, 1.46, -0.3, 0.48, 1.52, 0.3, T.or, 0);
+        mob.boite(-0.44, 1.52, -0.28, 0.44, 1.66, 0.28, '#d6cfbd', 0);
+        // les quatre anges qui font le signe de croix, et la croix qui les domine
+        mob.placer(0, 1.66, 0.02, 0, 1, () => figure(mob, 'anges-benitier', 1.08, { prof: 0.8, epais: 0.26 }));
+        mob.placer(0.04, 2.66, -0.12, 0, 1, () => figure(mob, 'croix-benitier', 0.56, { prof: 0.3, epais: 0.035 }));
       });
 
       // les fonts baptismaux : Jean baptise le Christ, face au diable
       auMur(1.35, 0, -2.35, NORD, () => {
-        mob.boite(-0.75, 0, -0.5, 0.75, 0.95, 0.45, T.creme, 0, 'y-');
-        mob.tour(0, 0.75, [[0.18, 0], [0.14, 0.5], [0.4, 0.8], [0.42, 0.92], [0, 0.88]], [T.marbre, T.marbre, T.or, '#9db6c9'], 0, { segments: 9 });
-        mob.placer(0.3, 0.95, -0.15, 0, 1, () => statue(mob, 1.4, '#8a6a3f', '#a8563c', '#5a3b24'));
-        mob.placer(-0.28, 0.95, -0.1, 0, 1, () => statue(mob, 0.95, '#e2b99a', '#d9d4c4', '#5a3b24'));
+        mob.boite(-0.62, 0, -0.5, 0.62, 0.78, 0.3, '#d9d2bf', 0, 'y-');
+        mob.boite(-0.68, 0.78, -0.5, 0.68, 0.88, 0.36, T.creme, 0);
+        mob.boite(-0.5, 0.88, -0.45, 0.5, 0.98, 0.22, '#cfc9b8', 0);
+        mob.boite(-0.17, 0.12, 0.3, 0.17, 0.66, 0.31, '#3a3226', 0, 'z-');          // la porte de la cuve
+        for (const sx of [-1, 1]) mob.boite(sx * 0.4 - 0.08, 0.3, 0.3, sx * 0.4 + 0.08, 0.5, 0.31, T.or, 0, 'z-');   // l'alpha et l'oméga
+        mob.placer(0, 0.98, -0.12, 0, 1, () => figure(mob, 'bapteme', 1.5, { prof: 0.7, epais: 0.3 }));
         for (const x of [-1.1, -0.55, 0, 0.55, 1.1]) mob.boite(x - 0.02, 0, 1.0, x + 0.02, 1.0, 1.04, '#5f9aa0', 0);
         mob.boite(-1.12, 0.96, 1.0, 1.12, 1.02, 1.04, '#5f9aa0', 0);
       });
 
       // le confessionnal, au milieu du mur du fond ; au-dessus, le Sermon sur la montagne
       auMur(0.04, 0, 0, OUEST, () => {
-        mob.boite(-0.85, 0, 0, 0.85, 2.45, 0.9, T.bois, 6, 'y- z-');
-        mob.boite(-0.4, 0.2, 0.9, 0.4, 2.2, 0.94, '#4f3219', 6);
-        mob.tri([-0.95, 2.45, 0.92], [0.95, 2.45, 0.92], [0, 3.15, 0.92], T.bois, 6);
-        mob.tri([0.95, 2.45, 0.0], [-0.95, 2.45, 0.0], [0, 3.15, 0.0], T.bois, 6);
-        mob.quad([-0.95, 2.45, 0.92], [0, 3.15, 0.92], [0, 3.15, 0], [-0.95, 2.45, 0], T.bois, 6, true);
-        mob.quad([0, 3.15, 0.92], [0.95, 2.45, 0.92], [0.95, 2.45, 0], [0, 3.15, 0], T.bois, 6, true);
-        // le relief : un tertre fleuri, le Christ au sommet, les affligés autour
-        mob.tour(0, -0.3, [[2.1, 3.0], [1.6, 3.35], [0.9, 3.9], [0.3, 4.2], [0, 4.22]], ['#8a8a5a', '#7f9460', '#8f9a6a', '#9aa070'], 8, { segments: 10, a0: 0, a1: 180, ez: 0.3 });
-        mob.placer(0, 4.2, -0.12, 0, 1, () => statue(mob, 1.25, '#e6dcc4', '#c96a5a', '#5a3b24'));
-        const foule = [[-1.5, 3.25, '#5f8fa0'], [-1.0, 3.5, '#c98a7a'], [-0.5, 3.8, '#8a6a9a'], [0.55, 3.8, '#a8563c'], [1.05, 3.5, '#5f9a7a'], [1.55, 3.25, '#c9a05a'], [-0.2, 3.3, '#d9d4c4'], [0.3, 3.2, '#7a8fb0']];
-        for (const [dx, y, robe] of foule) mob.placer(dx, y, 0.05, 0, 1, () => statue(mob, 0.75, robe, robe, '#5a3b24'));
+        // le corps du milieu, sa porte à deux jours ovales, et les deux loges plus basses
+        mob.boite(-0.55, 0, 0, 0.55, 2.45, 0.9, T.bois, 6, 'y- z-');
+        mob.boite(-0.4, 0.12, 0.9, 0.4, 2.2, 0.93, '#4f3219', 6, 'z-');
+        for (const sx of [-1, 1]) {
+          mob.medaillon([sx * 0.18, 1.6, 0.94], 0.11, [0, 1], '#cfc6b0', 0, 10);
+          mob.boite(sx * 0.55, 0, 0, sx * 1.15, 2.0, 0.75, T.bois, 6, 'y- z-');
+          mob.boite(sx * 0.62 + (sx === 1 ? 0 : -0.46), 0.1, 0.75, sx * 0.62 + (sx === 1 ? 0.46 : 0), 1.8, 0.76, '#2f1f12', 0, 'z-');
+          for (let k = 0; k < 3; k += 1) {
+            const x0 = sx === 1 ? 0.58 + k * 0.2 : -1.12 + k * 0.2;
+            mob.boite(x0, 2.0, 0.6, x0 + 0.12, 2.12, 0.75, T.bois, 6, 'y-');
+          }
+        }
+        // le gâble et ses fleurons
+        mob.tri([-0.72, 2.45, 0.92], [0.72, 2.45, 0.92], [0, 3.2, 0.92], T.bois, 6);
+        mob.tri([0.72, 2.45, 0.0], [-0.72, 2.45, 0.0], [0, 3.2, 0.0], T.bois, 6);
+        mob.quad([-0.72, 2.45, 0.92], [0, 3.2, 0.92], [0, 3.2, 0], [-0.72, 2.45, 0], T.bois, 6, true);
+        mob.quad([0, 3.2, 0.92], [0.72, 2.45, 0.92], [0.72, 2.45, 0], [0, 3.2, 0], T.bois, 6, true);
+        mob.medaillon([0, 2.68, 0.93], 0.2, [0, 1], '#4f3219', 6, 12);
+        for (const x of [-0.72, 0, 0.72]) {
+          const y = x === 0 ? 3.2 : 2.45;
+          mob.tour(x, 0.86, [[0.04, y], [0.03, y + 0.14], [0.07, y + 0.2], [0, y + 0.3]], T.bois, 0, { segments: 5 });
+        }
+        // le relief du Sermon : le tertre et ses figures sortent du mur
+        const se = cas('sermon');
+        const creux = -0.34 + 0.012;                                   // le fond de l'arcade, vu d'ici
+        const bosse = (u, v) => {
+          const f = (t) => (Math.abs(t) >= 1 ? 0 : (1 - t * t) * (1 - t * t));
+          return creux + 0.4 * f((u - 0.51) / 0.33) * f((v - 0.48) / 0.48);
+        };
+        const pt = (u, v) => [(u - 0.5) * 4.7, 3.5 + (1 - v) * 2.65, bosse(u, v)];
+        const im = (u, v) => [se[0] + (se[2] - se[0]) * u, se[1] + (se[3] - se[1]) * v];
+        const NU = 12, NV = 9;
+        for (let i = 0; i < NU; i += 1) {
+          for (let j = 0; j < NV; j += 1) {
+            const u0 = 0.18 + 0.66 * i / NU, u1 = 0.18 + 0.66 * (i + 1) / NU, v0 = 0.96 * j / NV, v1 = 0.96 * (j + 1) / NV;
+            mob.quad(pt(u0, v1), pt(u1, v1), pt(u1, v0), pt(u0, v0), [se[4], se[5], se[6]], 11, false, [im(u0, v1), im(u1, v1), im(u1, v0), im(u0, v0)]);
+          }
+        }
       });
     }
 
     // la chaire : la neuve en 1891, l'ancienne (et son balustre) avant
     auMur(11.45, 0, -2.0, NORD, () => {
       if (dallage1891) {
-        mob.tour(0, 0, [[0.34, 0], [0.3, 0.2], [0.2, 0.35], [0.22, 1.3], [0.78, 1.75], [0.8, 1.85]], [T.creme, T.or, '#c98f7c', T.or, '#7a3b3b'], 0, { segments: 8 });
-        mob.tour(0, 0, [[0.8, 1.85], [0.8, 2.75], [0.84, 2.82], [0.7, 2.82]], ['#cfe0e0', T.or, '#7a3b3b'], 9, { segments: 8 });
-        mob.disque(0, 1.86, 0, 0.78, T.bois, 6, { segments: 8 });
+        // le pied, la cuve à six pans et ses figures sur fond d'or, le dorsal, l'abat-voix
+        mob.tour(0, 0, [[0.36, 0], [0.32, 0.2], [0.2, 0.35], [0.17, 0.75], [0.24, 0.82], [0.22, 1.3], [0.78, 1.75], [0.82, 1.85]],
+          [T.creme, T.or, '#c98f7c', T.or, '#d9a87a', T.or, '#7a3b3b'], 0, { segments: 6 });
+        mob.tour(0, 0, [[0.82, 1.85], [0.8, 1.93], [0.8, 2.72], [0.85, 2.8], [0.72, 2.8]], [T.or, '#b9cdd0', T.or, '#7a3b3b'], 0, { segments: 6 });
+        mob.disque(0, 1.86, 0, 0.78, T.bois, 6, { segments: 6 });
+        for (const a of [-120, -60, 0, 60, 120]) {
+          mob.placer(0, 0, 0, a, 1, () => {
+            mob.boite(-0.24, 2.0, 0.693, 0.24, 2.5, 0.705, T.or, 0, 'z-');
+            mob.medaillon([0, 2.5, 0.705], 0.24, [0, 1], T.or, 0, 10);
+            mob.tour(0, 0.71, [[0.1, 2.02], [0.07, 2.3], [0.08, 2.42], [0.05, 2.52], [0, 2.6]], ['#8a4a3a', '#3f5f8a', T.peau, '#5a3b24'], 0, { segments: 5, a0: 0, a1: 180, ez: 0.5 });
+          });
+        }
         mob.boite(-0.5, 2.8, -0.68, 0.5, 4.2, -0.6, '#7a8fb0', 0);
-        mob.tour(0, -0.1, [[0, 4.2], [0.85, 4.2], [0.88, 4.42], [0.5, 4.7], [0.25, 5.3], [0.03, 5.75]], [T.bois, T.or, '#c98f7c', T.or, T.or], 0, { segments: 8 });
+        mob.boite(-0.24, 3.0, -0.6, 0.24, 3.95, -0.59, T.or, 0, 'z-');
+        mob.tour(0, -0.1, [[0, 4.2], [0.85, 4.2], [0.88, 4.42], [0.5, 4.7], [0.25, 5.3], [0.03, 5.75]], [T.bois, T.or, '#c98f7c', T.or, T.or], 0, { segments: 6 });
+        for (let k = 0; k < 6; k += 1) {
+          const a = k * Math.PI / 3;
+          mob.tour(0.82 * Math.cos(a), -0.1 + 0.82 * Math.sin(a), [[0.05, 4.05], [0.06, 4.45], [0, 4.75]], T.or, 0, { segments: 4 });
+        }
         mob.placer(0, 5.75, -0.1, 0, 1, () => statue(mob, 0.5, T.or, T.or, T.or));
       } else {
         mob.tour(0, 0, [[0.16, 0], [0.1, 0.25], [0.14, 0.7], [0.09, 1.05], [0.6, 1.5], [0.6, 2.5]], [T.bois, T.bois, T.bois, T.boisClair, T.boisClair], 6, { segments: 6 });
@@ -559,18 +695,25 @@
     if (autel1887) {
       auMur(C.xa + 1.55, 0.15, 0, EST, () => {
         mob.boite(-1.5, 0, -0.5, 1.5, 0.16, 0.9, T.pierre, 0, 'y-');
-        mob.boite(-1.15, 0.16, -0.35, 1.15, 1.15, 0.45, T.creme, 0, 'y-');
-        mob.boite(-0.42, 0.3, 0.45, 0.42, 1.0, 0.48, '#7a5a3a', 0);              // le bas-relief de la Madeleine
-        mob.boite(-0.2, 0.36, 0.48, 0.12, 0.8, 0.5, '#d9b45a', 0);
-        for (const dx of [-0.85, 0.85]) mob.boite(dx - 0.14, 0.34, 0.45, dx + 0.14, 0.98, 0.47, T.or, 0);
-        mob.boite(-1.22, 1.15, -0.4, 1.22, 1.22, 0.5, T.marbre, 0);
-        mob.boite(-1.15, 1.22, -0.4, 1.15, 1.5, -0.05, T.creme, 0);
-        mob.boite(-0.85, 1.5, -0.4, 0.85, 1.78, -0.1, T.or, 0);
-        mob.boite(-0.28, 1.22, -0.4, 0.28, 2.1, 0.0, T.creme, 0);
-        mob.tri([-0.34, 2.1, 0.0], [0.34, 2.1, 0.0], [0, 2.5, 0.0], T.or, 0);
-        mob.tri([0.34, 2.1, -0.4], [-0.34, 2.1, -0.4], [0, 2.5, -0.4], T.or, 0);
-        mob.placer(0, 2.5, -0.2, 0, 1, () => croix(mob, 0.6, 0.3, 0.05, T.or));
-        for (const dx of [-0.95, -0.65, 0.65, 0.95]) mob.tour(dx, -0.25, [[0.05, 1.5], [0.02, 1.6], [0.02, 2.0], [0.04, 2.02]], T.or, 0, { segments: 5 });
+        // le tombeau : la Madeleine en prière dans sa grotte, entre deux arcades d'or
+        mob.boite(-1.15, 0.16, -0.35, 1.15, 1.37, 0.45, '#d6d2c6', 0, 'y- z+');
+        mob.tableau([-1.15, 0.16, 0.45], [1.15, 0.16, 0.45], [1.15, 1.37, 0.45], [-1.15, 1.37, 0.45], cas('autel-bas'));
+        // le retable : ses gradins peints, le tabernacle au milieu
+        mob.boite(-1.1, 1.37, -0.4, 1.1, 2.24, -0.02, '#cfc6b0', 0, 'y- z+');
+        mob.tableau([-1.1, 1.37, -0.02], [1.1, 1.37, -0.02], [1.1, 2.24, -0.02], [-1.1, 2.24, -0.02], cas('autel-retable'));
+        // le gâble du tabernacle, sa flèche, la croix
+        mob.boite(-0.27, 2.24, -0.36, 0.27, 2.36, -0.04, T.creme, 0, 'y-');
+        mob.tri([-0.33, 2.36, -0.04], [0.33, 2.36, -0.04], [0, 2.72, -0.04], T.or, 0);
+        mob.tri([0.33, 2.36, -0.36], [-0.33, 2.36, -0.36], [0, 2.72, -0.36], T.or, 0);
+        mob.quad([-0.33, 2.36, -0.04], [0, 2.72, -0.04], [0, 2.72, -0.36], [-0.33, 2.36, -0.36], '#b9914a', 0, true);
+        mob.quad([0, 2.72, -0.04], [0.33, 2.36, -0.04], [0.33, 2.36, -0.36], [0, 2.72, -0.36], '#b9914a', 0, true);
+        mob.tour(0, -0.2, [[0.1, 2.6], [0.11, 2.86], [0.14, 2.9], [0.05, 3.2], [0, 3.34]], [T.creme, T.or, '#b9914a', T.or], 0, { segments: 6 });
+        mob.placer(0, 3.3, -0.2, 0, 1, () => croix(mob, 0.4, 0.2, 0.04, T.or));
+        // les six chandeliers
+        for (const dx of [-0.98, -0.72, -0.46, 0.46, 0.72, 0.98]) {
+          mob.tour(dx, -0.2, [[0.07, 2.24], [0.03, 2.32], [0.045, 2.4], [0.02, 2.46], [0.02, 2.74], [0.05, 2.76], [0.012, 2.78], [0.012, 3.0]],
+            [T.or, T.or, T.or, T.or, T.or, T.or, T.creme], 0, { segments: 5 });
+        }
       });
     } else {
       // l'ancien autel : une table sur deux piliers, dont le pilier sculpté
@@ -586,10 +729,10 @@
       // saint Joseph au nord, la Vierge au sud : chacun porte un Enfant
       for (const s of [-1, 1]) {
         const a = s * 62 * Math.PI / 180;
-        auMur(C.xa + (C.ra - 0.3) * Math.cos(a), 2.3, (C.ra - 0.3) * Math.sin(a), s * 62 + 90, () => {
-          console3(mob, 1.75);
-          statue(mob, 1.4, s === 1 ? '#3f5f9a' : '#8a6a3f', s === 1 ? '#e6dcc4' : '#c9a03c', '#5a3b24');
-          mob.placer(0.17, 0.85, 0.12, 0, 1, () => statue(mob, 0.42, '#e6dcc4', '#e6dcc4', '#b08a4a'));
+        // tournés vers les fidèles plus que vers l'autel
+        auMur(C.xa + (C.ra - 0.3) * Math.cos(a), 2.3, (C.ra - 0.3) * Math.sin(a), s * 22 + 90, () => {
+          console3(mob, 1.62);
+          figure(mob, s === 1 ? 'marie' : 'joseph', s === 1 ? 1.34 : 1.38, { prof: 0.55, epais: 0.13 });
         });
       }
     }
@@ -628,13 +771,13 @@
     repere(1897, 9999, { id: 'sermon', nom: 'Le Sermon sur la montagne', p: [0.5, 4.6, 0], ou: 'dedans', fiche: 'bas-relief-du-sermon', vue: 'fond',
       texte: '« Venez à moi… » : le grand relief peint du mur du fond, au-dessus du confessionnal.' });
     repere(1897, 9999, { id: 'stations', nom: 'Le chemin de croix', p: [centres[1] - 0.92, 3.1, -C.zf + 0.2], ou: 'dedans', fiche: 'chemin-de-croix',
-      texte: 'Quatorze stations. Elles partent de la chaire, longent le mur nord vers le fond, et reviennent par le sud : à l’envers des aiguilles d’une montre.' });
+      texte: 'Quatorze stations. Elles partent de la chaire, longent le mur nord vers le fond, et reviennent par le sud : à l’envers des aiguilles d’une montre. La première, près de la chaire, n’est sur aucune des photographies dont la maquette est tirée : son cadre y reste nu.' });
     repere(1897, 9999, { id: 'germaine', nom: 'Sainte Germaine', p: [centres[1], 4.1, -C.zf + 0.4], ou: 'dedans', fiche: 'statues-de-l-eglise',
-      texte: 'Sainte Germaine de Pibrac, face à saint Roch.' });
+      texte: 'Sainte Germaine de Pibrac, les roses dans son tablier et l’agneau contre elle, face à saint Roch.' });
     repere(1897, 9999, { id: 'antoine-ermite', nom: 'Saint Antoine ermite', p: [centres[2], 4.1, -C.zf + 0.4], ou: 'dedans', fiche: 'statues-de-l-eglise',
       texte: 'Fêté le 17 janvier. Sa fenêtre est aveugle : le clocher est derrière.' });
     repere(1897, 9999, { id: 'roch', nom: 'Saint Roch', p: [centres[1], 4.1, C.zf - 0.4], ou: 'dedans', fiche: 'statues-de-l-eglise',
-      texte: 'Saint Roch, entre les stations X et XI.' });
+      texte: 'Saint Roch, son chien à ses pieds, entre les stations X et XI.' });
     repere(1897, 9999, { id: 'madeleine', nom: 'Sainte Marie-Madeleine', p: [centres[2], 4.1, C.zf - 0.4], ou: 'dedans', fiche: 'statues-de-l-eglise',
       texte: 'La patronne de l’église, la croix dans les bras, un crâne à ses pieds.' });
     repere(1897, 9999, { id: 'antoine-padoue', nom: 'Saint Antoine de Padoue', p: [11.55, 3.7, 2.2], ou: 'dedans', fiche: 'statues-de-l-eglise',
@@ -688,6 +831,7 @@
 
     return {
       annee: an,
+      image: DEC.image,
       groupes: { abords, ext, int, sol, mobilier: mob, traces, crypte },
       reperes: R,
       vues,

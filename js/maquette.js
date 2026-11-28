@@ -19,11 +19,16 @@
  */
 (function (racine) {
 
+  /* D'où ce fichier est servi : l'image du décor se cherche à partir de là. */
+  const ICI = (typeof document !== 'undefined' && document.currentScript && document.currentScript.src) || '';
+
   /* ══════════════ L'atelier de géométrie ══════════════ */
 
   const MATIERES = {
     uni: 0, moellon: 1, tuile: 2, damier: 3, appareil: 4, ciel: 5,
     bois: 6, vitrail: 7, sol: 8, decor: 9, dalles: 10,
+    image: 11,           // un morceau de photographie, plaqué (voir `tableau`, `plaque`, `silhouette`)
+    verreImage: 12,      // le même, lumineux : un vitrail
   };
 
   const teintes = {};
@@ -40,6 +45,7 @@
     this.pos = [];
     this.nor = [];
     this.cou = [];       // r, v, b, matière — un octet chacun
+    this.uv = [];        // où l'on est dans l'image du décor (0, 0 hors des matières 11 et 12)
     this.pile = [];
     this.t = { c: 1, s: 0, e: 1, x: 0, y: 0, z: 0 };
   }
@@ -65,7 +71,8 @@
     return [t.x + x * t.c - z * t.s, t.y + p[1] * t.e, t.z + x * t.s + z * t.c];
   };
 
-  M.tri = function (a, b, c, couleur, matiere) {
+  /* `uv` : pour les matières à image, les trois points de l'image [[u, v] × 3]. */
+  M.tri = function (a, b, c, couleur, matiere, uv) {
     a = this._p(a); b = this._p(b); c = this._p(c);
     const ux = b[0] - a[0], uy = b[1] - a[1], uz = b[2] - a[2];
     const vx = c[0] - a[0], vy = c[1] - a[1], vz = c[2] - a[2];
@@ -75,17 +82,119 @@
     nx /= l; ny /= l; nz /= l;
     const k = teinte(couleur);
     const m = typeof matiere === 'number' ? matiere : (MATIERES[matiere] || 0);
-    for (const p of [a, b, c]) {
+    const pts = [a, b, c];
+    for (let i = 0; i < 3; i += 1) {
+      const p = pts[i];
       this.pos.push(p[0], p[1], p[2]);
       this.nor.push(nx, ny, nz);
       this.cou.push(k[0], k[1], k[2], m);
+      if (uv) this.uv.push(uv[i][0], uv[i][1]); else this.uv.push(0, 0);
     }
   };
 
+  /*
+   * ── Les images ──
+   * Une « case » est un morceau de l'image du décor : [u0, v0, u1, v1, r, v, b]
+   * (les coins, puis la couleur moyenne — c'est elle qu'on voit tant que
+   * l'image n'est pas arrivée, et dans les fichiers exportés).
+   */
+
+  /* Un tableau : quatre points, vus de face — bas gauche, bas droit, haut
+   * droit, haut gauche. */
+  M.tableau = function (a, b, c, d, cas, matiere) {
+    const m = matiere === undefined ? 11 : matiere;
+    const k = [cas[4], cas[5], cas[6]];
+    const A = [cas[0], cas[3]], B = [cas[2], cas[3]], C = [cas[2], cas[1]], D = [cas[0], cas[1]];
+    this.tri(a, b, c, k, m, [A, B, C]);
+    this.tri(a, c, d, k, m, [A, C, D]);
+  };
+
+  /*
+   * Une plaque découpée, debout, tournée vers z+ : `contour` est son pourtour
+   * dans l'image ([[u, v], …] de 0 à 1, v vers le bas), `l` et `h` sa taille,
+   * `ep` son épaisseur. Elle est posée sur y = 0, centrée sur x = 0, adossée à z = 0.
+   */
+  M.plaque = function (contour, cas, l, h, ep, matiere) {
+    const mat = matiere === undefined ? 11 : matiere;
+    const k = [cas[4], cas[5], cas[6]];
+    let pts = contour.map(([u, v]) => [(u - 0.5) * l, (1 - v) * h, u, v]);
+    let aire = 0;
+    for (let i = 0; i < pts.length; i += 1) { const a = pts[i], b = pts[(i + 1) % pts.length]; aire += a[0] * b[1] - b[0] * a[1]; }
+    if (aire < 0) pts = pts.reverse();
+    const uv = (p) => [cas[0] + (cas[2] - cas[0]) * p[2], cas[1] + (cas[3] - cas[1]) * p[3]];
+    for (const [a, b, c] of trianguler(pts)) {
+      const A = pts[a], B = pts[b], C = pts[c];
+      const sens = (B[0] - A[0]) * (C[1] - A[1]) - (B[1] - A[1]) * (C[0] - A[0]);
+      const [P, Q, R] = sens >= 0 ? [A, B, C] : [A, C, B];
+      this.tri([P[0], P[1], ep], [Q[0], Q[1], ep], [R[0], R[1], ep], k, mat, [uv(P), uv(Q), uv(R)]);
+    }
+    for (let i = 0; i < pts.length; i += 1) {
+      const a = pts[i], b = pts[(i + 1) % pts.length];
+      this.tri([a[0], a[1], 0], [b[0], b[1], 0], [b[0], b[1], ep], k, mat, [uv(a), uv(b), uv(b)]);
+      this.tri([a[0], a[1], 0], [b[0], b[1], ep], [a[0], a[1], ep], k, mat, [uv(a), uv(b), uv(a)]);
+    }
+  };
+
+  /*
+   * Une statue tirée de sa silhouette : `forme` est [[v, gauche, droite], …],
+   * du haut vers le bas, dans sa case. À chaque hauteur, une section en
+   * ellipse, large comme la silhouette et profonde à proportion (`prof`, jamais
+   * plus que `epais` mètres) ; la photographie est projetée de face. Debout sur
+   * y = 0, haute de `h`, tournée vers z+. Rend sa largeur.
+   */
+  M.silhouette = function (forme, cas, h, options) {
+    const o = options || {};
+    const N = o.segments || 10;
+    const prof = o.prof === undefined ? 0.62 : o.prof;
+    const du = cas[2] - cas[0], dv = cas[3] - cas[1];
+    const l = h * du / dv;                 // l'image du décor est carrée
+    const epais = o.epais === undefined ? 0.2 * h : o.epais;
+    const k = [cas[4], cas[5], cas[6]];
+    const rangs = forme.map(([v, g, d]) => {
+      const a = (d - g) / 2 * l;
+      return { y: (1 - v) * h, cx: ((g + d) / 2 - 0.5) * l, a, b: Math.max(0.01, Math.min(a * prof, epais)) };
+    });
+    /* Un point de la section, et où il prend sa couleur : la photographie est
+     * en partie projetée de face (le cosinus), en partie enroulée (l'angle) —
+     * de face elle reste juste, et les flancs ne sont pas une seule colonne
+     * de pixels étirée. Le dos reprend le devant, en miroir. */
+    const point = (r, t) => {
+      const devant = t <= Math.PI ? t : 2 * Math.PI - t;
+      const x = r.cx + r.a * (0.55 * Math.cos(devant) + 0.45 * (1 - 2 * devant / Math.PI));
+      return [r.cx + r.a * Math.cos(t), r.y, r.b * Math.sin(t), x];
+    };
+    const dans = (t) => Math.max(0, Math.min(1, t));          // la calotte dépasse la case : elle en prend le bord
+    const uv = (p) => [cas[0] + du * dans((p.length > 3 ? p[3] : p[0]) / l + 0.5), cas[1] + dv * dans(1 - p[1] / h)];
+    const dehors = (a, b, c, centre) => {
+      // on tourne le triangle pour qu'il regarde hors de la statue
+      const ux = b[0] - a[0], uy = b[1] - a[1], uz = b[2] - a[2], vx = c[0] - a[0], vy = c[1] - a[1], vz = c[2] - a[2];
+      const nx = uy * vz - uz * vy, ny = uz * vx - ux * vz, nz = ux * vy - uy * vx;
+      const gx = (a[0] + b[0] + c[0]) / 3 - centre[0], gy = (a[1] + b[1] + c[1]) / 3 - centre[1], gz = (a[2] + b[2] + c[2]) / 3;
+      if (nx * gx + ny * gy + nz * gz >= 0) this.tri(a, b, c, k, 11, [uv(a), uv(b), uv(c)]);
+      else this.tri(a, c, b, k, 11, [uv(a), uv(c), uv(b)]);
+    };
+    for (let i = 0; i < rangs.length - 1; i += 1) {
+      const r0 = rangs[i], r1 = rangs[i + 1];
+      const centre = [(r0.cx + r1.cx) / 2, (r0.y + r1.y) / 2];
+      for (let j = 0; j < N; j += 1) {
+        const t0 = 2 * Math.PI * j / N, t1 = 2 * Math.PI * (j + 1) / N;
+        const A = point(r0, t0), B = point(r0, t1), C = point(r1, t1), D = point(r1, t0);
+        dehors(A, B, C, centre); dehors(A, C, D, centre);
+      }
+    }
+    // le dessus : une calotte basse
+    const r = rangs[0];
+    const sommet = [r.cx, r.y + Math.min(r.a, r.b) * 0.6, 0, r.cx];
+    for (let j = 0; j < N; j += 1) {
+      dehors(sommet, point(r, 2 * Math.PI * j / N), point(r, 2 * Math.PI * (j + 1) / N), [r.cx, r.y - 1]);
+    }
+    return l;
+  };
+
   /* Quatre points, dans le sens inverse des aiguilles vus de face. */
-  M.quad = function (a, b, c, d, couleur, matiere, deuxFaces) {
-    this.tri(a, b, c, couleur, matiere);
-    this.tri(a, c, d, couleur, matiere);
+  M.quad = function (a, b, c, d, couleur, matiere, deuxFaces, uv) {
+    this.tri(a, b, c, couleur, matiere, uv && [uv[0], uv[1], uv[2]]);
+    this.tri(a, c, d, couleur, matiere, uv && [uv[0], uv[2], uv[3]]);
     if (deuxFaces) { this.tri(c, b, a, couleur, matiere); this.tri(d, c, a, couleur, matiere); }
   };
 
@@ -107,7 +216,8 @@
    *   { u, l, bas, haut, cintre, prof, fond, fondMatiere, joue, joueMatiere }
    * u : le milieu de la baie, en mètres depuis A ; l : sa largeur ; `prof` : la
    * profondeur de l'ébrasement ; `fond` : la couleur de ce qui la ferme (rien si
-   * absent : on voit au travers).
+   * absent : on voit au travers) ; `image` : une case de l'image du décor, à
+   * plaquer sur ce fond.
    */
   M.paroi = function (A, B, y0, y1, couleur, matiere, baies, toit) {
     const L = Math.hypot(B[0] - A[0], B[1] - A[1]);
@@ -160,10 +270,14 @@
       }
       if (b.fond) {
         const m = b.fondMatiere || 0;
-        this.quad(pt(uG, b.bas, prof), pt(uD, b.bas, prof), pt(uD, naissance, prof), pt(uG, naissance, prof), b.fond, m);
+        const im = b.image;
+        const uv = im ? (x, y) => [im[0] + (im[2] - im[0]) * (x - uG) / (uD - uG), im[1] + (im[3] - im[1]) * (haut - y) / (haut - b.bas)] : null;
+        this.quad(pt(uG, b.bas, prof), pt(uD, b.bas, prof), pt(uD, naissance, prof), pt(uG, naissance, prof), b.fond, m, false,
+          uv && [uv(uG, b.bas), uv(uD, b.bas), uv(uD, naissance), uv(uG, naissance)]);
         if (b.cintre) {
           for (let k = 0; k < N; k += 1) {
-            this.tri(pt(b.u, naissance, prof), pt(arc[k + 1][0], arc[k + 1][1], prof), pt(arc[k][0], arc[k][1], prof), b.fond, m);
+            this.tri(pt(b.u, naissance, prof), pt(arc[k + 1][0], arc[k + 1][1], prof), pt(arc[k][0], arc[k][1], prof), b.fond, m,
+              uv && [uv(b.u, naissance), uv(arc[k + 1][0], arc[k + 1][1]), uv(arc[k][0], arc[k][1])]);
           }
         }
       }
@@ -351,10 +465,11 @@
 
   /* Verse un autre maillage dans celui-ci, là où l'on est placé (voir `placer`). */
   M.verser = function (autre) {
-    const p = autre.pos, c = autre.cou;
+    const p = autre.pos, c = autre.cou, t = autre.uv;
     for (let i = 0; i < p.length; i += 9) {
-      const k = (i / 3) * 4;
-      this.tri([p[i], p[i + 1], p[i + 2]], [p[i + 3], p[i + 4], p[i + 5]], [p[i + 6], p[i + 7], p[i + 8]], [c[k], c[k + 1], c[k + 2]], c[k + 3]);
+      const k = (i / 3) * 4, j = (i / 3) * 2;
+      this.tri([p[i], p[i + 1], p[i + 2]], [p[i + 3], p[i + 4], p[i + 5]], [p[i + 6], p[i + 7], p[i + 8]], [c[k], c[k + 1], c[k + 2]], c[k + 3],
+        [[t[j], t[j + 1]], [t[j + 2], t[j + 3]], [t[j + 4], t[j + 5]]]);
     }
   };
 
@@ -399,11 +514,11 @@
   /* ══════════════ La visionneuse ══════════════ */
 
   const SOMMETS = [
-    'attribute vec3 aPos; attribute vec3 aNor; attribute vec4 aCou;',
+    'attribute vec3 aPos; attribute vec3 aNor; attribute vec4 aCou; attribute vec2 aUV;',
     'uniform mat4 uVue;',
-    'varying vec3 vPos; varying vec3 vNor; varying vec3 vCou; varying float vMat; varying float vLoin;',
+    'varying vec3 vPos; varying vec3 vNor; varying vec3 vCou; varying float vMat; varying float vLoin; varying vec2 vUV;',
     'void main() {',
-    '  vPos = aPos; vNor = aNor; vCou = aCou.rgb; vMat = aCou.a * 255.0;',
+    '  vPos = aPos; vNor = aNor; vCou = aCou.rgb; vMat = aCou.a * 255.0; vUV = aUV;',
     '  gl_Position = uVue * vec4(aPos, 1.0);',
     '  vLoin = gl_Position.w;',
     '}',
@@ -416,7 +531,8 @@
     'precision mediump float;',
     '#endif',
     'uniform vec3 uSoleil; uniform vec3 uLum; uniform vec3 uAmb; uniform vec3 uFond; uniform float uBrume; uniform float uVerre;',
-    'varying vec3 vPos; varying vec3 vNor; varying vec3 vCou; varying float vMat; varying float vLoin;',
+    'uniform sampler2D uDecor; uniform float uImage;',
+    'varying vec3 vPos; varying vec3 vNor; varying vec3 vCou; varying float vMat; varying float vLoin; varying vec2 vUV;',
     'float h(vec2 p) { return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453); }',
     'float bruit(vec2 p) { vec2 i = floor(p); vec2 f = fract(p); f = f * f * (3.0 - 2.0 * f);',
     '  return mix(mix(h(i), h(i + vec2(1.0, 0.0)), f.x), mix(h(i + vec2(0.0, 1.0)), h(i + vec2(1.0, 1.0)), f.x), f.y); }',
@@ -475,6 +591,12 @@
     '    vec2 q = vPos.xz * vec2(1.5, 2.1); q.x += 0.5 * mod(floor(q.y), 2.0); vec2 f = fract(q);',
     '    c *= 0.88 + 0.18 * h(floor(q));',
     '    c *= 1.0 - 0.3 * (1.0 - smoothstep(0.0, 0.04, min(min(f.x, 1.0 - f.x), min(f.y, 1.0 - f.y))));',
+    '  } else if (est(11.0)) {',                           // une photographie : elle porte déjà sa lumière
+    '    if (uImage > 0.5) c = texture2D(uDecor, vUV).rgb;',
+    '    eclaire = 0.45;',
+    '  } else if (est(12.0)) {',                           // un vitrail photographié
+    '    if (uImage > 0.5) c = texture2D(uDecor, vUV).rgb * 1.2;',
+    '    c *= uVerre; eclaire = 0.0;',
     '  }',
     '  float d = max(dot(n, uSoleil), 0.0);',
     '  vec3 ciel = uAmb * (0.72 + 0.28 * n.y);',
@@ -505,7 +627,9 @@
 
   /*
    * Pose la maquette dans `cadre`. Options :
-   *   modele    — ce que rend `Eglise.construire(annee)` (ou tout objet de même forme) ;
+   *   modele    — ce que rend `Eglise.construire(annee)` (ou tout objet de même forme ;
+   *               son champ `image`, s'il en a un, est l'image du décor, cherchée
+   *               depuis la racine du site) ;
    *   construire(annee) — à défaut de `modele`, de quoi le rebâtir quand l'époque change ;
    *   annee, epoques [{ annee, nom }] — l'état montré, et ceux qu'on peut choisir ;
    *   vue       — le nom d'un point de vue du modèle ;
@@ -552,11 +676,14 @@
     gl.bindAttribLocation(prog, 0, 'aPos');
     gl.bindAttribLocation(prog, 1, 'aNor');
     gl.bindAttribLocation(prog, 2, 'aCou');
+    gl.bindAttribLocation(prog, 3, 'aUV');
     gl.linkProgram(prog);
     if (!gl.getProgramParameter(prog, gl.LINK_STATUS)) throw new Error(gl.getProgramInfoLog(prog));
     gl.useProgram(prog);
     const U = {};
-    for (const nom of ['uVue', 'uSoleil', 'uLum', 'uAmb', 'uFond', 'uBrume', 'uVerre']) U[nom] = gl.getUniformLocation(prog, nom);
+    for (const nom of ['uVue', 'uSoleil', 'uLum', 'uAmb', 'uFond', 'uBrume', 'uVerre', 'uDecor', 'uImage']) U[nom] = gl.getUniformLocation(prog, nom);
+    gl.uniform1i(U.uDecor, 0);
+    gl.uniform1f(U.uImage, 0);
     gl.enable(gl.DEPTH_TEST);
     gl.enable(gl.CULL_FACE);
 
@@ -583,10 +710,42 @@
       if (cam.dist < 1 && modele.sol && mode === 'dehors') cam.cible[1] = modele.sol(cam.cible[0], cam.cible[2]) + 1.65;
     }
 
+    /* L'image du décor (les photographies plaquées) : elle arrive quand elle
+     * peut ; d'ici là, et si elle manque, chaque morceau garde sa couleur moyenne. */
+    let decor = null;
+    function chargerDecor(adresse) {
+      if (!adresse || decor === adresse) return;
+      decor = adresse;
+      const image = new Image();
+      image.onload = () => {
+        if (detruit || decor !== adresse) return;
+        const t = gl.createTexture();
+        gl.activeTexture(gl.TEXTURE0);
+        gl.bindTexture(gl.TEXTURE_2D, t);
+        try {
+          gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGB, gl.RGB, gl.UNSIGNED_BYTE, image);
+        } catch (erreur) { return; }
+        const deux = (n) => (n & (n - 1)) === 0;
+        if (deux(image.width) && deux(image.height)) {
+          gl.generateMipmap(gl.TEXTURE_2D);
+          gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR_MIPMAP_LINEAR);
+        } else {
+          gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+        }
+        gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+        gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+        gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+        gl.uniform1f(U.uImage, 1);
+        sale = true;
+      };
+      image.src = ICI ? new URL(adresse, new URL('..', ICI)).href : adresse;
+    }
+
     function charger(m) {
       ech = Object.assign({ distMax: 90, loin: 400, brume: 0.0035, vitesse: 2.4 }, m.echelle || {});
+      chargerDecor(m.image);
       for (const nom of Object.keys(tampons)) {
-        gl.deleteBuffer(tampons[nom].pos); gl.deleteBuffer(tampons[nom].nor); gl.deleteBuffer(tampons[nom].cou);
+        gl.deleteBuffer(tampons[nom].pos); gl.deleteBuffer(tampons[nom].nor); gl.deleteBuffer(tampons[nom].cou); gl.deleteBuffer(tampons[nom].uv);
       }
       tampons = {};
       modele = m;
@@ -596,6 +755,7 @@
         t.pos = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, t.pos); gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(g.pos), gl.STATIC_DRAW);
         t.nor = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, t.nor); gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(g.nor), gl.STATIC_DRAW);
         t.cou = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, t.cou); gl.bufferData(gl.ARRAY_BUFFER, new Uint8Array(g.cou), gl.STATIC_DRAW);
+        t.uv = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, t.uv); gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(g.uv), gl.STATIC_DRAW);
         tampons[nom] = t;
       }
       poserReperes();
@@ -801,6 +961,7 @@
         gl.bindBuffer(gl.ARRAY_BUFFER, t.pos); gl.enableVertexAttribArray(0); gl.vertexAttribPointer(0, 3, gl.FLOAT, false, 0, 0);
         gl.bindBuffer(gl.ARRAY_BUFFER, t.nor); gl.enableVertexAttribArray(1); gl.vertexAttribPointer(1, 3, gl.FLOAT, false, 0, 0);
         gl.bindBuffer(gl.ARRAY_BUFFER, t.cou); gl.enableVertexAttribArray(2); gl.vertexAttribPointer(2, 4, gl.UNSIGNED_BYTE, true, 0, 0);
+        gl.bindBuffer(gl.ARRAY_BUFFER, t.uv); gl.enableVertexAttribArray(3); gl.vertexAttribPointer(3, 2, gl.FLOAT, false, 0, 0);
         gl.drawArrays(gl.TRIANGLES, 0, t.n);
       }
 

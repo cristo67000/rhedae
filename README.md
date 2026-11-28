@@ -148,7 +148,7 @@ Python avec `numpy` et `Pillow`.
 
 ## La maquette de l'église
 
-Trois fichiers, sans aucune dépendance, les mêmes dans Rhedae et dans Terribilis
+Des fichiers sans aucune dépendance, les mêmes dans Rhedae et dans Terribilis
 (une épreuve de Terribilis le vérifie : on les retouche ici, puis on les recopie) :
 
 - `js/maquette.js` — un atelier de géométrie (boîtes, parois percées de baies,
@@ -157,6 +157,8 @@ Trois fichiers, sans aucune dépendance, les mêmes dans Rhedae et dans Terribil
   triangles, les repères et les points de vue de l'état demandé. Ce qui est daté
   ne paraît qu'à sa date : l'autel en 1887, le dallage et la chaire en 1891, le
   décor Giscard, le porche et le calvaire en 1897 ;
+- `js/eglise-decor.js` et `img/eglise-decor.webp` — le décor d'après photographie,
+  écrits par `build/decor_eglise.py` (voir plus bas) ;
 - `css/maquette.css`.
 
 - `js/village.js` — le village : `Village.construire(annee)` dresse la butte, les
@@ -181,8 +183,21 @@ le contour du cadastre (OpenStreetMap) et le relevé de Michel Verrot (1995) ; l
 **place du mobilier** vient des photographies et des films pris sur place en août
 2024 par Cristo6772, recoupés avec le plan publié par rennes-le-chateau-archive.com ;
 les **hauteurs**, que personne n'a publiées, sont estimées sur ces photographies, à
-un demi-mètre près. C'est une maquette, pas un relevé : les statues sont des
-quilles, et l'écran de visite le dit.
+un demi-mètre près.
+
+L'**aspect** du décor vient de ces mêmes photographies. `python build/decor_eglise.py`
+découpe dans les originaux (`build/.sources-images/eglise/`, hors du dépôt) les
+treize stations photographiées, le Sermon sur la montagne, le devant de l'autel
+et son retable, la rose et les vitraux, le tympan du porche, la niche et le pilier
+de la Vierge, et chaque statue ; il les redresse, les range dans une seule image,
+`img/eglise-decor.webp`, et écrit `js/eglise-decor.js` : la place de chaque morceau,
+et la silhouette des statues, relevée à la main sur la photographie. Une statue de
+la maquette est un volume tiré de cette silhouette — une section en ellipse à
+chaque hauteur — sur lequel la photographie est projetée de face. C'est une
+maquette, pas un relevé : ces volumes sont justes vus de devant, sommaires de
+profil, et sans dos ; la première station, qu'aucune photographie ne montre,
+reste un cadre nu ; et l'écran de visite le dit. Sans l'image (elle arrive après
+la maquette), chaque morceau garde sa couleur moyenne.
 
     node build/maquette.mjs            # éprouve la maquette, puis l'exporte
     node build/maquette.mjs --essai    # éprouve seulement

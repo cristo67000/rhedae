@@ -3,8 +3,8 @@
  * Service worker.
  *
  * Tout ce qu'il faut à l'application — pages, feuilles de style, scripts,
- * icônes, le dossier lui-même, les tracés de la carte et ses six images de
- * relief — est rangé d'un seul bloc, dans un cache propre à la version :
+ * icônes, le dossier lui-même, les tracés de la carte, ses six images de
+ * relief et l'image du décor de la maquette — est rangé d'un seul bloc, dans un cache propre à la version :
  * « cache d'abord », et hors ligne dès le premier lancement. Les illustrations
  * ont leur cache à part, qui survit aux versions : chacune y entre la première
  * fois qu'on la voit.
@@ -17,7 +17,7 @@
  * `build/essais_statiques.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.3.0';
+const VERSION = 'v1.4.0';
 const COQUILLE = 'rhedae-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -36,6 +36,7 @@ const FICHIERS = [
   'js/illustrations.js',
   'js/carte.js',
   'js/maquette.js',
+  'js/eglise-decor.js',
   'js/eglise.js',
   'js/village-plan.js',
   'js/village.js',
@@ -60,6 +61,7 @@ const FICHIERS = [
   'img/relief-razes-nuit.webp',
   'img/relief-village-clair.webp',
   'img/relief-village-nuit.webp',
+  'img/eglise-decor.webp',
 ];
 
 /* La marque des requêtes d'installation : une adresse que personne n'a
